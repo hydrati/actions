@@ -36,11 +36,11 @@ import { v4 } from 'uuid'
   await client.close()
   const s = JSON.stringify(v, null, 2);
 
-  fs.writeFileSync(`./results/ncov-result-${Date.now()}.json`, s)
+  // fs.writeFileSync(`./results/ncov-result-${Date.now()}.json`, s)
   fs.writeFileSync(`./results/ncov-result-latest.json`, s)
   
   const f = []
-  for (let i = 0; i < 100000; i += 1) {
+  for (let i = 0; i < 200000; i += 1) {
     f.push(v4())
   }
 
