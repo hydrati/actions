@@ -1,21 +1,38 @@
-name: Context testing
+name: Random Commit
 on: 
   workflow_dispatch:
 
 jobs:
-  dump_contexts_to_log:
-    runs-on: ubuntu-latest
+  random_commit:
+    runs-on: windows-latest
     steps:
-      - name: Dump GitHub context
-        id: github_context_step
-        run: echo '${{ toJSON(github) }}'
-      - name: Dump job context
-        run: echo '${{ toJSON(job) }}'
-      - name: Dump steps context
-        run: echo '${{ toJSON(steps) }}'
-      - name: Dump runner context
-        run: echo '${{ toJSON(runner) }}'
-      - name: Dump strategy context
-        run: echo '${{ toJSON(strategy) }}'
-      - name: Dump matrix context
-        run: echo '${{ toJSON(matrix) }}'
+      - uses: actions/checkout@v2
+        with:
+          submodules: recursive
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.5.1
+      - uses: actions/cache@v2
+        with:
+          path: '**/node_modules'
+          key: ${{ runner.os }}-modules-${{ hashFiles('**/yarn.lock') }}
+          
+      - name: Install dependencies
+        run: yarn
+      
+      - name: Run scripts
+        run: yarn dev
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "3038094028@qq.com"
+          git config --local user.name "github-actions[bot]"
+          git add database.json
+          git commit -m "chore: sync"
+          
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+      
