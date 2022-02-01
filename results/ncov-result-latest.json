@@ -562,6 +562,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "惠州",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 64,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "平顶山",
@@ -927,8 +939,8 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 181,
-      "confirmedCount": 3761,
+      "currentConfirmedCount": 182,
+      "confirmedCount": 3762,
       "dangerCountIncr": 1,
       "currentDangerCount": 1,
       "locationId": 440000,
@@ -1010,6 +1022,17 @@
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "2"
+        },
+        {
+          "provinceName": "广东省",
+          "provinceShortName": "广东",
+          "cityName": "惠州",
+          "yesterdayLocalConfirmedCount": 0,
+          "currentConfirmedCount": 1,
+          "confirmedCount": 64,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
         },
         {
           "provinceName": "广东省",
@@ -1528,8 +1551,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4197,
-      "confirmedCount": 18790,
+      "currentConfirmedCount": 4257,
+      "confirmedCount": 18850,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 851,
@@ -2352,8 +2375,8 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "currentConfirmedCount": 181,
-      "confirmedCount": 3761,
+      "currentConfirmedCount": 182,
+      "confirmedCount": 3762,
       "suspectedCount": 25,
       "curedCount": 3572,
       "deadCount": 8,
@@ -2450,6 +2473,18 @@
           "currentConfirmedCountStr": "2"
         },
         {
+          "cityName": "惠州",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 64,
+          "suspectedCount": 0,
+          "curedCount": 63,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 441300,
+          "currentConfirmedCountStr": "1"
+        },
+        {
           "cityName": "梅州",
           "currentConfirmedCount": 1,
           "confirmedCount": 18,
@@ -2460,18 +2495,6 @@
           "midDangerCount": 0,
           "locationId": 441400,
           "currentConfirmedCountStr": "1"
-        },
-        {
-          "cityName": "惠州",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 63,
-          "suspectedCount": 0,
-          "curedCount": 63,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 441300,
-          "currentConfirmedCountStr": "0"
         },
         {
           "cityName": "肇庆",
@@ -8148,11 +8171,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4647231272,
+  "getPV": 4647242246,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1643703472000,
+    "modifyTime": 1643709151000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8168,15 +8191,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 6839,
-    "confirmedCount": 138759,
+    "currentConfirmedCount": 6900,
+    "confirmedCount": 138820,
     "suspectedCount": 12604,
     "curedCount": 126220,
     "deadCount": 5700,
     "seriousCount": 814,
     "suspectedIncr": 39,
-    "currentConfirmedIncr": 47,
-    "confirmedIncr": 193,
+    "currentConfirmedIncr": 108,
+    "confirmedIncr": 254,
     "curedIncr": 146,
     "deadIncr": 0,
     "seriousIncr": 2,
@@ -8362,27 +8385,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 136496212,
-      "confirmedCount": 377116679,
+      "currentConfirmedCount": 136283658,
+      "confirmedCount": 377130939,
       "suspectedCount": 4,
-      "curedCount": 234942999,
-      "deadCount": 5677468,
+      "curedCount": 235169753,
+      "deadCount": 5677528,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 2773028,
-      "confirmedIncr": 3137052,
-      "curedIncr": 354241,
-      "deadIncr": 9783
+      "currentConfirmedIncr": 2560474,
+      "confirmedIncr": 3151312,
+      "curedIncr": 580995,
+      "deadIncr": 9843
     },
     "globalStatistics": {
-      "currentConfirmedCount": 136503051,
-      "confirmedCount": 377255438,
-      "curedCount": 235069219,
-      "deadCount": 5683168,
-      "currentConfirmedIncr": 2773075,
-      "confirmedIncr": 3137245,
-      "curedIncr": 354387,
-      "deadIncr": 9783,
-      "yesterdayConfirmedCountIncr": 3137239
+      "currentConfirmedCount": 136290558,
+      "confirmedCount": 377269759,
+      "curedCount": 235295973,
+      "deadCount": 5683228,
+      "currentConfirmedIncr": 2560582,
+      "confirmedIncr": 3151566,
+      "curedIncr": 581141,
+      "deadIncr": 9843,
+      "yesterdayConfirmedCountIncr": 3151499
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0201/712/6748430381864579253-135.json",
     "highDangerCount": 7,
@@ -8392,7 +8415,7 @@
     {
       "id": 174854,
       "pubDate": 1643678111000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "8小时前",
       "title": "全国 | 昨日新增诊病例 66 例，其中本土确诊病例 27 例",
       "summary": "1月31日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例66例。其中境外输入病例39例（上海18例，广东8例，广西5例，山东3例，北京2例，天津2例，河南1例），含5例由无症状感染者转为确诊病例（天津2例，广东2例，河南1例）；本土病例27例（浙江13例，均在杭州市；天津7例，其中河北区4例、红桥区2例、津南区1例；河北4例，均在衡水市；北京2例，其中朝阳区1例、丰台区1",
       "infoSource": "央视新闻app",
@@ -8403,22 +8426,22 @@
       "jumpUrl": ""
     },
     {
-      "id": 174849,
-      "pubDate": 1643676593000,
-      "pubDateStr": "7小时前",
-      "title": "广东 | 昨日新增 1 例本土确诊病例",
-      "summary": "1月31日0—24时，广东全省新增本土确诊病例1例，深圳报告。\n广东全省新增境外输入确诊病例8例（其中2例为无症状感染者转确诊），广州报告3例，分别来自阿联酋、孟加拉国和伊朗；深圳报告4例，2例来自新加坡，其余2例分别来自英国和日本；佛山报告1例，来自沙特阿拉伯。新增境外输入无症状感染者2例，均为广州报告，分别来自日本和巴林。新增出院18例，目前在院181例。\n截至1月31日24时，广全省累计报告",
+      "id": 174896,
+      "pubDate": 1643703075000,
+      "pubDateStr": "1小时前",
+      "title": "广东  | 今日新增 1 例本土确诊病例",
+      "summary": "2月1日，广东惠州报告1例新冠肺炎确诊病例。\n翁某，男，24岁，为1月31日深圳报告病例陈某的密切接触者，现住惠州市仲恺高新区潼侨镇。翁某于1月30日从深圳市乘坐网约车20:20到达惠州市仲恺区潼侨镇，到惠后一直在家未外出，1月31日判定为深圳确诊病例陈某的密切接触者纳入管控。1月31日晚中信惠州医院核酸初筛阳性，2月1日惠州市疾控中心复核为阳性。目前已转送至深圳市第三人民医院隔离治疗，诊断为新冠",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=12912508192752358800&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=15518507620312103428&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 83008,
+      "articleId": 83037,
       "category": 1,
       "jumpUrl": ""
     },
     {
       "id": 174841,
       "pubDate": 1643674617000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "河北 | 昨日新增 4 例本土确诊病例",
       "summary": "2月1日，河北省卫生健康委员会发布，2022年1月31日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例4例（衡水市故城县，系天津确诊病例的密接和次密接），无新增本土无症状感染者。\n截至1月31日24时，河北省现有本土确诊病例15例；尚在医学观察本土无症状感染者0例。\n（总台记者 王帅南 王龙）\n&nbsp;",
       "infoSource": "央视新闻app",
@@ -8431,7 +8454,7 @@
     {
       "id": 174837,
       "pubDate": 1643673111000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增 2 例本土确诊病例",
       "summary": "1月31日0时至24时，北京新增2例本土确诊病例和1例本土无症状感染者，无新增疑似病例；新增2例境外输入确诊病例和3例境外输入无症状感染者，无新增疑似病例。治愈出院5例。\n本土新冠肺炎病例\n确诊病例1：现住朝阳区安贞街道安贞里三区。1月24日进行居家隔离，1月27日出现发热、干咳等症状，1月30日核酸检测结果为阳性，已转至定点医院，综合流行病史、临床表现、实验室检测和影像学检查等结果，1月31日诊",
       "infoSource": "央视新闻app",
@@ -8444,7 +8467,7 @@
     {
       "id": 174843,
       "pubDate": 1643675126000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "山东 | 昨日新增 3 例境外确诊病例",
       "summary": "1月31日0时至24时，山东省报告新增境外输入确诊病例3例，为德国输入（青岛3例）。无新增死亡病例，无新增疑似病例，无新增无症状感染者。\n当日无新增治愈出院确诊病例，解除医学观察的密切接触者2人。当日新增解除医学观察境外输入无症状感染者1例（济南1例），尚在医学观察的无症状感染者13例（其中境外输入12例，本土1例）。\n截至2022年1月31日24时，山东省报告现有确诊病例26例（其中境外输入24",
       "infoSource": "央视新闻app",
