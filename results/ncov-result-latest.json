@@ -50,8 +50,8 @@
       "provinceShortName": "浙江",
       "cityName": "杭州",
       "yesterdayLocalConfirmedCount": 13,
-      "currentConfirmedCount": 125,
-      "confirmedCount": 310,
+      "currentConfirmedCount": 131,
+      "confirmedCount": 316,
       "dangerCountIncr": 0,
       "currentDangerCount": 13,
       "locationId": 330000,
@@ -651,8 +651,8 @@
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "yesterdayLocalConfirmedCount": 13,
-      "currentConfirmedCount": 375,
-      "confirmedCount": 2218,
+      "currentConfirmedCount": 381,
+      "confirmedCount": 2224,
       "dangerCountIncr": 0,
       "currentDangerCount": 13,
       "locationId": 330000,
@@ -663,11 +663,11 @@
           "provinceShortName": "浙江",
           "cityName": "杭州",
           "yesterdayLocalConfirmedCount": 13,
-          "currentConfirmedCount": 125,
-          "confirmedCount": 310,
+          "currentConfirmedCount": 131,
+          "confirmedCount": 316,
           "dangerCountIncr": 0,
           "currentDangerCount": 13,
-          "currentConfirmedCountStr": "125"
+          "currentConfirmedCountStr": "131"
         },
         {
           "provinceName": "浙江省",
@@ -1858,8 +1858,8 @@
     {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
-      "currentConfirmedCount": 375,
-      "confirmedCount": 2218,
+      "currentConfirmedCount": 381,
+      "confirmedCount": 2224,
       "suspectedCount": 68,
       "curedCount": 1842,
       "deadCount": 1,
@@ -1873,15 +1873,15 @@
       "cities": [
         {
           "cityName": "杭州",
-          "currentConfirmedCount": 125,
-          "confirmedCount": 310,
+          "currentConfirmedCount": 131,
+          "confirmedCount": 316,
           "suspectedCount": 0,
           "curedCount": 185,
           "deadCount": 0,
           "highDangerCount": 1,
           "midDangerCount": 12,
           "locationId": 330100,
-          "currentConfirmedCountStr": "125"
+          "currentConfirmedCountStr": "131"
         },
         {
           "cityName": "宁波",
@@ -8148,11 +8148,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4647219918,
+  "getPV": 4647231272,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1643683590000,
+    "modifyTime": 1643703472000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8168,15 +8168,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 6833,
-    "confirmedCount": 138753,
+    "currentConfirmedCount": 6839,
+    "confirmedCount": 138759,
     "suspectedCount": 12604,
     "curedCount": 126220,
     "deadCount": 5700,
     "seriousCount": 814,
     "suspectedIncr": 39,
-    "currentConfirmedIncr": 41,
-    "confirmedIncr": 187,
+    "currentConfirmedIncr": 47,
+    "confirmedIncr": 193,
     "curedIncr": 146,
     "deadIncr": 0,
     "seriousIncr": 2,
@@ -8374,12 +8374,12 @@
       "deadIncr": 9783
     },
     "globalStatistics": {
-      "currentConfirmedCount": 136503045,
-      "confirmedCount": 377255432,
+      "currentConfirmedCount": 136503051,
+      "confirmedCount": 377255438,
       "curedCount": 235069219,
       "deadCount": 5683168,
-      "currentConfirmedIncr": 2773069,
-      "confirmedIncr": 3137239,
+      "currentConfirmedIncr": 2773075,
+      "confirmedIncr": 3137245,
       "curedIncr": 354387,
       "deadIncr": 9783,
       "yesterdayConfirmedCountIncr": 3137239
