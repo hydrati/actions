@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 34,
       "confirmedCount": 665,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -689,8 +689,8 @@
       "yesterdayLocalConfirmedCount": 6,
       "currentConfirmedCount": 166,
       "confirmedCount": 3808,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -701,8 +701,8 @@
           "yesterdayLocalConfirmedCount": 2,
           "currentConfirmedCount": 34,
           "confirmedCount": 665,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "34"
         },
         {
@@ -2437,7 +2437,7 @@
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 3,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -2461,7 +2461,7 @@
           "curedCount": 628,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 3,
           "locationId": 440300,
           "currentConfirmedCountStr": "34"
         },
@@ -2711,6 +2711,16 @@
         {
           "cityName": "深圳",
           "areaName": "宝安区石岩街道罗租社区艾美特科技园B栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "宝安区石岩街道罗租社区下新村十四巷4号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "宝安区石岩街道罗租社区下新村十五巷4号",
           "dangerLevel": 2
         }
       ]
@@ -8255,11 +8265,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4648324315,
+  "getPV": 4648355324,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1644026367000,
+    "modifyTime": 1644030302000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8525,7 +8535,7 @@
     {
       "id": 175313,
       "pubDate": 1644020425000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "天津 | 昨日新增 2 例本土确诊病例",
       "summary": "2022年2月4日0—24时，天津市新增2例本土新冠肺炎确诊病例。新增1例境外输入新冠肺炎确诊病例。无新增本土无症状感染者，无新增境外输入无症状感染者。治愈出院11人（其中本土病例6人，境外输入病例5人）。\n自2022年1月8日至2月4日，天津市累计报告本土新冠肺炎确诊病例420例，治愈出院360人，在院60例。累计报告本土无症状感染者22例，解除医学观察6人，转为确诊病例16例。",
       "infoSource": "央视新闻app",
