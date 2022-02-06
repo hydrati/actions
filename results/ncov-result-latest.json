@@ -148,8 +148,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 242,
       "confirmedCount": 3818,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -194,7 +194,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 79,
+      "currentConfirmedCount": 73,
       "confirmedCount": 2090,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -376,8 +376,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 6,
       "confirmedCount": 31,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 650000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json"
     },
@@ -890,11 +890,11 @@
           "provinceShortName": "广东",
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 79,
+          "currentConfirmedCount": 73,
           "confirmedCount": 2090,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "79"
+          "currentConfirmedCountStr": "73"
         },
         {
           "provinceName": "广东省",
@@ -1288,8 +1288,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 242,
       "confirmedCount": 3818,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1300,8 +1300,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 2,
           "confirmedCount": 11,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "2"
         }
       ]
@@ -1358,8 +1358,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 29,
       "confirmedCount": 2064,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 21,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 23,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -1430,8 +1430,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 9,
       "confirmedCount": 996,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 650000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
       "cities": [
@@ -1442,8 +1442,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 6,
           "confirmedCount": 31,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "6"
         },
         {
@@ -1557,8 +1557,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4508,
-      "confirmedCount": 19101,
+      "currentConfirmedCount": 4551,
+      "confirmedCount": 19144,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 851,
@@ -1575,8 +1575,8 @@
     {
       "provinceName": "香港",
       "provinceShortName": "香港",
-      "currentConfirmedCount": 1288,
-      "confirmedCount": 14488,
+      "currentConfirmedCount": 1307,
+      "confirmedCount": 14507,
       "suspectedCount": 181,
       "curedCount": 12987,
       "deadCount": 213,
@@ -2134,7 +2134,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2158,7 +2158,7 @@
           "curedCount": 9,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 310120,
           "currentConfirmedCountStr": "2"
         },
@@ -2367,13 +2367,7 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "奉贤区",
-          "areaName": "奉城镇幸福村8组",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "广东省",
@@ -2393,15 +2387,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 79,
+          "currentConfirmedCount": 73,
           "confirmedCount": 2090,
           "suspectedCount": 3,
-          "curedCount": 2010,
+          "curedCount": 2016,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "79"
+          "currentConfirmedCountStr": "73"
         },
         {
           "cityName": "深圳",
@@ -2645,10 +2639,10 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -11,
+          "currentConfirmedCount": -5,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 11,
+          "curedCount": 5,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
@@ -3820,7 +3814,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 21,
+      "midDangerCount": 23,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -3882,7 +3876,7 @@
           "curedCount": 295,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 2,
           "locationId": 231100,
           "currentConfirmedCountStr": "0"
         },
@@ -4112,6 +4106,16 @@
         {
           "cityName": "牡丹江",
           "areaName": "绥芬河迎泽丽都三期9号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "黑河",
+          "areaName": "爱辉区喇嘛台社区荣耀世纪小区4号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "黑河",
+          "areaName": "武庙屯社区警官名苑小区B栋",
           "dangerLevel": 2
         }
       ]
@@ -4995,7 +4999,7 @@
       "locationId": 650000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/497/3398299753820556085-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 5,
+      "midDangerCount": 2,
       "detectOrgCount": 216,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -5007,7 +5011,7 @@
           "curedCount": 25,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 5,
+          "midDangerCount": 2,
           "locationId": 654000,
           "currentConfirmedCountStr": "6"
         },
@@ -5172,27 +5176,12 @@
       "dangerAreas": [
         {
           "cityName": "伊犁州",
-          "areaName": "北京路公租房2号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "伊犁州",
-          "areaName": "丁香湾小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "伊犁州",
           "areaName": "霍尔果斯雅馨小区",
           "dangerLevel": 2
         },
         {
           "cityName": "伊犁州",
           "areaName": "时代嘉苑小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "伊犁州",
-          "areaName": "雅居小区",
           "dangerLevel": 2
         }
       ]
@@ -8192,11 +8181,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4648784050,
+  "getPV": 4648798232,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1644143613000,
+    "modifyTime": 1644147363000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8212,15 +8201,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 7306,
-    "confirmedCount": 140008,
+    "currentConfirmedCount": 7368,
+    "confirmedCount": 140070,
     "suspectedCount": 12714,
     "curedCount": 127002,
     "deadCount": 5700,
     "seriousCount": 855,
     "suspectedIncr": 30,
-    "currentConfirmedIncr": 193,
-    "confirmedIncr": 368,
+    "currentConfirmedIncr": 255,
+    "confirmedIncr": 430,
     "curedIncr": 175,
     "deadIncr": 0,
     "seriousIncr": -32,
@@ -8406,37 +8395,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 147770044,
-      "confirmedCount": 392682537,
+      "currentConfirmedCount": 147643020,
+      "confirmedCount": 392692735,
       "suspectedCount": 4,
-      "curedCount": 239175614,
-      "deadCount": 5736879,
+      "curedCount": 239312752,
+      "deadCount": 5736963,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1857503,
-      "confirmedIncr": 2263118,
-      "curedIncr": 397096,
-      "deadIncr": 8519
+      "currentConfirmedIncr": 1730479,
+      "confirmedIncr": 2273316,
+      "curedIncr": 534234,
+      "deadIncr": 8603
     },
     "globalStatistics": {
-      "currentConfirmedCount": 147777350,
-      "confirmedCount": 392822545,
-      "curedCount": 239302616,
-      "deadCount": 5742579,
-      "currentConfirmedIncr": 1857696,
-      "confirmedIncr": 2263486,
-      "curedIncr": 397271,
-      "deadIncr": 8519,
-      "yesterdayConfirmedCountIncr": 2263486
+      "currentConfirmedCount": 147650388,
+      "confirmedCount": 392832805,
+      "curedCount": 239439754,
+      "deadCount": 5742663,
+      "currentConfirmedIncr": 1730734,
+      "confirmedIncr": 2273746,
+      "curedIncr": 534409,
+      "deadIncr": 8603,
+      "yesterdayConfirmedCountIncr": 2273684
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0206/682/7068686406232860353-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 55
+    "midDangerCount": 53
   },
   "getTimelineService1": [
     {
       "id": 175430,
       "pubDate": 1644110012000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "全国 | 昨日新增 43 例确诊病例，其中 13 例本土病例",
       "summary": "2月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例43例。其中境外输入病例30例（上海12例，广东7例，福建3例，四川3例，浙江2例，江苏1例，河南1例，广西1例），含9例由无症状感染者转为确诊病例（四川3例，浙江2例，江苏1例，河南1例，广东1例，广西1例）；本土病例13例（广西6例，均在百色市；天津2例，均在河北区；河北2例，均在廊坊市；北京1例，在朝阳区；湖南1",
       "infoSource": "央视新闻app",
@@ -8462,7 +8451,7 @@
     {
       "id": 175415,
       "pubDate": 1644106054000,
-      "pubDateStr": "10小时前",
+      "pubDateStr": "11小时前",
       "title": "北京 | 昨日新增 1 例本土确诊病例 ",
       "summary": "\n\t\t\t    2月5日0时至24时，新增1例本土确诊病例，无新增疑似病例和无症状感染者；无新增境外输入确诊病例、疑似病例，新增8例境外输入无症状感染者。治愈出院2例。确诊病例：现住朝阳区安贞街道安贞里三区。1月24日所在小区管控，2月5日核酸检测结果为阳性，已转至定点医院，综合流行病史、临床表现、实验室检测和影像学检查等结果，当日诊断为确诊病例，临床分型为普通型。已对确诊病例开展流行病学调查，按要求落实管控措施。全市16区无报告病例天数情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t地区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例天数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t平谷区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t延庆区\n\t\t\t\n\t\t\t\n\t\t\t\t744\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t密云区\n\t\t\t\n\t\t\t\n\t\t\t\t725\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t石景山区\n\t\t\t\n\t\t\t\n\t\t\t\t601\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t门头沟区\n\t\t\t\n\t\t\t\n\t\t\t\t600\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t东城区\n\t\t\t\n\t\t\t\n\t\t\t\t599\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t怀柔区\n\t\t\t\n\t\t\t\n\t\t\t\t401\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t顺义区\n\t\t\t\n\t\t\t\n\t\t\t\t382\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t昌平区\n\t\t\t\n\t\t\t\n\t\t\t\t90\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t通州区\n\t\t\t\n\t\t\t\n\t\t\t\t48\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t海淀区\n\t\t\t\n\t\t\t\n\t\t\t\t14\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t房山区\n\t\t\t\n\t\t\t\n\t\t\t\t13\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西城区\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t大兴区\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丰台区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t朝阳区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t2020年2月29日发生境外输入疫情以来境外输入确诊病例来源国（地区）情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t来源国（地区）\n\t\t\t\n\t\t\t\n\t\t\t\t确诊病例数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t英国\n\t\t\t\n\t\t\t\n\t\t\t\t76\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西班牙\n\t\t\t\n\t\t\t\n\t\t\t\t47\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t意大利\n\t\t\t\n\t\t\t\n\t\t\t\t26\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t美国\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞典\n\t\t\t\n\t\t\t\n\t\t\t\t20\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t塞尔维亚\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t奥地利\n\t\t\t\n\t\t\t\n\t\t\t\t17\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴基斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t14\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t希腊\n\t\t\t\n\t\t\t\n\t\t\t\t12\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t俄罗斯\n\t\t\t\n\t\t\t\n\t\t\t\t11\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t阿联酋\n\t\t\t\n\t\t\t\n\t\t\t\t10\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t加拿大\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t法国\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土库曼斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t德国\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t菲律宾\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t泰国\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t韩国\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t匈牙利\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t伊朗\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土耳其\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞士\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t津巴布韦\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t印度尼西亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴布亚新几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t摩尔多瓦\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丹麦\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t波兰\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t埃塞俄比亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t日本\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t卢森堡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t挪威\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t比利时\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴西\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t荷兰\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t墨西哥\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t约旦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t赤道几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t乌兹别克斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t新加坡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国香港\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国台湾\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t合计\n\t\t\t\n\t\t\t\n\t\t\t\t368\n\t\t\t\n\t\t\n\t提醒广大市民朋友，要坚持做好个人防护，减少不必要的聚餐聚会。外出游玩避开人群密集的热门景点，实行预约、错峰出行。公共场所要遵守验码、测温、登记、规范佩戴口罩，保持安全社交距离等防疫规定。正在接受隔离、管控的人员请严格执行隔离管控措施，隔离期间出现任何身体不适要及时报告工作人员。\n                \n            ",
       "infoSource": "北京卫健委",
