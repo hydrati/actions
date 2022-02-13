@@ -100,8 +100,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 37,
       "confirmedCount": 1088,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 6,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
     },
@@ -961,8 +961,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 37,
       "confirmedCount": 1088,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 6,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "cities": [
@@ -995,8 +995,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 44,
           "confirmedCount": 56,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "44"
         },
         {
@@ -3503,7 +3503,7 @@
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 5,
+      "midDangerCount": 4,
       "detectOrgCount": 101,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -3527,7 +3527,7 @@
           "curedCount": 12,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 3,
+          "midDangerCount": 2,
           "locationId": 120105,
           "currentConfirmedCountStr": "44"
         },
@@ -3718,11 +3718,6 @@
           "cityName": "河北区",
           "areaName": "宁园街舒园里5号楼",
           "dangerLevel": 1
-        },
-        {
-          "cityName": "河北区",
-          "areaName": "建昌道街红波西里21号楼",
-          "dangerLevel": 2
         },
         {
           "cityName": "河北区",
@@ -8140,11 +8135,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4650667724,
+  "getPV": 4650679658,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1644717215000,
+    "modifyTime": 1644719150000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8354,37 +8349,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 159873826,
-      "confirmedCount": 408317820,
+      "currentConfirmedCount": 161409079,
+      "confirmedCount": 410117143,
       "suspectedCount": 4,
-      "curedCount": 242639615,
-      "deadCount": 5804379,
+      "curedCount": 242895062,
+      "deadCount": 5813002,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": 1535253,
+      "confirmedIncr": 1799323,
+      "curedIncr": 255447,
+      "deadIncr": 8623
     },
     "globalStatistics": {
-      "currentConfirmedCount": 159882462,
-      "confirmedCount": 408461063,
-      "curedCount": 242768516,
-      "deadCount": 5810085,
-      "currentConfirmedIncr": 8,
-      "confirmedIncr": 263,
-      "curedIncr": 252,
-      "deadIncr": 3,
-      "yesterdayConfirmedCountIncr": 263
+      "currentConfirmedCount": 161417715,
+      "confirmedCount": 410260386,
+      "curedCount": 243023963,
+      "deadCount": 5818708,
+      "currentConfirmedIncr": 1535261,
+      "confirmedIncr": 1799586,
+      "curedIncr": 255699,
+      "deadIncr": 8626,
+      "yesterdayConfirmedCountIncr": 1799586
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0213/823/5171274984311891353-135.json",
     "highDangerCount": 4,
-    "midDangerCount": 40
+    "midDangerCount": 39
   },
   "getTimelineService1": [
     {
       "id": 176500,
       "pubDate": 1644714177000,
-      "pubDateStr": "53分钟前",
+      "pubDateStr": "1小时前",
       "title": "全国 | 昨日新增 67 例确诊病例，其中 28 例本土病例",
       "summary": "2月12日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例67例。其中境外输入病例39例（广东19例，上海9例，广西5例，北京2例，浙江1例，福建1例，山东1例，四川1例），含5例由无症状感染者转为确诊病例（广东3例，广西1例，四川1例）；本土病例28例（广西13例，其中百色市12例、南宁市1例；辽宁11例，均在葫芦岛市；云南2例，均在文山壮族苗族自治州；天津1例，在西青区",
       "infoSource": "央视新闻app",
@@ -8408,19 +8403,6 @@
       "jumpUrl": ""
     },
     {
-      "id": 176362,
-      "pubDate": 1644627096000,
-      "pubDateStr": "1天前",
-      "title": "广东 | 昨日新增 24 例境外输入确诊病例",
-      "summary": "2月11日0—24时，广东全省新增境外输入确诊病例24例（其中5例为无症状感染者转确诊），广州报告6例，3例来自俄罗斯，其余3例分别来自蒙古、委内瑞拉和土耳其；深圳报告13例，10例来自中国香港，其余3例分别来自韩国、泰国和印度尼西亚；佛山报告2例，均来自中国香港；东莞报告2例，均来自中国香港；阳江报告1例，来自菲律宾。新增境外输入无症状感染者10例，广州报告3例，分别来自俄罗斯、马来西亚和土耳其",
-      "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=16565018979698250&toc_style_id=feeds_default",
-      "provinceId": "",
-      "articleId": 83877,
-      "category": 1,
-      "jumpUrl": ""
-    },
-    {
       "id": 176488,
       "pubDate": 1644710011000,
       "pubDateStr": "2小时前",
@@ -8434,15 +8416,28 @@
       "jumpUrl": ""
     },
     {
-      "id": 176424,
-      "pubDate": 1644649822000,
-      "pubDateStr": "18小时前",
-      "title": "浙江 | 杭州滨江区全域均为低风险",
-      "summary": "杭州市滨江区新冠肺炎疫情防控指挥部发布2022年33号通告，根据国务院联防联控机制有关规定，经综合评估研判，杭州市新型冠状病毒肺炎疫情防控工作领导小组办公室同意，从即日起将冠新佳苑小区、华城和瑞科技园、新浦苑、春波小区、漫寓公寓、白马湖和院、长江小区、长江西苑小区、长河街道建业路151号[慧而特（中国）餐饮设备有限公司]调整为低风险地区。调整后，滨江区全域均为低风险。\n（总台记者 吴文轩 王依依）",
+      "id": 176497,
+      "pubDate": 1644713183000,
+      "pubDateStr": "1小时前",
+      "title": "广西 | 昨日新增 18 例确诊病例，其中 13 例本土病例",
+      "summary": "2月12日0—24时，广西新增本土确诊病例13例（百色市12例，南宁市1例，南宁市1例由无症状感染者转确诊病例）。截至2月12日24时，本轮广西疫情现有262例本土确诊病例（百色市261例，南宁市1例）。\n当日新增境外输入确诊病例5例（钦州市3例，防城港市1例，崇左市1例，崇左市1例由无症状感染者转确诊病例），境外输入无症状感染者2例（均为崇左市）。治愈出院境外输入确诊病例8例（均为崇左市），解除",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14941677355066608008&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=596169682485687255&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 83906,
+      "articleId": 83946,
+      "category": 1,
+      "jumpUrl": ""
+    },
+    {
+      "id": 176496,
+      "pubDate": 1644713396000,
+      "pubDateStr": "1小时前",
+      "title": "广东 | 昨日新增 20 例确诊病例，其中 1 例本土病例",
+      "summary": "2月12日0—24时，广东全省新增本土确诊病例1例，深圳报告，在重点人群例行核酸检测中发现。\n广东全省新增境外输入确诊病例19例（其中3例为无症状感染者转确诊），广州报告8例，3例来自缅甸，其余5例分别来自俄罗斯、蒙古、泰国、科威特和土耳其；深圳报告9例，均来自中国香港；佛山报告2例，分别来自中国香港和阿联酋。新增境外输入无症状感染者9例，广州报告4例，分别来自俄罗斯、加纳、摩洛哥和赞比亚；佛山报",
+      "infoSource": "央视新闻app",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=12679690362713654406&toc_style_id=feeds_default",
+      "provinceId": "",
+      "articleId": 83947,
       "category": 1,
       "jumpUrl": ""
     }
