@@ -305,7 +305,7 @@
       "currentConfirmedCount": 19,
       "confirmedCount": 1089,
       "dangerCountIncr": 1,
-      "currentDangerCount": 1,
+      "currentDangerCount": 0,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
     },
@@ -1401,7 +1401,7 @@
       "currentConfirmedCount": 19,
       "confirmedCount": 1089,
       "dangerCountIncr": 1,
-      "currentDangerCount": 1,
+      "currentDangerCount": 0,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "cities": [
@@ -1423,8 +1423,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 44,
           "confirmedCount": 56,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "44"
         },
         {
@@ -4545,7 +4545,7 @@
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 101,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -4569,7 +4569,7 @@
           "curedCount": 12,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 120105,
           "currentConfirmedCountStr": "44"
         },
@@ -4755,13 +4755,7 @@
           "currentConfirmedCountStr": "-"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "河北区",
-          "areaName": "建昌街道中山北里20门",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "黑龙江省",
@@ -8181,11 +8175,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4651755866,
+  "getPV": 4651769202,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645002512000,
+    "modifyTime": 1645002930000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8395,31 +8389,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 165565789,
+      "currentConfirmedCount": 165527953,
       "confirmedCount": 415631028,
       "suspectedCount": 4,
-      "curedCount": 244223684,
+      "curedCount": 244261520,
       "deadCount": 5841555,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1290026,
+      "currentConfirmedIncr": 1252190,
       "confirmedIncr": 1755068,
-      "curedIncr": 453940,
+      "curedIncr": 491776,
       "deadIncr": 11102
     },
     "globalStatistics": {
-      "currentConfirmedCount": 165576225,
+      "currentConfirmedCount": 165538389,
       "confirmedCount": 415777134,
-      "curedCount": 244353642,
+      "curedCount": 244391478,
       "deadCount": 5847267,
-      "currentConfirmedIncr": 1290526,
+      "currentConfirmedIncr": 1252690,
       "confirmedIncr": 1755886,
-      "curedIncr": 454254,
+      "curedIncr": 492090,
       "deadIncr": 11106,
       "yesterdayConfirmedCountIncr": 1755820
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0216/955/9535398233477352353-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 36
+    "midDangerCount": 35
   },
   "getTimelineService1": [
     {
@@ -8475,15 +8469,15 @@
       "jumpUrl": ""
     },
     {
-      "id": 176961,
-      "pubDate": 1644971753000,
-      "pubDateStr": "8小时前",
-      "title": "广西 | 昨日新增 2 例本土确诊病例",
-      "summary": "2月15日0—24时，广西新增本土确诊病例2例（百色市）。截至2月15日24时，本轮广西疫情现有271例本土确诊病例（百色市270例，南宁市1例）。\n当日新增境外输入确诊病例2例（均为崇左市），境外输入无症状感染者3例（均为崇左市）。治愈出院境外输入确诊病例5例（均为崇左市），解除医学观察境外输入无症状感染者15例（崇左市14例，钦州市1例）。现有境外输入确诊病例94例（崇左市75例，钦州市12例",
+      "id": 177023,
+      "pubDate": 1644999048000,
+      "pubDateStr": "1小时前",
+      "title": "天津 | 一地降为低风险 全市中高风险地区清零",
+      "summary": "记者刚刚从天津市疫情防控指挥部获悉，根据市当前疫情形势和防控工作需要，按照国务院应对新冠肺炎疫情联防联控机制关于科学划分、精准防控等工作要求，经市疫情防控指挥部研判，并经市疫情防控领导小组同意，自2022年2月16日起，将天津市河北区建昌道街中山北里20门调整为低风险地区。天津市其他区域风险等级不变。自此，天津市中高风险地区全部清零，所有地区均为低风险地区。（总台记者 杨煜 丁旭）\n&nbsp;",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=10147712965567182489&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=14154235030076549396&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 84228,
+      "articleId": 84290,
       "category": 1,
       "jumpUrl": ""
     }
