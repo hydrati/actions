@@ -74,10 +74,10 @@
       "provinceShortName": "江苏",
       "cityName": "苏州",
       "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 46,
-      "confirmedCount": 133,
+      "currentConfirmedCount": 52,
+      "confirmedCount": 139,
       "dangerCountIncr": 1,
-      "currentDangerCount": 33,
+      "currentDangerCount": 42,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
@@ -950,10 +950,10 @@
       "provinceName": "江苏省",
       "provinceShortName": "江苏",
       "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 49,
-      "confirmedCount": 1679,
+      "currentConfirmedCount": 55,
+      "confirmedCount": 1685,
       "dangerCountIncr": 1,
-      "currentDangerCount": 33,
+      "currentDangerCount": 42,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "cities": [
@@ -962,11 +962,11 @@
           "provinceShortName": "江苏",
           "cityName": "苏州",
           "yesterdayLocalConfirmedCount": 4,
-          "currentConfirmedCount": 46,
-          "confirmedCount": 133,
+          "currentConfirmedCount": 52,
+          "confirmedCount": 139,
           "dangerCountIncr": 1,
-          "currentDangerCount": 33,
-          "currentConfirmedCountStr": "46"
+          "currentDangerCount": 42,
+          "currentConfirmedCountStr": "52"
         },
         {
           "provinceName": "江苏省",
@@ -1697,8 +1697,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 5203,
-      "confirmedCount": 19797,
+      "currentConfirmedCount": 5270,
+      "confirmedCount": 19864,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 852,
@@ -3350,8 +3350,8 @@
     {
       "provinceName": "江苏省",
       "provinceShortName": "江苏",
-      "currentConfirmedCount": 49,
-      "confirmedCount": 1679,
+      "currentConfirmedCount": 55,
+      "confirmedCount": 1685,
       "suspectedCount": 3,
       "curedCount": 1630,
       "deadCount": 0,
@@ -3359,21 +3359,21 @@
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 33,
+      "midDangerCount": 42,
       "detectOrgCount": 395,
       "vaccinationOrgCount": 261,
       "cities": [
         {
           "cityName": "苏州",
-          "currentConfirmedCount": 46,
-          "confirmedCount": 133,
+          "currentConfirmedCount": 52,
+          "confirmedCount": 139,
           "suspectedCount": 0,
           "curedCount": 87,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 33,
+          "midDangerCount": 42,
           "locationId": 320500,
-          "currentConfirmedCountStr": "46"
+          "currentConfirmedCountStr": "52"
         },
         {
           "cityName": "境外输入",
@@ -3555,6 +3555,11 @@
         },
         {
           "cityName": "苏州",
+          "areaName": "姑苏区胥江路361号（东方苑）1幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
           "areaName": "姑苏区永林二区12幢",
           "dangerLevel": 2
         },
@@ -3605,6 +3610,16 @@
         },
         {
           "cityName": "苏州",
+          "areaName": "苏州工业园区南山·丽舍40幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "苏州工业园区文华公寓4号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
           "areaName": "苏州工业园区夏家桥118号9幢",
           "dangerLevel": 2
         },
@@ -3616,6 +3631,16 @@
         {
           "cityName": "苏州",
           "areaName": "苏州工业园区斜塘老街12号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "苏州工业园区阳浦路150号1幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "吴江区江陵街道城南花苑2167幢",
           "dangerLevel": 2
         },
         {
@@ -3646,6 +3671,11 @@
         {
           "cityName": "苏州",
           "areaName": "吴中区郭巷街道独墅湖西金悦花园一期19栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "吴中区郭巷街道建发独墅湾82幢",
           "dangerLevel": 2
         },
         {
@@ -3696,6 +3726,21 @@
         {
           "cityName": "苏州",
           "areaName": "相城区苏州万科魅力花园3幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "相城区万宇名都花园5幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "张家港市凤凰镇金谷小区18、19幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "张家港市杨舍镇君临新城6号楼",
           "dangerLevel": 2
         }
       ]
@@ -8355,11 +8400,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4652445410,
+  "getPV": 4652459357,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645171938000,
+    "modifyTime": 1645178838000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8375,15 +8420,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 11282,
-    "confirmedCount": 147593,
+    "currentConfirmedCount": 11355,
+    "confirmedCount": 147666,
     "suspectedCount": 13248,
     "curedCount": 130585,
     "deadCount": 5726,
     "seriousCount": 706,
     "suspectedIncr": 47,
-    "currentConfirmedIncr": 304,
-    "confirmedIncr": 613,
+    "currentConfirmedIncr": 377,
+    "confirmedIncr": 686,
     "curedIncr": 298,
     "deadIncr": 11,
     "seriousIncr": -15,
@@ -8569,37 +8614,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 169034903,
-      "confirmedCount": 419885050,
+      "currentConfirmedCount": 168271624,
+      "confirmedCount": 419879940,
       "suspectedCount": 4,
-      "curedCount": 244984487,
-      "deadCount": 5865660,
+      "curedCount": 245742419,
+      "deadCount": 5865897,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 2019236,
-      "confirmedIncr": 2306736,
-      "curedIncr": 274704,
-      "deadIncr": 12796
+      "currentConfirmedIncr": 1255957,
+      "confirmedIncr": 2301626,
+      "curedIncr": 1032636,
+      "deadIncr": 13033
     },
     "globalStatistics": {
-      "currentConfirmedCount": 169046185,
-      "confirmedCount": 420032643,
-      "curedCount": 245115072,
-      "deadCount": 5871386,
-      "currentConfirmedIncr": 2019540,
-      "confirmedIncr": 2307349,
-      "curedIncr": 275002,
-      "deadIncr": 12807,
-      "yesterdayConfirmedCountIncr": 2307349
+      "currentConfirmedCount": 168282979,
+      "confirmedCount": 420027606,
+      "curedCount": 245873004,
+      "deadCount": 5871623,
+      "currentConfirmedIncr": 1256334,
+      "confirmedIncr": 2302312,
+      "curedIncr": 1032934,
+      "deadIncr": 13044,
+      "yesterdayConfirmedCountIncr": 2302239
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0218/654/7052618831488092353-135.json",
     "highDangerCount": 2,
-    "midDangerCount": 64
+    "midDangerCount": 73
   },
   "getTimelineService1": [
     {
       "id": 177334,
       "pubDate": 1645145681000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": " 全国 | 昨日新增 87 例确诊病例，其中 40 例本土病例   ",
       "summary": "2月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例87例。其中境外输入病例47例（广东21例，上海13例，福建3例，广西3例，吉林2例，山东2例，云南2例，四川1例），含5例由无症状感染者转为确诊病例（均在广东）；本土病例40例（内蒙古22例，其中呼和浩特市21例、包头市1例；辽宁9例，均在葫芦岛市；江苏4例，均在苏州市；广东4例，其中深圳市3例、东莞市1例；云南1",
       "infoSource": "央视新闻app",
@@ -8612,7 +8657,7 @@
     {
       "id": 177335,
       "pubDate": 1645146049000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "内蒙古 | 昨日新增 22 例本土确诊病例",
       "summary": "2月17日0—24时，内蒙古自治区报告新增本土确诊病例22例，其中呼和浩特市21例（新城区11例、玉泉区1例、赛罕区5例、回民区1例、土默特左旗2例、武川县1例），包头市1例（在昆都仑区）。无新增疑似病例和无症状感染者。\n新增本土确诊病例具体情况如下：\n呼和浩特市：\n确诊病例6：通过主动就诊核酸检测阳性，经复核呈阳性，经专家组会诊，诊断为新冠肺炎确诊病例。\n确诊病例7：通过例行核酸检测呈阳性，经复",
       "infoSource": "央视新闻app",
@@ -8625,7 +8670,7 @@
     {
       "id": 177318,
       "pubDate": 1645141904000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增 13 例境外确诊病例",
       "summary": "2022年2月17日0—24时，通过口岸联防联控机制，上海报告13例新增境外输入新冠肺炎确诊病例。新增治愈出院16例，其中来自日本3例，来自加拿大2例，来自美国2例，来自俄罗斯2例，来自德国2例，来自几内亚1例，来自斯里兰卡1例，来自英国1例，来自尼日利亚1例，来自法国1例。\n病例1为中国籍，在芬兰旅行，自芬兰出发，于2022年2月4日抵达上海浦东国际机场，入关后即被集中隔离观察，其间出现症状。综",
       "infoSource": "央视新闻app",
@@ -8638,7 +8683,7 @@
     {
       "id": 177321,
       "pubDate": 1645142811000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "辽宁 | 昨日新增 9 例本土确诊病例",
       "summary": "2月17日0—24时，辽宁省新增9例本土新冠肺炎确诊病例，为葫芦岛市报告；新增2例境外输入无症状感染者，为大连市报告。无治愈出院病例。\n截至2月17日24时，辽宁省累计报告确诊病例939例（含境外输入178例），治愈出院809例，死亡2例，在院治疗128例(本土123例、境外输入5例)。目前，尚有13例（本土2例、境外输入11例）无症状感染者在定点医院隔离观察治疗。\n（总台记者 李承泽）",
       "infoSource": "央视新闻app",
@@ -8649,15 +8694,15 @@
       "jumpUrl": ""
     },
     {
-      "id": 177331,
-      "pubDate": 1645145313000,
-      "pubDateStr": "8小时前",
-      "title": "广东 | 昨日新增 4 例本土确诊病例",
-      "summary": "2月17日0—24时，广东省新增本土确诊病例4例，深圳3例，东莞1例。新增本土无症状感染者1例，为珠海报告。以上在纳入管控的密接排查或重点行业人群定期核酸检测中发现。\n广东省新增境外输入确诊病例21例（其中5例为无症状感染者转确诊），广州报告8例，3例来自土耳其，2例来自日本，2例来自马来西亚，1例来自韩国；深圳报告3例，2例来自韩国，1例来自中国香港；珠海报告3例，佛山、江门各报告2例，东莞、中",
+      "id": 177419,
+      "pubDate": 1645174890000,
+      "pubDateStr": "1小时前",
+      "title": "江苏 | 今日新增 6 例本土确诊病例",
+      "summary": "2月18日，江苏省苏州市召开新冠肺炎疫情防控工作新闻发布会，苏州市委常委、市政府常务副市长顾海东通报：&nbsp;2月18日0时至15时，苏州新增新冠肺炎确诊病例6例，无症状感染者8例。截至今天15时，本轮疫情累计报告确诊病例52例，无症状感染者29例，均在定点医疗机构接受隔离治疗，目前病情稳定。\n（总台记者 杨守华 唐高林 吴睿 徐大为 李琦龙 王昭顺 王淏楠）",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13604856676514037748&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7496014558613639584&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 84428,
+      "articleId": 84490,
       "category": 1,
       "jumpUrl": ""
     }
