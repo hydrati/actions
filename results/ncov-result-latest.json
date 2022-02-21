@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 30,
       "currentConfirmedCount": 161,
       "confirmedCount": 171,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 24,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 37,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
     },
@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 10,
       "currentConfirmedCount": 91,
       "confirmedCount": 178,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 50,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 53,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
@@ -112,8 +112,8 @@
       "yesterdayLocalConfirmedCount": 4,
       "currentConfirmedCount": 34,
       "confirmedCount": 999,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
@@ -773,8 +773,8 @@
       "yesterdayLocalConfirmedCount": 32,
       "currentConfirmedCount": 175,
       "confirmedCount": 1366,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 25,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 38,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
       "cities": [
@@ -785,8 +785,8 @@
           "yesterdayLocalConfirmedCount": 30,
           "currentConfirmedCount": 161,
           "confirmedCount": 171,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 24,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 37,
           "currentConfirmedCountStr": "161"
         },
         {
@@ -830,8 +830,8 @@
       "yesterdayLocalConfirmedCount": 11,
       "currentConfirmedCount": 109,
       "confirmedCount": 1739,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 50,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 53,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "cities": [
@@ -842,8 +842,8 @@
           "yesterdayLocalConfirmedCount": 10,
           "currentConfirmedCount": 91,
           "confirmedCount": 178,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 50,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 53,
           "currentConfirmedCountStr": "91"
         },
         {
@@ -1137,8 +1137,8 @@
       "yesterdayLocalConfirmedCount": 4,
       "currentConfirmedCount": 34,
       "confirmedCount": 1406,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -1149,8 +1149,8 @@
           "yesterdayLocalConfirmedCount": 4,
           "currentConfirmedCount": 34,
           "confirmedCount": 999,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "34"
         }
       ]
@@ -2789,8 +2789,8 @@
       "comment": "",
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 1,
-      "midDangerCount": 24,
+      "highDangerCount": 3,
+      "midDangerCount": 35,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
       "cities": [
@@ -2801,8 +2801,8 @@
           "suspectedCount": 0,
           "curedCount": 10,
           "deadCount": 0,
-          "highDangerCount": 1,
-          "midDangerCount": 23,
+          "highDangerCount": 3,
+          "midDangerCount": 34,
           "locationId": 150100,
           "currentConfirmedCountStr": "161"
         },
@@ -2954,7 +2954,17 @@
       "dangerAreas": [
         {
           "cityName": "呼和浩特",
+          "areaName": "赛罕区榆林镇陶卜齐村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "武川县上秃亥乡圪奔村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "新城区成吉思汗大街街道毫沁营村",
           "dangerLevel": 1
         },
         {
@@ -2984,12 +2994,32 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "鄂尔多斯路街道华宇社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "芳汀花园社区",
           "dangerLevel": 2
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "钢铁路街道咱家社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "海拉尔路街道府兴社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "回民区环河街街道县府街社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "回民区攸攸板镇巴彦树贵社区、东棚子村",
           "dangerLevel": 2
         },
         {
@@ -3019,6 +3049,16 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "赛罕区中专路街道创业社区、万达社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "台阁牧镇三间房村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "土左旗白庙子镇碱房村",
           "dangerLevel": 2
         },
@@ -3029,12 +3069,27 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "土左旗金海街道友谊馨居小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "武川县可镇新东街社区",
           "dangerLevel": 2
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "乌兰察布路街道武警社区、先锋社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "乌兰察布路街道长乐宫社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "新城区成吉思汗大街街道上新营村、苏雅拉社区",
           "dangerLevel": 2
         },
         {
@@ -3054,6 +3109,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "玉泉区石东路街道三里营东社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "玉泉区兴隆巷街道四里营东社区",
           "dangerLevel": 2
         },
@@ -3065,6 +3125,11 @@
         {
           "cityName": "呼和浩特",
           "areaName": "攸攸板镇攸攸板村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "长和廊街道菩提塔西社区",
           "dangerLevel": 2
         },
         {
@@ -3314,7 +3379,7 @@
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 50,
+      "midDangerCount": 53,
       "detectOrgCount": 395,
       "vaccinationOrgCount": 261,
       "cities": [
@@ -3326,7 +3391,7 @@
           "curedCount": 87,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 50,
+          "midDangerCount": 53,
           "locationId": 320500,
           "currentConfirmedCountStr": "91"
         },
@@ -3660,6 +3725,11 @@
         },
         {
           "cityName": "苏州",
+          "areaName": "吴中区郭巷街道塘北社区124号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
           "areaName": "吴中区龙西新村（箭阙苑）40幢",
           "dangerLevel": 2
         },
@@ -3736,6 +3806,16 @@
         {
           "cityName": "苏州",
           "areaName": "张家港市杨舍镇民丰苑西区21幢、29幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "张家港市杨舍镇新航花苑18幢",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "苏州",
+          "areaName": "张家港市杨舍镇新农花苑25幢",
           "dangerLevel": 2
         }
       ]
@@ -4866,7 +4946,7 @@
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 0,
+      "midDangerCount": 5,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -4878,7 +4958,7 @@
           "curedCount": 962,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 5,
           "locationId": 510100,
           "currentConfirmedCountStr": "34"
         },
@@ -5123,7 +5203,33 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "成都",
+          "areaName": "高新区长城馨苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区沙河·云景湾小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金堂县生态水城澜岸小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "天府新区龙河社区凯华丽景小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "温江区丽晶公馆小区",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "黑龙江省",
@@ -8576,11 +8682,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4653340100,
+  "getPV": 4653369055,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645409899000,
+    "modifyTime": 1645410824000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8813,8 +8919,8 @@
       "yesterdayConfirmedCountIncr": 1262732
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0221/045/0025499733445643353-135.json",
-    "highDangerCount": 3,
-    "midDangerCount": 98
+    "highDangerCount": 5,
+    "midDangerCount": 112
   },
   "getTimelineService1": [
     {
@@ -8859,7 +8965,7 @@
     {
       "id": 177891,
       "pubDate": 1645399300000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "山西 | 昨日新增 5 例本土确诊病例",
       "summary": "\t\t            \t\n\t\t               \n\t\t\t\t\t\t \n\t\t\t                \n\t\t\t                \n\t\t\t\t\t\t\t\t\n\t\t\t             2022年2月20日0-24时，山西省新增本地新冠肺炎确诊病例5例（晋中市太谷区5例）。累计报告确诊病例146例，治愈出院140例。现有在院隔离治疗病例6例（大同市云冈区1例、晋中市太谷区5例）。现有疑似病例0例。2022年2月20日0-24时，山西省无新增境外输入确诊病例。累计报告境外输入性确诊病例127例，治愈出院127例。现有疑似病例0例。2022年2月20日0-24时，山西省无新增无症状感染者。无尚在医学观察的无症状感染者。累计追踪到密切接触者9871人(含境外输入病例密切接触者)。当日解除医学观察6人，尚在医学观察的密切接触者63人。\n\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t",
       "infoSource": "山西卫健委",
@@ -8872,7 +8978,7 @@
     {
       "id": 177911,
       "pubDate": 1645406400000,
-      "pubDateStr": "51分钟前",
+      "pubDateStr": "1小时前",
       "title": "四川 | 昨日新增 4 例本土确诊病例",
       "summary": " \n\t\t    2月20日0-24时，四川新增新型冠状病毒肺炎确诊病例9例（均在成都市）：\n\n    其中，境外输入5例：\n\n    2例为2月19日无症状感染者转确诊，\n\n    1例为2月15日自中国香港乘机抵蓉进行隔离，2月20日确诊，\n\n    1例为2月18日自中国香港乘机抵蓉进行隔离，2月20日确诊，\n\n    1例为2月19日自埃及乘机抵蓉进行隔离，2月20日确诊，\n\n    本土4例：\n\n    1例，（病例1）为成都市2月20日公布的确诊病例，系2月19日主动就诊，2月20日确诊，\n\n    3例，（病例2、3、4）均为病例1的密切接触者，2月20日纳入管控并确诊，\n\n    新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。\n\n    截至2月20日24时，全省累计报告新型冠状病毒肺炎确诊病例1406例（其中境外输入811例），累计治愈出院1369例，死亡3例，目前在院隔离治疗34例，661人尚在接受医学观察。\n\n    2月20日0-24时，全省新增无症状感染者3例（在成都市，均为本土：均为病例4的密切接触者，均于2月20日诊断为无症状感染者），当日转为确诊病例2例，当日解除集中隔离医学观察0例，尚在集中隔离医学观察41例，比前一日增加1例。\n\n   （确诊病例及无症状感染者具体情况由相关市（州）卫生健康委进行通报）\n\n    截至2月20日24时，全省新增1个中风险地区，为成都市高新区中和街道长城馨苑小区，其他县（市、区）均为低风险地区。\n\n\n\n\n\n    温馨提示：保持警惕，做好防护，勤洗手、不扎堆、少聚集，若有发热、咳嗽等不适症状，请及时就近前往发热门诊、哨点诊室、新冠病毒核酸检测机构。具体请点击https://hissct.mobimedical.cn/urgentYiq，随时查看距您最近的医疗卫生机构，快捷咨询，精准预约。\n\n    点击健康四川官微左下角“疫情防控”栏目可查询“疫情动态”信息。\n\n",
       "infoSource": "四川卫健委",
