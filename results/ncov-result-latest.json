@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 10,
       "currentConfirmedCount": 19,
       "confirmedCount": 50399,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 420000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json"
     },
@@ -124,7 +124,7 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 19,
       "confirmedCount": 30,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 7,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
@@ -244,8 +244,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 210,
       "confirmedCount": 274,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 9,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
@@ -809,7 +809,7 @@
       "yesterdayLocalConfirmedCount": 40,
       "currentConfirmedCount": 282,
       "confirmedCount": 1473,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 72,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
@@ -832,7 +832,7 @@
           "yesterdayLocalConfirmedCount": 3,
           "currentConfirmedCount": 19,
           "confirmedCount": 30,
-          "dangerCountIncr": 0,
+          "dangerCountIncr": 1,
           "currentDangerCount": 7,
           "currentConfirmedCountStr": "19"
         },
@@ -866,8 +866,8 @@
       "yesterdayLocalConfirmedCount": 10,
       "currentConfirmedCount": 24,
       "confirmedCount": 68344,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 420000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json",
       "cities": [
@@ -878,8 +878,8 @@
           "yesterdayLocalConfirmedCount": 10,
           "currentConfirmedCount": 19,
           "confirmedCount": 50399,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "19"
         }
       ]
@@ -1072,8 +1072,8 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 305,
       "confirmedCount": 1038,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 9,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "cities": [
@@ -1095,8 +1095,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 210,
           "confirmedCount": 274,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 11,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 9,
           "currentConfirmedCountStr": "210"
         },
         {
@@ -2338,7 +2338,7 @@
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 10,
+      "midDangerCount": 8,
       "detectOrgCount": 270,
       "vaccinationOrgCount": 15,
       "cities": [
@@ -2350,7 +2350,7 @@
           "curedCount": 64,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 10,
+          "midDangerCount": 8,
           "locationId": 451000,
           "currentConfirmedCountStr": "210"
         },
@@ -2566,17 +2566,7 @@
         },
         {
           "cityName": "百色",
-          "areaName": "靖西市武平镇大道街大定屯",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "百色",
           "areaName": "莲城社区德立山庄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "百色",
-          "areaName": "弄贴村新村屯",
           "dangerLevel": 2
         }
       ]
@@ -3324,17 +3314,12 @@
         },
         {
           "cityName": "包头",
-          "areaName": "阿尔丁街道佳园小区老干院",
+          "areaName": "鞍山街道",
           "dangerLevel": 2
         },
         {
           "cityName": "包头",
-          "areaName": "阿尔丁街道熙华公寓",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "包头",
-          "areaName": "白云街道华丰园小区",
+          "areaName": "白云街道",
           "dangerLevel": 2
         },
         {
@@ -3344,17 +3329,22 @@
         },
         {
           "cityName": "包头",
-          "areaName": "前进街道钢铁大街37号街坊",
+          "areaName": "昆北街道",
           "dangerLevel": 2
         },
         {
           "cityName": "包头",
-          "areaName": "市府东路街道恩和小区3区",
+          "areaName": "昆都仑区阿尔丁街道",
           "dangerLevel": 2
         },
         {
           "cityName": "包头",
-          "areaName": "锡华世纪花园小区玫瑰苑",
+          "areaName": "前进街道",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "包头",
+          "areaName": "市府东路街道",
           "dangerLevel": 2
         },
         {
@@ -5503,7 +5493,7 @@
       "locationId": 420000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 2,
+      "midDangerCount": 5,
       "detectOrgCount": 217,
       "vaccinationOrgCount": 431,
       "cities": [
@@ -5515,7 +5505,7 @@
           "curedCount": 46511,
           "deadCount": 3869,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 5,
           "locationId": 420100,
           "currentConfirmedCountStr": "19"
         },
@@ -5727,7 +5717,22 @@
       "dangerAreas": [
         {
           "cityName": "武汉",
+          "areaName": "湖北武汉东湖高新区关东街道保利时代天悦小区28栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "武汉",
           "areaName": "江岸区车站街道华清园小区4栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "武汉",
+          "areaName": "江岸区后湖街道同鑫花园小区29栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "武汉",
+          "areaName": "青山区红卫路街道58街坊127门",
           "dangerLevel": 2
         },
         {
@@ -8963,11 +8968,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4654509445,
+  "getPV": 4654559186,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645670909000,
+    "modifyTime": 1645672503000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9201,13 +9206,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0224/563/6946516162902204353-135.json",
     "highDangerCount": 5,
-    "midDangerCount": 162
+    "midDangerCount": 160
   },
   "getTimelineService1": [
     {
       "id": 178463,
       "pubDate": 1645664618000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 85 例",
       "summary": "2月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例186例。其中境外输入病例101例（广东44例，上海24例，北京7例，福建6例，广西5例，湖北4例，吉林3例，四川3例，云南2例，甘肃2例，天津1例），含9例由无症状感染者转为确诊病例（广东8例，四川1例）；本土病例85例（内蒙古40例，其中呼和浩特市37例、包头市3例；湖北10例，均在武汉市；辽宁8例，均在葫芦岛市",
       "infoSource": "央视新闻app",
@@ -9220,7 +9225,7 @@
     {
       "id": 178467,
       "pubDate": 1645665233000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "江苏 | 昨日新增本土确诊病例 3 例",
       "summary": "2月23日0—24时，江苏新增本土确诊病例3例（苏州市报告，在定点医院隔离治疗），新增本土无症状感染者5例（苏州市报告，在定点医院接受隔离医学观察），新增境外输入无症状感染者3例。\n目前，在定点医院隔离治疗的确诊病例127例（本土110例，境外输入17例），接受隔离医学观察的无症状感染者52例（本土42例，境外输入10例）。\n2020年1月22日至今，江苏省累计报告新冠肺炎确诊病例1757例（其中",
       "infoSource": "央视新闻app",
@@ -9233,7 +9238,7 @@
     {
       "id": 178465,
       "pubDate": 1645664474000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 40 例",
       "summary": "2月23日0—24时，内蒙古自治区报告新增本土确诊病例40例，其中呼和浩特市37例，包头市3例。\n截至2月23日24时，内蒙古自治区现有本土确诊病例282例，其中呼和浩特市255例，包头市19例，呼伦贝尔市5例，巴彦淖尔市3例。本土无症状感染者1例（在巴彦淖尔市）。境外输入无症状感染者1例（在通辽市）。均在定点医院隔离治疗，所有密切接触者均在指定场所集中隔离医学观察，严防疫情扩散蔓延。\n（总台记者",
       "infoSource": "央视新闻app",
@@ -9246,7 +9251,7 @@
     {
       "id": 178462,
       "pubDate": 1645664293000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "湖北 | 昨日新增本土确诊病例 10 例",
       "summary": "2月23日0—24时，湖北省新增本土确诊病例10例（均为武汉市确诊病例），新增本土无症状感染者1例（为武汉市无症状感染者），新增境外输入新冠肺炎确诊病例4例（为巴基斯坦输入），新增境外输入无症状感染者4例（为巴基斯坦输入），新增疑似病例0例，新增死亡病例0例，当日出院病例0例，当日解除无症状感染者医学观察0例。\n截至2月23日24时，在定点医疗机构治疗的本土确诊病例19例（均为武汉市确诊病例），其",
       "infoSource": "央视新闻app",
@@ -9259,7 +9264,7 @@
     {
       "id": 178458,
       "pubDate": 1645663772000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "广东 | 昨日新增本土确诊病例 8 例",
       "summary": "2月23日0—24时，广东新增本土确诊病例8例和本土无症状感染者1例，深圳报告，通过纳入管控的密接排查或区域筛查发现。\n广东新增境外输入确诊病例44例（其中8例为无症状感染者转确诊），广州报告2例，分别来自坦桑尼亚和新西兰；佛山报告4例，2例来自马来西亚，其余2例分别来自澳大利亚和中国香港；深圳报告20例，珠海报告9例，惠州报告4例，东莞报告2例，中山报告1例，江门报告2例，均来自中国香港。新增境",
       "infoSource": "央视新闻app",
