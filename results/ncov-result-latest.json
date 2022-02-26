@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 30,
       "currentConfirmedCount": 297,
       "confirmedCount": 323,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 64,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 78,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
     },
@@ -76,8 +76,8 @@
       "yesterdayLocalConfirmedCount": 10,
       "currentConfirmedCount": 195,
       "confirmedCount": 207,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json"
     },
@@ -116,18 +116,6 @@
       "currentDangerCount": 57,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "江门",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 17,
-      "confirmedCount": 57,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "四川省",
@@ -418,6 +406,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "江门",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 17,
+      "confirmedCount": 57,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "天津市",
       "provinceShortName": "天津",
       "cityName": "天津",
@@ -562,18 +562,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
-      "provinceName": "云南省",
-      "provinceShortName": "云南",
-      "cityName": "文山州",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 3,
-      "confirmedCount": 5,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 530000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
-    },
-    {
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
       "cityName": "重庆",
@@ -632,6 +620,18 @@
       "currentDangerCount": 0,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
+    },
+    {
+      "provinceName": "云南省",
+      "provinceShortName": "云南",
+      "cityName": "文山州",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 3,
+      "confirmedCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 530000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
     },
     {
       "provinceName": "山东省",
@@ -792,9 +792,66 @@
   ],
   "fetchRecentStatV2": [
     {
+      "provinceName": "内蒙古自治区",
+      "provinceShortName": "内蒙古",
+      "yesterdayLocalConfirmedCount": 32,
+      "currentConfirmedCount": 327,
+      "confirmedCount": 1535,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 86,
+      "locationId": 150000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
+      "cities": [
+        {
+          "provinceName": "内蒙古自治区",
+          "provinceShortName": "内蒙古",
+          "cityName": "呼和浩特",
+          "yesterdayLocalConfirmedCount": 30,
+          "currentConfirmedCount": 297,
+          "confirmedCount": 323,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 78,
+          "currentConfirmedCountStr": "297"
+        },
+        {
+          "provinceName": "内蒙古自治区",
+          "provinceShortName": "内蒙古",
+          "cityName": "呼伦贝尔",
+          "yesterdayLocalConfirmedCount": 2,
+          "currentConfirmedCount": 6,
+          "confirmedCount": 603,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "6"
+        },
+        {
+          "provinceName": "内蒙古自治区",
+          "provinceShortName": "内蒙古",
+          "cityName": "包头",
+          "yesterdayLocalConfirmedCount": 0,
+          "currentConfirmedCount": 21,
+          "confirmedCount": 32,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 7,
+          "currentConfirmedCountStr": "21"
+        },
+        {
+          "provinceName": "内蒙古自治区",
+          "provinceShortName": "内蒙古",
+          "cityName": "巴彦淖尔",
+          "yesterdayLocalConfirmedCount": 0,
+          "currentConfirmedCount": 3,
+          "confirmedCount": 11,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "3"
+        }
+      ]
+    },
+    {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "yesterdayLocalConfirmedCount": 33,
+      "yesterdayLocalConfirmedCount": 30,
       "currentConfirmedCount": 572,
       "confirmedCount": 4434,
       "dangerCountIncr": 0,
@@ -915,56 +972,34 @@
       ]
     },
     {
-      "provinceName": "内蒙古自治区",
-      "provinceShortName": "内蒙古",
-      "yesterdayLocalConfirmedCount": 32,
-      "currentConfirmedCount": 327,
-      "confirmedCount": 1535,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 72,
-      "locationId": 150000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
+      "provinceName": "辽宁省",
+      "provinceShortName": "辽宁",
+      "yesterdayLocalConfirmedCount": 10,
+      "currentConfirmedCount": 201,
+      "confirmedCount": 1018,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
+      "locationId": 210000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "cities": [
         {
-          "provinceName": "内蒙古自治区",
-          "provinceShortName": "内蒙古",
-          "cityName": "呼和浩特",
-          "yesterdayLocalConfirmedCount": 30,
-          "currentConfirmedCount": 297,
-          "confirmedCount": 323,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 64,
-          "currentConfirmedCountStr": "297"
-        },
-        {
-          "provinceName": "内蒙古自治区",
-          "provinceShortName": "内蒙古",
-          "cityName": "呼伦贝尔",
-          "yesterdayLocalConfirmedCount": 2,
-          "currentConfirmedCount": 6,
-          "confirmedCount": 603,
-          "dangerCountIncr": 0,
+          "provinceName": "辽宁省",
+          "provinceShortName": "辽宁",
+          "cityName": "葫芦岛",
+          "yesterdayLocalConfirmedCount": 10,
+          "currentConfirmedCount": 195,
+          "confirmedCount": 207,
+          "dangerCountIncr": 1,
           "currentDangerCount": 1,
-          "currentConfirmedCountStr": "6"
+          "currentConfirmedCountStr": "195"
         },
         {
-          "provinceName": "内蒙古自治区",
-          "provinceShortName": "内蒙古",
-          "cityName": "包头",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 21,
-          "confirmedCount": 32,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
-          "currentConfirmedCountStr": "21"
-        },
-        {
-          "provinceName": "内蒙古自治区",
-          "provinceShortName": "内蒙古",
-          "cityName": "巴彦淖尔",
+          "provinceName": "辽宁省",
+          "provinceShortName": "辽宁",
+          "cityName": "沈阳",
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 3,
-          "confirmedCount": 11,
+          "confirmedCount": 81,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "3"
@@ -1069,8 +1104,8 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 63,
       "confirmedCount": 1937,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 4,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 530000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json",
       "cities": [
@@ -1136,8 +1171,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 3,
           "confirmedCount": 5,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "3"
         }
       ]
@@ -1278,8 +1313,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 13,
       "confirmedCount": 2072,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -1361,41 +1396,6 @@
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "2"
-        }
-      ]
-    },
-    {
-      "provinceName": "辽宁省",
-      "provinceShortName": "辽宁",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 201,
-      "confirmedCount": 1018,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
-      "locationId": 210000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-      "cities": [
-        {
-          "provinceName": "辽宁省",
-          "provinceShortName": "辽宁",
-          "cityName": "葫芦岛",
-          "yesterdayLocalConfirmedCount": 10,
-          "currentConfirmedCount": 195,
-          "confirmedCount": 207,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
-          "currentConfirmedCountStr": "195"
-        },
-        {
-          "provinceName": "辽宁省",
-          "provinceShortName": "辽宁",
-          "cityName": "沈阳",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 3,
-          "confirmedCount": 81,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "3"
         }
       ]
     },
@@ -2484,8 +2484,8 @@
       "comment": "",
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 3,
-      "midDangerCount": 69,
+      "highDangerCount": 4,
+      "midDangerCount": 82,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
       "cities": [
@@ -2496,8 +2496,8 @@
           "suspectedCount": 0,
           "curedCount": 26,
           "deadCount": 0,
-          "highDangerCount": 3,
-          "midDangerCount": 61,
+          "highDangerCount": 4,
+          "midDangerCount": 74,
           "locationId": 150100,
           "currentConfirmedCountStr": "297"
         },
@@ -2654,6 +2654,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "土左旗白庙子镇东坝什村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "武川县上秃亥乡圪奔村",
           "dangerLevel": 1
         },
@@ -2739,6 +2744,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "赛罕区乌兰察布东路街道瑞光社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "赛罕区乌兰察布路街道军区第三干休所社区",
           "dangerLevel": 2
         },
@@ -2789,6 +2799,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "赛罕区中专路街道春雨社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "赛罕区中专路街道万达社区",
           "dangerLevel": 2
         },
@@ -2799,12 +2814,12 @@
         },
         {
           "cityName": "呼和浩特",
-          "areaName": "上秃亥乡刘家村",
+          "areaName": "赛罕区中专路社区",
           "dangerLevel": 2
         },
         {
           "cityName": "呼和浩特",
-          "areaName": "土左旗白庙子镇东坝什村",
+          "areaName": "上秃亥乡刘家村",
           "dangerLevel": 2
         },
         {
@@ -2815,6 +2830,11 @@
         {
           "cityName": "呼和浩特",
           "areaName": "土左旗白庙子镇瓦房院新村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "土左旗白庙子镇新营子村",
           "dangerLevel": 2
         },
         {
@@ -2864,6 +2884,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "新城区成吉思汗大街街道塔利村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "新城区东风路街道东影北街社",
           "dangerLevel": 2
         },
@@ -2889,7 +2914,17 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "新城区东风路街道昭君新村社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "新城区海拉尔路街道府兴社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "新城区西街街道曙光社区",
           "dangerLevel": 2
         },
         {
@@ -2909,6 +2944,21 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "新城区迎新路街道展北社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "新城区中山东路街道中山社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "玉泉区鄂尔多斯路街道巴彦乌素社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "玉泉区鄂尔多斯路街道华宇社区",
           "dangerLevel": 2
         },
@@ -2920,6 +2970,11 @@
         {
           "cityName": "呼和浩特",
           "areaName": "玉泉区石东路街道苁蓉社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "玉泉区石东路街道富丽社区",
           "dangerLevel": 2
         },
         {
@@ -2944,6 +2999,11 @@
         },
         {
           "cityName": "呼和浩特",
+          "areaName": "玉泉区小黑河镇金川南区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
           "areaName": "玉泉区小黑河镇祥和苑社区",
           "dangerLevel": 2
         },
@@ -2960,6 +3020,16 @@
         {
           "cityName": "呼和浩特",
           "areaName": "玉泉区长和廊街道菩提塔西社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "玉泉区昭君路街道沟子板社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "呼和浩特",
+          "areaName": "玉泉区昭君路街道天骄路社区",
           "dangerLevel": 2
         },
         {
@@ -3266,7 +3336,7 @@
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 192,
       "vaccinationOrgCount": 204,
       "cities": [
@@ -3278,7 +3348,7 @@
           "curedCount": 11,
           "deadCount": 1,
           "highDangerCount": 1,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 211400,
           "currentConfirmedCountStr": "195"
         },
@@ -3469,11 +3539,6 @@
           "cityName": "葫芦岛",
           "areaName": "绥中县加碑岩乡窝岭村",
           "dangerLevel": 1
-        },
-        {
-          "cityName": "葫芦岛",
-          "areaName": "绥中县绥中镇工人社区盛华园二期",
-          "dangerLevel": 2
         }
       ]
     },
@@ -4719,7 +4784,7 @@
       "locationId": 530000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 4,
+      "midDangerCount": 3,
       "detectOrgCount": 338,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4803,7 +4868,7 @@
           "curedCount": 2,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 0,
           "currentConfirmedCountStr": "3"
         },
@@ -4926,11 +4991,6 @@
         {
           "cityName": "红河州",
           "areaName": "河口县主城区迎宾丽景小区（含老百货公司住宿楼）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "文山州",
-          "areaName": "麻栗坡县杨万乡哪都村委会达干村小组",
           "dangerLevel": 2
         },
         {
@@ -5913,7 +5973,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 5,
+      "midDangerCount": 3,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5987,7 +6047,7 @@
           "curedCount": 295,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 0,
           "locationId": 231100,
           "currentConfirmedCountStr": "0"
         },
@@ -6115,16 +6175,6 @@
         {
           "cityName": "鸡西",
           "areaName": "乾宏家园小区2号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "黑河",
-          "areaName": "爱辉区鹿源春社区金达之家小区中房49号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "黑河",
-          "areaName": "爱辉区武庙屯社区之路佳苑小区4号楼",
           "dangerLevel": 2
         }
       ]
@@ -8890,11 +8940,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4655208587,
+  "getPV": 4655219576,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645842441000,
+    "modifyTime": 1645844860000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9104,31 +9154,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 177266123,
-      "confirmedCount": 431744156,
+      "currentConfirmedCount": 178741409,
+      "confirmedCount": 433395637,
       "suspectedCount": 4,
-      "curedCount": 248545320,
-      "deadCount": 5932713,
+      "curedCount": 248713880,
+      "deadCount": 5940348,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": 1475286,
+      "confirmedIncr": 1651481,
+      "curedIncr": 168560,
+      "deadIncr": 7635
     },
     "globalStatistics": {
-      "currentConfirmedCount": 177295097,
-      "confirmedCount": 431912285,
-      "curedCount": 248678489,
-      "deadCount": 5938699,
-      "currentConfirmedIncr": 3722,
-      "confirmedIncr": 4157,
-      "curedIncr": 362,
-      "deadIncr": 73,
-      "yesterdayConfirmedCountIncr": 4157
+      "currentConfirmedCount": 178770383,
+      "confirmedCount": 433563766,
+      "curedCount": 248847049,
+      "deadCount": 5946334,
+      "currentConfirmedIncr": 1479008,
+      "confirmedIncr": 1655638,
+      "curedIncr": 168922,
+      "deadIncr": 7708,
+      "yesterdayConfirmedCountIncr": 1655638
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0226/365/6820760029613934353-135.json",
-    "highDangerCount": 4,
-    "midDangerCount": 168
+    "highDangerCount": 6,
+    "midDangerCount": 177
   },
   "getTimelineService1": [
     {
