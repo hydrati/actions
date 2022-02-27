@@ -184,8 +184,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 22,
       "confirmedCount": 33,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 7,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 8,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
     },
@@ -920,8 +920,8 @@
       "yesterdayLocalConfirmedCount": 38,
       "currentConfirmedCount": 355,
       "confirmedCount": 1573,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 111,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 112,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
       "cities": [
@@ -954,8 +954,8 @@
           "yesterdayLocalConfirmedCount": 1,
           "currentConfirmedCount": 22,
           "confirmedCount": 33,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "22"
         },
         {
@@ -2490,7 +2490,7 @@
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
       "highDangerCount": 6,
-      "midDangerCount": 105,
+      "midDangerCount": 106,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
       "cities": [
@@ -2514,7 +2514,7 @@
           "curedCount": 11,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 7,
+          "midDangerCount": 8,
           "locationId": 150200,
           "currentConfirmedCountStr": "22"
         },
@@ -3195,6 +3195,11 @@
         {
           "cityName": "包头",
           "areaName": "前进街道",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "包头",
+          "areaName": "青山区青福镇北区",
           "dangerLevel": 2
         },
         {
@@ -9025,11 +9030,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4655543833,
+  "getPV": 4655562988,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1645929456000,
+    "modifyTime": 1645929603000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9263,7 +9268,7 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0227/192/5829897871178754353-135.json",
     "highDangerCount": 8,
-    "midDangerCount": 191
+    "midDangerCount": 192
   },
   "getTimelineService1": [
     {
