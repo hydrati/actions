@@ -46,11 +46,21 @@
   ],
   "fetchRecentStat": [
     {
+      "provinceName": "上海市",
+      "provinceShortName": "上海",
+      "cityName": "上海",
+      "currentConfirmedCount": 546,
+      "confirmedCount": 4432,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 2,
+      "locationId": 310000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
+    },
+    {
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "深圳",
-      "yesterdayLocalConfirmedCount": 23,
-      "currentConfirmedCount": 540,
+      "currentConfirmedCount": 537,
       "confirmedCount": 1207,
       "dangerCountIncr": 0,
       "currentDangerCount": 6,
@@ -58,178 +68,9 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
-      "provinceName": "内蒙古自治区",
-      "provinceShortName": "内蒙古",
-      "cityName": "呼和浩特",
-      "yesterdayLocalConfirmedCount": 6,
-      "currentConfirmedCount": 291,
-      "confirmedCount": 404,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 101,
-      "locationId": 150000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "东莞",
-      "yesterdayLocalConfirmedCount": 5,
-      "currentConfirmedCount": 159,
-      "confirmedCount": 334,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
-    },
-    {
-      "provinceName": "湖北省",
-      "provinceShortName": "湖北",
-      "cityName": "武汉",
-      "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 32,
-      "confirmedCount": 50412,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
-      "locationId": 420000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json"
-    },
-    {
-      "provinceName": "上海市",
-      "provinceShortName": "上海",
-      "cityName": "上海",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 544,
-      "confirmedCount": 4430,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 2,
-      "locationId": 310000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
-    },
-    {
-      "provinceName": "吉林省",
-      "provinceShortName": "吉林",
-      "cityName": "延边",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 7,
-      "confirmedCount": 15,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 220000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
-    },
-    {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "cityName": "防城港",
-      "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 44,
-      "confirmedCount": 83,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
-    },
-    {
-      "provinceName": "江苏省",
-      "provinceShortName": "江苏",
-      "cityName": "苏州",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 118,
-      "confirmedCount": 205,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 28,
-      "locationId": 320000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
-    },
-    {
-      "provinceName": "四川省",
-      "provinceShortName": "四川",
-      "cityName": "成都",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 93,
-      "confirmedCount": 1068,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 14,
-      "locationId": 510000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
-    },
-    {
-      "provinceName": "云南省",
-      "provinceShortName": "云南",
-      "cityName": "德宏州",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 52,
-      "confirmedCount": 311,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 2,
-      "locationId": 530000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
-    },
-    {
-      "provinceName": "天津市",
-      "provinceShortName": "天津",
-      "cityName": "天津",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 40,
-      "confirmedCount": 1132,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 120000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
-    },
-    {
-      "provinceName": "内蒙古自治区",
-      "provinceShortName": "内蒙古",
-      "cityName": "包头",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 20,
-      "confirmedCount": 35,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
-      "locationId": 150000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
-    },
-    {
-      "provinceName": "山西省",
-      "provinceShortName": "山西",
-      "cityName": "晋中",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 13,
-      "confirmedCount": 54,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 140000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json"
-    },
-    {
-      "provinceName": "黑龙江省",
-      "provinceShortName": "黑龙江",
-      "cityName": "哈尔滨",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 3,
-      "confirmedCount": 549,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 230000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
-    },
-    {
-      "provinceName": "河北省",
-      "provinceShortName": "河北",
-      "cityName": "邯郸",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 33,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 130000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json"
-    },
-    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "安阳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 467,
       "confirmedCount": 522,
       "dangerCountIncr": 0,
@@ -241,7 +82,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "许昌",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 366,
       "confirmedCount": 405,
       "dangerCountIncr": 0,
@@ -250,10 +90,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
+      "provinceName": "内蒙古自治区",
+      "provinceShortName": "内蒙古",
+      "cityName": "呼和浩特",
+      "currentConfirmedCount": 291,
+      "confirmedCount": 404,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 101,
+      "locationId": 150000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
+    },
+    {
       "provinceName": "辽宁省",
       "provinceShortName": "辽宁",
       "cityName": "葫芦岛",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 204,
       "confirmedCount": 216,
       "dangerCountIncr": 0,
@@ -265,7 +115,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "郑州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 161,
       "confirmedCount": 488,
       "dangerCountIncr": 0,
@@ -274,10 +123,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "东莞",
+      "currentConfirmedCount": 159,
+      "confirmedCount": 334,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 5,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "cityName": "杭州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 141,
       "confirmedCount": 328,
       "dangerCountIncr": 0,
@@ -289,7 +148,6 @@
       "provinceName": "北京市",
       "provinceShortName": "北京",
       "cityName": "北京",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 121,
       "confirmedCount": 1495,
       "dangerCountIncr": 0,
@@ -298,10 +156,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
     {
+      "provinceName": "江苏省",
+      "provinceShortName": "江苏",
+      "cityName": "苏州",
+      "currentConfirmedCount": 118,
+      "confirmedCount": 205,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 28,
+      "locationId": 320000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
+    },
+    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "cityName": "宁波",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 110,
       "confirmedCount": 269,
       "dangerCountIncr": 0,
@@ -313,7 +181,6 @@
       "provinceName": "广西壮族自治区",
       "provinceShortName": "广西",
       "cityName": "百色",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 108,
       "confirmedCount": 274,
       "dangerCountIncr": 0,
@@ -322,11 +189,21 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
     {
+      "provinceName": "四川省",
+      "provinceShortName": "四川",
+      "cityName": "成都",
+      "currentConfirmedCount": 93,
+      "confirmedCount": 1068,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 14,
+      "locationId": 510000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
+    },
+    {
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "珠海",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 82,
+      "currentConfirmedCount": 81,
       "confirmedCount": 241,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -337,8 +214,7 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "广州",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 70,
+      "currentConfirmedCount": 66,
       "confirmedCount": 2239,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -346,10 +222,42 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
+      "provinceName": "云南省",
+      "provinceShortName": "云南",
+      "cityName": "德宏州",
+      "currentConfirmedCount": 52,
+      "confirmedCount": 311,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 2,
+      "locationId": 530000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
+    },
+    {
+      "provinceName": "广西壮族自治区",
+      "provinceShortName": "广西",
+      "cityName": "防城港",
+      "currentConfirmedCount": 44,
+      "confirmedCount": 83,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 450000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
+    },
+    {
+      "provinceName": "天津市",
+      "provinceShortName": "天津",
+      "cityName": "天津",
+      "currentConfirmedCount": 40,
+      "confirmedCount": 1132,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 120000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
+    },
+    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "cityName": "绍兴",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 38,
       "confirmedCount": 430,
       "dangerCountIncr": 0,
@@ -361,7 +269,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "佛山",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 37,
       "confirmedCount": 333,
       "dangerCountIncr": 0,
@@ -373,7 +280,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "江门",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 35,
       "confirmedCount": 75,
       "dangerCountIncr": 0,
@@ -385,7 +291,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "惠州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 33,
       "confirmedCount": 100,
       "dangerCountIncr": 0,
@@ -394,10 +299,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
+      "provinceName": "湖北省",
+      "provinceShortName": "湖北",
+      "cityName": "武汉",
+      "currentConfirmedCount": 32,
+      "confirmedCount": 50412,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 5,
+      "locationId": 420000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json"
+    },
+    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "周口",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 25,
       "confirmedCount": 101,
       "dangerCountIncr": 0,
@@ -409,7 +324,6 @@
       "provinceName": "吉林省",
       "provinceShortName": "吉林",
       "cityName": "长春",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 23,
       "confirmedCount": 192,
       "dangerCountIncr": 0,
@@ -418,10 +332,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
     {
+      "provinceName": "内蒙古自治区",
+      "provinceShortName": "内蒙古",
+      "cityName": "包头",
+      "currentConfirmedCount": 20,
+      "confirmedCount": 35,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 8,
+      "locationId": 150000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
+    },
+    {
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "红河州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 15,
       "confirmedCount": 24,
       "dangerCountIncr": 0,
@@ -433,7 +357,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "中山",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 15,
       "confirmedCount": 91,
       "dangerCountIncr": 0,
@@ -442,22 +365,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "阳江",
-      "yesterdayLocalConfirmedCount": 0,
+      "provinceName": "山西省",
+      "provinceShortName": "山西",
+      "cityName": "晋中",
       "currentConfirmedCount": 13,
-      "confirmedCount": 51,
+      "confirmedCount": 54,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+      "locationId": 140000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json"
     },
     {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "商丘",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 12,
       "confirmedCount": 103,
       "dangerCountIncr": 0,
@@ -466,13 +387,23 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "阳江",
+      "currentConfirmedCount": 12,
+      "confirmedCount": 51,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "黑龙江省",
       "provinceShortName": "黑龙江",
       "cityName": "牡丹江",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 11,
       "confirmedCount": 73,
-      "dangerCountIncr": 1,
+      "dangerCountIncr": 0,
       "currentDangerCount": 10,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
@@ -481,7 +412,6 @@
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "临沧",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 10,
       "confirmedCount": 11,
       "dangerCountIncr": 0,
@@ -493,7 +423,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "洛阳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 10,
       "confirmedCount": 41,
       "dangerCountIncr": 0,
@@ -505,7 +434,6 @@
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
       "cityName": "重庆",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 9,
       "confirmedCount": 622,
       "dangerCountIncr": 0,
@@ -514,10 +442,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json"
     },
     {
+      "provinceName": "吉林省",
+      "provinceShortName": "吉林",
+      "cityName": "延边",
+      "currentConfirmedCount": 7,
+      "confirmedCount": 15,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 220000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
+    },
+    {
       "provinceName": "内蒙古自治区",
       "provinceShortName": "内蒙古",
       "cityName": "呼伦贝尔",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 7,
       "confirmedCount": 605,
       "dangerCountIncr": 0,
@@ -529,7 +467,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "开封",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 7,
       "confirmedCount": 33,
       "dangerCountIncr": 0,
@@ -541,7 +478,6 @@
       "provinceName": "黑龙江省",
       "provinceShortName": "黑龙江",
       "cityName": "鸡西",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 6,
       "confirmedCount": 52,
       "dangerCountIncr": 0,
@@ -553,7 +489,6 @@
       "provinceName": "山东省",
       "provinceShortName": "山东",
       "cityName": "青岛",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 6,
       "confirmedCount": 86,
       "dangerCountIncr": 0,
@@ -565,7 +500,6 @@
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "昆明",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 5,
       "confirmedCount": 58,
       "dangerCountIncr": 0,
@@ -577,7 +511,6 @@
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "西双版纳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 5,
       "confirmedCount": 20,
       "dangerCountIncr": 0,
@@ -589,7 +522,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "驻马店",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 4,
       "confirmedCount": 143,
       "dangerCountIncr": 0,
@@ -601,7 +533,6 @@
       "provinceName": "山西省",
       "provinceShortName": "山西",
       "cityName": "太原",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 4,
       "confirmedCount": 25,
       "dangerCountIncr": 0,
@@ -610,10 +541,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json"
     },
     {
+      "provinceName": "黑龙江省",
+      "provinceShortName": "黑龙江",
+      "cityName": "哈尔滨",
+      "currentConfirmedCount": 3,
+      "confirmedCount": 549,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 230000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
+    },
+    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "信阳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 3,
       "confirmedCount": 277,
       "dangerCountIncr": 0,
@@ -625,7 +566,6 @@
       "provinceName": "辽宁省",
       "provinceShortName": "辽宁",
       "cityName": "沈阳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 3,
       "confirmedCount": 81,
       "dangerCountIncr": 0,
@@ -637,7 +577,6 @@
       "provinceName": "江苏省",
       "provinceShortName": "江苏",
       "cityName": "无锡",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 3,
       "confirmedCount": 58,
       "dangerCountIncr": 0,
@@ -649,7 +588,6 @@
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "文山州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 3,
       "confirmedCount": 5,
       "dangerCountIncr": 0,
@@ -660,8 +598,18 @@
     {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
+      "cityName": "温州",
+      "currentConfirmedCount": 2,
+      "confirmedCount": 506,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 330000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
+    },
+    {
+      "provinceName": "浙江省",
+      "provinceShortName": "浙江",
       "cityName": "金华",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 2,
       "confirmedCount": 57,
       "dangerCountIncr": 0,
@@ -673,7 +621,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "湛江",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 2,
       "confirmedCount": 43,
       "dangerCountIncr": 0,
@@ -685,7 +632,6 @@
       "provinceName": "内蒙古自治区",
       "provinceShortName": "内蒙古",
       "cityName": "巴彦淖尔",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 2,
       "confirmedCount": 11,
       "dangerCountIncr": 0,
@@ -697,7 +643,6 @@
       "provinceName": "黑龙江省",
       "provinceShortName": "黑龙江",
       "cityName": "黑河",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 296,
       "dangerCountIncr": 0,
@@ -709,7 +654,6 @@
       "provinceName": "福建省",
       "provinceShortName": "福建",
       "cityName": "厦门",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 277,
       "dangerCountIncr": 0,
@@ -721,7 +665,6 @@
       "provinceName": "湖南省",
       "provinceShortName": "湖南",
       "cityName": "邵阳",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 103,
       "dangerCountIncr": 0,
@@ -733,7 +676,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "平顶山",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 59,
       "dangerCountIncr": 0,
@@ -745,7 +687,6 @@
       "provinceName": "广西壮族自治区",
       "provinceShortName": "广西",
       "cityName": "南宁",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 57,
       "dangerCountIncr": 0,
@@ -757,7 +698,6 @@
       "provinceName": "海南省",
       "provinceShortName": "海南",
       "cityName": "三亚",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 56,
       "dangerCountIncr": 0,
@@ -769,7 +709,6 @@
       "provinceName": "江苏省",
       "provinceShortName": "江苏",
       "cityName": "南通",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 41,
       "dangerCountIncr": 0,
@@ -778,10 +717,20 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
+      "provinceName": "河北省",
+      "provinceShortName": "河北",
+      "cityName": "邯郸",
+      "currentConfirmedCount": 1,
+      "confirmedCount": 33,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 130000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json"
+    },
+    {
       "provinceName": "四川省",
       "provinceShortName": "四川",
       "cityName": "凉山州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 15,
       "dangerCountIncr": 0,
@@ -793,7 +742,6 @@
       "provinceName": "四川省",
       "provinceShortName": "四川",
       "cityName": "眉山",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 9,
       "dangerCountIncr": 0,
@@ -805,7 +753,6 @@
       "provinceName": "山西省",
       "provinceShortName": "山西",
       "cityName": "忻州",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 8,
       "dangerCountIncr": 0,
@@ -817,7 +764,6 @@
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "三门峡",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 8,
       "dangerCountIncr": 0,
@@ -829,7 +775,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "汕尾",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 7,
       "dangerCountIncr": 0,
@@ -841,7 +786,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "云浮",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 7,
       "dangerCountIncr": 0,
@@ -853,7 +797,6 @@
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "河源",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 6,
       "dangerCountIncr": 0,
@@ -866,7 +809,6 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "yesterdayLocalConfirmedCount": 28,
       "currentConfirmedCount": 979,
       "confirmedCount": 4894,
       "dangerCountIncr": 0,
@@ -878,18 +820,16 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "深圳",
-          "yesterdayLocalConfirmedCount": 23,
-          "currentConfirmedCount": 540,
+          "currentConfirmedCount": 537,
           "confirmedCount": 1207,
           "dangerCountIncr": 0,
           "currentDangerCount": 6,
-          "currentConfirmedCountStr": "540"
+          "currentConfirmedCountStr": "537"
         },
         {
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "东莞",
-          "yesterdayLocalConfirmedCount": 5,
           "currentConfirmedCount": 159,
           "confirmedCount": 334,
           "dangerCountIncr": 0,
@@ -900,29 +840,26 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "珠海",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 82,
+          "currentConfirmedCount": 81,
           "confirmedCount": 241,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "82"
+          "currentConfirmedCountStr": "81"
         },
         {
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "广州",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 70,
+          "currentConfirmedCount": 66,
           "confirmedCount": 2239,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "70"
+          "currentConfirmedCountStr": "66"
         },
         {
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "佛山",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 37,
           "confirmedCount": 333,
           "dangerCountIncr": 0,
@@ -933,7 +870,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "惠州",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 33,
           "confirmedCount": 100,
           "dangerCountIncr": 0,
@@ -944,7 +880,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "中山",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 15,
           "confirmedCount": 91,
           "dangerCountIncr": 0,
@@ -955,7 +890,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "湛江",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 2,
           "confirmedCount": 43,
           "dangerCountIncr": 0,
@@ -966,7 +900,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "汕尾",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 7,
           "dangerCountIncr": 0,
@@ -977,7 +910,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "云浮",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 7,
           "dangerCountIncr": 0,
@@ -988,7 +920,6 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "河源",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 6,
           "dangerCountIncr": 0,
@@ -998,9 +929,50 @@
       ]
     },
     {
+      "provinceName": "上海市",
+      "provinceShortName": "上海",
+      "currentConfirmedCount": 546,
+      "confirmedCount": 4432,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 2,
+      "locationId": 310000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
+      "cities": [
+        {
+          "provinceName": "上海市",
+          "provinceShortName": "上海",
+          "cityName": "普陀区",
+          "currentConfirmedCount": 4,
+          "confirmedCount": 16,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "4"
+        },
+        {
+          "provinceName": "上海市",
+          "provinceShortName": "上海",
+          "cityName": "松江区",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 17,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "provinceName": "上海市",
+          "provinceShortName": "上海",
+          "cityName": "闵行区",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 20,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "内蒙古自治区",
       "provinceShortName": "内蒙古",
-      "yesterdayLocalConfirmedCount": 7,
       "currentConfirmedCount": 320,
       "confirmedCount": 1621,
       "dangerCountIncr": 0,
@@ -1012,7 +984,6 @@
           "provinceName": "内蒙古自治区",
           "provinceShortName": "内蒙古",
           "cityName": "呼和浩特",
-          "yesterdayLocalConfirmedCount": 6,
           "currentConfirmedCount": 291,
           "confirmedCount": 404,
           "dangerCountIncr": 0,
@@ -1023,7 +994,6 @@
           "provinceName": "内蒙古自治区",
           "provinceShortName": "内蒙古",
           "cityName": "包头",
-          "yesterdayLocalConfirmedCount": 1,
           "currentConfirmedCount": 20,
           "confirmedCount": 35,
           "dangerCountIncr": 0,
@@ -1034,7 +1004,6 @@
           "provinceName": "内蒙古自治区",
           "provinceShortName": "内蒙古",
           "cityName": "呼伦贝尔",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 7,
           "confirmedCount": 605,
           "dangerCountIncr": 0,
@@ -1045,7 +1014,6 @@
           "provinceName": "内蒙古自治区",
           "provinceShortName": "内蒙古",
           "cityName": "巴彦淖尔",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 2,
           "confirmedCount": 11,
           "dangerCountIncr": 0,
@@ -1055,474 +1023,10 @@
       ]
     },
     {
-      "provinceName": "湖北省",
-      "provinceShortName": "湖北",
-      "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 53,
-      "confirmedCount": 68373,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
-      "locationId": 420000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json",
-      "cities": [
-        {
-          "provinceName": "湖北省",
-          "provinceShortName": "湖北",
-          "cityName": "武汉",
-          "yesterdayLocalConfirmedCount": 4,
-          "currentConfirmedCount": 32,
-          "confirmedCount": 50412,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
-          "currentConfirmedCountStr": "32"
-        }
-      ]
-    },
-    {
-      "provinceName": "上海市",
-      "provinceShortName": "上海",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 544,
-      "confirmedCount": 4430,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 2,
-      "locationId": 310000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-      "cities": [
-        {
-          "provinceName": "上海市",
-          "provinceShortName": "上海",
-          "cityName": "普陀区",
-          "yesterdayLocalConfirmedCount": 3,
-          "currentConfirmedCount": 4,
-          "confirmedCount": 16,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "4"
-        }
-      ]
-    },
-    {
-      "provinceName": "吉林省",
-      "provinceShortName": "吉林",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 30,
-      "confirmedCount": 621,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 220000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-      "cities": [
-        {
-          "provinceName": "吉林省",
-          "provinceShortName": "吉林",
-          "cityName": "延边",
-          "yesterdayLocalConfirmedCount": 3,
-          "currentConfirmedCount": 7,
-          "confirmedCount": 15,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "7"
-        }
-      ]
-    },
-    {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 272,
-      "confirmedCount": 1130,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-      "cities": [
-        {
-          "provinceName": "广西壮族自治区",
-          "provinceShortName": "广西",
-          "cityName": "防城港",
-          "yesterdayLocalConfirmedCount": 2,
-          "currentConfirmedCount": 44,
-          "confirmedCount": 83,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "44"
-        },
-        {
-          "provinceName": "广西壮族自治区",
-          "provinceShortName": "广西",
-          "cityName": "百色",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 108,
-          "confirmedCount": 274,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "108"
-        },
-        {
-          "provinceName": "广西壮族自治区",
-          "provinceShortName": "广西",
-          "cityName": "南宁",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 57,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "江苏省",
-      "provinceShortName": "江苏",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 105,
-      "confirmedCount": 1780,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 28,
-      "locationId": 320000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
-      "cities": [
-        {
-          "provinceName": "江苏省",
-          "provinceShortName": "江苏",
-          "cityName": "苏州",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 118,
-          "confirmedCount": 205,
-          "dangerCountIncr": 1,
-          "currentDangerCount": 28,
-          "currentConfirmedCountStr": "118"
-        },
-        {
-          "provinceName": "江苏省",
-          "provinceShortName": "江苏",
-          "cityName": "无锡",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 3,
-          "confirmedCount": 58,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "3"
-        },
-        {
-          "provinceName": "江苏省",
-          "provinceShortName": "江苏",
-          "cityName": "南通",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 41,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "四川省",
-      "provinceShortName": "四川",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 95,
-      "confirmedCount": 1477,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 14,
-      "locationId": 510000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-      "cities": [
-        {
-          "provinceName": "四川省",
-          "provinceShortName": "四川",
-          "cityName": "成都",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 93,
-          "confirmedCount": 1068,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 14,
-          "currentConfirmedCountStr": "93"
-        },
-        {
-          "provinceName": "四川省",
-          "provinceShortName": "四川",
-          "cityName": "凉山州",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 15,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        },
-        {
-          "provinceName": "四川省",
-          "provinceShortName": "四川",
-          "cityName": "眉山",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 9,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "云南省",
-      "provinceShortName": "云南",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 80,
-      "confirmedCount": 1960,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 5,
-      "locationId": 530000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json",
-      "cities": [
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "德宏州",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 52,
-          "confirmedCount": 311,
-          "dangerCountIncr": 1,
-          "currentDangerCount": 2,
-          "currentConfirmedCountStr": "52"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "红河州",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 15,
-          "confirmedCount": 24,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
-          "currentConfirmedCountStr": "15"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "临沧",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 10,
-          "confirmedCount": 11,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "10"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "昆明",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 5,
-          "confirmedCount": 58,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "5"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "西双版纳",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 5,
-          "confirmedCount": 20,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "5"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "文山州",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 3,
-          "confirmedCount": 5,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "3"
-        }
-      ]
-    },
-    {
-      "provinceName": "天津市",
-      "provinceShortName": "天津",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 40,
-      "confirmedCount": 1132,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 120000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-      "cities": [
-        {
-          "provinceName": "天津市",
-          "provinceShortName": "天津",
-          "cityName": "滨海新区",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 13,
-          "confirmedCount": 35,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "13"
-        },
-        {
-          "provinceName": "天津市",
-          "provinceShortName": "天津",
-          "cityName": "东丽区",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 7,
-          "confirmedCount": 12,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "7"
-        },
-        {
-          "provinceName": "天津市",
-          "provinceShortName": "天津",
-          "cityName": "北辰区",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 8,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "黑龙江省",
-      "provinceShortName": "黑龙江",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 25,
-      "confirmedCount": 2088,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 14,
-      "locationId": 230000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
-      "cities": [
-        {
-          "provinceName": "黑龙江省",
-          "provinceShortName": "黑龙江",
-          "cityName": "哈尔滨",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 3,
-          "confirmedCount": 549,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "notShowCurrentConfirmedCount": true,
-          "currentConfirmedCountStr": "-"
-        },
-        {
-          "provinceName": "黑龙江省",
-          "provinceShortName": "黑龙江",
-          "cityName": "牡丹江",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 11,
-          "confirmedCount": 73,
-          "dangerCountIncr": 1,
-          "currentDangerCount": 10,
-          "currentConfirmedCountStr": "11"
-        },
-        {
-          "provinceName": "黑龙江省",
-          "provinceShortName": "黑龙江",
-          "cityName": "鸡西",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 6,
-          "confirmedCount": 52,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
-          "currentConfirmedCountStr": "6"
-        },
-        {
-          "provinceName": "黑龙江省",
-          "provinceShortName": "黑龙江",
-          "cityName": "黑河",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 296,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "山西省",
-      "provinceShortName": "山西",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 18,
-      "confirmedCount": 286,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 140000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
-      "cities": [
-        {
-          "provinceName": "山西省",
-          "provinceShortName": "山西",
-          "cityName": "晋中",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 13,
-          "confirmedCount": 54,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "13"
-        },
-        {
-          "provinceName": "山西省",
-          "provinceShortName": "山西",
-          "cityName": "太原",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 4,
-          "confirmedCount": 25,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "4"
-        },
-        {
-          "provinceName": "山西省",
-          "provinceShortName": "山西",
-          "cityName": "忻州",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 8,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "河北省",
-      "provinceShortName": "河北",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 1477,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 130000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
-      "cities": [
-        {
-          "provinceName": "河北省",
-          "provinceShortName": "河北",
-          "cityName": "邯郸",
-          "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 33,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 284,
-      "confirmedCount": 2266,
+      "currentConfirmedCount": 286,
+      "confirmedCount": 2268,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 330000,
@@ -1532,7 +1036,6 @@
           "provinceName": "浙江省",
           "provinceShortName": "浙江",
           "cityName": "杭州",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 141,
           "confirmedCount": 328,
           "dangerCountIncr": 0,
@@ -1543,7 +1046,6 @@
           "provinceName": "浙江省",
           "provinceShortName": "浙江",
           "cityName": "宁波",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 110,
           "confirmedCount": 269,
           "dangerCountIncr": 0,
@@ -1554,7 +1056,6 @@
           "provinceName": "浙江省",
           "provinceShortName": "浙江",
           "cityName": "绍兴",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 38,
           "confirmedCount": 430,
           "dangerCountIncr": 0,
@@ -1564,8 +1065,17 @@
         {
           "provinceName": "浙江省",
           "provinceShortName": "浙江",
+          "cityName": "温州",
+          "currentConfirmedCount": 2,
+          "confirmedCount": 506,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "2"
+        },
+        {
+          "provinceName": "浙江省",
+          "provinceShortName": "浙江",
           "cityName": "金华",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 2,
           "confirmedCount": 57,
           "dangerCountIncr": 0,
@@ -1575,9 +1085,50 @@
       ]
     },
     {
+      "provinceName": "广西壮族自治区",
+      "provinceShortName": "广西",
+      "currentConfirmedCount": 272,
+      "confirmedCount": 1130,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 450000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
+      "cities": [
+        {
+          "provinceName": "广西壮族自治区",
+          "provinceShortName": "广西",
+          "cityName": "百色",
+          "currentConfirmedCount": 108,
+          "confirmedCount": 274,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "108"
+        },
+        {
+          "provinceName": "广西壮族自治区",
+          "provinceShortName": "广西",
+          "cityName": "防城港",
+          "currentConfirmedCount": 44,
+          "confirmedCount": 83,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "44"
+        },
+        {
+          "provinceName": "广西壮族自治区",
+          "provinceShortName": "广西",
+          "cityName": "南宁",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 57,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "辽宁省",
       "provinceShortName": "辽宁",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 199,
       "confirmedCount": 1029,
       "dangerCountIncr": 0,
@@ -1589,7 +1140,6 @@
           "provinceName": "辽宁省",
           "provinceShortName": "辽宁",
           "cityName": "葫芦岛",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 204,
           "confirmedCount": 216,
           "dangerCountIncr": 0,
@@ -1600,7 +1150,6 @@
           "provinceName": "辽宁省",
           "provinceShortName": "辽宁",
           "cityName": "沈阳",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 3,
           "confirmedCount": 81,
           "dangerCountIncr": 0,
@@ -1612,7 +1161,6 @@
     {
       "provinceName": "北京市",
       "provinceShortName": "北京",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 121,
       "confirmedCount": 1495,
       "dangerCountIncr": 0,
@@ -1624,7 +1172,6 @@
           "provinceName": "北京市",
           "provinceShortName": "北京",
           "cityName": "昌平区",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 37,
           "confirmedCount": 71,
           "dangerCountIncr": 0,
@@ -1636,7 +1183,6 @@
           "provinceName": "北京市",
           "provinceShortName": "北京",
           "cityName": "朝阳区",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 20,
           "confirmedCount": 100,
           "dangerCountIncr": 0,
@@ -1647,7 +1193,6 @@
           "provinceName": "北京市",
           "provinceShortName": "北京",
           "cityName": "海淀区",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 15,
           "confirmedCount": 97,
           "dangerCountIncr": 0,
@@ -1658,7 +1203,6 @@
           "provinceName": "北京市",
           "provinceShortName": "北京",
           "cityName": "房山区",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 11,
           "confirmedCount": 31,
           "dangerCountIncr": 0,
@@ -1670,7 +1214,6 @@
           "provinceName": "北京市",
           "provinceShortName": "北京",
           "cityName": "经济开发区",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 3,
           "confirmedCount": 3,
           "dangerCountIncr": 0,
@@ -1681,9 +1224,92 @@
       ]
     },
     {
+      "provinceName": "江苏省",
+      "provinceShortName": "江苏",
+      "currentConfirmedCount": 105,
+      "confirmedCount": 1780,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 28,
+      "locationId": 320000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
+      "cities": [
+        {
+          "provinceName": "江苏省",
+          "provinceShortName": "江苏",
+          "cityName": "苏州",
+          "currentConfirmedCount": 118,
+          "confirmedCount": 205,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 28,
+          "currentConfirmedCountStr": "118"
+        },
+        {
+          "provinceName": "江苏省",
+          "provinceShortName": "江苏",
+          "cityName": "无锡",
+          "currentConfirmedCount": 3,
+          "confirmedCount": 58,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "3"
+        },
+        {
+          "provinceName": "江苏省",
+          "provinceShortName": "江苏",
+          "cityName": "南通",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 41,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
+      "provinceName": "四川省",
+      "provinceShortName": "四川",
+      "currentConfirmedCount": 95,
+      "confirmedCount": 1477,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 14,
+      "locationId": 510000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
+      "cities": [
+        {
+          "provinceName": "四川省",
+          "provinceShortName": "四川",
+          "cityName": "成都",
+          "currentConfirmedCount": 93,
+          "confirmedCount": 1068,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 14,
+          "currentConfirmedCountStr": "93"
+        },
+        {
+          "provinceName": "四川省",
+          "provinceShortName": "四川",
+          "cityName": "凉山州",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 15,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "provinceName": "四川省",
+          "provinceShortName": "四川",
+          "cityName": "眉山",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 9,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "福建省",
       "provinceShortName": "福建",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 90,
       "confirmedCount": 1566,
       "dangerCountIncr": 0,
@@ -1695,7 +1321,6 @@
           "provinceName": "福建省",
           "provinceShortName": "福建",
           "cityName": "厦门",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 277,
           "dangerCountIncr": 0,
@@ -1705,9 +1330,102 @@
       ]
     },
     {
+      "provinceName": "云南省",
+      "provinceShortName": "云南",
+      "currentConfirmedCount": 80,
+      "confirmedCount": 1960,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 5,
+      "locationId": 530000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json",
+      "cities": [
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "德宏州",
+          "currentConfirmedCount": 52,
+          "confirmedCount": 311,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 2,
+          "currentConfirmedCountStr": "52"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "红河州",
+          "currentConfirmedCount": 15,
+          "confirmedCount": 24,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 2,
+          "currentConfirmedCountStr": "15"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "临沧",
+          "currentConfirmedCount": 10,
+          "confirmedCount": 11,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "10"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "昆明",
+          "currentConfirmedCount": 5,
+          "confirmedCount": 58,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "5"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "西双版纳",
+          "currentConfirmedCount": 5,
+          "confirmedCount": 20,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "5"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
+          "cityName": "文山州",
+          "currentConfirmedCount": 3,
+          "confirmedCount": 5,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "3"
+        }
+      ]
+    },
+    {
+      "provinceName": "湖北省",
+      "provinceShortName": "湖北",
+      "currentConfirmedCount": 53,
+      "confirmedCount": 68373,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 5,
+      "locationId": 420000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/618/3398299751673487511-135.json",
+      "cities": [
+        {
+          "provinceName": "湖北省",
+          "provinceShortName": "湖北",
+          "cityName": "武汉",
+          "currentConfirmedCount": 32,
+          "confirmedCount": 50412,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 5,
+          "currentConfirmedCountStr": "32"
+        }
+      ]
+    },
+    {
       "provinceName": "山东省",
       "provinceShortName": "山东",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 45,
       "confirmedCount": 1142,
       "dangerCountIncr": 0,
@@ -1719,7 +1437,6 @@
           "provinceName": "山东省",
           "provinceShortName": "山东",
           "cityName": "青岛",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 6,
           "confirmedCount": 86,
           "dangerCountIncr": 0,
@@ -1729,9 +1446,167 @@
       ]
     },
     {
+      "provinceName": "天津市",
+      "provinceShortName": "天津",
+      "currentConfirmedCount": 40,
+      "confirmedCount": 1132,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 120000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
+      "cities": [
+        {
+          "provinceName": "天津市",
+          "provinceShortName": "天津",
+          "cityName": "滨海新区",
+          "currentConfirmedCount": 13,
+          "confirmedCount": 35,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "13"
+        },
+        {
+          "provinceName": "天津市",
+          "provinceShortName": "天津",
+          "cityName": "东丽区",
+          "currentConfirmedCount": 7,
+          "confirmedCount": 12,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "7"
+        },
+        {
+          "provinceName": "天津市",
+          "provinceShortName": "天津",
+          "cityName": "北辰区",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 8,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
+      "provinceName": "吉林省",
+      "provinceShortName": "吉林",
+      "currentConfirmedCount": 30,
+      "confirmedCount": 621,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 1,
+      "locationId": 220000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
+      "cities": [
+        {
+          "provinceName": "吉林省",
+          "provinceShortName": "吉林",
+          "cityName": "延边",
+          "currentConfirmedCount": 7,
+          "confirmedCount": 15,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "7"
+        }
+      ]
+    },
+    {
+      "provinceName": "黑龙江省",
+      "provinceShortName": "黑龙江",
+      "currentConfirmedCount": 25,
+      "confirmedCount": 2088,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 14,
+      "locationId": 230000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
+      "cities": [
+        {
+          "provinceName": "黑龙江省",
+          "provinceShortName": "黑龙江",
+          "cityName": "牡丹江",
+          "currentConfirmedCount": 11,
+          "confirmedCount": 73,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 10,
+          "currentConfirmedCountStr": "11"
+        },
+        {
+          "provinceName": "黑龙江省",
+          "provinceShortName": "黑龙江",
+          "cityName": "鸡西",
+          "currentConfirmedCount": 6,
+          "confirmedCount": 52,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 3,
+          "currentConfirmedCountStr": "6"
+        },
+        {
+          "provinceName": "黑龙江省",
+          "provinceShortName": "黑龙江",
+          "cityName": "哈尔滨",
+          "currentConfirmedCount": 3,
+          "confirmedCount": 549,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "notShowCurrentConfirmedCount": true,
+          "currentConfirmedCountStr": "-"
+        },
+        {
+          "provinceName": "黑龙江省",
+          "provinceShortName": "黑龙江",
+          "cityName": "黑河",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 296,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 1,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
+      "provinceName": "山西省",
+      "provinceShortName": "山西",
+      "currentConfirmedCount": 18,
+      "confirmedCount": 286,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 140000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/196/3398299755968040081-135.json",
+      "cities": [
+        {
+          "provinceName": "山西省",
+          "provinceShortName": "山西",
+          "cityName": "晋中",
+          "currentConfirmedCount": 13,
+          "confirmedCount": 54,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "13"
+        },
+        {
+          "provinceName": "山西省",
+          "provinceShortName": "山西",
+          "cityName": "太原",
+          "currentConfirmedCount": 4,
+          "confirmedCount": 25,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "4"
+        },
+        {
+          "provinceName": "山西省",
+          "provinceShortName": "山西",
+          "cityName": "忻州",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 8,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 15,
       "confirmedCount": 2672,
       "dangerCountIncr": 0,
@@ -1743,7 +1618,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "安阳",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 467,
           "confirmedCount": 522,
           "dangerCountIncr": 0,
@@ -1755,7 +1629,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "许昌",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 366,
           "confirmedCount": 405,
           "dangerCountIncr": 0,
@@ -1767,7 +1640,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "郑州",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 161,
           "confirmedCount": 488,
           "dangerCountIncr": 0,
@@ -1779,7 +1651,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "周口",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 25,
           "confirmedCount": 101,
           "dangerCountIncr": 0,
@@ -1791,7 +1662,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "商丘",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 12,
           "confirmedCount": 103,
           "dangerCountIncr": 0,
@@ -1803,7 +1673,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "洛阳",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 10,
           "confirmedCount": 41,
           "dangerCountIncr": 0,
@@ -1815,7 +1684,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "开封",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 7,
           "confirmedCount": 33,
           "dangerCountIncr": 0,
@@ -1827,7 +1695,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "驻马店",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 4,
           "confirmedCount": 143,
           "dangerCountIncr": 0,
@@ -1839,7 +1706,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "平顶山",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 59,
           "dangerCountIncr": 0,
@@ -1851,7 +1717,6 @@
           "provinceName": "河南省",
           "provinceShortName": "河南",
           "cityName": "三门峡",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 8,
           "dangerCountIncr": 0,
@@ -1864,7 +1729,6 @@
     {
       "provinceName": "湖南省",
       "provinceShortName": "湖南",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 4,
       "confirmedCount": 1234,
       "dangerCountIncr": 0,
@@ -1876,7 +1740,6 @@
           "provinceName": "湖南省",
           "provinceShortName": "湖南",
           "cityName": "邵阳",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 103,
           "dangerCountIncr": 0,
@@ -1886,9 +1749,30 @@
       ]
     },
     {
+      "provinceName": "河北省",
+      "provinceShortName": "河北",
+      "currentConfirmedCount": 1,
+      "confirmedCount": 1477,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 130000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
+      "cities": [
+        {
+          "provinceName": "河北省",
+          "provinceShortName": "河北",
+          "cityName": "邯郸",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 33,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "海南省",
       "provinceShortName": "海南",
-      "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
       "confirmedCount": 191,
       "dangerCountIncr": 0,
@@ -1900,7 +1784,6 @@
           "provinceName": "海南省",
           "provinceShortName": "海南",
           "cityName": "三亚",
-          "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 56,
           "dangerCountIncr": 0,
@@ -1942,8 +1825,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 5987,
-      "confirmedCount": 20582,
+      "currentConfirmedCount": 6058,
+      "confirmedCount": 20653,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 853,
@@ -1975,15 +1858,15 @@
       "cities": [
         {
           "cityName": "深圳",
-          "currentConfirmedCount": 540,
+          "currentConfirmedCount": 537,
           "confirmedCount": 1207,
           "suspectedCount": 3,
-          "curedCount": 664,
+          "curedCount": 667,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 6,
           "locationId": 440300,
-          "currentConfirmedCountStr": "540"
+          "currentConfirmedCountStr": "537"
         },
         {
           "cityName": "东莞",
@@ -1999,27 +1882,27 @@
         },
         {
           "cityName": "珠海",
-          "currentConfirmedCount": 82,
+          "currentConfirmedCount": 81,
           "confirmedCount": 241,
           "suspectedCount": 2,
-          "curedCount": 158,
+          "curedCount": 159,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440400,
-          "currentConfirmedCountStr": "82"
+          "currentConfirmedCountStr": "81"
         },
         {
           "cityName": "广州",
-          "currentConfirmedCount": 70,
+          "currentConfirmedCount": 66,
           "confirmedCount": 2239,
           "suspectedCount": 3,
-          "curedCount": 2168,
+          "curedCount": 2172,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "70"
+          "currentConfirmedCountStr": "66"
         },
         {
           "cityName": "佛山",
@@ -2071,15 +1954,15 @@
         },
         {
           "cityName": "阳江",
-          "currentConfirmedCount": 13,
+          "currentConfirmedCount": 12,
           "confirmedCount": 51,
           "suspectedCount": 0,
-          "curedCount": 38,
+          "curedCount": 39,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 441700,
-          "currentConfirmedCountStr": "13"
+          "currentConfirmedCountStr": "12"
         },
         {
           "cityName": "湛江",
@@ -2227,10 +2110,10 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -10,
+          "currentConfirmedCount": -1,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 10,
+          "curedCount": 1,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
@@ -2300,8 +2183,8 @@
     {
       "provinceName": "上海市",
       "provinceShortName": "上海",
-      "currentConfirmedCount": 544,
-      "confirmedCount": 4430,
+      "currentConfirmedCount": 546,
+      "confirmedCount": 4432,
       "suspectedCount": 393,
       "curedCount": 3879,
       "deadCount": 7,
@@ -2336,6 +2219,30 @@
           "midDangerCount": 1,
           "locationId": 310107,
           "currentConfirmedCountStr": "4"
+        },
+        {
+          "cityName": "闵行区",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 20,
+          "suspectedCount": 0,
+          "curedCount": 19,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 310112,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "cityName": "松江区",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 17,
+          "suspectedCount": 0,
+          "curedCount": 16,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 1,
+          "locationId": 310117,
+          "currentConfirmedCountStr": "1"
         },
         {
           "cityName": "外地来沪",
@@ -2386,18 +2293,6 @@
           "currentConfirmedCountStr": "0"
         },
         {
-          "cityName": "闵行区",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 19,
-          "suspectedCount": 0,
-          "curedCount": 19,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 310112,
-          "currentConfirmedCountStr": "0"
-        },
-        {
           "cityName": "徐汇区",
           "currentConfirmedCount": 0,
           "confirmedCount": 18,
@@ -2419,18 +2314,6 @@
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 310106,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "松江区",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 16,
-          "suspectedCount": 0,
-          "curedCount": 16,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 1,
-          "locationId": 310117,
           "currentConfirmedCountStr": "0"
         },
         {
@@ -3279,8 +3162,8 @@
     {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
-      "currentConfirmedCount": 284,
-      "confirmedCount": 2266,
+      "currentConfirmedCount": 286,
+      "confirmedCount": 2268,
       "suspectedCount": 68,
       "curedCount": 1981,
       "deadCount": 1,
@@ -3341,6 +3224,18 @@
           "currentConfirmedCountStr": "38"
         },
         {
+          "cityName": "温州",
+          "currentConfirmedCount": 2,
+          "confirmedCount": 506,
+          "suspectedCount": 0,
+          "curedCount": 503,
+          "deadCount": 1,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 330300,
+          "currentConfirmedCountStr": "2"
+        },
+        {
           "cityName": "金华",
           "currentConfirmedCount": 2,
           "confirmedCount": 57,
@@ -3351,18 +3246,6 @@
           "midDangerCount": 0,
           "locationId": 330700,
           "currentConfirmedCountStr": "2"
-        },
-        {
-          "cityName": "温州",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 504,
-          "suspectedCount": 0,
-          "curedCount": 503,
-          "deadCount": 1,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 330300,
-          "currentConfirmedCountStr": "0"
         },
         {
           "cityName": "台州",
@@ -9217,11 +9100,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4657236375,
+  "getPV": 4657247540,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1646319118000,
+    "modifyTime": 1646320811000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9237,20 +9120,18 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 106251,
-    "confirmedCount": 249048,
+    "currentConfirmedCount": 106326,
+    "confirmedCount": 249123,
     "suspectedCount": 14777,
     "curedCount": 136140,
     "deadCount": 6657,
     "seriousCount": 1298,
     "suspectedIncr": 160,
-    "currentConfirmedIncr": 19662,
-    "confirmedIncr": 20549,
+    "currentConfirmedIncr": 19737,
+    "confirmedIncr": 20624,
     "curedIncr": 709,
     "deadIncr": 178,
     "seriousIncr": 89,
-    "yesterdayConfirmedCountIncr": 20549,
-    "yesterdaySuspectedCountIncr": 160,
     "virus": "该字段已替换为说明1",
     "remark1": "易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病",
     "remark2": "潜伏期：一般为 3～7 天，最长不超过 14 天，潜伏期内可能存在传染性，其中无症状病例传染性非常罕见",
@@ -9443,15 +9324,14 @@
       "deadIncr": 8420
     },
     "globalStatistics": {
-      "currentConfirmedCount": 195432647,
-      "confirmedCount": 440238692,
+      "currentConfirmedCount": 195432722,
+      "confirmedCount": 440238767,
       "curedCount": 238821469,
       "deadCount": 5984576,
-      "currentConfirmedIncr": 1250180,
-      "confirmedIncr": 1614280,
+      "currentConfirmedIncr": 1250255,
+      "confirmedIncr": 1614355,
       "curedIncr": 355502,
-      "deadIncr": 8598,
-      "yesterdayConfirmedCountIncr": 1614280
+      "deadIncr": 8598
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0303/246/7954831205980235353-135.json",
     "highDangerCount": 10,
@@ -9461,7 +9341,7 @@
     {
       "id": 179618,
       "pubDate": 1646269273000,
-      "pubDateStr": "14小时前",
+      "pubDateStr": "15小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 54 例",
       "summary": "3月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例214例。其中境外输入病例160例（广东66例，上海39例，北京11例，吉林9例，广西8例，四川8例，河南5例，福建4例，山东4例，湖北2例，天津1例，浙江1例，安徽1例，甘肃1例），含24例由无症状感染者转为确诊病例（广东12例，四川6例，河南5例，广西1例）；本土病例54例（广东28例，其中深圳市23例、东莞市5例",
       "infoSource": "央视新闻app",
@@ -9474,7 +9354,7 @@
     {
       "id": 179624,
       "pubDate": 1646269815000,
-      "pubDateStr": "13小时前",
+      "pubDateStr": "14小时前",
       "title": "内蒙古 | 昨日新增 7 例本土确诊病例",
       "summary": "3月2日0—24时，内蒙古自治区报告新增本土确诊病例7例，其中呼和浩特市6例、包头市1例。新增本土确诊病例治愈出院27例（均在呼和浩特市）。\n截至3月2日24时，内蒙古自治区现有本土确诊病例320例，其中呼和浩特市291例、包头市20例、呼伦贝尔市7例、巴彦淖尔市2例。本土无症状感染者1例（在巴彦淖尔市）。境外输入无症状感染者1例（在通辽市）。均在定点医院隔离治疗，所有密切接触者均在指定场所集中隔",
       "infoSource": "央视新闻app",
@@ -9487,7 +9367,7 @@
     {
       "id": 179620,
       "pubDate": 1646269972000,
-      "pubDateStr": "13小时前",
+      "pubDateStr": "14小时前",
       "title": "浙江 | 昨日新增确诊境外 1 例",
       "summary": "浙江省卫健委通报：3月2日0—24时，浙江省新增确诊病例1例（文莱输入），新增无症状感染者1例（文莱输入），已排查密切接触者均已实施集中隔离。截至2日24时，浙江省累计报告确诊病例2266例（境外输入病例398例）。（总站记者 陈瑜艳 杨茜茜 倪铮）",
       "infoSource": "央视新闻app",
@@ -9500,7 +9380,7 @@
     {
       "id": 179613,
       "pubDate": 1646268102000,
-      "pubDateStr": "14小时前",
+      "pubDateStr": "15小时前",
       "title": "广西 | 昨日新增本土确诊病例 2 例",
       "summary": "3月2日0到24时，广西新增本土确诊病例2例（均在防城港，均为无症状感染者转确诊），本土无症状感染者6例（均为防城港市）。当日治愈出院本土确诊病例32例（均为百色市）。截至3月2日24时，广西现有153例本土确诊病例（百色市108例，南宁市1例，防城港市44例），本土无症状感染者12例（均为防城港市）。\n当日新增境外输入确诊病例8例（均为崇左市，其中1例为无症状感染者转确诊），境外输入无症状感染者",
       "infoSource": "央视新闻app",
@@ -9513,7 +9393,7 @@
     {
       "id": 179704,
       "pubDate": 1646300895000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "浙江 | 今日新增本土确诊病例 2 例",
       "summary": "浙江温州市今天下午举行新冠肺炎疫情防控工作新闻发布会，通报疫情情况：3月3日6时，温州市苍南县报告2例新冠肺炎初筛阳性病例。接报后，温州市迅速启动Ⅱ级应急响应，苍南县立即启动Ⅰ级响应，市县联动全面开展流行病学调查、相关人员排查、采样检测和防控管理，落实相关场所及环境消毒等防疫措施。2名阳性病例均已闭环转运至温州市第六人民医院隔离治疗，目前病情稳定。具体情况如下：&nbsp;\n病例1，吴某某，男，3",
       "infoSource": "央视新闻app",
