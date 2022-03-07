@@ -88,8 +88,8 @@
       "yesterdayLocalConfirmedCount": 19,
       "currentConfirmedCount": 861,
       "confirmedCount": 1540,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 9,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 6,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -220,8 +220,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 51,
       "confirmedCount": 90,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
@@ -484,8 +484,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 11,
       "confirmedCount": 73,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 10,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 12,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -881,8 +881,8 @@
       "yesterdayLocalConfirmedCount": 69,
       "currentConfirmedCount": 1378,
       "confirmedCount": 5370,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 14,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 11,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -904,8 +904,8 @@
           "yesterdayLocalConfirmedCount": 19,
           "currentConfirmedCount": 861,
           "confirmedCount": 1540,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 9,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 6,
           "currentConfirmedCountStr": "861"
         },
         {
@@ -1425,8 +1425,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 311,
       "confirmedCount": 1201,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "cities": [
@@ -1437,8 +1437,8 @@
           "yesterdayLocalConfirmedCount": 1,
           "currentConfirmedCount": 51,
           "confirmedCount": 90,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "51"
         },
         {
@@ -1819,8 +1819,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 27,
       "confirmedCount": 2093,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 14,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 16,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -1831,8 +1831,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 11,
           "confirmedCount": 73,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 10,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 12,
           "currentConfirmedCountStr": "11"
         },
         {
@@ -2015,7 +2015,7 @@
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 13,
+      "midDangerCount": 10,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -2027,7 +2027,7 @@
           "curedCount": 676,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 9,
+          "midDangerCount": 6,
           "locationId": 440300,
           "currentConfirmedCountStr": "861"
         },
@@ -2293,17 +2293,7 @@
         },
         {
           "cityName": "深圳",
-          "areaName": "宝安区松岗街道沙浦洋涌工业区6路3号、",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "龙岗区坂田街道马安堂社区侨联东10巷1号顺兴楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "罗湖区东门街道新园路明华广场1至6楼（含6A与M层）商业区",
+          "areaName": "宝安区松岗街道沙浦洋涌工业区6路3号",
           "dangerLevel": 2
         },
         {
@@ -2313,7 +2303,7 @@
         },
         {
           "cityName": "深圳",
-          "areaName": "罗湖区南湖街道春风路2026-6号向西花园向贵楼6至23楼住宅",
+          "areaName": "南湖街道春风路2026-6号向西花园向贵楼6至23楼住宅",
           "dangerLevel": 2
         },
         {
@@ -2329,11 +2319,6 @@
         {
           "cityName": "深圳",
           "areaName": "燕罗街道罗田北区234号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "中兴路高时石材B区A钢构厂房",
           "dangerLevel": 2
         },
         {
@@ -2638,7 +2623,7 @@
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 2,
       "detectOrgCount": 270,
       "vaccinationOrgCount": 15,
       "cities": [
@@ -2674,7 +2659,7 @@
           "curedCount": 39,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 2,
           "locationId": 450600,
           "currentConfirmedCountStr": "51"
         },
@@ -2826,7 +2811,12 @@
       "dangerAreas": [
         {
           "cityName": "防城港",
-          "areaName": "峒中镇友谊路口至官田路相交汇处、官田路至河堤路全段、峒中汽车站货场西面小巷所围成的区域",
+          "areaName": "防城区峒中镇友谊路口至官田路相交汇处、官田路至河堤路全段、峒中汽车站货场西面小巷所围成的区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "防城港",
+          "areaName": "那良镇滩散村滩散街区域（和平路-解放路-口岸大街-新大街-沿边公路-解放路横街的区域）",
           "dangerLevel": 2
         }
       ]
@@ -6376,7 +6366,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 14,
+      "midDangerCount": 16,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -6388,7 +6378,7 @@
           "curedCount": 62,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 10,
+          "midDangerCount": 12,
           "locationId": 231000,
           "currentConfirmedCountStr": "11"
         },
@@ -6567,12 +6557,12 @@
       "dangerAreas": [
         {
           "cityName": "牡丹江",
-          "areaName": "绥芬河海融富华苑23号楼",
+          "areaName": "海融富华苑23号楼",
           "dangerLevel": 2
         },
         {
           "cityName": "牡丹江",
-          "areaName": "绥芬河市吉祥花园3号楼",
+          "areaName": "吉祥花园3号楼",
           "dangerLevel": 2
         },
         {
@@ -6582,22 +6572,7 @@
         },
         {
           "cityName": "牡丹江",
-          "areaName": "绥芬河市铁路综合楼1号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "牡丹江",
-          "areaName": "绥芬河市天悦公寓",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "牡丹江",
-          "areaName": "绥芬河市新利A区2号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "牡丹江",
-          "areaName": "绥芬河天泽楼",
+          "areaName": "绥芬河市阳光小区7号楼",
           "dangerLevel": 2
         },
         {
@@ -6607,12 +6582,37 @@
         },
         {
           "cityName": "牡丹江",
-          "areaName": "绥芬河溪树庭院1期1号楼",
+          "areaName": "铁路综合楼1号楼",
           "dangerLevel": 2
         },
         {
           "cityName": "牡丹江",
-          "areaName": "绥芬河中天幸福家园一期2号楼",
+          "areaName": "天悦公寓",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "天泽楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "新利A区2号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "溪树庭院1期1号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "长春小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "中天幸福家园一期2号楼",
           "dangerLevel": 2
         },
         {
@@ -9132,11 +9132,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4658643423,
+  "getPV": 4658701839,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1646622598000,
+    "modifyTime": 1646623858000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9346,27 +9346,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 198552025,
-      "confirmedCount": 444743333,
+      "currentConfirmedCount": 199636266,
+      "confirmedCount": 445940267,
       "suspectedCount": 4,
-      "curedCount": 240192540,
-      "deadCount": 5998768,
+      "curedCount": 240301288,
+      "deadCount": 6002713,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -152809,
-      "confirmedIncr": 5612,
-      "curedIncr": 158237,
-      "deadIncr": 184
+      "currentConfirmedIncr": 931432,
+      "confirmedIncr": 1202546,
+      "curedIncr": 266985,
+      "deadIncr": 4129
     },
     "globalStatistics": {
-      "currentConfirmedCount": 198743969,
-      "confirmedCount": 445081829,
-      "curedCount": 240331596,
-      "deadCount": 6006264,
-      "currentConfirmedIncr": -134577,
-      "confirmedIncr": 24883,
-      "curedIncr": 159043,
-      "deadIncr": 417,
-      "yesterdayConfirmedCountIncr": 24883
+      "currentConfirmedCount": 199828210,
+      "confirmedCount": 446278763,
+      "curedCount": 240440344,
+      "deadCount": 6010209,
+      "currentConfirmedIncr": 949664,
+      "confirmedIncr": 1221817,
+      "curedIncr": 267791,
+      "deadIncr": 4362,
+      "yesterdayConfirmedCountIncr": 1221817
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0307/142/6894625842503606353-135.json",
     "highDangerCount": 12,
@@ -9376,7 +9376,7 @@
     {
       "id": 180197,
       "pubDate": 1646616755000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 214 例",
       "summary": "\n",
       "infoSource": "国家卫健委",
@@ -9389,7 +9389,7 @@
     {
       "id": 180187,
       "pubDate": 1646613730000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "吉林 | 昨日新增 54 例本土确诊病例",
       "summary": "　　3月6日0-24时，全省新增本地确诊病例54例（其中轻型53例、普通型1例），其中吉林市42例（含1例无症状感染者转为确诊病例）、长春市7例、延边州5例（含1例无症状感染者转为确诊病例）；全省新增本地无症状感染者12例，其中长春市5例、吉林市5例、延边州2例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n　　3月6日0-24时，全省新增境外输入确诊病例1例，为长春市报告。该人员3月1日从韩国首尔机场乘坐OZ303航班抵达长春龙嘉机场，入境后即落实海关检疫、核酸检测、点对点转运、集中隔离医学观察等闭环管理措施，无省内自行活动轨迹。长春市检测其新冠病毒核酸阳性，经专家组会诊，诊断为确诊病例（轻型）。该人员已由集中隔离点转送至定点医疗机构隔离诊治。其同航班人员均处于入境后的集中隔离医学观察期，均无省内自行活动轨迹。\n　　提醒广大公众，要密切关注各地发布的疫情动态信息，如与阳性感染者活动轨迹有交集，或近期有疫情发生地区旅居史，请立即主动向当地社区(村屯)或疾控机构报告，按要求配合做好相关疫情管控措施。如出现发热、咳嗽等急性呼吸道症状，请佩戴医用口罩及时到当地定点医疗机构发热门诊就诊。接种新冠疫苗是预防新冠肺炎的有效措施，请广大群众主动尽早接种，大家要树牢常态化防控意识，坚持外出戴口罩、勤洗手、常通风、保持社交距离、不聚餐、不聚集，减少疾病感染风险。",
       "infoSource": "吉林卫健委",
@@ -9402,7 +9402,7 @@
     {
       "id": 180182,
       "pubDate": 1646612965000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "四川 | 昨日新增 11 例境外确诊病例",
       "summary": "记者从相关部门获悉，3月6日0—24时，四川新增新型冠状病毒肺炎确诊病例11例，均为境外输入：\n1例为2月25日自中国香港乘机抵蓉进行隔离，1例为3月4日自中国香港乘机抵蓉进行隔离，均于3月6日确诊，\n9例为3月5日无症状感染者转确诊，\n无新增治愈出院病例，无新增疑似病例，无新增死亡病例。\n截至3月6日24时，全省累计报告新型冠状病毒肺炎确诊病例1520例（其中境外输入892例），累计治愈出院13",
       "infoSource": "央视新闻app",
@@ -9415,7 +9415,7 @@
     {
       "id": 180181,
       "pubDate": 1646611739000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "河北 | 昨日新增 9 例本土确诊病例 ",
       "summary": "据河北省卫健委消息，2022年3月6日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例9例（邢台市），新增本土无症状感染者1例（石家庄市）。\n截至3月6日24时，河北省现有本土确诊病例35例；尚在医学观察的本土无症状感染者3例。\n（总台记者 郭晓平 祁雅斌）\n&nbsp;\n&nbsp;",
       "infoSource": "央视新闻app",
@@ -9428,7 +9428,7 @@
     {
       "id": 180175,
       "pubDate": 1646610713000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "北京 | 昨日新增 6 例境外确诊病例",
       "summary": "3月6日0时至24时，北京无新增本土确诊病例、疑似病例和无症状感染者；新增6例境外输入确诊病例和3例境外输入无症状感染者，无新增疑似病例。治愈出院4例。\n确诊病例1：韩国籍，3月3日从韩国到达北京首都机场，海关经健康筛查并进行核酸检测后，经闭环管理送至集中隔离酒店，3月5日报告核酸检测结果为阳性，3月6日转至定点医院，综合流行病史、临床表现、实验室检测和影像学检查等结果，当日诊断为确诊病例，临床分",
       "infoSource": "央视新闻app",
