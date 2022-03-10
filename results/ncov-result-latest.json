@@ -112,8 +112,8 @@
       "yesterdayLocalConfirmedCount": 15,
       "currentConfirmedCount": 956,
       "confirmedCount": 1657,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 6,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -184,8 +184,8 @@
       "yesterdayLocalConfirmedCount": 7,
       "currentConfirmedCount": 10,
       "confirmedCount": 48,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 13,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
     },
@@ -1131,8 +1131,8 @@
       "yesterdayLocalConfirmedCount": 66,
       "currentConfirmedCount": 356,
       "confirmedCount": 1464,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 17,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 19,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
       "cities": [
@@ -1154,8 +1154,8 @@
           "yesterdayLocalConfirmedCount": 7,
           "currentConfirmedCount": 10,
           "confirmedCount": 48,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 11,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 13,
           "currentConfirmedCountStr": "10"
         },
         {
@@ -1373,8 +1373,8 @@
       "yesterdayLocalConfirmedCount": 17,
       "currentConfirmedCount": 1484,
       "confirmedCount": 5558,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 10,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -1385,8 +1385,8 @@
           "yesterdayLocalConfirmedCount": 15,
           "currentConfirmedCount": 956,
           "confirmedCount": 1657,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 6,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "956"
         },
         {
@@ -2488,7 +2488,7 @@
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 10,
+      "midDangerCount": 9,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -2500,7 +2500,7 @@
           "curedCount": 698,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 6,
+          "midDangerCount": 5,
           "locationId": 440300,
           "currentConfirmedCountStr": "956"
         },
@@ -2767,11 +2767,6 @@
         {
           "cityName": "深圳",
           "areaName": "宝安区松岗街道沙浦洋涌工业区6路3号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "罗湖区桂园街道华瑞大厦B座（不含底商）",
           "dangerLevel": 2
         },
         {
@@ -3326,7 +3321,7 @@
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
       "highDangerCount": 4,
-      "midDangerCount": 13,
+      "midDangerCount": 15,
       "detectOrgCount": 221,
       "vaccinationOrgCount": 113,
       "cities": [
@@ -3362,7 +3357,7 @@
           "curedCount": 37,
           "deadCount": 1,
           "highDangerCount": 2,
-          "midDangerCount": 9,
+          "midDangerCount": 11,
           "locationId": 371000,
           "currentConfirmedCountStr": "10"
         },
@@ -3571,6 +3566,11 @@
         },
         {
           "cityName": "威海",
+          "areaName": "凌典牛仔服装店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "威海",
           "areaName": "威海火炬高技术产业开发区仁和佳苑",
           "dangerLevel": 2
         },
@@ -3587,6 +3587,11 @@
         {
           "cityName": "威海",
           "areaName": "威海经济技术开发区齐鲁大道157号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "威海",
+          "areaName": "淄博市周村区大埠村牛仔服加工厂",
           "dangerLevel": 2
         },
         {
@@ -9688,11 +9693,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4660367898,
+  "getPV": 4660388085,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1646902476000,
+    "modifyTime": 1646903809000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9902,37 +9907,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 202379882,
-      "confirmedCount": 450322721,
+      "currentConfirmedCount": 202245250,
+      "confirmedCount": 450323078,
       "suspectedCount": 4,
-      "curedCount": 241917840,
-      "deadCount": 6024999,
+      "curedCount": 242052824,
+      "deadCount": 6025004,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1190101,
-      "confirmedIncr": 1833838,
-      "curedIncr": 633512,
-      "deadIncr": 10225
+      "currentConfirmedIncr": 1055469,
+      "confirmedIncr": 1834195,
+      "curedIncr": 768496,
+      "deadIncr": 10230
     },
     "globalStatistics": {
-      "currentConfirmedCount": 202602285,
-      "confirmedCount": 450694928,
-      "curedCount": 242059286,
-      "deadCount": 6033357,
-      "currentConfirmedIncr": 1201345,
-      "confirmedIncr": 1846306,
-      "curedIncr": 634445,
-      "deadIncr": 10516,
-      "yesterdayConfirmedCountIncr": 1846222
+      "currentConfirmedCount": 202467653,
+      "confirmedCount": 450695285,
+      "curedCount": 242194270,
+      "deadCount": 6033362,
+      "currentConfirmedIncr": 1066713,
+      "confirmedIncr": 1846663,
+      "curedIncr": 769429,
+      "deadIncr": 10521,
+      "yesterdayConfirmedCountIncr": 1846579
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0310/016/8478386388869166353-135.json",
     "highDangerCount": 10,
-    "midDangerCount": 167
+    "midDangerCount": 168
   },
   "getTimelineService1": [
     {
       "id": 180923,
       "pubDate": 1646875046000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 402 例",
       "summary": "3月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例528例。其中境外输入病例126例（上海42例，广东33例，北京14例，广西12例，河南7例，四川4例，甘肃4例，黑龙江3例，浙江3例，云南2例，江苏1例，福建1例），含17例由无症状感染者转为确诊病例（广东5例，北京4例，浙江3例，四川3例，河南2例）；本土病例402例（吉林165例，其中吉林市134例、长春市23例",
       "infoSource": "央视新闻app",
@@ -9945,7 +9950,7 @@
     {
       "id": 180911,
       "pubDate": 1646873212000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "吉林 | 昨日新增本地确诊病例 165 例",
       "summary": "3月9日0-24时，吉林全省新增本地确诊病例165例（其中轻型163例、普通型2例），其中吉林市134例、长春市23例、延边州7例、松原市1例（由无症状感染者转为确诊病例）；全省新增本地无症状感染者179例，其中吉林市149例、长春市25例、延边州5例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。",
       "infoSource": "央视新闻app",
@@ -9958,7 +9963,7 @@
     {
       "id": 180908,
       "pubDate": 1646873043000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广东 | 昨日新增本土确诊病例 17 例",
       "summary": "3月9日0-24时，广东省新增本土确诊病例17例，深圳报告15例，东莞报告1例，阳江报告1例。新增本土无症状感染者5例，均为东莞报告。\n广东省新增境外输入确诊病例33例（其中5例为无症状感染者转确诊），广州报告2例，分别来自斐济和埃塞俄比亚；佛山报告3例，均来自马来西亚；深圳报告21例，珠海报告5例，中山报告2例，均来自中国香港。新增境外输入无症状感染者22例，广州报告3例，分别来自伊朗、尼日利亚",
       "infoSource": "央视新闻app",
@@ -9971,7 +9976,7 @@
     {
       "id": 180897,
       "pubDate": 1646871058000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "河北 | 昨日新增本土确诊病例 10 例",
       "summary": "据河北省卫健委消息，2022年3月9日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例10例（邢台市7例、廊坊市2例、沧州市1例，均在隔离点发现），新增本土无症状感染者5例（邢台市1例、廊坊市1例、沧州市2例、石家庄市1例，均在隔离点发现）。无症状感染者解除医学观察1例。\n截至3月9日24时，河北省现有本土确诊病例60例；尚在医学观察本土无症状感染者7例。\n（总台记者 郭晓平 祁雅斌）",
       "infoSource": "央视新闻app",
@@ -9984,7 +9989,7 @@
     {
       "id": 180893,
       "pubDate": 1646870803000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "山东 | 昨日新增本土确诊病例 66 例",
       "summary": "3月9日0时至24时，山东省报告新增本土确诊病例66例（其中青岛56例，含3例由无症状感染者转归；威海7例；淄博2例；烟台1例）。无新增死亡病例。无新增疑似病例。\n当日无新增治愈出院确诊病例，解除医学观察的密切接触者285人。\n截至2022年3月9日24时，山东省报告现有确诊病例356例（其中境外输入55例，本土301例）。\n2020年1月22日至2022年3月9日24时，山东省累计报告确诊病例1",
       "infoSource": "央视新闻app",
