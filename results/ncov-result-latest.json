@@ -321,17 +321,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
     },
     {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "cityName": "百色",
-      "currentConfirmedCount": 37,
-      "confirmedCount": 279,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
-    },
-    {
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "佛山",
@@ -363,6 +352,17 @@
       "currentDangerCount": 10,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
+    },
+    {
+      "provinceName": "广西壮族自治区",
+      "provinceShortName": "广西",
+      "cityName": "百色",
+      "currentConfirmedCount": 30,
+      "confirmedCount": 279,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 450000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
     {
       "provinceName": "广东省",
@@ -431,6 +431,17 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json"
     },
     {
+      "provinceName": "重庆市",
+      "provinceShortName": "重庆",
+      "cityName": "重庆",
+      "currentConfirmedCount": 12,
+      "confirmedCount": 626,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 500000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json"
+    },
+    {
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "临沧",
@@ -484,17 +495,6 @@
       "currentDangerCount": 3,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
-    },
-    {
-      "provinceName": "重庆市",
-      "provinceShortName": "重庆",
-      "cityName": "重庆",
-      "currentConfirmedCount": 10,
-      "confirmedCount": 624,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 500000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json"
     },
     {
       "provinceName": "河北省",
@@ -1397,7 +1397,7 @@
       "provinceName": "广西壮族自治区",
       "provinceShortName": "广西",
       "currentConfirmedCount": 289,
-      "confirmedCount": 1237,
+      "confirmedCount": 1246,
       "dangerCountIncr": 0,
       "currentDangerCount": 2,
       "locationId": 450000,
@@ -1417,11 +1417,11 @@
           "provinceName": "广西壮族自治区",
           "provinceShortName": "广西",
           "cityName": "百色",
-          "currentConfirmedCount": 37,
+          "currentConfirmedCount": 30,
           "confirmedCount": 279,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "37"
+          "currentConfirmedCountStr": "30"
         },
         {
           "provinceName": "广西壮族自治区",
@@ -3604,9 +3604,9 @@
       "provinceName": "广西壮族自治区",
       "provinceShortName": "广西",
       "currentConfirmedCount": 289,
-      "confirmedCount": 1237,
+      "confirmedCount": 1246,
       "suspectedCount": 0,
-      "curedCount": 946,
+      "curedCount": 955,
       "deadCount": 2,
       "comment": "",
       "locationId": 450000,
@@ -3618,15 +3618,15 @@
       "cities": [
         {
           "cityName": "境外输入",
-          "currentConfirmedCount": 201,
-          "confirmedCount": 634,
+          "currentConfirmedCount": 208,
+          "confirmedCount": 643,
           "suspectedCount": 0,
-          "curedCount": 433,
+          "curedCount": 435,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "201"
+          "currentConfirmedCountStr": "208"
         },
         {
           "cityName": "防城港",
@@ -3642,15 +3642,15 @@
         },
         {
           "cityName": "百色",
-          "currentConfirmedCount": 37,
+          "currentConfirmedCount": 30,
           "confirmedCount": 279,
           "suspectedCount": 0,
-          "curedCount": 242,
+          "curedCount": 249,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 451000,
-          "currentConfirmedCountStr": "37"
+          "currentConfirmedCountStr": "30"
         },
         {
           "cityName": "南宁",
@@ -7569,8 +7569,8 @@
     {
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
-      "currentConfirmedCount": 10,
-      "confirmedCount": 624,
+      "currentConfirmedCount": 12,
+      "confirmedCount": 626,
       "suspectedCount": 15,
       "curedCount": 608,
       "deadCount": 6,
@@ -7584,15 +7584,15 @@
       "cities": [
         {
           "cityName": "境外输入",
-          "currentConfirmedCount": 10,
-          "confirmedCount": 40,
+          "currentConfirmedCount": 12,
+          "confirmedCount": 42,
           "suspectedCount": 0,
           "curedCount": 30,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "10"
+          "currentConfirmedCountStr": "12"
         },
         {
           "cityName": "万州区",
@@ -9489,11 +9489,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4660560973,
+  "getPV": 4660592805,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1646918807000,
+    "modifyTime": 1646959313000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9509,8 +9509,8 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 222403,
-    "confirmedCount": 372207,
+    "currentConfirmedCount": 222414,
+    "confirmedCount": 372218,
     "suspectedCount": 15836,
     "curedCount": 141446,
     "deadCount": 8358,
@@ -9707,8 +9707,8 @@
       "deadIncr": 0
     },
     "globalStatistics": {
-      "currentConfirmedCount": 202467653,
-      "confirmedCount": 450695285,
+      "currentConfirmedCount": 202467664,
+      "confirmedCount": 450695296,
       "curedCount": 242194270,
       "deadCount": 6033362
     },
@@ -9720,7 +9720,7 @@
     {
       "id": 180923,
       "pubDate": 1646875046000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "22小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 402 例",
       "summary": "3月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例528例。其中境外输入病例126例（上海42例，广东33例，北京14例，广西12例，河南7例，四川4例，甘肃4例，黑龙江3例，浙江3例，云南2例，江苏1例，福建1例），含17例由无症状感染者转为确诊病例（广东5例，北京4例，浙江3例，四川3例，河南2例）；本土病例402例（吉林165例，其中吉林市134例、长春市23例",
       "infoSource": "央视新闻app",
@@ -9733,7 +9733,7 @@
     {
       "id": 180911,
       "pubDate": 1646873212000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "23小时前",
       "title": "吉林 | 昨日新增本地确诊病例 165 例",
       "summary": "3月9日0-24时，吉林全省新增本地确诊病例165例（其中轻型163例、普通型2例），其中吉林市134例、长春市23例、延边州7例、松原市1例（由无症状感染者转为确诊病例）；全省新增本地无症状感染者179例，其中吉林市149例、长春市25例、延边州5例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。",
       "infoSource": "央视新闻app",
@@ -9746,7 +9746,7 @@
     {
       "id": 180908,
       "pubDate": 1646873043000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "23小时前",
       "title": "广东 | 昨日新增本土确诊病例 17 例",
       "summary": "3月9日0-24时，广东省新增本土确诊病例17例，深圳报告15例，东莞报告1例，阳江报告1例。新增本土无症状感染者5例，均为东莞报告。\n广东省新增境外输入确诊病例33例（其中5例为无症状感染者转确诊），广州报告2例，分别来自斐济和埃塞俄比亚；佛山报告3例，均来自马来西亚；深圳报告21例，珠海报告5例，中山报告2例，均来自中国香港。新增境外输入无症状感染者22例，广州报告3例，分别来自伊朗、尼日利亚",
       "infoSource": "央视新闻app",
@@ -9759,7 +9759,7 @@
     {
       "id": 180897,
       "pubDate": 1646871058000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "23小时前",
       "title": "河北 | 昨日新增本土确诊病例 10 例",
       "summary": "据河北省卫健委消息，2022年3月9日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例10例（邢台市7例、廊坊市2例、沧州市1例，均在隔离点发现），新增本土无症状感染者5例（邢台市1例、廊坊市1例、沧州市2例、石家庄市1例，均在隔离点发现）。无症状感染者解除医学观察1例。\n截至3月9日24时，河北省现有本土确诊病例60例；尚在医学观察本土无症状感染者7例。\n（总台记者 郭晓平 祁雅斌）",
       "infoSource": "央视新闻app",
@@ -9772,7 +9772,7 @@
     {
       "id": 180893,
       "pubDate": 1646870803000,
-      "pubDateStr": "23小时前",
+      "pubDateStr": "1天前",
       "title": "山东 | 昨日新增本土确诊病例 66 例",
       "summary": "3月9日0时至24时，山东省报告新增本土确诊病例66例（其中青岛56例，含3例由无症状感染者转归；威海7例；淄博2例；烟台1例）。无新增死亡病例。无新增疑似病例。\n当日无新增治愈出院确诊病例，解除医学观察的密切接触者285人。\n截至2022年3月9日24时，山东省报告现有确诊病例356例（其中境外输入55例，本土301例）。\n2020年1月22日至2022年3月9日24时，山东省累计报告确诊病例1",
       "infoSource": "央视新闻app",
