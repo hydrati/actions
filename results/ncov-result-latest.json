@@ -76,8 +76,8 @@
       "yesterdayLocalConfirmedCount": 63,
       "currentConfirmedCount": 167,
       "confirmedCount": 336,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -1271,7 +1271,7 @@
       "currentConfirmedCount": 678,
       "confirmedCount": 1269,
       "dangerCountIncr": 1,
-      "currentDangerCount": 21,
+      "currentDangerCount": 20,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -1293,8 +1293,8 @@
           "yesterdayLocalConfirmedCount": 63,
           "currentConfirmedCount": 167,
           "confirmedCount": 336,
-          "dangerCountIncr": 1,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "167"
         },
         {
@@ -3120,7 +3120,7 @@
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 20,
+      "midDangerCount": 19,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -3131,8 +3131,8 @@
           "suspectedCount": 12,
           "curedCount": 61,
           "deadCount": 1,
-          "highDangerCount": 0,
-          "midDangerCount": 19,
+          "highDangerCount": 1,
+          "midDangerCount": 18,
           "locationId": 220200,
           "currentConfirmedCountStr": "454"
         },
@@ -3143,7 +3143,7 @@
           "suspectedCount": 1,
           "curedCount": 169,
           "deadCount": 0,
-          "highDangerCount": 1,
+          "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 220100,
           "currentConfirmedCountStr": "167"
@@ -3247,7 +3247,7 @@
       ],
       "dangerAreas": [
         {
-          "cityName": "长春",
+          "cityName": "吉林市",
           "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
           "dangerLevel": 1
         },
@@ -3314,11 +3314,6 @@
         {
           "cityName": "吉林市",
           "areaName": "高新区高新街道园艺社区十委八组（深圳街以北、吉林大街以西、园艺路以南、园艺路以东）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
           "dangerLevel": 2
         },
         {
@@ -10220,11 +10215,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4661360817,
+  "getPV": 4661447700,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1647055013000,
+    "modifyTime": 1647058488000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10458,13 +10453,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0312/487/4095816986870996353-135.json",
     "highDangerCount": 14,
-    "midDangerCount": 214
+    "midDangerCount": 213
   },
   "getTimelineService1": [
     {
       "id": 181370,
       "pubDate": 1647046789000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 476 例",
       "summary": "3月11日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例588例。其中境外输入病例112例（广东30例，上海22例，四川12例，广西10例，山东7例，甘肃7例，北京5例，河南4例，辽宁3例，天津2例，吉林2例，湖北2例，重庆2例，黑龙江1例，浙江1例，安徽1例，湖南1例），含22例由无症状感染者转为确诊病例（四川11例，河南4例，广东4例，浙江1例，湖南1例，广西1例）；",
       "infoSource": "央视新闻app",
@@ -10477,7 +10472,7 @@
     {
       "id": 181371,
       "pubDate": 1647047066000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "陕西 | 昨日新增本土确诊病例 30 例",
       "summary": "3月11日0—24时，陕西新增报告本土确诊病例30例，其中西安市13例、宝鸡市12例、汉中市4例、杨凌区1例。\n(总台记者 谭海梅)",
       "infoSource": "央视新闻app",
@@ -10490,7 +10485,7 @@
     {
       "id": 181368,
       "pubDate": 1647046612000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "吉林 | 昨日新增本土确诊病例 66 例",
       "summary": "3月11日0—24时，吉林省吉林市新增本土确诊病例66例，均为轻型，其中蛟河市3例，桦甸市3例，永吉县1例；新增本土无症状感染者167例，其中桦甸市4例。\n目前，以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n当前吉林市疫情形势严峻，广大市民要进一步提高防范意识，自觉遵守疫情防控有关要求，减少人员流",
       "infoSource": "央视新闻app",
@@ -10503,7 +10498,7 @@
     {
       "id": 181364,
       "pubDate": 1647045737000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "广东 | 昨日新增本土确诊病例 33 例",
       "summary": "3月11日0—24时，广东省新增本土确诊病例33例，广州报告2例，深圳报告27例，东莞报告4例。新增本土无症状感染者191例，深圳报告2例，东莞报告188例，揭阳报告1例。\n全省新增境外输入确诊病例30例（其中4例为无症状感染者转确诊），广州报告3例，2例来自韩国，1例来自尼日利亚；佛山报告2例，分别来自越南和伊拉克；深圳报告21例，珠海报告2例，东莞报告1例，江门报告1例，均来自中国香港。新增境",
       "infoSource": "央视新闻app",
@@ -10516,7 +10511,7 @@
     {
       "id": 181373,
       "pubDate": 1647047557000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "江苏 | 昨日新增本土确诊病例 20 例",
       "summary": "3月11日0—24时，江苏新增本土确诊病例20例（连云港市报告，在定点医院隔离治疗），新增本土无症状感染者13例（连云港市报告12例；扬州市报告1例，为外省市返扬病例所在封控区筛查发现，均在定点医院接受隔离医学观察），新增境外输入无症状感染者2例。新增出院病例6例（本土4例，境外输入2例），解除隔离医学观察的无症状感染者4例（均为境外输入）。\n目前，在定点医院隔离治疗的确诊病例148例（本土123",
       "infoSource": "央视新闻app",
