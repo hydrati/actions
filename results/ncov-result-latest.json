@@ -65,7 +65,7 @@
       "currentConfirmedCount": 454,
       "confirmedCount": 516,
       "dangerCountIncr": 1,
-      "currentDangerCount": 19,
+      "currentDangerCount": 16,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -221,7 +221,7 @@
       "currentConfirmedCount": 265,
       "confirmedCount": 457,
       "dangerCountIncr": 1,
-      "currentDangerCount": 9,
+      "currentDangerCount": 8,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -1271,7 +1271,7 @@
       "currentConfirmedCount": 678,
       "confirmedCount": 1269,
       "dangerCountIncr": 1,
-      "currentDangerCount": 20,
+      "currentDangerCount": 17,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -1283,7 +1283,7 @@
           "currentConfirmedCount": 454,
           "confirmedCount": 516,
           "dangerCountIncr": 1,
-          "currentDangerCount": 19,
+          "currentDangerCount": 16,
           "currentConfirmedCountStr": "454"
         },
         {
@@ -1440,7 +1440,7 @@
       "currentConfirmedCount": 1558,
       "confirmedCount": 5683,
       "dangerCountIncr": 1,
-      "currentDangerCount": 19,
+      "currentDangerCount": 18,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -1463,7 +1463,7 @@
           "currentConfirmedCount": 265,
           "confirmedCount": 457,
           "dangerCountIncr": 1,
-          "currentDangerCount": 9,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "265"
         },
         {
@@ -2163,8 +2163,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 35,
       "confirmedCount": 2111,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 15,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 14,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2765,7 +2765,7 @@
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 18,
+      "midDangerCount": 17,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -2789,7 +2789,7 @@
           "curedCount": 191,
           "deadCount": 1,
           "highDangerCount": 1,
-          "midDangerCount": 8,
+          "midDangerCount": 7,
           "locationId": 441900,
           "currentConfirmedCountStr": "265"
         },
@@ -3113,11 +3113,6 @@
         },
         {
           "cityName": "东莞",
-          "areaName": "松山湖高新技术产业开发区3个区域",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "东莞",
           "areaName": "松山湖高新技术产业开发区阿里山路15号绿岛花园4栋",
           "dangerLevel": 2
         },
@@ -3145,7 +3140,7 @@
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 19,
+      "midDangerCount": 16,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -3157,7 +3152,7 @@
           "curedCount": 61,
           "deadCount": 1,
           "highDangerCount": 1,
-          "midDangerCount": 18,
+          "midDangerCount": 15,
           "locationId": 220200,
           "currentConfirmedCountStr": "454"
         },
@@ -3308,22 +3303,7 @@
         },
         {
           "cityName": "吉林市",
-          "areaName": "昌邑区桦皮厂镇张相村三组",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
           "areaName": "昌邑区两家子乡李屯村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "昌邑区两家子乡李屯村六组",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "昌邑区两家子乡李屯村一组",
           "dangerLevel": 2
         },
         {
@@ -7868,7 +7848,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 15,
+      "midDangerCount": 14,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -7941,7 +7921,7 @@
           "curedCount": 52,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 230300,
           "currentConfirmedCountStr": "0"
         },
@@ -8120,11 +8100,6 @@
         {
           "cityName": "黑河",
           "areaName": "爱辉区网通社区医院小区1号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "鸡西",
-          "areaName": "鸡东县人民医院",
           "dangerLevel": 2
         },
         {
@@ -10220,11 +10195,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4661631755,
+  "getPV": 4661654015,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1647079669000,
+    "modifyTime": 1647081669000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10458,13 +10433,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0312/487/4095816986870996353-135.json",
     "highDangerCount": 14,
-    "midDangerCount": 214
+    "midDangerCount": 209
   },
   "getTimelineService1": [
     {
       "id": 181370,
       "pubDate": 1647046789000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 476 例",
       "summary": "3月11日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例588例。其中境外输入病例112例（广东30例，上海22例，四川12例，广西10例，山东7例，甘肃7例，北京5例，河南4例，辽宁3例，天津2例，吉林2例，湖北2例，重庆2例，黑龙江1例，浙江1例，安徽1例，湖南1例），含22例由无症状感染者转为确诊病例（四川11例，河南4例，广东4例，浙江1例，湖南1例，广西1例）；",
       "infoSource": "央视新闻app",
@@ -10477,7 +10452,7 @@
     {
       "id": 181371,
       "pubDate": 1647047066000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "陕西 | 昨日新增本土确诊病例 30 例",
       "summary": "3月11日0—24时，陕西新增报告本土确诊病例30例，其中西安市13例、宝鸡市12例、汉中市4例、杨凌区1例。\n(总台记者 谭海梅)",
       "infoSource": "央视新闻app",
@@ -10490,7 +10465,7 @@
     {
       "id": 181368,
       "pubDate": 1647046612000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "吉林 | 昨日新增本土确诊病例 66 例",
       "summary": "3月11日0—24时，吉林省吉林市新增本土确诊病例66例，均为轻型，其中蛟河市3例，桦甸市3例，永吉县1例；新增本土无症状感染者167例，其中桦甸市4例。\n目前，以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n当前吉林市疫情形势严峻，广大市民要进一步提高防范意识，自觉遵守疫情防控有关要求，减少人员流",
       "infoSource": "央视新闻app",
@@ -10503,7 +10478,7 @@
     {
       "id": 181364,
       "pubDate": 1647045737000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广东 | 昨日新增本土确诊病例 33 例",
       "summary": "3月11日0—24时，广东省新增本土确诊病例33例，广州报告2例，深圳报告27例，东莞报告4例。新增本土无症状感染者191例，深圳报告2例，东莞报告188例，揭阳报告1例。\n全省新增境外输入确诊病例30例（其中4例为无症状感染者转确诊），广州报告3例，2例来自韩国，1例来自尼日利亚；佛山报告2例，分别来自越南和伊拉克；深圳报告21例，珠海报告2例，东莞报告1例，江门报告1例，均来自中国香港。新增境",
       "infoSource": "央视新闻app",
@@ -10514,15 +10489,15 @@
       "jumpUrl": ""
     },
     {
-      "id": 181373,
-      "pubDate": 1647047557000,
-      "pubDateStr": "8小时前",
-      "title": "江苏 | 昨日新增本土确诊病例 20 例",
-      "summary": "3月11日0—24时，江苏新增本土确诊病例20例（连云港市报告，在定点医院隔离治疗），新增本土无症状感染者13例（连云港市报告12例；扬州市报告1例，为外省市返扬病例所在封控区筛查发现，均在定点医院接受隔离医学观察），新增境外输入无症状感染者2例。新增出院病例6例（本土4例，境外输入2例），解除隔离医学观察的无症状感染者4例（均为境外输入）。\n目前，在定点医院隔离治疗的确诊病例148例（本土123",
+      "id": 181428,
+      "pubDate": 1647071807000,
+      "pubDateStr": "2小时前",
+      "title": "天津 | 多地调整为中风险地区",
+      "summary": "记者刚刚从天津市防控指挥部获悉，根据天津市当前疫情形势和防控工作需要，按照国务院应对新冠肺炎疫情联防联控机制关于科学划分、精准防控等工作要求，经市防控指挥部研判，并经市防控领导小组同意，自2022年3月12日起，将天津市津南区双港镇欣桃园21号楼1门；西青区西营门街王顶堤家园1号楼、17号楼，西青区西营门街赵苑西里8号楼，西青区精武镇金牛花园11号楼调整为中风险地区。天津市其他区域风险等级不变。\n",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=13163473945019355041&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=2853848943721089964&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 88695,
+      "articleId": 88737,
       "category": 1,
       "jumpUrl": ""
     }
