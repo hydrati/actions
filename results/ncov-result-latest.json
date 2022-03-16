@@ -172,8 +172,8 @@
       "yesterdayLocalConfirmedCount": 13,
       "currentConfirmedCount": 162,
       "confirmedCount": 175,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 17,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 18,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
     },
@@ -2049,7 +2049,7 @@
       "currentConfirmedCount": 273,
       "confirmedCount": 3099,
       "dangerCountIncr": 1,
-      "currentDangerCount": 33,
+      "currentDangerCount": 34,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
       "cities": [
@@ -2060,8 +2060,8 @@
           "yesterdayLocalConfirmedCount": 13,
           "currentConfirmedCount": 162,
           "confirmedCount": 175,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 17,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 18,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -5378,7 +5378,7 @@
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 32,
+      "midDangerCount": 33,
       "detectOrgCount": 276,
       "vaccinationOrgCount": 26,
       "cities": [
@@ -5390,7 +5390,7 @@
           "curedCount": 13,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 16,
+          "midDangerCount": 17,
           "locationId": 610300,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -5564,6 +5564,11 @@
         },
         {
           "cityName": "宝鸡",
+          "areaName": "高新区马营镇天玺台小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝鸡",
           "areaName": "高新区马营镇袁家坪村",
           "dangerLevel": 2
         },
@@ -5609,7 +5614,7 @@
         },
         {
           "cityName": "宝鸡",
-          "areaName": "渭滨区姜谭街道宝氮一区高新区马营镇天玺台小区",
+          "areaName": "渭滨区姜谭街道宝氮一区",
           "dangerLevel": 2
         },
         {
@@ -11495,11 +11500,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4664207450,
+  "getPV": 4664300321,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1647403015000,
+    "modifyTime": 1647404271000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11733,13 +11738,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0316/839/5402300817292377353-135.json",
     "highDangerCount": 20,
-    "midDangerCount": 334
+    "midDangerCount": 335
   },
   "getTimelineService1": [
     {
       "id": 182491,
       "pubDate": 1647392927000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 1860 例",
       "summary": "3月15日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1952例。其中境外输入病例92例（广西24例，广东21例，山东11例，上海10例，四川9例，浙江5例，北京3例，天津2例，辽宁2例，福建2例，河南2例，云南1例），含20例由无症状感染者转为确诊病例（四川6例，浙江5例，广东4例，河南2例，广西2例，天津1例）；本土病例1860例（吉林1456例，其中长春市1044",
       "infoSource": "央视新闻app",
@@ -11752,7 +11757,7 @@
     {
       "id": 182483,
       "pubDate": 1647391489000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "广东 | 昨日新增 59 例本土确诊病例",
       "summary": "3月15日0-24时，广东省新增本土确诊病例59例（其中1例为无症状感染者转确诊），深圳报告55例，珠海报告1例，东莞报告1例，中山报告1例，韶关报告1例。新增本土无症状感染者54例，广州报告1例，深圳报告37例，东莞报告16例。\n广东新增境外输入确诊病例21例（其中4例为无症状感染者转确诊），广州报告2例，分别来自韩国和巴林；深圳报告14例，珠海报告4例，江门报告1例，均来自中国香港。新增境外输",
       "infoSource": "央视新闻app",
@@ -11765,7 +11770,7 @@
     {
       "id": 182484,
       "pubDate": 1647391418000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "天津 | 昨日新增 51 例本土确诊病例",
       "summary": "2022年3月15日0－24时，天津市新增51例本土新冠肺炎确诊病例（含4例无症状感染者转为确诊病例）。新增2例境外输入性新冠肺炎确诊病例（含1例无症状感染者转为确诊病例）。新增17例本土无症状感染者，无新增境外输入无症状感染者。治愈出院2人（均为本土病例）。自2022年2月24日至3月15日，天津市累计报告本土新冠肺炎确诊病例271例，在院治疗246人，治愈出院25人。累计报告本土无症状感染者5",
       "infoSource": "央视新闻app",
@@ -11778,7 +11783,7 @@
     {
       "id": 182495,
       "pubDate": 1647393489000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "陕西 | 昨日新增 28 例本土确诊病例",
       "summary": "3月15日0-24时，陕西新增报告本土确诊病例28例，其中宝鸡市13例、西安市8例、汉中市5例、铜川市1例、咸阳市1例，其中。自3月5日以来，本轮疫情陕西省累计报告本土确诊病例273例（西安85例、宝鸡162例、汉中20例、铜川市3例、咸阳市2例、杨凌1例）。\n（总台记者 雷恺）",
       "infoSource": "央视新闻app",
@@ -11791,7 +11796,7 @@
     {
       "id": 182507,
       "pubDate": 1647396389000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "浙江 | 昨日新增 23 例本土确诊病例",
       "summary": "3月15日0-24时，浙江新增确诊病例28例（其中之前境外输入的无症状感染者转确诊5例，宁波市1例，嘉兴市7例，衢州市15例），新增无症状感染者12例（其中杭州市2例，温州市1例，湖州市1例，衢州市2例，乌克兰输入6例），已排查密切接触者均已实施集中隔离。截至15日24时，累计报告确诊病例2481例（境外输入病例486例）。\n（总台记者 吴文轩 李唐）",
       "infoSource": "央视新闻app",
