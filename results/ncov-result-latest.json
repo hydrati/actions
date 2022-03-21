@@ -329,7 +329,7 @@
       "currentConfirmedCount": 82,
       "confirmedCount": 2281,
       "dangerCountIncr": 1,
-      "currentDangerCount": 5,
+      "currentDangerCount": 4,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
     },
@@ -446,8 +446,8 @@
       "provinceShortName": "浙江",
       "cityName": "嘉兴",
       "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 42,
-      "confirmedCount": 88,
+      "currentConfirmedCount": 43,
+      "confirmedCount": 89,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 330000,
@@ -2394,7 +2394,7 @@
       "currentConfirmedCount": 335,
       "confirmedCount": 3198,
       "dangerCountIncr": 1,
-      "currentDangerCount": 30,
+      "currentDangerCount": 29,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
       "cities": [
@@ -2418,7 +2418,7 @@
           "currentConfirmedCount": 82,
           "confirmedCount": 2281,
           "dangerCountIncr": 1,
-          "currentDangerCount": 5,
+          "currentDangerCount": 4,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -2907,8 +2907,8 @@
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 547,
-      "confirmedCount": 2607,
+      "currentConfirmedCount": 548,
+      "confirmedCount": 2608,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 330000,
@@ -2930,11 +2930,11 @@
           "provinceShortName": "浙江",
           "cityName": "嘉兴",
           "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 42,
-          "confirmedCount": 88,
+          "currentConfirmedCount": 43,
+          "confirmedCount": 89,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "42"
+          "currentConfirmedCountStr": "43"
         },
         {
           "provinceName": "浙江省",
@@ -4593,8 +4593,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 7310,
-      "confirmedCount": 21905,
+      "currentConfirmedCount": 7408,
+      "confirmedCount": 22003,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 853,
@@ -6214,8 +6214,8 @@
     {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
-      "currentConfirmedCount": 547,
-      "confirmedCount": 2607,
+      "currentConfirmedCount": 548,
+      "confirmedCount": 2608,
       "suspectedCount": 68,
       "curedCount": 2059,
       "deadCount": 1,
@@ -6265,15 +6265,15 @@
         },
         {
           "cityName": "嘉兴",
-          "currentConfirmedCount": 42,
-          "confirmedCount": 88,
+          "currentConfirmedCount": 43,
+          "confirmedCount": 89,
           "suspectedCount": 0,
           "curedCount": 46,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 330400,
-          "currentConfirmedCountStr": "42"
+          "currentConfirmedCountStr": "43"
         },
         {
           "cityName": "温州",
@@ -7353,7 +7353,7 @@
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
       "highDangerCount": 3,
-      "midDangerCount": 27,
+      "midDangerCount": 26,
       "detectOrgCount": 276,
       "vaccinationOrgCount": 26,
       "cities": [
@@ -7378,7 +7378,7 @@
           "curedCount": 2196,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 5,
+          "midDangerCount": 4,
           "locationId": 610100,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -7656,11 +7656,6 @@
         {
           "cityName": "西安",
           "areaName": "新城区中山门街道东新社区金色时代公寓",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "西安",
-          "areaName": "新城区中山门街道万达小区2号楼",
           "dangerLevel": 2
         },
         {
@@ -12927,11 +12922,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4667666512,
+  "getPV": 4667688060,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1647853333000,
+    "modifyTime": 1647856525000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12947,15 +12942,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 265370,
-    "confirmedCount": 431271,
+    "currentConfirmedCount": 265469,
+    "confirmedCount": 431370,
     "suspectedCount": 16920,
     "curedCount": 154514,
     "deadCount": 11387,
     "seriousCount": 18327,
     "suspectedIncr": 80,
-    "currentConfirmedIncr": 1710,
-    "confirmedIncr": 3423,
+    "currentConfirmedIncr": 1809,
+    "confirmedIncr": 3522,
     "curedIncr": 1467,
     "deadIncr": 246,
     "seriousIncr": 2131,
@@ -13141,37 +13136,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 179218215,
+      "currentConfirmedCount": 179183778,
       "confirmedCount": 470050688,
       "suspectedCount": 4,
-      "curedCount": 284753835,
+      "curedCount": 284788272,
       "deadCount": 6078638,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -4366516,
+      "currentConfirmedIncr": -4400953,
       "confirmedIncr": 1555151,
-      "curedIncr": 5918974,
+      "curedIncr": 5953411,
       "deadIncr": 2693
     },
     "globalStatistics": {
-      "currentConfirmedCount": 179483585,
-      "confirmedCount": 470481959,
-      "curedCount": 284908349,
+      "currentConfirmedCount": 179449247,
+      "confirmedCount": 470482058,
+      "curedCount": 284942786,
       "deadCount": 6090025,
-      "currentConfirmedIncr": -4364806,
-      "confirmedIncr": 1558574,
-      "curedIncr": 5920441,
+      "currentConfirmedIncr": -4399144,
+      "confirmedIncr": 1558673,
+      "curedIncr": 5954878,
       "deadIncr": 2939,
       "yesterdayConfirmedCountIncr": 1558574
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0321/684/0764037471950668353-135.json",
     "highDangerCount": 33,
-    "midDangerCount": 539
+    "midDangerCount": 538
   },
   "getTimelineService1": [
     {
       "id": 183658,
       "pubDate": 1647824477000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例 1947 例",
       "summary": "3月20日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2027例。其中境外输入病例80例（湖南18例，上海17例，广西15例，广东7例，福建6例，北京4例，天津4例，黑龙江3例，山东3例，四川2例，浙江1例），含23例由无症状感染者转为确诊病例（湖南18例，广东2例，天津1例，浙江1例，四川1例）；本土病例1947例（吉林1542例，其中长春市1079例、吉林市452例",
       "infoSource": "央视新闻app",
@@ -13184,7 +13179,7 @@
     {
       "id": 183657,
       "pubDate": 1647824505000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "吉林 | 昨日新增本土确诊病例 1542 例",
       "summary": "据国家卫健委消息，吉林省昨日新增本土确诊病例1542例，其中长春市1079例、吉林市452例、四平市8例、延边朝鲜族自治州2例、松原市1例；新增本土无症状感染者549例，其中吉林市545例、松原市2例、长春市1例、四平市1例。\n（总台记者 赵文彬 张楚）",
       "infoSource": "央视新闻app",
@@ -13197,7 +13192,7 @@
     {
       "id": 183689,
       "pubDate": 1647828448000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "福建 | 昨日新增本土确诊病例 154 例",
       "summary": "福建昨日新增154例本土确诊病例。\n一、境外输入疫情\n3月20日0～24时，福建省报告新增境外输入确诊病例6例（均为厦门市报告）。\n当日报告新增境外输入无症状感染者4例（南平市报告2例，福州市报告1例，三明市报告1例）。\n截至3月20日24时，福建省累计报告境外输入确诊病例847例，目前住院67例，无死亡病例；现有报告境外输入疑似病例0例；现有报告境外输入无症状感染者尚在隔离医学观察25例。\n二、",
       "infoSource": "央视新闻app",
@@ -13210,7 +13205,7 @@
     {
       "id": 183652,
       "pubDate": 1647822957000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广东 | 昨日新增本土确诊病例 38 例",
       "summary": "3月20日0—24时，广东省新增本土确诊病例38例（其中3例为无症状感染者转确诊），广州报告3例，深圳报告33例，东莞报告1例，中山报告1例。新增本土无症状感染者16例，深圳报告11例，东莞报告4例，中山报告1例。\n广东省新增境外输入确诊病例7例（其中2例为无症状感染者转确诊），广州报告1例，深圳报告3例，珠海报告1例，中山报告1例，均来自中国香港；佛山报告1例，来自比利时。新增境外输入无症状感染",
       "infoSource": "央视新闻app",
@@ -13223,7 +13218,7 @@
     {
       "id": 183655,
       "pubDate": 1647823834000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "天津 | 昨日新增本土确诊病例 18 例",
       "summary": "2022年3月20日0—24时，天津市新增18例本土新冠肺炎确诊病例（含6例无症状感染者转为确诊病例）。新增4例境外输入性新冠肺炎确诊病例（含1例无症状感染者转为确诊病例）。新增7例本土无症状感染者，新增2例境外输入无症状感染者。\n自2022年2月24日至3月20日，天津市累计报告本土新冠肺炎确诊病例447例，在院治疗402人，治愈出院45人。累计报告本土无症状感染者68例，尚在医学观察28例，转",
       "infoSource": "央视新闻app",
