@@ -256,7 +256,7 @@
       "yesterdayLocalConfirmedCount": 5,
       "currentConfirmedCount": 190,
       "confirmedCount": 336,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 4,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
@@ -2904,7 +2904,7 @@
       "yesterdayLocalConfirmedCount": 5,
       "currentConfirmedCount": 209,
       "confirmedCount": 657,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 5,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
@@ -2916,7 +2916,7 @@
           "yesterdayLocalConfirmedCount": 5,
           "currentConfirmedCount": 190,
           "confirmedCount": 336,
-          "dangerCountIncr": 0,
+          "dangerCountIncr": 1,
           "currentDangerCount": 4,
           "currentConfirmedCountStr": "190"
         },
@@ -4779,8 +4779,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 7408,
-      "confirmedCount": 22003,
+      "currentConfirmedCount": 7497,
+      "confirmedCount": 22092,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 853,
@@ -8294,8 +8294,8 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 2,
-      "midDangerCount": 3,
+      "highDangerCount": 3,
+      "midDangerCount": 2,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -8306,8 +8306,8 @@
           "suspectedCount": 0,
           "curedCount": 144,
           "deadCount": 2,
-          "highDangerCount": 1,
-          "midDangerCount": 3,
+          "highDangerCount": 2,
+          "midDangerCount": 2,
           "locationId": 620100,
           "currentConfirmedCountStr": "190"
         },
@@ -8495,6 +8495,11 @@
       "dangerAreas": [
         {
           "cityName": "兰州",
+          "areaName": "兰州市七里河区秀川街道崔家崖大户村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "兰州新区秦川镇五道岘村",
           "dangerLevel": 1
         },
@@ -8502,11 +8507,6 @@
           "cityName": "白银",
           "areaName": "景泰县上沙沃镇大桥村",
           "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "兰州新区秦川园区秦川镇酷派酒店",
-          "dangerLevel": 2
         },
         {
           "cityName": "兰州",
@@ -13325,11 +13325,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4668243867,
+  "getPV": 4668265462,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1647939639000,
+    "modifyTime": 1647942039000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13345,15 +13345,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 267730,
-    "confirmedCount": 434834,
+    "currentConfirmedCount": 267819,
+    "confirmedCount": 434923,
     "suspectedCount": 16976,
     "curedCount": 155494,
     "deadCount": 11610,
     "seriousCount": 20155,
     "suspectedIncr": 57,
-    "currentConfirmedIncr": 2360,
-    "confirmedIncr": 3563,
+    "currentConfirmedIncr": 2449,
+    "confirmedIncr": 3652,
     "curedIncr": 980,
     "deadIncr": 223,
     "seriousIncr": 1828,
@@ -13539,31 +13539,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 180050659,
-      "confirmedCount": 471211446,
+      "currentConfirmedCount": 179982225,
+      "confirmedCount": 471211813,
       "suspectedCount": 4,
-      "curedCount": 285076887,
-      "deadCount": 6083900,
+      "curedCount": 285145686,
+      "deadCount": 6083902,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 866881,
-      "confirmedIncr": 1160758,
-      "curedIncr": 288615,
-      "deadIncr": 5262
+      "currentConfirmedIncr": 798447,
+      "confirmedIncr": 1161125,
+      "curedIncr": 357414,
+      "deadIncr": 5264
     },
     "globalStatistics": {
-      "currentConfirmedCount": 180318389,
-      "confirmedCount": 471646280,
-      "curedCount": 285232381,
-      "deadCount": 6095510,
-      "currentConfirmedIncr": 869241,
-      "confirmedIncr": 1164321,
-      "curedIncr": 289595,
-      "deadIncr": 5485,
-      "yesterdayConfirmedCountIncr": 1164321
+      "currentConfirmedCount": 180250044,
+      "confirmedCount": 471646736,
+      "curedCount": 285301180,
+      "deadCount": 6095512,
+      "currentConfirmedIncr": 800896,
+      "confirmedIncr": 1164777,
+      "curedIncr": 358394,
+      "deadIncr": 5487,
+      "yesterdayConfirmedCountIncr": 1164688
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0322/555/7898244334316488353-135.json",
-    "highDangerCount": 40,
-    "midDangerCount": 609
+    "highDangerCount": 41,
+    "midDangerCount": 608
   },
   "getTimelineService1": [
     {
@@ -13582,7 +13582,7 @@
     {
       "id": 183925,
       "pubDate": 1647911579000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "吉林 | 昨日新增 1902 例本土确诊病例",
       "summary": "3月21日0-24时，吉林全省新增本地确诊病例1902例（轻型1891例、普通型10例、重型1例），其中长春市1437例（含2例无症状感染者转为确诊病例）、吉林市438例（含31例无症状感染者转为确诊病例）、四平市23例、延边州4例。\n新增本地无症状感染者563例，其中吉林市558例、延边州3例、四平市1例、辽源市1例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者",
       "infoSource": "央视新闻app",
@@ -13595,7 +13595,7 @@
     {
       "id": 183901,
       "pubDate": 1647907539000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "辽宁 | 昨日新增 67 例本土确诊病例",
       "summary": "3月21日0—24时，辽宁省新增67例本土新冠肺炎确诊病例，其中沈阳市报告7例、大连市报告5例（含4例由无症状感染者转为确诊病例）、营口市报告55例；新增183例本土无症状感染者，其中沈阳市报告40例、大连市报告41例、营口市报告102例；新增1例境外输入新冠肺炎确诊病例和8例境外输入无症状感染者，均为沈阳市报告。治愈出院本土新冠肺炎确诊病例1例、境外输入新冠肺炎确诊病例2例、境外输入无症状感染者",
       "infoSource": "央视新闻app",
@@ -13608,7 +13608,7 @@
     {
       "id": 183898,
       "pubDate": 1647907503000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "黑龙江 | 昨日新增 43 例本土确诊病例",
       "summary": "2022年3月21日0-24时，黑龙江省新增新冠肺炎境外输入确诊病例1例（哈尔滨市报告，韩国输入）；新增本土确诊病例42例（均在哈尔滨市，其中五常市34例、尚志市7例、双城区1例），本土无症状感染者转确诊病例1例（五常市1例），新增本土无症状感染者13例（均在哈尔滨市，其中五常市11例、尚志市2例），新增阳性感染者均为隔离管控筛查发现。当日解除医学观察境外输入无症状感染者1例；治愈出院本土确诊病例",
       "infoSource": "央视新闻app",
