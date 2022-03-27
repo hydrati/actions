@@ -220,8 +220,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 16,
       "confirmedCount": 263,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 4,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 8,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json"
     },
@@ -266,7 +266,7 @@
       "provinceShortName": "甘肃",
       "cityName": "兰州",
       "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 172,
+      "currentConfirmedCount": 165,
       "confirmedCount": 354,
       "dangerCountIncr": 0,
       "currentDangerCount": 2,
@@ -556,8 +556,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 71,
       "confirmedCount": 193,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 46,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 28,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
@@ -2668,7 +2668,7 @@
       "currentConfirmedCount": 62,
       "confirmedCount": 1316,
       "dangerCountIncr": 1,
-      "currentDangerCount": 11,
+      "currentDangerCount": 15,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "cities": [
@@ -2690,8 +2690,8 @@
           "yesterdayLocalConfirmedCount": 2,
           "currentConfirmedCount": 16,
           "confirmedCount": 263,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "16"
         },
         {
@@ -2889,7 +2889,7 @@
       "provinceName": "甘肃省",
       "provinceShortName": "甘肃",
       "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 180,
+      "currentConfirmedCount": 172,
       "confirmedCount": 680,
       "dangerCountIncr": 0,
       "currentDangerCount": 2,
@@ -2901,11 +2901,11 @@
           "provinceShortName": "甘肃",
           "cityName": "兰州",
           "yesterdayLocalConfirmedCount": 1,
-          "currentConfirmedCount": 172,
+          "currentConfirmedCount": 165,
           "confirmedCount": 354,
           "dangerCountIncr": 0,
           "currentDangerCount": 2,
-          "currentConfirmedCountStr": "172"
+          "currentConfirmedCountStr": "165"
         },
         {
           "provinceName": "甘肃省",
@@ -3454,8 +3454,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 74,
       "confirmedCount": 1999,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 80,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 62,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "cities": [
@@ -3477,8 +3477,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 71,
           "confirmedCount": 193,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 46,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 28,
           "currentConfirmedCountStr": "71"
         },
         {
@@ -5155,8 +5155,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 7971,
-      "confirmedCount": 22566,
+      "currentConfirmedCount": 8174,
+      "confirmedCount": 22769,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 853,
@@ -8930,10 +8930,10 @@
     {
       "provinceName": "甘肃省",
       "provinceShortName": "甘肃",
-      "currentConfirmedCount": 180,
+      "currentConfirmedCount": 172,
       "confirmedCount": 680,
       "suspectedCount": 0,
-      "curedCount": 498,
+      "curedCount": 506,
       "deadCount": 2,
       "comment": "",
       "locationId": 620000,
@@ -8945,15 +8945,15 @@
       "cities": [
         {
           "cityName": "兰州",
-          "currentConfirmedCount": 172,
+          "currentConfirmedCount": 165,
           "confirmedCount": 354,
           "suspectedCount": 0,
-          "curedCount": 180,
+          "curedCount": 187,
           "deadCount": 2,
           "highDangerCount": 1,
           "midDangerCount": 1,
           "locationId": 620100,
-          "currentConfirmedCountStr": "172"
+          "currentConfirmedCountStr": "165"
         },
         {
           "cityName": "白银",
@@ -8981,15 +8981,15 @@
         },
         {
           "cityName": "境外输入",
-          "currentConfirmedCount": 3,
+          "currentConfirmedCount": 2,
           "confirmedCount": 184,
           "suspectedCount": 0,
-          "curedCount": 181,
+          "curedCount": 182,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "3"
+          "currentConfirmedCountStr": "2"
         },
         {
           "cityName": "陇南",
@@ -10069,7 +10069,7 @@
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "highDangerCount": 11,
-      "midDangerCount": 69,
+      "midDangerCount": 51,
       "detectOrgCount": 395,
       "vaccinationOrgCount": 261,
       "cities": [
@@ -10081,7 +10081,7 @@
           "curedCount": 122,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 46,
+          "midDangerCount": 28,
           "locationId": 320700,
           "currentConfirmedCountStr": "71"
         },
@@ -10312,16 +10312,6 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "凤凰名都10号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "凤凰名都9号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "海南小区32号楼",
           "dangerLevel": 2
         },
@@ -10333,11 +10323,6 @@
         {
           "cityName": "连云港",
           "areaName": "海州区宝泰商住楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "海州区金色大漠",
           "dangerLevel": 2
         },
         {
@@ -10362,16 +10347,6 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "海州区平高书香名邸1号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "海州区平高书香名邸4号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "海州区浦润花园4号楼",
           "dangerLevel": 2
         },
@@ -10382,17 +10357,7 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "海州区天顺国际花园11号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "海州区香豪凯旋广场5号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "海州区香溢江南小区12号楼",
           "dangerLevel": 2
         },
         {
@@ -10407,32 +10372,12 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "海州区御景龙湾A4号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "海州区御景龙湾C1号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "海州区御景龙湾D6号楼",
           "dangerLevel": 2
         },
         {
           "cityName": "连云港",
           "areaName": "海州区紫金公馆3号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "海州区制药巷5-114",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "江化北路82-5号",
           "dangerLevel": 2
         },
         {
@@ -10447,32 +10392,12 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "朐阳街道花园路1号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "双龙村涧西队65号",
           "dangerLevel": 2
         },
         {
           "cityName": "连云港",
-          "areaName": "同科汇丰国际A2号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "同科汇丰国际C10号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "天顺国际花园7号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "万润泰和苑4号楼",
           "dangerLevel": 2
         },
         {
@@ -10487,17 +10412,7 @@
         },
         {
           "cityName": "连云港",
-          "areaName": "西门村杨凤庄21号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
           "areaName": "小学路11-1号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "香溢江南小区7号楼",
           "dangerLevel": 2
         },
         {
@@ -10513,11 +10428,6 @@
         {
           "cityName": "连云港",
           "areaName": "易居公馆4号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "连云港",
-          "areaName": "园林村白虎山小区78号楼",
           "dangerLevel": 2
         },
         {
@@ -10906,7 +10816,7 @@
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 11,
+      "midDangerCount": 15,
       "detectOrgCount": 286,
       "vaccinationOrgCount": 65,
       "cities": [
@@ -10930,7 +10840,7 @@
           "curedCount": 245,
           "deadCount": 2,
           "highDangerCount": 0,
-          "midDangerCount": 4,
+          "midDangerCount": 8,
           "locationId": 430100,
           "currentConfirmedCountStr": "16"
         },
@@ -11105,6 +11015,46 @@
       ],
       "dangerAreas": [
         {
+          "cityName": "长沙",
+          "areaName": "韭菜园街道杜家园巷2号全院、",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "天心区大托铺街道火云山庄烤全羊店（湘江南路店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "文艺路街道五一大道351号院内居住区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "雨花区雅礼中学及中雅培粹学校区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "岳麓区湖南大学三食堂区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "岳麓区湖南大学信息科学与工程学院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "岳麓区阳光100小区一期二期三期",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "长沙",
+          "areaName": "长沙市芙蓉区定王台街道五一华府南北栋和名汇达商务楼区域",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "怀化",
           "areaName": "城南街道岳麓欧城依云堡、岳麓青城一期",
           "dangerLevel": 2
@@ -11132,26 +11082,6 @@
         {
           "cityName": "怀化",
           "areaName": "阳光华庭小区、怀化大厦、鸿福雅苑",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长沙",
-          "areaName": "韭菜园街道杜家园巷2号全院、",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长沙",
-          "areaName": "天心区大托铺街道火云山庄烤全羊店（湘江南路店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长沙",
-          "areaName": "文艺路街道五一大道351号院内居住区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长沙",
-          "areaName": "长沙市芙蓉区定王台街道五一华府南北栋和名汇达商务楼区域",
           "dangerLevel": 2
         },
         {
@@ -13535,11 +13465,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4670825432,
+  "getPV": 4670844701,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1648350522000,
+    "modifyTime": 1648371828000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13555,15 +13485,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 270030,
-    "confirmedCount": 449283,
+    "currentConfirmedCount": 270233,
+    "confirmedCount": 449486,
     "suspectedCount": 17253,
     "curedCount": 166661,
     "deadCount": 12592,
     "seriousCount": 34508,
     "suspectedIncr": 37,
-    "currentConfirmedIncr": -464,
-    "confirmedIncr": 2121,
+    "currentConfirmedIncr": -261,
+    "confirmedIncr": 2324,
     "curedIncr": 2446,
     "deadIncr": 139,
     "seriousIncr": 3658,
@@ -13749,37 +13679,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 186545696,
-      "confirmedCount": 479290146,
+      "currentConfirmedCount": 186545698,
+      "confirmedCount": 479290148,
       "suspectedCount": 4,
       "curedCount": 286623470,
       "deadCount": 6120980,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1241239,
-      "confirmedIncr": 1503597,
+      "currentConfirmedIncr": 1241241,
+      "confirmedIncr": 1503599,
       "curedIncr": 254903,
       "deadIncr": 7455
     },
     "globalStatistics": {
-      "currentConfirmedCount": 186815726,
-      "confirmedCount": 479739429,
+      "currentConfirmedCount": 186815931,
+      "confirmedCount": 479739634,
       "curedCount": 286790131,
       "deadCount": 6133572,
-      "currentConfirmedIncr": 1240775,
-      "confirmedIncr": 1505718,
+      "currentConfirmedIncr": 1240980,
+      "confirmedIncr": 1505923,
       "curedIncr": 257349,
       "deadIncr": 7594,
-      "yesterdayConfirmedCountIncr": 1505718
+      "yesterdayConfirmedCountIncr": 1505720
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0327/775/9971740727483779353-135.json",
     "highDangerCount": 55,
-    "midDangerCount": 560
+    "midDangerCount": 546
   },
   "getTimelineService1": [
     {
       "id": 184798,
       "pubDate": 1648342832000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委：昨日新增本土确诊病例 1217 例",
       "summary": "3月26日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1254例。其中境外输入病例37例（四川12例，广东8例，广西7例，上海6例，北京1例，天津1例，浙江1例，湖南1例），含15例由无症状感染者转为确诊病例（四川11例，天津1例，浙江1例，湖南1例，广东1例）；本土病例1217例（吉林1071例，其中长春市633例、吉林市434例、四平市4例；上海47例，其中闵行区1",
       "infoSource": "央视新闻app",
@@ -13792,7 +13722,7 @@
     {
       "id": 184794,
       "pubDate": 1648342248000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "吉林 | 昨日新增 1071 例本土确诊病例",
       "summary": "3月26日0—24时，吉林全省新增本地确诊病例1071例（轻型1042例、普通型25例、重型4例），其中长春市633例（含56例无症状感染者转为确诊病例）、吉林市434例（含46例无症状感染者转为确诊病例）、四平市4例（含1例无症状感染者转为确诊病例）；新增本地无症状感染者1007例，其中吉林市509例、长春市495例、辽源市2例、松原市1例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的",
       "infoSource": "央视新闻app",
@@ -13805,7 +13735,7 @@
     {
       "id": 184770,
       "pubDate": 1648338275000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "上海 | 昨日新增 45 例本土确诊病例",
       "summary": "上海市卫健委今早（27日）通报：2022年3月26日0—24时，新增本土新冠肺炎确诊病例45例和无症状感染者2631例，其中27例确诊病例和2363例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。新增境外输入性新冠肺炎确诊病例6例和无症状感染者2例，均在闭环管控中发现。\n2022年3月26日0—24时，新增本土新冠肺炎确诊病例45例。治愈出院17例。\n病例1，居住于徐汇区，病例2，居",
       "infoSource": "央视新闻app",
@@ -13818,7 +13748,7 @@
     {
       "id": 184775,
       "pubDate": 1648339629000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "辽宁 | 昨日新增 28 例本土确诊病例",
       "summary": "3月26日0—24时，辽宁省新增28例本土新冠肺炎确诊病例，其中沈阳市报告16例、大连市报告1例、鞍山市报告2例（含1例由无症状感染者转为确诊病例）、营口市报告7例（含3例由无症状感染者转为确诊病例）、铁岭市报告1例、葫芦岛市报告1例；新增82例本土无症状感染者，其中沈阳市报告41例、大连市报告13例、鞍山市报告1例、营口市报告25例、辽阳市报告2例；新增5例境外输入无症状感染者，为大连市报告。治",
       "infoSource": "央视新闻app",
@@ -13831,7 +13761,7 @@
     {
       "id": 184795,
       "pubDate": 1648342861000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "四川 | 昨日新增 20 例境外治愈病例",
       "summary": " \n\t\t    3月26日0时至24时，四川无新增本土确诊病例、无症状感染者；新增境外输入确诊病例12例（其中11例为既往通报的无症状感染者转确诊）、无症状感染者14例。新增治愈出院病例20例，无新增疑似病例，无新增死亡病例。\n\n    截至3月26日24时，全省累计报告新型冠状病毒肺炎确诊病例1648例（其中境外输入1019例），累计治愈出院1528例，死亡3例，目前在院隔离治疗117例，2019人尚在接受医学观察。\n\n    具体情况如下：\n\n    境外输入确诊病例12例（在成都市）：\n\n    1例为3月16日无症状感染者转确诊，\n\n    4例为3月17日无症状感染者转确诊，\n\n    1例为3月21日无症状感染者转确诊，\n\n    1例为3月22日无症状感染者转确诊，\n\n    1例为3月23日无症状感染者转确诊，\n\n    1例为3月24日无症状感染者转确诊，\n\n    2例为3月25日无症状感染者转确诊，\n\n    1例为3月23日自新加坡乘机抵蓉进行隔离，3月26日确诊。\n\n    境外输入无症状感染者14例（在成都市）：\n\n    1例为3月12日自埃及乘机抵蓉进行隔离，\n\n    1例为3月15日自中国香港乘机抵蓉进行隔离，\n\n    2例为3月23日自中国香港乘机抵蓉进行隔离，\n\n    2例为3月24日自加拿大乘机抵蓉进行隔离，\n\n    8例为3月25日自中国香港乘机抵蓉进行隔离，\n\n    均于3月26日诊断为无症状感染者；\n\n    当日转为确诊病例11例，当日解除集中隔离医学观察5例，尚在集中隔离医学观察146例，比前一日减少2例。\n\n   （确诊病例及无症状感染者具体情况由相关市（州）卫生健康委进行通报）\n\n    截至3月26日24时，全省183个县（市、区）全部为低风险地区。\n\n\n\n    温馨提示：保持警惕，做好防护，勤洗手、不扎堆、少聚集，若有发热、咳嗽等不适症状，请及时就近前往发热门诊、哨点诊室、新冠病毒核酸检测机构。具体请点击https://hissct.mobimedical.cn/urgentYiq，随时查看距您最近的医疗卫生机构，快捷咨询，精准预约。\n\n    点击健康四川官微左下角“疫情防控”栏目可查询“疫情。\n\n",
       "infoSource": "四川卫健委",
