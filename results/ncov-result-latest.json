@@ -161,7 +161,7 @@
       "currentConfirmedCount": 223,
       "confirmedCount": 810,
       "dangerCountIncr": 1,
-      "currentDangerCount": 11,
+      "currentDangerCount": 14,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -2889,7 +2889,7 @@
       "currentConfirmedCount": 237,
       "confirmedCount": 2368,
       "dangerCountIncr": 1,
-      "currentDangerCount": 11,
+      "currentDangerCount": 14,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2901,7 +2901,7 @@
           "currentConfirmedCount": 223,
           "confirmedCount": 810,
           "dangerCountIncr": 1,
-          "currentDangerCount": 11,
+          "currentDangerCount": 14,
           "currentConfirmedCountStr": "223"
         },
         {
@@ -8211,7 +8211,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 9,
+      "midDangerCount": 12,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -8223,7 +8223,7 @@
           "curedCount": 583,
           "deadCount": 4,
           "highDangerCount": 2,
-          "midDangerCount": 9,
+          "midDangerCount": 12,
           "locationId": 230100,
           "currentConfirmedCountStr": "223"
         },
@@ -8425,12 +8425,27 @@
         },
         {
           "cityName": "哈尔滨",
+          "areaName": "哈达村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "林家街10号（汉林美苑小区1号楼）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
           "areaName": "南岗区鲁商凤凰城3栋",
           "dangerLevel": 2
         },
         {
           "cityName": "哈尔滨",
           "areaName": "南岗区南航花园B栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "南岗区清滨路14号",
           "dangerLevel": 2
         },
         {
@@ -13332,11 +13347,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4671877902,
+  "getPV": 4671899108,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1648525725000,
+    "modifyTime": 1648542016000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13570,7 +13585,7 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0329/666/5084542006294410453-135.json",
     "highDangerCount": 55,
-    "midDangerCount": 478
+    "midDangerCount": 481
   },
   "getTimelineService1": [
     {
@@ -13628,7 +13643,7 @@
     {
       "id": 185251,
       "pubDate": 1648512389000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "辽宁 | 昨日新增 10 例本土确诊病例",
       "summary": "3月28日0—24时，辽宁省新增10例本土新冠肺炎确诊病例，其中沈阳市报告5例、鞍山市报告1例、营口市报告1例（由无症状感染者转为确诊病例）、葫芦岛市报告3例；新增64例本土无症状感染者，其中沈阳市报告36例、大连市报告5例、锦州市报告1例、营口市报告20例、辽阳市报告1例、铁岭市报告1例；新增4例境外输入无症状感染者，为沈阳市报告。治愈出院本土新冠肺炎确诊病例16例、本土无症状感染者18例；治愈",
       "infoSource": "央视新闻app",
