@@ -868,8 +868,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 30,
       "confirmedCount": 84,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 7,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
@@ -2655,8 +2655,8 @@
       "yesterdayLocalConfirmedCount": 10,
       "currentConfirmedCount": 70,
       "confirmedCount": 2047,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 16,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 9,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "cities": [
@@ -2722,8 +2722,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 30,
           "confirmedCount": 84,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "30"
         },
         {
@@ -9479,7 +9479,7 @@
       "comment": "",
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
-      "highDangerCount": 7,
+      "highDangerCount": 0,
       "midDangerCount": 9,
       "detectOrgCount": 395,
       "vaccinationOrgCount": 261,
@@ -9503,7 +9503,7 @@
           "suspectedCount": 0,
           "curedCount": 54,
           "deadCount": 0,
-          "highDangerCount": 7,
+          "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 320400,
           "currentConfirmedCountStr": "30"
@@ -9666,41 +9666,6 @@
         }
       ],
       "dangerAreas": [
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑105幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑115幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑119幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑150幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑158幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑163幢",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "常州",
-          "areaName": "天宁区青龙街道青龙苑174幢",
-          "dangerLevel": 1
-        },
         {
           "cityName": "徐州",
           "areaName": "鼓楼区华美东观园10号楼",
@@ -13330,11 +13295,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4674993129,
+  "getPV": 4675044836,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1649044735000,
+    "modifyTime": 1649046281000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13544,37 +13509,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 194515640,
-      "confirmedCount": 489783312,
+      "currentConfirmedCount": 195362123,
+      "confirmedCount": 490787986,
       "suspectedCount": 4,
-      "curedCount": 289116266,
-      "deadCount": 6151406,
+      "curedCount": 289272418,
+      "deadCount": 6153445,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": 846483,
+      "confirmedIncr": 1004674,
+      "curedIncr": 156152,
+      "deadIncr": 2039
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194797321,
-      "confirmedCount": 490269225,
-      "curedCount": 289306835,
-      "deadCount": 6165069,
-      "currentConfirmedIncr": -667,
-      "confirmedIncr": 2163,
-      "curedIncr": 2719,
-      "deadIncr": 111,
-      "yesterdayConfirmedCountIncr": 2163
+      "currentConfirmedCount": 195643804,
+      "confirmedCount": 491273899,
+      "curedCount": 289462987,
+      "deadCount": 6167108,
+      "currentConfirmedIncr": 845816,
+      "confirmedIncr": 1006837,
+      "curedIncr": 158871,
+      "deadIncr": 2150,
+      "yesterdayConfirmedCountIncr": 1006837
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0404/651/4242197697818521453-135.json",
-    "highDangerCount": 57,
+    "highDangerCount": 50,
     "midDangerCount": 351
   },
   "getTimelineService1": [
     {
       "id": 186719,
       "pubDate": 1649034139000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例 1366 例",
       "summary": "4月3日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1405例。其中境外输入病例39例（四川14例，上海8例，广东8例，北京3例，福建3例，山东1例，广西1例，云南1例），含16例由无症状感染者转为确诊病例（四川14例，广东2例）；本土病例1366例（吉林836例，其中长春市574例、吉林市244例、白城市10例、四平市5例、白山市3例；上海425例，其中浦东新区141",
       "infoSource": "央视新闻app",
@@ -13585,54 +13550,54 @@
       "jumpUrl": ""
     },
     {
-      "id": 186468,
-      "pubDate": 1648947348000,
-      "pubDateStr": "1天前",
-      "title": "吉林 | 昨日新增本土确诊病例 956 例",
-      "summary": "据国家卫健委消息，吉林省昨日新增本土确诊病例956例，其中长春市723例、吉林市230例、四平市2例、白城市1例；新增本土无症状感染者3499例，其中长春市3100例、吉林市397例、白山市1例、白城市1例。（总台记者 赵文彬 张楚）",
+      "id": 186732,
+      "pubDate": 1649037388000,
+      "pubDateStr": "2小时前",
+      "title": "浙江 | 昨日新增本土确诊病例 8 例",
+      "summary": "4月3日0—24时，浙江省11个市报告新增确诊病例8例。其中无境外输入病例；本土病例8例（杭州市2例，宁波市3例，温州市1例，湖州市1例，嘉兴市1例），含2例由无症状感染者转为确诊病例（杭州市1例，宁波市1例）。\n浙江省11个市报告新增无症状感染者11例。其中境外输入1例（乌克兰输入）；本土10例（杭州市1例，宁波市1例，温州市2例，嘉兴市6例）。\n截至3日24时，浙江省累计报告确诊病例2731例",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5404450919875816400&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17634256726270503735&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 91725,
+      "articleId": 91826,
       "category": 1,
       "jumpUrl": ""
     },
     {
-      "id": 186498,
-      "pubDate": 1648951578000,
-      "pubDateStr": "1天前",
-      "title": "上海 | 昨日新增本土确诊病例 438 例",
-      "summary": "今天（4月3日）上午，上海市召开新冠肺炎疫情防控新闻发布会，介绍疫情防控最新情况。\n发布会上通报，上海昨日新增的438例确诊病例，经市级专家组会诊、综合流行病学史、临床症状、实验室检测和影像学检查结果等，438例均被诊断为新冠肺炎确诊病例（轻型）。\n（总台记者 魏然 张倩 海同 周力）",
+      "id": 186698,
+      "pubDate": 1649029872000,
+      "pubDateStr": "4小时前",
+      "title": "上海 | 昨日新增本土确诊病例 425 例 ",
+      "summary": "上海市卫健委今早（4日）通报：2022年4月3日0—24时，新增本土新冠肺炎确诊病例425例和无症状感染者8581例，其中71例确诊病例为此前无症状感染者转归，7例确诊病例和7920例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。新增境外输入新冠肺炎确诊病例8例和无症状感染者4例，均在闭环管控中发现。\n（总台记者 王殿甲 杨静）",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=1973401005556843394&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=9153890061858014673&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 91728,
+      "articleId": 91825,
       "category": 1,
       "jumpUrl": ""
     },
     {
-      "id": 186481,
-      "pubDate": 1648949115000,
-      "pubDateStr": "1天前",
-      "title": "浙江 | 昨日新增本土确诊病例 11 例",
-      "summary": "4月2日0-24时，浙江11个市报告新增确诊病例11例。其中无境外输入病例；本土病例11例（杭州市2例，宁波市1例，湖州市2例，嘉兴市1例，绍兴市1例，金华市2例，衢州市1例，丽水市1例），含5例由无症状感染者转为确诊病例（杭州市2例，绍兴市1例，衢州市1例，丽水市1例）。\n11个市报告新增无症状感染者9例。其中境外输入1例（阿根廷输入）；本土8例（杭州市2例，宁波市1例，嘉兴市4例，金华市1例）",
+      "id": 186691,
+      "pubDate": 1649026908000,
+      "pubDateStr": "5小时前",
+      "title": "山东 | 昨日新增 6 例本土确诊病例",
+      "summary": "2022年4月3日0时至24时，山东省报告新增本土确诊病例4例，其中青岛2例、济南1例、烟台1例。新增本土无症状感染者13例，其中临沂6例、枣庄3例、济南2例、菏泽2例。新增境外输入确诊病例1例，在烟台，为韩国输入。新增境外输入无症状感染者1例，在济南，为乌克兰输入。\n2022年4月3日0时至24时，山东省报告本土无症状感染者转为确诊病例2例，其中济南1例、青岛1例。\n截至2022年4月3日24时",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=16939221032860673744&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=12119183661601550641&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 91726,
+      "articleId": 91824,
       "category": 1,
       "jumpUrl": ""
     },
     {
-      "id": 186500,
-      "pubDate": 1648951832000,
-      "pubDateStr": "1天前",
-      "title": "福建 | 昨日新增本土确诊病例 8 例",
-      "summary": "4月2日0—24时，福建省报告新增境外输入确诊病例3例（均为厦门市报告）。\n当日报告新增境外输入无症状感染者1例（福州市报告）；解除隔离2例。\n截至4月2日24时，福建省累计报告境外输入确诊病例877例，目前住院22例，无死亡病例；现有报告境外输入无症状感染者尚在隔离医学观察34例。\n4月2日0—24时，福建省报告新增本土确诊病例8例（泉州7例，厦门1例；其中无症状转确诊5例）。\n当日报告新增本土",
+      "id": 186670,
+      "pubDate": 1648998304000,
+      "pubDateStr": "13小时前",
+      "title": "河南 | 新增 1 例确诊病例",
+      "summary": "记者从郑州市新冠肺炎疫情防控指挥部办公室了解到，2022年4月2日和3日，郑州市新增4例新冠肺炎无症状感染者和1例确诊病例。目前，流调、检测、消杀等工作正在有序进行，对排查出的密切接触者和密接的密接及环境进行了核酸检测和消杀工作，已出结果均为阴性。\n（总台记者 田萌 王一丹）",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=16800381887713993132&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=7789824426103585644&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 91727,
+      "articleId": 91823,
       "category": 1,
       "jumpUrl": ""
     }
