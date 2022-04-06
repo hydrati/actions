@@ -274,6 +274,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "茂名",
+      "yesterdayLocalConfirmedCount": 3,
+      "currentConfirmedCount": 7,
+      "confirmedCount": 24,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "cityName": "绍兴",
@@ -284,18 +296,6 @@
       "currentDangerCount": 0,
       "locationId": 330000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "茂名",
-      "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 7,
-      "confirmedCount": 24,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "黑龙江省",
@@ -1030,18 +1030,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "cityName": "钦州",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 7,
-      "confirmedCount": 27,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
-    },
-    {
       "provinceName": "四川省",
       "provinceShortName": "四川",
       "cityName": "乐山",
@@ -1100,6 +1088,18 @@
       "currentDangerCount": 0,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
+    },
+    {
+      "provinceName": "广西壮族自治区",
+      "provinceShortName": "广西",
+      "cityName": "钦州",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 7,
+      "confirmedCount": 27,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 450000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
     {
       "provinceName": "河北省",
@@ -3176,8 +3176,8 @@
       "yesterdayLocalConfirmedCount": 7,
       "currentConfirmedCount": 205,
       "confirmedCount": 6642,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 6,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -3188,8 +3188,8 @@
           "yesterdayLocalConfirmedCount": 3,
           "currentConfirmedCount": 7,
           "confirmedCount": 24,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "7"
         },
         {
@@ -4559,8 +4559,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 83,
       "confirmedCount": 1498,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "cities": [
@@ -4582,8 +4582,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 7,
           "confirmedCount": 27,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "7"
         },
         {
@@ -7585,7 +7585,7 @@
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 3,
+      "midDangerCount": 6,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -7681,7 +7681,7 @@
           "curedCount": 17,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 3,
           "locationId": 440900,
           "currentConfirmedCountStr": "7"
         },
@@ -7855,6 +7855,21 @@
         }
       ],
       "dangerAreas": [
+        {
+          "cityName": "茂名",
+          "areaName": "电白区坡心镇新河村委会羊甘昌村二组51号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "茂名",
+          "areaName": "高新区七迳镇山岚村委会上山岚村2号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "茂名",
+          "areaName": "茂名市电白区水东街道西湖西路28号底商01至03号商铺",
+          "dangerLevel": 2
+        },
         {
           "cityName": "肇庆",
           "areaName": "金利镇罗客村",
@@ -9329,7 +9344,7 @@
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 3,
+      "midDangerCount": 0,
       "detectOrgCount": 270,
       "vaccinationOrgCount": 15,
       "cities": [
@@ -9365,7 +9380,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 0,
           "locationId": 450700,
           "currentConfirmedCountStr": "7"
         },
@@ -9514,23 +9529,7 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "钦州",
-          "areaName": "沙埠镇大岭村东下队",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "钦州",
-          "areaName": "沙埠镇沙寮村黄歧洞",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "钦州",
-          "areaName": "沙埠镇沙寮村下沙",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "江苏省",
@@ -13327,11 +13326,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4676150415,
+  "getPV": 4676217040,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1649218125000,
+    "modifyTime": 1649218571000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13571,7 +13570,7 @@
     {
       "id": 187098,
       "pubDate": 1649206662000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例 1383 例",
       "summary": "4月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1415例。其中境外输入病例32例（四川14例，广东5例，上海4例，广西4例，天津1例，福建1例，山东1例，重庆1例，云南1例），含17例由无症状感染者转为确诊病例（四川13例，广西2例，广东1例，云南1例）；本土病例1383例（吉林973例，其中长春市817例、吉林市136例、白城市11例、四平市5例、白山市4例；上",
       "infoSource": "央视新闻app",
@@ -13584,7 +13583,7 @@
     {
       "id": 187134,
       "pubDate": 1649209320000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "吉林 | 昨日新增本土确诊病例 973 例",
       "summary": "\n　　4月5日0-24时，全省新增本地确诊病例973例(轻型938例、普通型26例、重症9例），其中长春市817例（含51例无症状感染者转为确诊病例）、吉林市136例（含10例无症状感染者转为确诊病例）、白城市11例（含4例无症状感染者转为确诊病例）、四平市5例、白山市4例；新增本地无症状感染者1798例，其中长春市1682例、吉林市112例、四平市2例、白城市2例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n　　4月5日0-24时，全省新增治愈出院确诊病例1531例，其中长春市1112例、吉林市418例、延边州1例；新增解除隔离医学观察无症状感染者658例，其中长春市336例、吉林市322例。\n　　提醒广大公众，要密切关注各地发布的疫情动态信息，如与阳性感染者活动轨迹有交集，或近期有疫情发生地区旅居史，请立即主动向当地社区(村屯)或疾控机构报告，按要求配合做好相关疫情管控措施。如出现发热、咳嗽等急性呼吸道症状，请佩戴医用口罩及时到当地定点医疗机构发热门诊就诊。大家要树牢常态化防控意识，坚持外出戴口罩、勤洗手、常通风、保持社交距离、不聚餐、不聚集，减少疾病感染风险。\n",
       "infoSource": "吉林卫健委",
@@ -13597,7 +13596,7 @@
     {
       "id": 187073,
       "pubDate": 1649202385000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "上海 | 昨日新增本土确诊病例 311例 ",
       "summary": "上海市卫健委今早（6日）通报：2022年4月5日0—24时，新增本土新冠肺炎确诊病例311例和无症状感染者16766例，其中40例确诊病例为此前无症状感染者转归，4例确诊病例和16256例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。新增境外输入新冠肺炎确诊病例4例和无症状感染者1例，均在闭环管控中发现。\n（总台记者 王殿甲 杨静）",
       "infoSource": "央视新闻app",
@@ -13610,7 +13609,7 @@
     {
       "id": 187083,
       "pubDate": 1649203200000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "辽宁 | 昨日新增本土确诊病例 7 例",
       "summary": "\n         4月5日0-24时，辽宁省新增7例本土新冠肺炎确诊病例，为鞍山市报告（含1例由无症状感染者转为确诊病例）；新增43例本土无症状感染者，其中沈阳市报告30例（含1例外省关联病例）、鞍山市报告12例、锦州市报告1例；新增境外输入无症状感染者1例，为大连市报告。治愈出院本土新冠肺炎确诊病例38例、本土无症状感染者147例、境外输入无症状感染者4例。\n截至4月5日24时，全省累计报告确诊病例1599例（含境外输入208例），治愈出院1391例，死亡2例，在院治疗206例(本土205例、境外输入1例)。目前，尚有1200例（本土1151例、境外输入49例）无症状感染者在定点医院隔离观察治疗。\n                   \n    \n                \n                  \n                    \n                     \n                  \n                \n      \n        ",
       "infoSource": "辽宁卫健委",
@@ -13623,7 +13622,7 @@
     {
       "id": 187082,
       "pubDate": 1649203858000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "河北 | 昨日新增本土确诊病例 6 例",
       "summary": "4月5日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例6例，其中邯郸市5例、雄安新区1例（外省关联病例）；新增本土无症状感染者103例，其中邯郸市78例、保定市21例、石家庄市4例（外地返回人员）。治愈出院14例，无症状感染者解除医学观察134例。\n截至4月5日24时，河北省现有本土确诊病例157例；尚在医学观察本土无症状感染者1941例。（总台记者 谢宾超 谷俊雄）",
       "infoSource": "央视新闻app",
