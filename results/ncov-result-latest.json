@@ -196,8 +196,8 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 15,
       "confirmedCount": 86,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 7,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -520,8 +520,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 150,
       "confirmedCount": 620,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json"
     },
@@ -1282,18 +1282,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json"
     },
     {
-      "provinceName": "河南省",
-      "provinceShortName": "河南",
-      "cityName": "漯河",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 5,
-      "confirmedCount": 41,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
-      "locationId": 410000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
-    },
-    {
       "provinceName": "湖南省",
       "provinceShortName": "湖南",
       "cityName": "衡阳",
@@ -1304,6 +1292,18 @@
       "currentDangerCount": 1,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json"
+    },
+    {
+      "provinceName": "河南省",
+      "provinceShortName": "河南",
+      "cityName": "漯河",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 5,
+      "confirmedCount": 41,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
+      "locationId": 410000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
       "provinceName": "广东省",
@@ -2694,7 +2694,7 @@
       "currentConfirmedCount": 194,
       "confirmedCount": 2497,
       "dangerCountIncr": 1,
-      "currentDangerCount": 24,
+      "currentDangerCount": 26,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2716,8 +2716,8 @@
           "yesterdayLocalConfirmedCount": 3,
           "currentConfirmedCount": 15,
           "confirmedCount": 86,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 7,
           "currentConfirmedCountStr": "15"
         },
         {
@@ -3628,8 +3628,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 180,
       "confirmedCount": 1601,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 12,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 11,
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "cities": [
@@ -3662,8 +3662,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 150,
           "confirmedCount": 620,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "150"
         },
         {
@@ -3773,8 +3773,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 96,
       "confirmedCount": 2839,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "cities": [
@@ -3821,8 +3821,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 5,
           "confirmedCount": 41,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -7283,7 +7283,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 22,
+      "midDangerCount": 24,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -7319,7 +7319,7 @@
           "curedCount": 71,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 5,
+          "midDangerCount": 7,
           "locationId": 231000,
           "currentConfirmedCountStr": "15"
         },
@@ -7542,6 +7542,11 @@
         },
         {
           "cityName": "牡丹江",
+          "areaName": "爱民区庆达社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
           "areaName": "爱民区文化社区",
           "dangerLevel": 2
         },
@@ -7558,6 +7563,11 @@
         {
           "cityName": "牡丹江",
           "areaName": "明月社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "牡丹江",
+          "areaName": "通乡社区",
           "dangerLevel": 2
         },
         {
@@ -7604,7 +7614,7 @@
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 10,
+      "midDangerCount": 9,
       "detectOrgCount": 192,
       "vaccinationOrgCount": 204,
       "cities": [
@@ -7628,7 +7638,7 @@
           "curedCount": 470,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 1,
           "locationId": 210200,
           "currentConfirmedCountStr": "150"
         },
@@ -7855,11 +7865,6 @@
         {
           "cityName": "大连",
           "areaName": "金普新区马桥子街道凯悦公寓B座",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "大连",
-          "areaName": "普兰店区太平街道如意人家钰莲园小区10号楼",
           "dangerLevel": 2
         }
       ]
@@ -8982,7 +8987,7 @@
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 5,
+      "midDangerCount": 3,
       "detectOrgCount": 197,
       "vaccinationOrgCount": 234,
       "cities": [
@@ -9045,7 +9050,7 @@
           "curedCount": 36,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 1,
           "locationId": 411100,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -9246,21 +9251,6 @@
       ],
       "dangerAreas": [
         {
-          "cityName": "漯河",
-          "areaName": "临颍县杜曲镇东徐庄村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "漯河",
-          "areaName": "临颍县台陈镇台陈村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "漯河",
-          "areaName": "临颍县新城街道办事处辖区",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "周口",
           "areaName": "周口市太康县城关镇建设路北段、福兴社区、原纱厂家属院合围地区",
           "dangerLevel": 2
@@ -9268,6 +9258,11 @@
         {
           "cityName": "周口",
           "areaName": "周口市太康县城关镇建设路以西、交通路以南、原小铁路以东、谢安路以北合围地区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "漯河",
+          "areaName": "临颍县台陈镇台陈村",
           "dangerLevel": 2
         }
       ]
@@ -13261,11 +13256,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4676788161,
+  "getPV": 4676810761,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1649305337000,
+    "modifyTime": 1649318593000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13499,13 +13494,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0407/572/9631644341184181453-135.json",
     "highDangerCount": 41,
-    "midDangerCount": 326
+    "midDangerCount": 325
   },
   "getTimelineService1": [
     {
       "id": 187325,
       "pubDate": 1649292927000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例 1284 例",
       "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1323例。其中境外输入病例39例（福建15例，四川11例，上海7例，北京1例，辽宁1例，江西1例，湖南1例，广东1例，云南1例），含10例由无症状感染者转为确诊病例（四川9例，广东1例）；本土病例1284例（吉林890例，其中长春市766例、吉林市112例、白城市11例、四平市1例；上海322例，其中浦东新区150例",
       "infoSource": "央视新闻app",
@@ -13518,7 +13513,7 @@
     {
       "id": 187333,
       "pubDate": 1649293440000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "吉林 | 昨日新增本土确诊病例 890 例",
       "summary": "\n　　4月6日0-24时，全省新增本地确诊病例890例(轻型802例、普通型77例、重症11例），其中长春市766例（含50例无症状感染者转为确诊病例）、吉林市112例（含1例无症状感染者转为确诊病例）、白城市11例（含2例无症状感染者转为确诊病例）、四平市1例；新增本地无症状感染者1546例，其中长春市1423例、吉林市122例、四平市1例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n　　4月6日0-24时，全省新增治愈出院确诊病例1293例，其中长春市743例、吉林市522例、四平市22例、延边州4例、松原市2例；新增解除隔离医学观察无症状感染者1300例，其中吉林市689例、长春市599例、延边州6例、四平市5例、梅河口市1例。\n　　提醒广大公众，要密切关注各地发布的疫情动态信息，如与阳性感染者活动轨迹有交集，或近期有疫情发生地区旅居史，请立即主动向当地社区(村屯)或疾控机构报告，按要求配合做好相关疫情管控措施。如出现发热、咳嗽等急性呼吸道症状，请佩戴医用口罩及时到当地定点医疗机构发热门诊就诊。大家要树牢常态化防控意识，坚持外出戴口罩、勤洗手、常通风、保持社交距离、不聚餐、不聚集，减少疾病感染风险。\n",
       "infoSource": "吉林卫健委",
@@ -13531,7 +13526,7 @@
     {
       "id": 187361,
       "pubDate": 1649298284000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "上海 | 昨日新增本土确诊病例 322 例",
       "summary": "4月6日0至24时，上海新增322例本土新冠肺炎确诊病例，新增19660例本土无症状感染者。今天（7日）上午，上海市召开疫情防控新闻发布会，介绍疫情防控最新情况以及生活物资供应保障举措。\n发布会上，上海市副市长、市疫情防控领导小组生活物资保障专班负责人陈通通报，上海市委市政府强调，要全力以赴做好全市2500万人民生活物资供应工作：\n①努力解决采配效率不高的问题，推出保供套餐，居民下单、商超配单、志",
       "infoSource": "央视新闻app",
@@ -13544,7 +13539,7 @@
     {
       "id": 187303,
       "pubDate": 1649289087000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "8小时前",
       "title": "北京 | 昨日新增本土确诊病例 4 例",
       "summary": "4月6日0时至24时，北京新增4例本土确诊病例（含1例4月4日诊断的无症状感染者转确诊病例，确诊病例1至3昨日均已通报），无新增疑似病例和无症状感染者；新增1例境外输入确诊病例，无新增疑似病例和无症状感染者。治愈出院7例。\n本土确诊病例\n确诊病例1：现住朝阳区酒仙桥街道二街坊平房区。4月4日作为确诊病例的密切接触者进行集中隔离，4月6日报告核酸检测结果为阳性，已转至定点医院，综合流行病史、临床表现",
       "infoSource": "央视新闻app",
@@ -13557,7 +13552,7 @@
     {
       "id": 187348,
       "pubDate": 1649295962000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "6小时前",
       "title": "江西 | 昨日新增本土确诊病例2例",
       "summary": "2022年4月6日0—24时，江西省新增本土确诊病例2例，均在南昌市（在隔离观察人员中发现1例、在管控区域筛查发现1例），临床分型均为轻型；新增治愈出院1例（在九江市）。截至2022年4月6日24时，江西省现有本土住院确诊病例16例。\n2022年4月6日0—24时，江西省新增境外输入确诊病例1例（入境航班人员闭环管理筛查发现）。截至2022年4月6日24时，江西省现有住院境外输入确诊病例1例，境外",
       "infoSource": "央视新闻app",
