@@ -124,8 +124,8 @@
       "yesterdayLocalConfirmedCount": 6,
       "currentConfirmedCount": 71,
       "confirmedCount": 1817,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -206,7 +206,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 35,
+      "currentConfirmedCount": 33,
       "confirmedCount": 2353,
       "dangerCountIncr": 1,
       "currentDangerCount": 1,
@@ -2697,8 +2697,8 @@
       "yesterdayLocalConfirmedCount": 6,
       "currentConfirmedCount": 71,
       "confirmedCount": 1817,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -2709,8 +2709,8 @@
           "yesterdayLocalConfirmedCount": 2,
           "currentConfirmedCount": 71,
           "confirmedCount": 151,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "71"
         },
         {
@@ -3071,11 +3071,11 @@
           "provinceShortName": "广东",
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 2,
-          "currentConfirmedCount": 35,
+          "currentConfirmedCount": 33,
           "confirmedCount": 2353,
           "dangerCountIncr": 1,
           "currentDangerCount": 1,
-          "currentConfirmedCountStr": "35"
+          "currentConfirmedCountStr": "33"
         },
         {
           "provinceName": "广东省",
@@ -5748,8 +5748,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 11668,
-      "confirmedCount": 26263,
+      "currentConfirmedCount": 12241,
+      "confirmedCount": 26836,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 853,
@@ -7282,15 +7282,15 @@
         },
         {
           "cityName": "广州",
-          "currentConfirmedCount": 35,
+          "currentConfirmedCount": 33,
           "confirmedCount": 2353,
           "suspectedCount": 3,
-          "curedCount": 2317,
+          "curedCount": 2319,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 1,
           "locationId": 440100,
-          "currentConfirmedCountStr": "35"
+          "currentConfirmedCountStr": "33"
         },
         {
           "cityName": "东莞",
@@ -7522,15 +7522,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -21,
+          "currentConfirmedCount": -19,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 21,
+          "curedCount": 19,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "-21"
+          "currentConfirmedCountStr": "-19"
         }
       ],
       "dangerAreas": [
@@ -8635,7 +8635,7 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 0,
+      "highDangerCount": 1,
       "midDangerCount": 0,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
@@ -8659,7 +8659,7 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 0,
+          "highDangerCount": 1,
           "midDangerCount": 0,
           "locationId": 110105,
           "currentConfirmedCountStr": "71"
@@ -8881,7 +8881,13 @@
           "currentConfirmedCountStr": "-413"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "朝阳区",
+          "areaName": "朝阳区酒仙桥街道二街坊",
+          "dangerLevel": 1
+        }
+      ]
     },
     {
       "provinceName": "广西壮族自治区",
@@ -12865,11 +12871,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4677749253,
+  "getPV": 4677767419,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1649491446000,
+    "modifyTime": 1649495145000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12885,16 +12891,16 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 277739,
-    "confirmedCount": 497437,
+    "currentConfirmedCount": 278385,
+    "confirmedCount": 498010,
     "suspectedCount": 17828,
-    "curedCount": 205564,
+    "curedCount": 205491,
     "deadCount": 14134,
     "seriousCount": 174015,
     "suspectedIncr": 16,
-    "currentConfirmedIncr": -1551,
-    "confirmedIncr": 2114,
-    "curedIncr": 3579,
+    "currentConfirmedIncr": -905,
+    "confirmedIncr": 2687,
+    "curedIncr": 3506,
     "deadIncr": 86,
     "seriousIncr": 21322,
     "yesterdayConfirmedCountIncr": 2114,
@@ -12912,19 +12918,19 @@
     "abroadRemark": "",
     "marquee": [
       {
-        "id": 5259,
+        "id": 5265,
         "marqueeLabel": "首都防疫",
         "marqueeContent": "北京顺义区严控小区进出管理",
         "marqueeLink": "https://dxy.me/rGtZX3"
       },
       {
-        "id": 5260,
+        "id": 5266,
         "marqueeLabel": "管控升级",
         "marqueeContent": "辽宁再增 5 例本土确诊",
         "marqueeLink": "https://dxy.me/hHN6gT"
       },
       {
-        "id": 5261,
+        "id": 5267,
         "marqueeLabel": "云寄哀思",
         "marqueeContent": "钢琴家傅聪因新冠肺炎于英国去世",
         "marqueeLink": "https://dxy.me/Mtiv8P"
@@ -13091,25 +13097,25 @@
       "deadIncr": 3770
     },
     "globalStatistics": {
-      "currentConfirmedCount": 199878892,
-      "confirmedCount": 497075550,
-      "curedCount": 291008738,
+      "currentConfirmedCount": 199879538,
+      "confirmedCount": 497076123,
+      "curedCount": 291008665,
       "deadCount": 6187920,
-      "currentConfirmedIncr": 1122010,
-      "confirmedIncr": 1262713,
-      "curedIncr": 136847,
+      "currentConfirmedIncr": 1122656,
+      "confirmedIncr": 1263286,
+      "curedIncr": 136774,
       "deadIncr": 3856,
       "yesterdayConfirmedCountIncr": 1262713
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0409/685/9077393090095812453-135.json",
-    "highDangerCount": 27,
+    "highDangerCount": 28,
     "midDangerCount": 270
   },
   "getTimelineService1": [
     {
       "id": 187920,
       "pubDate": 1649466190000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例 1334 例 ",
       "summary": "4月8日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1350例。其中境外输入病例16例（广东4例，广西3例，北京2例，上海2例，浙江2例，福建2例，四川1例），含6例由无症状感染者转为确诊病例（广东3例，浙江2例，四川1例）；本土病例1334例（上海1015例，其中浦东新区348例、嘉定区116例、徐汇区114例、松江区107例、闵行区61例、金山区45例、黄浦区42例",
       "infoSource": "央视新闻app",
@@ -13122,7 +13128,7 @@
     {
       "id": 187890,
       "pubDate": 1649461602000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 1015 例",
       "summary": "上海市卫健委今早（9日）通报：2022年4月8日0—24时，新增本土新冠肺炎确诊病例1015例和无症状感染者22609例，其中420例确诊病例为此前无症状感染者转归，301例确诊病例和21853例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。新增境外输入性新冠肺炎确诊病例2例和无症状感染者2例，均在闭环管控中发现。\n2022年4月8日0—24时，新增本土新冠肺炎确诊病例1015例，含",
       "infoSource": "央视新闻app",
@@ -13135,7 +13141,7 @@
     {
       "id": 187922,
       "pubDate": 1649465580000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "吉林 | 昨日新增本土确诊病例 248 例",
       "summary": "\n　　4月8日0-24时，全省新增本地确诊病例248例(轻型242例、普通型4例、重症2例），其中长春市150例（含50例无症状感染者转为确诊病例）、吉林市87例、白城市10例（含2例无症状感染者转为确诊病例）、四平市1例；新增本地无症状感染者706例，其中长春市648例、吉林市56例、白城市1例、白山市1例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n　　4月8日0-24时，全省新增治愈出院确诊病例1563例，其中长春市1212例、吉林市343例、四平市5例、延边州2例、白城市1例；新增解除隔离医学观察无症状感染者860例，其中长春市569例、吉林市289例、延边州1例、辽源市1例。\n　　提醒广大公众，要密切关注各地发布的疫情动态信息，如与阳性感染者活动轨迹有交集，或近期有疫情发生地区旅居史，请立即主动向当地社区(村屯)或疾控机构报告，按要求配合做好相关疫情管控措施。如出现发热、咳嗽等急性呼吸道症状，请佩戴医用口罩及时到当地定点医疗机构发热门诊就诊。大家要树牢常态化防控意识，坚持外出戴口罩、勤洗手、常通风、保持社交距离、不聚餐、不聚集，减少疾病感染风险。\n",
       "infoSource": "吉林卫健委",
@@ -13148,7 +13154,7 @@
     {
       "id": 187921,
       "pubDate": 1649466102000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "浙江 | 昨日新增本土确诊病例 13 例",
       "summary": "4月8日0-24时，浙江11个市报告新增确诊病例15例。其中境外输入病例2例（均为之前境外输入的无症状感染者转确诊）；本土病例13例（宁波市2例，嘉兴市9例，绍兴市1例，丽水市1例），含10例由无症状感染者转为确诊病例（嘉兴市9例，丽水市1例）。\n当日新增治愈出院病例14例，解除医学观察的密切接触者1279人。\n浙江11个市报告新增无症状感染者27例。其中境外输入1例（喀麦隆输入）；本土26例（杭",
       "infoSource": "央视新闻app",
@@ -13161,7 +13167,7 @@
     {
       "id": 187931,
       "pubDate": 1649467330000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "陕西 | 昨日新增本土确诊病例 8 例",
       "summary": "4月8日0—24时，陕西新增报告本土确诊病例8例，其中西安7例（含2例无症状感染者转确诊）、商洛1例（昨日已发布），出院12例。\n截至4月8日24时，现有在院隔离治疗34例、隔离医学观察3例。\n本土确诊病例1，女，62岁，西安市报告。4月8日在封控区筛查中核酸检测结果阳性，经市级专家组诊断为新冠肺炎确诊病例（轻型）。\n本土确诊病例2，女，29岁，西安市报告，为4月8日发布的本土确诊病例4的密切接触",
       "infoSource": "央视新闻app",
