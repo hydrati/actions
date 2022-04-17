@@ -77,7 +77,7 @@
       "currentConfirmedCount": 2859,
       "confirmedCount": 14069,
       "dangerCountIncr": 1,
-      "currentDangerCount": 30,
+      "currentDangerCount": 31,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -89,7 +89,7 @@
       "currentConfirmedCount": 81,
       "confirmedCount": 947,
       "dangerCountIncr": 1,
-      "currentDangerCount": 10,
+      "currentDangerCount": 12,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -910,18 +910,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
     },
     {
-      "provinceName": "四川省",
-      "provinceShortName": "四川",
-      "cityName": "乐山",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 9,
-      "confirmedCount": 12,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 510000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
-    },
-    {
       "provinceName": "广东省",
       "provinceShortName": "广东",
       "cityName": "佛山",
@@ -980,6 +968,18 @@
       "currentDangerCount": 0,
       "locationId": 630000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/581/3398299758115524121-135.json"
+    },
+    {
+      "provinceName": "四川省",
+      "provinceShortName": "四川",
+      "cityName": "乐山",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 9,
+      "confirmedCount": 12,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 510000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
     {
       "provinceName": "河北省",
@@ -2283,7 +2283,7 @@
       "currentConfirmedCount": 8196,
       "confirmedCount": 39162,
       "dangerCountIncr": 1,
-      "currentDangerCount": 79,
+      "currentDangerCount": 80,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -2306,7 +2306,7 @@
           "currentConfirmedCount": 2859,
           "confirmedCount": 14069,
           "dangerCountIncr": 1,
-          "currentDangerCount": 30,
+          "currentDangerCount": 31,
           "currentConfirmedCountStr": "2859"
         },
         {
@@ -2384,7 +2384,7 @@
       "currentConfirmedCount": 110,
       "confirmedCount": 2579,
       "dangerCountIncr": 1,
-      "currentDangerCount": 34,
+      "currentDangerCount": 36,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2396,7 +2396,7 @@
           "currentConfirmedCount": 81,
           "confirmedCount": 947,
           "dangerCountIncr": 1,
-          "currentDangerCount": 10,
+          "currentDangerCount": 12,
           "currentConfirmedCountStr": "81"
         },
         {
@@ -3801,8 +3801,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 81,
       "confirmedCount": 1979,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -3824,8 +3824,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 9,
           "confirmedCount": 12,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "9"
         },
         {
@@ -4402,8 +4402,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 7,
       "confirmedCount": 1071,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 4,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
       "locationId": 360000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json",
       "cities": [
@@ -5088,7 +5088,7 @@
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "highDangerCount": 5,
-      "midDangerCount": 74,
+      "midDangerCount": 75,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -5112,7 +5112,7 @@
           "curedCount": 11207,
           "deadCount": 3,
           "highDangerCount": 2,
-          "midDangerCount": 28,
+          "midDangerCount": 29,
           "locationId": 220200,
           "currentConfirmedCountStr": "2859"
         },
@@ -5536,6 +5536,11 @@
         {
           "cityName": "吉林市",
           "areaName": "昌邑区桦皮厂镇平胜村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "吉林市",
+          "areaName": "昌邑区延江街道江山帝景小区",
           "dangerLevel": 2
         },
         {
@@ -6599,7 +6604,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 34,
+      "midDangerCount": 36,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -6611,7 +6616,7 @@
           "curedCount": 862,
           "deadCount": 4,
           "highDangerCount": 0,
-          "midDangerCount": 10,
+          "midDangerCount": 12,
           "locationId": 230100,
           "currentConfirmedCountStr": "81"
         },
@@ -6857,6 +6862,66 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "哈尔滨",
+          "areaName": "哈达村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "南岗区王岗镇红星凯悦小区13栋 ",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "南岗区王岗镇红星凯悦小区19栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "南岗区王岗镇红星凯悦小区B栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "南岗区王岗镇靠山村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "双城区承旭街道社保局东边胡同平房片区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "双城区乐群满族乡乐民村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "双城区幸福街道庆宁村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "双城区永治街道奋斗社区温馨小区1栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "双城区永治街道团结大街235号幸福e家1栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "香坊区朝阳镇前进村居民区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永胜村居民区",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "牡丹江",
           "areaName": "爱民区庆达社区",
           "dangerLevel": 2
@@ -6904,56 +6969,6 @@
         {
           "cityName": "牡丹江",
           "areaName": "兴平社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "哈达村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区王岗镇红星凯悦小区13栋、19栋、B栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区王岗镇靠山村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区承旭街道社保局东边胡同平房片区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区乐群满族乡乐民村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区幸福街道庆宁村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区永治街道奋斗社区温馨小区1栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区永治街道团结大街235号幸福e家1栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "香坊区朝阳镇前进村居民区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "永胜村居民区",
           "dangerLevel": 2
         }
       ]
@@ -7438,7 +7453,7 @@
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -7462,7 +7477,7 @@
           "curedCount": 3,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 511100,
           "currentConfirmedCountStr": "9"
         },
@@ -7695,13 +7710,7 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "乐山",
-          "areaName": "犍为县玉津镇滨江路东方花园小区",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "广西壮族自治区",
@@ -10237,7 +10246,7 @@
       "locationId": 360000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 4,
+      "midDangerCount": 3,
       "detectOrgCount": 143,
       "vaccinationOrgCount": 4,
       "cities": [
@@ -10345,7 +10354,7 @@
           "curedCount": 73,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 361000,
           "currentConfirmedCountStr": "0"
         },
@@ -10424,11 +10433,6 @@
         {
           "cityName": "南昌",
           "areaName": "新建区石岗镇长征路15号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "抚州",
-          "areaName": "G35济广高速鹰瑞段南城服务区",
           "dangerLevel": 2
         }
       ]
@@ -12148,11 +12152,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4681104149,
+  "getPV": 4681133094,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650165705000,
+    "modifyTime": 1650167090000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12386,7 +12390,7 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0417/303/9638183549320763453-135.json",
     "highDangerCount": 11,
-    "midDangerCount": 177
+    "midDangerCount": 178
   },
   "getTimelineService1": [
     {
