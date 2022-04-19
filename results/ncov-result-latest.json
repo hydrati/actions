@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 74,
       "currentConfirmedCount": 4446,
       "confirmedCount": 24463,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 41,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 39,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -77,7 +77,7 @@
       "currentConfirmedCount": 167,
       "confirmedCount": 1041,
       "dangerCountIncr": 1,
-      "currentDangerCount": 27,
+      "currentDangerCount": 36,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -112,8 +112,8 @@
       "yesterdayLocalConfirmedCount": 6,
       "currentConfirmedCount": 2521,
       "confirmedCount": 14089,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 31,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 29,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -1594,18 +1594,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
     },
     {
-      "provinceName": "黑龙江省",
-      "provinceShortName": "黑龙江",
-      "cityName": "佳木斯",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 56,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 7,
-      "locationId": 230000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
-    },
-    {
       "provinceName": "安徽省",
       "provinceShortName": "安徽",
       "cityName": "六安",
@@ -1616,6 +1604,18 @@
       "currentDangerCount": 6,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
+    },
+    {
+      "provinceName": "黑龙江省",
+      "provinceShortName": "黑龙江",
+      "cityName": "佳木斯",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 56,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
+      "locationId": 230000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
     {
       "provinceName": "安徽省",
@@ -2282,8 +2282,8 @@
       "yesterdayLocalConfirmedCount": 88,
       "currentConfirmedCount": 7083,
       "confirmedCount": 39416,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 72,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 68,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -2294,8 +2294,8 @@
           "yesterdayLocalConfirmedCount": 74,
           "currentConfirmedCount": 4446,
           "confirmedCount": 24463,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 41,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 39,
           "currentConfirmedCountStr": "4446"
         },
         {
@@ -2305,8 +2305,8 @@
           "yesterdayLocalConfirmedCount": 6,
           "currentConfirmedCount": 2521,
           "confirmedCount": 14089,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 31,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 29,
           "currentConfirmedCountStr": "2521"
         },
         {
@@ -2384,7 +2384,7 @@
       "currentConfirmedCount": 188,
       "confirmedCount": 2673,
       "dangerCountIncr": 1,
-      "currentDangerCount": 43,
+      "currentDangerCount": 48,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2396,7 +2396,7 @@
           "currentConfirmedCount": 167,
           "confirmedCount": 1041,
           "dangerCountIncr": 1,
-          "currentDangerCount": 27,
+          "currentDangerCount": 36,
           "currentConfirmedCountStr": "167"
         },
         {
@@ -2417,8 +2417,8 @@
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 56,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "1"
         },
         {
@@ -5099,8 +5099,8 @@
       "comment": "",
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-      "highDangerCount": 5,
-      "midDangerCount": 67,
+      "highDangerCount": 3,
+      "midDangerCount": 65,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -5112,7 +5112,7 @@
           "curedCount": 20017,
           "deadCount": 0,
           "highDangerCount": 3,
-          "midDangerCount": 38,
+          "midDangerCount": 36,
           "locationId": 220100,
           "currentConfirmedCountStr": "4446"
         },
@@ -5123,7 +5123,7 @@
           "suspectedCount": 12,
           "curedCount": 11565,
           "deadCount": 3,
-          "highDangerCount": 2,
+          "highDangerCount": 0,
           "midDangerCount": 29,
           "locationId": 220200,
           "currentConfirmedCountStr": "2521"
@@ -5266,16 +5266,6 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "吉林市",
-          "areaName": "昌邑区桦皮厂镇桦皮厂社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
-          "dangerLevel": 1
-        },
-        {
           "cityName": "长春",
           "areaName": "二道区八里堡街道力旺康城",
           "dangerLevel": 2
@@ -5362,11 +5352,6 @@
         },
         {
           "cityName": "长春",
-          "areaName": "绿园区普阳街道辽阳街（101栋、143栋、201栋）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长春",
           "areaName": "绿园区青年街道133厂小区",
           "dangerLevel": 2
         },
@@ -5418,11 +5403,6 @@
         {
           "cityName": "长春",
           "areaName": "南关区明珠街道中铁十三局宿舍",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长春",
-          "areaName": "南关区幸福乡国信一期",
           "dangerLevel": 2
         },
         {
@@ -5487,11 +5467,6 @@
         },
         {
           "cityName": "吉林市",
-          "areaName": "  吉林市龙潭区承德街道江山如画小区3号楼3单元",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
           "areaName": " 吉林市昌邑区桦皮厂镇庆祥村",
           "dangerLevel": 2
         },
@@ -5503,6 +5478,11 @@
         {
           "cityName": "吉林市",
           "areaName": "昌邑区孤店子镇孤店子村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "吉林市",
+          "areaName": "昌邑区桦皮厂镇桦皮厂社区",
           "dangerLevel": 2
         },
         {
@@ -5533,6 +5513,11 @@
         {
           "cityName": "吉林市",
           "areaName": "丰满区小白山乡鸡冠山村1社",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "吉林市",
+          "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
           "dangerLevel": 2
         },
         {
@@ -5598,11 +5583,6 @@
         {
           "cityName": "吉林市",
           "areaName": "吉林市昌邑区民主街道运河里小区15号楼3单元",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "吉林市船营区致和街道森邻里小区23号楼4单元",
           "dangerLevel": 2
         },
         {
@@ -6110,7 +6090,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 43,
+      "midDangerCount": 48,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -6122,7 +6102,7 @@
           "curedCount": 870,
           "deadCount": 4,
           "highDangerCount": 0,
-          "midDangerCount": 27,
+          "midDangerCount": 36,
           "locationId": 230100,
           "currentConfirmedCountStr": "167"
         },
@@ -6170,7 +6150,7 @@
           "curedCount": 55,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 7,
+          "midDangerCount": 3,
           "locationId": 230800,
           "currentConfirmedCountStr": "1"
         },
@@ -6299,7 +6279,22 @@
       "dangerAreas": [
         {
           "cityName": "哈尔滨",
+          "areaName": "承恩街道承恩村六组二委",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "承旭街道党校家属楼小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
           "areaName": "电缆名苑小区1号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "道里区城乡路街道汇智广场B座（东方大街与规划路交叉口）",
           "dangerLevel": 2
         },
         {
@@ -6329,27 +6324,17 @@
         },
         {
           "cityName": "哈尔滨",
+          "areaName": "联兴镇安乐村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
           "areaName": "南岗区红星凯悦小区",
           "dangerLevel": 2
         },
         {
           "cityName": "哈尔滨",
           "areaName": "南岗区锦绣华城滨园3栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区王岗镇红星凯悦小区13栋 ",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区王岗镇红星凯悦小区19栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区王岗镇红星凯悦小区B栋",
           "dangerLevel": 2
         },
         {
@@ -6379,6 +6364,11 @@
         },
         {
           "cityName": "哈尔滨",
+          "areaName": "双城区永治街道车站街一委四组",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
           "areaName": "双城区永治街道奋斗社区温馨小区1栋",
           "dangerLevel": 2
         },
@@ -6395,6 +6385,11 @@
         {
           "cityName": "哈尔滨",
           "areaName": "文汇家园小区1栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "幸福街道永支村",
           "dangerLevel": 2
         },
         {
@@ -6430,6 +6425,36 @@
         {
           "cityName": "哈尔滨",
           "areaName": "印象城小区3栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道财富名苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道明城华都5栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道民乐小区B区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道天富名苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道洗涤剂家属楼小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "哈尔滨",
+          "areaName": "永治街道鑫马家园小区",
           "dangerLevel": 2
         },
         {
@@ -6484,32 +6509,12 @@
         },
         {
           "cityName": "佳木斯",
-          "areaName": "汤原县理想家园小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
           "areaName": "汤原县阳光河畔小区",
           "dangerLevel": 2
         },
         {
           "cityName": "佳木斯",
           "areaName": "汤原镇西凤鸣村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "幸福家园3号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "幸福家园4号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "幸福家园8号楼",
           "dangerLevel": 2
         }
       ]
@@ -12085,11 +12090,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4681887820,
+  "getPV": 4681907952,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650340243000,
+    "modifyTime": 1650341878000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12322,8 +12327,8 @@
       "yesterdayConfirmedCountIncr": 950066
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0419/584/4625028264231404453-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 176
+    "highDangerCount": 7,
+    "midDangerCount": 167
   },
   "getTimelineService1": [
     {
@@ -12381,7 +12386,7 @@
     {
       "id": 189749,
       "pubDate": 1650329609000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "广东 | 新增本土确诊病例 20 例 ",
       "summary": "4月18日0-24时，广东全省新增本土确诊病例20例（其中11例为无症状感染者转确诊），广州报告19例，深圳报告1例；新增本土无症状感染者5例，均为广州报告。新增出院12例（境外输入5例），目前在院290例（境外输入30例）；新增解除医学观察无症状感染者54例（境外输入31例），尚在医学观察无症状感染者437例（境外输入279例）。\n广东全省新增境外输入确诊病例4例（其中3例为无症状感染者转确诊）",
       "infoSource": "央视新闻app",
