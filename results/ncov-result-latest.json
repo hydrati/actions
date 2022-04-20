@@ -1534,18 +1534,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
     {
-      "provinceName": "黑龙江省",
-      "provinceShortName": "黑龙江",
-      "cityName": "佳木斯",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 56,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
-      "locationId": 230000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
-    },
-    {
       "provinceName": "安徽省",
       "provinceShortName": "安徽",
       "cityName": "阜阳",
@@ -1688,6 +1676,18 @@
       "currentDangerCount": 0,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
+    },
+    {
+      "provinceName": "黑龙江省",
+      "provinceShortName": "黑龙江",
+      "cityName": "佳木斯",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 56,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 230000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
     {
       "provinceName": "湖南省",
@@ -2288,7 +2288,7 @@
       "currentConfirmedCount": 233,
       "confirmedCount": 2718,
       "dangerCountIncr": 1,
-      "currentDangerCount": 38,
+      "currentDangerCount": 35,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2317,22 +2317,22 @@
         {
           "provinceName": "黑龙江省",
           "provinceShortName": "黑龙江",
-          "cityName": "佳木斯",
-          "yesterdayLocalConfirmedCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 56,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
-          "currentConfirmedCountStr": "1"
-        },
-        {
-          "provinceName": "黑龙江省",
-          "provinceShortName": "黑龙江",
           "cityName": "黑河",
           "yesterdayLocalConfirmedCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 297,
           "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "provinceName": "黑龙江省",
+          "provinceShortName": "黑龙江",
+          "cityName": "佳木斯",
+          "yesterdayLocalConfirmedCount": 0,
+          "currentConfirmedCount": 1,
+          "confirmedCount": 56,
+          "dangerCountIncr": 1,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "1"
         }
@@ -5873,7 +5873,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 36,
+      "midDangerCount": 33,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5933,7 +5933,7 @@
           "curedCount": 55,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 0,
           "locationId": 230800,
           "currentConfirmedCountStr": "1"
         },
@@ -6233,21 +6233,6 @@
         {
           "cityName": "牡丹江",
           "areaName": "兴平社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "汤原县东湖城小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "汤原县阳光河畔小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "佳木斯",
-          "areaName": "汤原镇西凤鸣村",
           "dangerLevel": 2
         }
       ]
@@ -11818,11 +11803,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4682432105,
+  "getPV": 4682446510,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650444613000,
+    "modifyTime": 1650446113000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12032,27 +12017,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 192443487,
-      "confirmedCount": 504915431,
+      "currentConfirmedCount": 192443702,
+      "confirmedCount": 504915684,
       "suspectedCount": 4,
       "curedCount": 306270210,
-      "deadCount": 6201734,
+      "deadCount": 6201772,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 369360,
-      "confirmedIncr": 506547,
+      "currentConfirmedIncr": 369575,
+      "confirmedIncr": 506800,
       "curedIncr": 134500,
-      "deadIncr": 2687
+      "deadIncr": 2725
     },
     "globalStatistics": {
-      "currentConfirmedCount": 192732726,
-      "confirmedCount": 505456747,
+      "currentConfirmedCount": 192732941,
+      "confirmedCount": 505457000,
       "curedCount": 306507600,
-      "deadCount": 6216421,
-      "currentConfirmedIncr": 373431,
-      "confirmedIncr": 513606,
+      "deadCount": 6216459,
+      "currentConfirmedIncr": 373646,
+      "confirmedIncr": 513859,
       "curedIncr": 137462,
-      "deadIncr": 2713,
-      "yesterdayConfirmedCountIncr": 511129
+      "deadIncr": 2751,
+      "yesterdayConfirmedCountIncr": 511382
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0420/491/8237940151786224453-135.json",
     "highDangerCount": 8,
@@ -12062,7 +12047,7 @@
     {
       "id": 190024,
       "pubDate": 1650417828000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 2753 + 17066",
       "summary": "4月19日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例2753例，新增本土无症状感染者17066例",
       "infoSource": "央视新闻",
@@ -12075,7 +12060,7 @@
     {
       "id": 189997,
       "pubDate": 1650412356000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 2494 例 ",
       "summary": "上海市卫健委今早（20日）通报：2022年4月19日0—24时，新增本土新冠肺炎确诊病例2494例和无症状感染者16407例，其中533例确诊病例为此前无症状感染者转归，1800例确诊病例和16178例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。新增境外输入性确诊病例1例和无症状感染者1例，均在闭环管控中发现。\n2022年4月19日0—24时，新增本土新冠肺炎确诊病例2494例，含",
       "infoSource": "央视新闻app",
@@ -12088,7 +12073,7 @@
     {
       "id": 190016,
       "pubDate": 1650416912000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "吉林 | 昨日新增本土确诊病例 133 例",
       "summary": "据国家卫健委消息，吉林省昨日新增本土确诊病例133例，新增本土无症状感染者262例。\n（总台记者 赵文彬 张楚）",
       "infoSource": "央视新闻app",
@@ -12101,7 +12086,7 @@
     {
       "id": 189988,
       "pubDate": 1650409478000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "山东 | 昨日新增本土无症状感染者 25 例",
       "summary": "2022年4月19日0时至24时，山东省报告无新增本土确诊病例。新增本土无症状感染者25例，其中济南22例、临沂3例。新增境外输入确诊病例1例，在青岛，为韩国输入。无新增境外输入无症状感染者。\n2022年4月19日0时至24时，全省无报告无症状感染者转为确诊病例。\n2022年4月19日0时至24时，山东省本土确诊病例出院8例，其中滨州6例、济南2例。本土无症状感染者解除医学观察89例，其中滨州81",
       "infoSource": "央视新闻app",
@@ -12114,7 +12099,7 @@
     {
       "id": 189999,
       "pubDate": 1650412668000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "黑龙江 | 昨日新增本土确诊病例 45 例",
       "summary": "2022年4月19日0-24时，黑龙江省新增新冠肺炎本土确诊病例45例（均在哈尔滨市），新增本土无症状感染者28例（均在哈尔滨市），均为隔离管控期间核酸检测发现或对重点人群主动排查发现。当日解除医学观察本土无症状感染者12例（佳木斯市8例，伊春市2例，黑河市1例，大庆市1例）。\n截至4月19日24时，黑龙江全省现有境外输入确诊病例1例，境外输入无症状感染者6例；黑龙江全省现有本土确诊病例232例，",
       "infoSource": "央视新闻app",
