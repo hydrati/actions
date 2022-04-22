@@ -701,7 +701,7 @@
       "currentConfirmedCount": 17,
       "confirmedCount": 94,
       "dangerCountIncr": 1,
-      "currentDangerCount": 4,
+      "currentDangerCount": 3,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -2195,7 +2195,7 @@
       "currentConfirmedCount": 305,
       "confirmedCount": 2794,
       "dangerCountIncr": 1,
-      "currentDangerCount": 33,
+      "currentDangerCount": 32,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2220,7 +2220,7 @@
           "currentConfirmedCount": 17,
           "confirmedCount": 94,
           "dangerCountIncr": 1,
-          "currentDangerCount": 4,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "17"
         },
         {
@@ -5513,7 +5513,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 31,
+      "midDangerCount": 30,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5537,7 +5537,7 @@
           "curedCount": 77,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 4,
+          "midDangerCount": 3,
           "locationId": 231000,
           "currentConfirmedCountStr": "17"
         },
@@ -5843,11 +5843,6 @@
         {
           "cityName": "哈尔滨",
           "areaName": "永治街道鑫马家园小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "牡丹江",
-          "areaName": "爱民区庆旺社区",
           "dangerLevel": 2
         },
         {
@@ -11700,11 +11695,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4683163750,
+  "getPV": 4683188283,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650618206000,
+    "modifyTime": 1650619115000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11914,37 +11909,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 194187254,
-      "confirmedCount": 506909264,
+      "currentConfirmedCount": 194167170,
+      "confirmedCount": 506909288,
       "suspectedCount": 4,
-      "curedCount": 306512471,
+      "curedCount": 306532579,
       "deadCount": 6209539,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 850550,
-      "confirmedIncr": 964080,
-      "curedIncr": 110067,
+      "currentConfirmedIncr": 830466,
+      "confirmedIncr": 964104,
+      "curedIncr": 130175,
       "deadIncr": 3463
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194483298,
-      "confirmedCount": 507462885,
-      "curedCount": 306755306,
+      "currentConfirmedCount": 194463214,
+      "confirmedCount": 507462909,
+      "curedCount": 306775414,
       "deadCount": 6224281,
-      "currentConfirmedIncr": 857292,
-      "confirmedIncr": 973246,
-      "curedIncr": 112454,
+      "currentConfirmedIncr": 837208,
+      "confirmedIncr": 973270,
+      "curedIncr": 132562,
       "deadIncr": 3500,
-      "yesterdayConfirmedCountIncr": 969389
+      "yesterdayConfirmedCountIncr": 969413
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0422/611/9207174866597954453-135.json",
     "highDangerCount": 7,
-    "midDangerCount": 125
+    "midDangerCount": 124
   },
   "getTimelineService1": [
     {
       "id": 190472,
       "pubDate": 1650590061000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 2119+16383 ",
       "summary": "4月21日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例2119例，新增本土无症状感染者16383例",
       "infoSource": "央视新闻",
@@ -11957,7 +11952,7 @@
     {
       "id": 190454,
       "pubDate": 1650584878000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增本土确诊病例 1931 例 ",
       "summary": "上海市卫健委今早（22日）通报：2022年4月21日0—24时，新增本土新冠肺炎确诊病例1931例和无症状感染者15698例，其中143例确诊病例为此前无症状感染者转归，1685例确诊病例和15551例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。",
       "infoSource": "央视新闻app",
@@ -11970,7 +11965,7 @@
     {
       "id": 190468,
       "pubDate": 1650589159000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "吉林 | 昨日新增本土确诊病例 63 例",
       "summary": "据国家卫健委消息，4月21日0—24时，吉林省新增新冠肺炎确诊病例63例，新增无症状感染者244例。",
       "infoSource": "央视新闻app",
@@ -11983,7 +11978,7 @@
     {
       "id": 190457,
       "pubDate": 1650585781000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "10小时前",
       "title": "黑龙江 | 昨日新增本土确诊病例 34 例",
       "summary": "2022年4月21日0—24时，黑龙江省新增新冠肺炎本土确诊病例34例（均在哈尔滨市），新增本土无症状感染者56例（均在哈尔滨市），均为隔离管控期间核酸检测发现或对重点人群主动排查发现。当日解除医学观察境外输入无症状感染者1例；当日治愈出院本土确诊病例2例（牡丹江市1例，黑河市1例），解除医学观察本土无症状感染者2例（哈尔滨市1例，大庆市1例）。\n截至4月21日24时，全省现有境外输入确诊病例1例",
       "infoSource": "央视新闻app",
@@ -11996,7 +11991,7 @@
     {
       "id": 190475,
       "pubDate": 1650589966000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "江西 | 昨日新增本土确诊病例 33 例",
       "summary": "2022年4月21日0—24时，江西省新增本土确诊病例9例（均在南昌市），另有24例前期无症状感染者转为确诊病例（均在南昌市），临床分型均为轻型；新增治愈出院1例（在南昌市）。从2020年1月至2022年4月21日24时，全省累计报告本土确诊病例1151例，累计出院病例1062例。截至2022年4月21日24时，全省现有本土住院确诊病例88例。\n2022年4月21日0—24时，江西省无新增境外输入",
       "infoSource": "央视新闻app",
