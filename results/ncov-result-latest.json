@@ -268,8 +268,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 370,
       "confirmedCount": 14108,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 9,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -2073,7 +2073,7 @@
       "currentConfirmedCount": 3310,
       "confirmedCount": 39982,
       "dangerCountIncr": 1,
-      "currentDangerCount": 27,
+      "currentDangerCount": 25,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -2109,8 +2109,8 @@
           "yesterdayAsymptomaticCount": 7,
           "currentConfirmedCount": 370,
           "confirmedCount": 14108,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 11,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 9,
           "currentConfirmedCountStr": "370"
         },
         {
@@ -4874,7 +4874,7 @@
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 26,
+      "midDangerCount": 24,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -4898,7 +4898,7 @@
           "curedCount": 13735,
           "deadCount": 3,
           "highDangerCount": 0,
-          "midDangerCount": 11,
+          "midDangerCount": 9,
           "locationId": 220200,
           "currentConfirmedCountStr": "370"
         },
@@ -5112,16 +5112,6 @@
         {
           "cityName": "吉林市",
           "areaName": "昌邑区左家镇王家岭村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "丰满区泰山街道如一坊中央公园8号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "吉林市",
-          "areaName": "经开区九站街道农校社区八委十组（九龙路以南、经开大街以东、翰林路以南）",
           "dangerLevel": 2
         },
         {
@@ -11546,11 +11536,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4684454494,
+  "getPV": 4684470892,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650877755000,
+    "modifyTime": 1650879398000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11760,37 +11750,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 194346620,
+      "currentConfirmedCount": 194312318,
       "confirmedCount": 508847965,
       "suspectedCount": 4,
-      "curedCount": 308282652,
+      "curedCount": 308316954,
       "deadCount": 6218693,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -158046,
+      "currentConfirmedIncr": -192348,
       "confirmedIncr": 1263085,
-      "curedIncr": 1417519,
+      "curedIncr": 1451821,
       "deadIncr": 3612
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194668509,
+      "currentConfirmedCount": 194634207,
       "confirmedCount": 509436996,
-      "curedCount": 308534913,
+      "curedCount": 308569215,
       "deadCount": 6233574,
-      "currentConfirmedIncr": -152338,
+      "currentConfirmedIncr": -186640,
       "confirmedIncr": 1272008,
-      "curedIncr": 1420670,
+      "curedIncr": 1454972,
       "deadIncr": 3676,
       "yesterdayConfirmedCountIncr": 1272008
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0425/718/7038926444854515453-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 105
+    "midDangerCount": 103
   },
   "getTimelineService1": [
     {
       "id": 190922,
       "pubDate": 1650850233000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 2666+17528",
       "summary": "4月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例2666例，新增本土无症状感染者17528例",
       "infoSource": "央视新闻",
@@ -11842,7 +11832,7 @@
     {
       "id": 190914,
       "pubDate": 1650849061000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "浙江 | 昨日新增本土确诊病例 13 例 ",
       "summary": "4月24日0—24时，浙江11个市报告新增确诊病例14例。其中境外输入病例1例（之前境外输入的无症状感染者转为确诊病例）；本土确诊病例13例（杭州市12例，宁波市1例），含12例由无症状感染者转为确诊病例（杭州市）。\n当日新增治愈出院病例9例，解除医学观察的密切接触者1519人。\n11个市报告新增无症状感染者20例。其中境外输入1例（中国香港输入）；本土19例（杭州市14例，金华市5例）。\n截至2",
       "infoSource": "央视新闻app",
