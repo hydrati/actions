@@ -101,7 +101,7 @@
       "currentConfirmedCount": 28,
       "confirmedCount": 39,
       "dangerCountIncr": 1,
-      "currentDangerCount": 1,
+      "currentDangerCount": 5,
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json"
     },
@@ -2299,7 +2299,7 @@
       "currentConfirmedCount": 36,
       "confirmedCount": 1642,
       "dangerCountIncr": 1,
-      "currentDangerCount": 1,
+      "currentDangerCount": 5,
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "cities": [
@@ -2312,7 +2312,7 @@
           "currentConfirmedCount": 28,
           "confirmedCount": 39,
           "dangerCountIncr": 1,
-          "currentDangerCount": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "28"
         },
         {
@@ -4449,8 +4449,8 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 47088,
-      "confirmedCount": 61686,
+      "currentConfirmedCount": 53424,
+      "confirmedCount": 68022,
       "suspectedCount": 485,
       "curedCount": 13742,
       "deadCount": 856,
@@ -8441,7 +8441,7 @@
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 5,
       "detectOrgCount": 192,
       "vaccinationOrgCount": 204,
       "cities": [
@@ -8489,7 +8489,7 @@
           "curedCount": 11,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 5,
           "locationId": 210600,
           "currentConfirmedCountStr": "28"
         },
@@ -8639,6 +8639,26 @@
         }
       ],
       "dangerAreas": [
+        {
+          "cityName": "丹东",
+          "areaName": "振兴区丹建锦园93号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "振兴区丹建锦园95号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "振兴区福临花园小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "振兴区文安新村小区",
+          "dangerLevel": 2
+        },
         {
           "cityName": "丹东",
           "areaName": "振兴区知春园小区一期",
@@ -11464,11 +11484,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4684869430,
+  "getPV": 4684891871,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1650960481000,
+    "modifyTime": 1650963225000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11484,15 +11504,15 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 326693,
-    "confirmedCount": 596290,
+    "currentConfirmedCount": 333029,
+    "confirmedCount": 602626,
     "suspectedCount": 18135,
     "curedCount": 254646,
     "deadCount": 14951,
     "seriousCount": 246139,
     "suspectedIncr": 15,
-    "currentConfirmedIncr": 4804,
-    "confirmedIncr": 7259,
+    "currentConfirmedIncr": 11140,
+    "confirmedIncr": 13595,
     "curedIncr": 2385,
     "deadIncr": 70,
     "seriousIncr": 796,
@@ -11690,25 +11710,25 @@
       "deadIncr": 2127
     },
     "globalStatistics": {
-      "currentConfirmedCount": 195023701,
-      "confirmedCount": 509941969,
+      "currentConfirmedCount": 195030037,
+      "confirmedCount": 509948305,
       "curedCount": 308682497,
       "deadCount": 6235771,
-      "currentConfirmedIncr": 389494,
-      "confirmedIncr": 504973,
+      "currentConfirmedIncr": 395830,
+      "confirmedIncr": 511309,
       "curedIncr": 113282,
       "deadIncr": 2197,
       "yesterdayConfirmedCountIncr": 504973
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0426/143/9028121950210435453-135.json",
     "highDangerCount": 6,
-    "midDangerCount": 103
+    "midDangerCount": 107
   },
   "getTimelineService1": [
     {
       "id": 191172,
       "pubDate": 1650935984000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日本土新增 1908+15816",
       "summary": "4月25日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例1908例，新增本土无症状感染者15816例",
       "infoSource": "央视新闻",
@@ -11721,7 +11741,7 @@
     {
       "id": 191142,
       "pubDate": 1650930382000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "上海 | 昨日新增本土确诊病例 1661 例",
       "summary": "上海市卫健委今早（26日）通报：2022年4月25日0—24时，新增本土新冠肺炎确诊病例1661例和无症状感染者15319例，其中968例确诊病例为此前无症状感染者转归，675例确诊病例和15120例无症状感染者在隔离管控中发现，其余在相关风险人群排查中发现。\n2022年4月25日0—24时，新增本土新冠肺炎确诊病例1661例，含968例由无症状感染者转为确诊病例。新增治愈出院1941例。\n病例1",
       "infoSource": "央视新闻app",
@@ -11734,7 +11754,7 @@
     {
       "id": 191179,
       "pubDate": 1650936509000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "江西 | 昨日新增本土确诊病例 91 例 ",
       "summary": "2022年4月25日0—24时，江西省新增本土确诊病例91例（其中上饶市89例，均在万年县；南昌市2例），临床分型均为轻型；新增治愈出院4例（均在南昌市）。截至2022年4月25日24时，全省现有本土住院确诊病例208例。\n2022年4月25日0—24时，江西省新增境外输入确诊病例2例，新增境外输入无症状感染者4例；新增解除医学隔离观察3例。从2020年1月至2022年4月25日24时，全省累计报",
       "infoSource": "央视新闻app",
@@ -11747,7 +11767,7 @@
     {
       "id": 191164,
       "pubDate": 1650934930000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "吉林 | 昨日新增本土确诊病例 44 例",
       "summary": "据国家卫健委消息，吉林省昨日新增本土确诊病例44例，无症状感染者101例。（总台记者 赵文彬 张楚）",
       "infoSource": "央视新闻app",
@@ -11760,7 +11780,7 @@
     {
       "id": 191143,
       "pubDate": 1650930781000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "北京 | 昨日新增本土确诊病例 32 例",
       "summary": "4月25日0时至24时，北京新增32例本土确诊病例（含1例4月24日诊断的无症状感染者转确诊病例，确诊病例1至23昨日已通报）和1例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院2例。\n确诊病例1至5、11、18：均为在校学生，现住址均位于朝阳区。4月22日作为密切接触者进行核酸检测，4月24日报告结果均为阳性，已转至定点医院，综合流行病史、临床表现、实验室",
       "infoSource": "央视新闻app",
