@@ -569,7 +569,7 @@
       "currentConfirmedCount": 36,
       "confirmedCount": 76,
       "dangerCountIncr": 1,
-      "currentDangerCount": 7,
+      "currentDangerCount": 2,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
@@ -3336,7 +3336,7 @@
       "currentConfirmedCount": 74,
       "confirmedCount": 3009,
       "dangerCountIncr": 1,
-      "currentDangerCount": 7,
+      "currentDangerCount": 2,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
@@ -3361,7 +3361,7 @@
           "currentConfirmedCount": 36,
           "confirmedCount": 76,
           "dangerCountIncr": 1,
-          "currentDangerCount": 7,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "36"
         },
         {
@@ -6445,8 +6445,8 @@
       "comment": "",
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
-      "highDangerCount": 2,
-      "midDangerCount": 5,
+      "highDangerCount": 0,
+      "midDangerCount": 2,
       "detectOrgCount": 59,
       "vaccinationOrgCount": 156,
       "cities": [
@@ -6457,8 +6457,8 @@
           "suspectedCount": 0,
           "curedCount": 40,
           "deadCount": 0,
-          "highDangerCount": 2,
-          "midDangerCount": 5,
+          "highDangerCount": 0,
+          "midDangerCount": 2,
           "locationId": 350900,
           "currentConfirmedCountStr": "36"
         },
@@ -6586,32 +6586,7 @@
       "dangerAreas": [
         {
           "cityName": "宁德",
-          "areaName": "蕉城区七都镇大厅村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "蕉城区七都镇黄厝村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宁德",
           "areaName": "八都村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "贝河村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "官亭村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "七都镇浦源社区",
           "dangerLevel": 2
         },
         {
@@ -11512,11 +11487,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4685305478,
+  "getPV": 4685323875,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651050698000,
+    "modifyTime": 1651051048000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11749,8 +11724,8 @@
       "yesterdayConfirmedCountIncr": 560662
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0427/068/6970670301665255453-135.json",
-    "highDangerCount": 10,
-    "midDangerCount": 111
+    "highDangerCount": 8,
+    "midDangerCount": 108
   },
   "getTimelineService1": [
     {
