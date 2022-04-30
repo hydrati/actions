@@ -100,8 +100,8 @@
       "yesterdayLocalConfirmedCount": 19,
       "currentConfirmedCount": 1366,
       "confirmedCount": 25162,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 11,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 8,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -184,8 +184,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 312,
       "confirmedCount": 1305,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 38,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 29,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -544,8 +544,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 36,
       "confirmedCount": 76,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
@@ -838,16 +838,16 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
-      "provinceName": "河南省",
-      "provinceShortName": "河南",
-      "cityName": "漯河",
+      "provinceName": "黑龙江省",
+      "provinceShortName": "黑龙江",
+      "cityName": "牡丹江",
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 8,
-      "confirmedCount": 44,
-      "dangerCountIncr": 0,
+      "confirmedCount": 94,
+      "dangerCountIncr": 1,
       "currentDangerCount": 1,
-      "locationId": 410000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
+      "locationId": 230000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
     {
       "provinceName": "河北省",
@@ -874,18 +874,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
     {
-      "provinceName": "黑龙江省",
-      "provinceShortName": "黑龙江",
-      "cityName": "牡丹江",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 8,
-      "confirmedCount": 94,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 230000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
-    },
-    {
       "provinceName": "云南省",
       "provinceShortName": "云南",
       "cityName": "昆明",
@@ -908,6 +896,18 @@
       "currentDangerCount": 0,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
+      "provinceName": "河南省",
+      "provinceShortName": "河南",
+      "cityName": "漯河",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 8,
+      "confirmedCount": 44,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 410000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
       "provinceName": "四川省",
@@ -2262,8 +2262,8 @@
       "yesterdayAsymptomaticCount": 35,
       "currentConfirmedCount": 1641,
       "confirmedCount": 40195,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 12,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 9,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -2275,8 +2275,8 @@
           "yesterdayAsymptomaticCount": 29,
           "currentConfirmedCount": 1366,
           "confirmedCount": 25162,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 11,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "1366"
         },
         {
@@ -2468,7 +2468,7 @@
       "provinceShortName": "浙江",
       "yesterdayLocalConfirmedCount": 8,
       "yesterdayAsymptomaticCount": 22,
-      "currentConfirmedCount": 825,
+      "currentConfirmedCount": 815,
       "confirmedCount": 3109,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -2986,8 +2986,8 @@
       "yesterdayAsymptomaticCount": 3,
       "currentConfirmedCount": 320,
       "confirmedCount": 2938,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 38,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 30,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2999,8 +2999,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 312,
           "confirmedCount": 1305,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 38,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 29,
           "currentConfirmedCountStr": "312"
         },
         {
@@ -3011,8 +3011,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 8,
           "confirmedCount": 94,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "8"
         }
       ]
@@ -3024,8 +3024,8 @@
       "yesterdayAsymptomaticCount": 3,
       "currentConfirmedCount": 42,
       "confirmedCount": 2902,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "cities": [
@@ -3101,8 +3101,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 8,
           "confirmedCount": 44,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -3695,8 +3695,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 62,
       "confirmedCount": 3018,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
@@ -3708,8 +3708,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 36,
           "confirmedCount": 76,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "36"
         },
         {
@@ -4645,8 +4645,8 @@
       "comment": "",
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
-      "highDangerCount": 1,
-      "midDangerCount": 11,
+      "highDangerCount": 0,
+      "midDangerCount": 9,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -4657,8 +4657,8 @@
           "suspectedCount": 1,
           "curedCount": 23796,
           "deadCount": 0,
-          "highDangerCount": 1,
-          "midDangerCount": 10,
+          "highDangerCount": 0,
+          "midDangerCount": 8,
           "locationId": 220100,
           "currentConfirmedCountStr": "1366"
         },
@@ -4798,11 +4798,6 @@
       "dangerAreas": [
         {
           "cityName": "长春",
-          "areaName": "团山街道小南街社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "长春",
           "areaName": "经开区兴隆山镇金色家园",
           "dangerLevel": 2
         },
@@ -4819,11 +4814,6 @@
         {
           "cityName": "长春",
           "areaName": "净月区德正街道保利香槟",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长春",
-          "areaName": "宽城区凯旋街道友谊花园小区",
           "dangerLevel": 2
         },
         {
@@ -4847,11 +4837,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "长春",
-          "areaName": "南关区明珠街道万科金域长春",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "白城",
           "areaName": "白城师范学院校园整体",
           "dangerLevel": 2
@@ -4861,10 +4846,10 @@
     {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
-      "currentConfirmedCount": 825,
+      "currentConfirmedCount": 815,
       "confirmedCount": 3109,
       "suspectedCount": 68,
-      "curedCount": 2283,
+      "curedCount": 2293,
       "deadCount": 1,
       "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
       "locationId": 330000,
@@ -4874,18 +4859,6 @@
       "detectOrgCount": 519,
       "vaccinationOrgCount": 217,
       "cities": [
-        {
-          "cityName": "境外输入",
-          "currentConfirmedCount": 392,
-          "confirmedCount": 593,
-          "suspectedCount": 68,
-          "curedCount": 201,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 0,
-          "currentConfirmedCountStr": "392"
-        },
         {
           "cityName": "杭州",
           "currentConfirmedCount": 299,
@@ -4897,6 +4870,18 @@
           "midDangerCount": 0,
           "locationId": 330100,
           "currentConfirmedCountStr": "299"
+        },
+        {
+          "cityName": "境外输入",
+          "currentConfirmedCount": 287,
+          "confirmedCount": 593,
+          "suspectedCount": 68,
+          "curedCount": 306,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 0,
+          "currentConfirmedCountStr": "287"
         },
         {
           "cityName": "嘉兴",
@@ -5057,7 +5042,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 36,
+      "midDangerCount": 28,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5069,7 +5054,7 @@
           "curedCount": 989,
           "deadCount": 4,
           "highDangerCount": 2,
-          "midDangerCount": 36,
+          "midDangerCount": 27,
           "locationId": 230100,
           "currentConfirmedCountStr": "312"
         },
@@ -5081,7 +5066,7 @@
           "curedCount": 86,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 231000,
           "currentConfirmedCountStr": "8"
         },
@@ -5256,11 +5241,6 @@
         },
         {
           "cityName": "哈尔滨",
-          "areaName": "承恩街道承恩村六组二委",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
           "areaName": "承旭街道党校家属楼小区",
           "dangerLevel": 2
         },
@@ -5287,11 +5267,6 @@
         {
           "cityName": "哈尔滨",
           "areaName": "道里区群力新苑小区C区（工农大街625号）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "大众新城220栋",
           "dangerLevel": 2
         },
         {
@@ -5351,37 +5326,12 @@
         },
         {
           "cityName": "哈尔滨",
-          "areaName": "双城区承旭街道社保局东边胡同平房片区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区乐群满族乡乐民村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
           "areaName": "双城区幸福街道庆宁村",
           "dangerLevel": 2
         },
         {
           "cityName": "哈尔滨",
-          "areaName": "双城区永治街道车站街一委四组",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "双城区永治街道团结大街235号幸福e家1栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
           "areaName": "上夹树街75号院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "文汇家园小区1栋",
           "dangerLevel": 2
         },
         {
@@ -5406,11 +5356,6 @@
         },
         {
           "cityName": "哈尔滨",
-          "areaName": "永治街道奋斗社区温馨小区1栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
           "areaName": "永治街道明城华都5栋",
           "dangerLevel": 2
         },
@@ -5430,8 +5375,8 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "哈尔滨",
-          "areaName": "永治街道鑫马家园小区",
+          "cityName": "牡丹江",
+          "areaName": "绥芬河市源丰经贸公司",
           "dangerLevel": 2
         }
       ]
@@ -6547,7 +6492,7 @@
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 2,
+      "midDangerCount": 0,
       "detectOrgCount": 59,
       "vaccinationOrgCount": 156,
       "cities": [
@@ -6559,7 +6504,7 @@
           "curedCount": 40,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 0,
           "locationId": 350900,
           "currentConfirmedCountStr": "36"
         },
@@ -6684,18 +6629,7 @@
           "currentConfirmedCountStr": "-15"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "宁德",
-          "areaName": "八都村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "下坂村",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "四川省",
@@ -7396,7 +7330,7 @@
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 3,
+      "midDangerCount": 2,
       "detectOrgCount": 197,
       "vaccinationOrgCount": 234,
       "cities": [
@@ -7472,7 +7406,7 @@
           "curedCount": 36,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 411100,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -7667,11 +7601,6 @@
         {
           "cityName": "信阳",
           "areaName": "固始县张广庙镇龙井村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "漯河",
-          "areaName": "郾城区海河路沙澧文景苑小区",
           "dangerLevel": 2
         }
       ]
@@ -11348,11 +11277,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4686446714,
+  "getPV": 4686461851,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651289159000,
+    "modifyTime": 1651291778000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11562,31 +11491,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 196313958,
-      "confirmedCount": 511247998,
+      "currentConfirmedCount": 196977712,
+      "confirmedCount": 511960255,
       "suspectedCount": 4,
-      "curedCount": 308702994,
-      "deadCount": 6231046,
+      "curedCount": 308749292,
+      "deadCount": 6233251,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": 663754,
+      "confirmedIncr": 712257,
+      "curedIncr": 46298,
+      "deadIncr": 2205
     },
     "globalStatistics": {
-      "currentConfirmedCount": 196688659,
-      "confirmedCount": 511895099,
-      "curedCount": 308960212,
-      "deadCount": 6246228,
-      "currentConfirmedIncr": 10512,
-      "confirmedIncr": 13842,
-      "curedIncr": 3270,
-      "deadIncr": 60,
-      "yesterdayConfirmedCountIncr": 13842
+      "currentConfirmedCount": 197352413,
+      "confirmedCount": 512607356,
+      "curedCount": 309006510,
+      "deadCount": 6248433,
+      "currentConfirmedIncr": 674266,
+      "confirmedIncr": 726099,
+      "curedIncr": 49568,
+      "deadIncr": 2265,
+      "yesterdayConfirmedCountIncr": 726099
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0430/714/1702447803922806453-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 108
+    "highDangerCount": 8,
+    "midDangerCount": 95
   },
   "getTimelineService1": [
     {
