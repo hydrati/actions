@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 53,
       "currentConfirmedCount": 319,
       "confirmedCount": 2155,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 29,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 35,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -89,7 +89,7 @@
       "currentConfirmedCount": 1189,
       "confirmedCount": 25178,
       "dangerCountIncr": 1,
-      "currentDangerCount": 3,
+      "currentDangerCount": 0,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json"
     },
@@ -1940,8 +1940,8 @@
       "yesterdayAsymptomaticCount": 6,
       "currentConfirmedCount": 319,
       "confirmedCount": 2155,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 29,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 35,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1953,8 +1953,8 @@
           "yesterdayAsymptomaticCount": 2,
           "currentConfirmedCount": 203,
           "confirmedCount": 283,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 20,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 22,
           "currentConfirmedCountStr": "203"
         },
         {
@@ -1965,8 +1965,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 79,
           "confirmedCount": 99,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 8,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 9,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1978,8 +1978,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 37,
           "confirmedCount": 57,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "37"
         },
         {
@@ -2177,7 +2177,7 @@
       "currentConfirmedCount": 1420,
       "confirmedCount": 40211,
       "dangerCountIncr": 1,
-      "currentDangerCount": 4,
+      "currentDangerCount": 1,
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "cities": [
@@ -2190,7 +2190,7 @@
           "currentConfirmedCount": 1189,
           "confirmedCount": 25178,
           "dangerCountIncr": 1,
-          "currentDangerCount": 3,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "1189"
         },
         {
@@ -4622,7 +4622,7 @@
       "locationId": 220000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/046/3398299755968039975-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 4,
+      "midDangerCount": 1,
       "detectOrgCount": 91,
       "vaccinationOrgCount": 0,
       "cities": [
@@ -4634,7 +4634,7 @@
           "curedCount": 23989,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 0,
           "locationId": 220100,
           "currentConfirmedCountStr": "1189"
         },
@@ -4772,21 +4772,6 @@
         }
       ],
       "dangerAreas": [
-        {
-          "cityName": "长春",
-          "areaName": "绿园区林园街道3535小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长春",
-          "areaName": "绿园区青年街道133厂小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "长春",
-          "areaName": "绿园区青年街道宇航社区日鑫小区B区",
-          "dangerLevel": 2
-        },
         {
           "cityName": "白城",
           "areaName": "白城师范学院校园整体",
@@ -4992,8 +4977,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 6,
-      "midDangerCount": 23,
+      "highDangerCount": 7,
+      "midDangerCount": 28,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -5016,8 +5001,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 4,
-          "midDangerCount": 16,
+          "highDangerCount": 5,
+          "midDangerCount": 17,
           "locationId": 110105,
           "currentConfirmedCountStr": "203"
         },
@@ -5042,7 +5027,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 2,
-          "midDangerCount": 6,
+          "midDangerCount": 7,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -5067,7 +5052,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 4,
           "locationId": 110112,
           "currentConfirmedCountStr": "37"
         },
@@ -5260,6 +5245,11 @@
           "dangerLevel": 1
         },
         {
+          "cityName": "朝阳区",
+          "areaName": "双井街道广和南里二条",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "房山区",
           "areaName": "窦店镇燕都世界名园社区",
           "dangerLevel": 1
@@ -5281,7 +5271,7 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "朝阳区双井街道广和南里二条",
+          "areaName": "豆各庄乡朝丰家园社区",
           "dangerLevel": 2
         },
         {
@@ -5326,6 +5316,11 @@
         },
         {
           "cityName": "朝阳区",
+          "areaName": "十八里店乡吕家营村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
           "areaName": "十八里店乡周家庄中路20号院",
           "dangerLevel": 2
         },
@@ -5347,6 +5342,11 @@
         {
           "cityName": "朝阳区",
           "areaName": "小红门乡鸿博家园第一社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇芦村",
           "dangerLevel": 2
         },
         {
@@ -5382,6 +5382,21 @@
         {
           "cityName": "通州区",
           "areaName": "通运街道通胡大街78号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "新华街道盛业家园社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "于家务回族乡西里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "中仓街道新华园社区",
           "dangerLevel": 2
         }
       ]
@@ -11268,11 +11283,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4687020889,
+  "getPV": 4687037264,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651395481000,
+    "modifyTime": 1651398032000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11482,37 +11497,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 197502847,
-      "confirmedCount": 512555420,
+      "currentConfirmedCount": 197436479,
+      "confirmedCount": 512578769,
       "suspectedCount": 4,
-      "curedCount": 308817067,
-      "deadCount": 6235506,
+      "curedCount": 308906660,
+      "deadCount": 6235630,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 563061,
-      "confirmedIncr": 590243,
-      "curedIncr": 24944,
-      "deadIncr": 2238
+      "currentConfirmedIncr": 496693,
+      "confirmedIncr": 613592,
+      "curedIncr": 114537,
+      "deadIncr": 2362
     },
     "globalStatistics": {
-      "currentConfirmedCount": 197907095,
-      "confirmedCount": 513235754,
-      "curedCount": 309077920,
-      "deadCount": 6250739,
-      "currentConfirmedIncr": 592608,
-      "confirmedIncr": 623476,
-      "curedIncr": 28579,
-      "deadIncr": 2289,
-      "yesterdayConfirmedCountIncr": 606364
+      "currentConfirmedCount": 197840727,
+      "confirmedCount": 513259103,
+      "curedCount": 309167513,
+      "deadCount": 6250863,
+      "currentConfirmedIncr": 526240,
+      "confirmedIncr": 646825,
+      "curedIncr": 118172,
+      "deadIncr": 2413,
+      "yesterdayConfirmedCountIncr": 629713
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0501/429/8467207253387626453-135.json",
-    "highDangerCount": 8,
-    "midDangerCount": 95
+    "highDangerCount": 9,
+    "midDangerCount": 100
   },
   "getTimelineService1": [
     {
       "id": 192119,
       "pubDate": 1651366599000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 916 + 7340 例",
       "summary": "4月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例920例。其中境外输入病例4例（上海1例，福建1例，广西1例，四川1例）；本土病例916例（上海788例，北京53例，广东21例，吉林16例，山东6例，四川6例，黑龙江5例，江西5例，河南4例，新疆4例，江苏3例，内蒙古2例，湖南2例，重庆1例），含703例由无症状感染者转为确诊病例（上海683例，吉林11例，广东7",
       "infoSource": "央视新闻app",
@@ -11525,7 +11540,7 @@
     {
       "id": 192104,
       "pubDate": 1651364014000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 53 例",
       "summary": "\n\t\t\t    4月30日0时至24时，新增53例本土确诊病例（确诊病例1至26、53昨日已通报）和6例无症状感染者（无症状感染者1至4昨日已通报），无新增疑似病例；无新增境外输入确诊病例、疑似病例，新增1例境外输入无症状感染者。治愈出院11例。确诊病例1、9：为同一家庭成员，现住通州区北苑街道新仓路小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例2：现住朝阳区松榆东里。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例3、4：现住海淀区甘家口街道景王坟13号院，谷多餐厅（增光路店）员工。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例5、41：现住址均位于朝阳区，绿化队员工。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例6：现住丰台区东铁匠营街道东铁营横一条。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例7：现住石景山区鲁谷街道六厂宿舍。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例8：现住朝阳区崔各庄乡京旺家园5区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为普通型。确诊病例10、44、45：现住址均位于朝阳区，在校学生。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例11：现住房山区阎村镇前沿村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例12：现住朝阳区建外街道光辉里小区，光辉里小区底商1层7号黄焖鸡牛肉板面店员工。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例13：现住门头沟区大峪街道含晖苑。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例14：现住丰台区云岗街道镇岗南里3号院。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例15：现住通州区潞城镇荔景苑新区，外卖配送员。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例16：现住顺义区马坡镇马卷村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例17：现住房山区窦店镇于庄村。综合流行病史、临床表现、实验室检测和影像学检查等结果， 4月30日诊断为确诊病例，临床分型为轻型。确诊病例18、23：现住址均位于通州区，在校学生。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例19：现住昌平区天通苑南街道天通苑四区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例20：现住朝阳区劲松街道农光里。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例21：现住通州区于家务乡于家务西里。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例22：现住顺义区李桥镇樱花园二区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例24：现住房山区窦店镇芦村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例25：现住丰台区丰台街道味道花园酒店宿舍。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为普通型。  确诊病例26：现住房山区窦店镇于庄村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例27：现住海淀区温泉镇白家瞳小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例28：现住大兴区民顺南路10号院。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例29：现住房山区窦店镇西安庄村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例30：现住房山区拱辰街道花园巷小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例31：现住海淀区东升镇观林园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例32：现住大兴区亦庄镇南海雅苑。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例33：现住丰台区长辛店街道园博嘉园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例34：现住朝阳区观筑庭园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例35、36：为夫妻关系，现住朝阳区豆各庄晨风园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型均为轻型。确诊病例37：现住朝阳区小红门牌坊村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例38：现住东城区安华北里。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为普通型。确诊病例39：现住海淀区用友产业园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例40：现住房山区窦店镇于庄村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例42 ：现住通州区于家务乡于家务西里小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例43：现住朝阳区朝丰家园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例46：现住房山区窦店镇。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例47：现住房山区窦店镇。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例48：现住朝阳区朝丰家园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为普通型。确诊病例49 、50：现住朝阳区双井街道广和南里二条。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，确诊病例49临床分型为轻型，确诊病例50临床分型为普通型。确诊病例51：现住石景山区金顶街三区。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为轻型。确诊病例52：现住石景山区绿地金融城。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为确诊病例，临床分型为普通型。确诊病例53：现住丰台区太平桥街道西三环南路甲8号。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者，入院后出现发热症状，当日诊断为确诊病例，临床分型为轻型。无症状感染者1：现住通州区新华街道加华印象。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。无症状感染者2：现住丰台区卢沟桥街道六里桥南里。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。无症状感染者3：现住通州区永顺镇北关富河园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。无症状感染者4：现住朝阳区十八里店乡弘燕市场。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。无症状感染者5：现住通州区召里家园。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。无症状感染者6：现住朝阳区十八里店乡西直河村。综合流行病史、临床表现、实验室检测和影像学检查等结果，4月30日诊断为无症状感染者。上述病例均已转至定点医院，已开展流行病学调查，按要求落实管控措施。全市16区和经济技术开发区无报告病例天数情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t地区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例天数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t平谷区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t密云区\n\t\t\t\n\t\t\t\n\t\t\t\t809\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t怀柔区\n\t\t\t\n\t\t\t\n\t\t\t\t485\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t经开区\n\t\t\t\n\t\t\t\n\t\t\t\t67\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西城区\n\t\t\t\n\t\t\t\n\t\t\t\t6\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t延庆区\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t东城区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t大兴区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t朝阳区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t海淀区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丰台区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t石景山区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t房山区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t通州区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t顺义区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t昌平区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t门头沟区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t2020年2月29日发生境外输入疫情以来境外输入确诊病例来源国（地区）情\n\t\n\t\t\n\t\t\t\n\t\t\t\t来源国（地区）\n\t\t\t\n\t\t\t\n\t\t\t\t确诊病例数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t英国\n\t\t\t\n\t\t\t\n\t\t\t\t79\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西班牙\n\t\t\t\n\t\t\t\n\t\t\t\t47\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t奥地利\n\t\t\t\n\t\t\t\n\t\t\t\t31\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t意大利\n\t\t\t\n\t\t\t\n\t\t\t\t28\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t韩国\n\t\t\t\n\t\t\t\n\t\t\t\t27\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t美国\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞典\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丹麦\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t塞尔维亚\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t俄罗斯\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t希腊\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴基斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t14\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t德国\n\t\t\t\n\t\t\t\n\t\t\t\t12\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t阿联酋\n\t\t\t\n\t\t\t\n\t\t\t\t11\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t加拿大\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t法国\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t泰国\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞士\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土库曼斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t菲律宾\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土耳其\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t匈牙利\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t伊朗\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t津巴布韦\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t印度尼西亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴布亚新几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t摩尔多瓦\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t波兰\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t埃塞俄比亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t日本\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t卢森堡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t挪威\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t比利时\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴西\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t荷兰\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t墨西哥\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t约旦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t赤道几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t乌兹别克斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t新加坡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国香港\n\t\t\t\n\t\t\t\n\t\t\t\t253\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国台湾\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t合计\n\t\t\t\n\t\t\t\n\t\t\t\t709\n\t\t\t\n\t\t\n\t提醒广大市民朋友，积极配合区域核酸筛查，核酸检测时服从现场安排，有序排队，保持安全距离，戴好口罩，做好个人防护，不扎堆、不聚集、不交谈，保持手部卫生。采样后，立即戴好口罩，尽快离开采样点。正值“五一”假期，请市民朋友尽量减少人员流动，减少聚餐聚会，进入公共场所主动配合并遵守限流、扫码登记、测温验码、查验核酸证明、戴口罩、保持安全社交距离等防控措施，如有发热或呼吸道症状，特别是近期与呼吸道传染病患者有密切接触的，不建议外出。\n                \n            ",
       "infoSource": "北京卫健委",
@@ -11538,7 +11553,7 @@
     {
       "id": 192099,
       "pubDate": 1651362386000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 788 例",
       "summary": "上海市卫健委今早（5月1日）通报：2022年4月30日0—24时，上海新增本土新冠肺炎确诊病例788和无症状感染者7084例，其中683例确诊病例为既往无症状感染者转归，105例确诊病例和7084例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例1例和无症状感染者2例，均在闭环管控中发现。\n2022年4月30日0—24时，新增本土新冠肺炎确诊病例788例，含683例由既往无症状感染者转",
       "infoSource": "央视新闻app",
@@ -11551,7 +11566,7 @@
     {
       "id": 192120,
       "pubDate": 1651366580000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广东 | 昨日新增本土确诊病例 21 例",
       "summary": "4月30日0—24时，广东全省新增本土确诊病例21例（其中7例为无症状感染者转确诊），均为广州报告；新增本土无症状感染者7例，广州报告6例，东莞报告1例。广东全省新增出院13例（境外输入2例），目前在院184例（境外输入14例）；新增解除医学观察无症状感染者35例（境外输入25例），尚在医学观察无症状感染者258例（境外输入187例）。\n新增境外输入无症状感染者27例，广州报告10例，5例来自老挝",
       "infoSource": "央视新闻app",
@@ -11564,7 +11579,7 @@
     {
       "id": 192132,
       "pubDate": 1651365420000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "吉林 | 昨日新增本土确诊病例 16 例",
       "summary": "\n　　4月30日0-24时，全省新增本地确诊病例16例(均为轻型），均在长春市（含11例无症状感染者转为确诊病例）；新增本地无症状感染者26例，其中长春市23例、吉林市3例。以上感染者均已转运至定点医疗机构隔离治疗，对以上人员的密切接触者、次密切接触者均已开展追踪排查，并落实管控措施，对其生活和工作场所进行了终末消毒。\n　　4月30日0-24时，全省新增治愈出院确诊病例237例，其中长春市193例、吉林市29例、白城市8例、延边州5例、四平市1例、辽源市1例；新增解除隔离医学观察无症状感染者492例，其中长春市408例、吉林市70例、延边州8例、白城市6例。\n　　提醒广大公众，要密切关注各地发布的疫情动态信息，如与阳性感染者活动轨迹有交集，或近期有疫情发生地区旅居史，请立即主动向当地社区(村屯)或疾控机构报告，按要求配合做好相关疫情管控措施。如出现发热、咳嗽等急性呼吸道症状，请佩戴医用口罩及时到当地定点医疗机构发热门诊就诊。大家要树牢常态化防控意识，坚持外出戴口罩、勤洗手、常通风、保持社交距离、不聚餐、不聚集，减少疾病感染风险。\n\n搜索\n　　复制\n　　\n\n\n",
       "infoSource": "吉林卫健委",
