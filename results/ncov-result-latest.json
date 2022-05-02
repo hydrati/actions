@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 36,
       "currentConfirmedCount": 345,
       "confirmedCount": 2191,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 35,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 36,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1880,8 +1880,8 @@
       "yesterdayAsymptomaticCount": 5,
       "currentConfirmedCount": 345,
       "confirmedCount": 2191,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 35,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 36,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1893,8 +1893,8 @@
           "yesterdayAsymptomaticCount": 2,
           "currentConfirmedCount": 213,
           "confirmedCount": 293,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 22,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 23,
           "currentConfirmedCountStr": "213"
         },
         {
@@ -4857,8 +4857,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 7,
-      "midDangerCount": 28,
+      "highDangerCount": 10,
+      "midDangerCount": 26,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4881,8 +4881,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 5,
-          "midDangerCount": 17,
+          "highDangerCount": 7,
+          "midDangerCount": 16,
           "locationId": 110105,
           "currentConfirmedCountStr": "213"
         },
@@ -4906,8 +4906,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 2,
-          "midDangerCount": 7,
+          "highDangerCount": 3,
+          "midDangerCount": 6,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -5111,6 +5111,16 @@
         },
         {
           "cityName": "朝阳区",
+          "areaName": "劲松街道农光东里社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "建外街道北郎东社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
           "areaName": "潘家园街道松榆里社区",
           "dangerLevel": 1
         },
@@ -5132,6 +5142,11 @@
         {
           "cityName": "房山区",
           "areaName": "窦店镇燕都世界名园社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇一街村",
           "dangerLevel": 1
         },
         {
@@ -5166,16 +5181,6 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "劲松街道农光东里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "建外街道北郎东社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "南磨房乡南新园社区",
           "dangerLevel": 2
         },
@@ -5197,6 +5202,11 @@
         {
           "cityName": "朝阳区",
           "areaName": "十八里店乡吕家营村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "十八里店乡周家庄村",
           "dangerLevel": 2
         },
         {
@@ -5242,11 +5252,6 @@
         {
           "cityName": "房山区",
           "areaName": "窦店镇小高舍村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇一街村",
           "dangerLevel": 2
         },
         {
@@ -11133,11 +11138,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4687405637,
+  "getPV": 4687421331,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651482046000,
+    "modifyTime": 1651483460000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11347,31 +11352,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 192702701,
+      "currentConfirmedCount": 192681533,
       "confirmedCount": 512594922,
       "suspectedCount": 4,
-      "curedCount": 313656570,
+      "curedCount": 313677738,
       "deadCount": 6235651,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -4733778,
+      "currentConfirmedIncr": -4754946,
       "confirmedIncr": 16153,
-      "curedIncr": 4749910,
+      "curedIncr": 4771078,
       "deadIncr": 21
     },
     "globalStatistics": {
-      "currentConfirmedCount": 193120823,
+      "currentConfirmedCount": 193099655,
       "confirmedCount": 513293989,
-      "curedCount": 313922242,
+      "curedCount": 313943410,
       "deadCount": 6250924,
-      "currentConfirmedIncr": -4702792,
+      "currentConfirmedIncr": -4723960,
       "confirmedIncr": 51998,
-      "curedIncr": 4754729,
+      "curedIncr": 4775897,
       "deadIncr": 61,
       "yesterdayConfirmedCountIncr": 34145
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0502/184/0844461628733546453-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 94
+    "highDangerCount": 12,
+    "midDangerCount": 92
   },
   "getTimelineService1": [
     {
@@ -11403,7 +11408,7 @@
     {
       "id": 192308,
       "pubDate": 1651450394000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 36 例",
       "summary": "\n\t\t\t    5月1日0时至24时，新增36例本土确诊病例（含2例4月30日诊断的无症状感染者转确诊病例，确诊病例1至24昨日已通报）和5例无症状感染者（无症状感染者1至3昨日已通报），无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院10例。确诊病例1：现住顺义区李遂镇李庄村。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例2：现住朝阳区十八里店乡弘燕菜市场员工宿舍楼。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为普通型。确诊病例3：现住经济开发区荣华街道科创家园。综合流行病史、临床表现、实验室检测和影像学检查等结果， 5月1日诊断为确诊病例，临床分型为轻型。确诊病例4、5：现住朝阳区建外街道光辉里小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型均为轻型。确诊病例6、8、9：现住址均位于石景山区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型分别为普通型、轻型、轻型。确诊病例7：现住址位于朝阳区，在校学生。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例10、11、12、14、21、22：现住房山区窦店镇交道原养殖场。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型均为轻型。确诊病例13：现住房山区窦店镇一街村。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例15、16：为亲戚关系，现住址均位于通州区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型均为轻型。确诊病例17：现住通州区土桥plus。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为普通型。确诊病例18：现住通州区永顺镇馨通家园。综合流行病史、临床表现、实验室检测和影像学检查等结果，5 月1日诊断为确诊病例，临床分型为轻型。确诊病例19：现住大兴区林海园。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例20：现住通州区中仓街道，通州区京贸中心员工。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例23：现住房山区琉璃河镇兴礼区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例24：现住朝阳区劲松街道农光东里22号楼。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例25、26：为夫妻关系，现住朝阳区劲松街道广和南里二条。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型分别为普通型、轻型。确诊病例27：现住通州区新华东街30号楼。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例28：现住丰台区快乐时光酒店。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例29：现住朝阳区东丰南十里居。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例30：现住朝阳区劲松街道农光东里。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例31：现住海淀区白堆子甲23号院。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例32：现住朝阳区小关街道惠新苑9号院。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例33：现住海淀区北洼西里。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。确诊病例34：现住丰台区永辉国康药业老小区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为确诊病例，临床分型为轻型。无症状感染者1：现住朝阳区十八里店乡弘燕菜市场员工宿舍楼。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为无症状感染者。无症状感染者2：现住房山区窦店镇交道原养殖场。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为无症状感染者。无症状感染者3：现住通州区永顺镇乔庄西区。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为无症状感染者。   无症状感染者4：现住海淀区北洼西里。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为无症状感染者。 无症状感染者5：现住朝阳区小关街道惠新苑9号院。综合流行病史、临床表现、实验室检测和影像学检查等结果，5月1日诊断为无症状感染者。 上述病例均已转至定点医院，已开展流行病学调查，按要求落实管控措施。全市16区和经济技术开发区无报告病例天数情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t地区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例天数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t平谷区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t密云区\n\t\t\t\n\t\t\t\n\t\t\t\t810\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t怀柔区\n\t\t\t\n\t\t\t\n\t\t\t\t486\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西城区\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t延庆区\n\t\t\t\n\t\t\t\n\t\t\t\t6\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t东城区\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t昌平区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t门头沟区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t朝阳区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t海淀区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丰台区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t石景山区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t房山区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t通州区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t顺义区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t大兴区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t经开区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t2020年2月29日发生境外输入疫情以来境外输入确诊病例来源国（地区）情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t来源国（地区）\n\t\t\t\n\t\t\t\n\t\t\t\t确诊病例数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t英国\n\t\t\t\n\t\t\t\n\t\t\t\t79\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西班牙\n\t\t\t\n\t\t\t\n\t\t\t\t47\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t奥地利\n\t\t\t\n\t\t\t\n\t\t\t\t31\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t意大利\n\t\t\t\n\t\t\t\n\t\t\t\t28\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t韩国\n\t\t\t\n\t\t\t\n\t\t\t\t27\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t美国\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞典\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丹麦\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t塞尔维亚\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t俄罗斯\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t希腊\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴基斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t14\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t德国\n\t\t\t\n\t\t\t\n\t\t\t\t12\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t阿联酋\n\t\t\t\n\t\t\t\n\t\t\t\t11\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t加拿大\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t法国\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t泰国\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞士\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土库曼斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t菲律宾\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\t\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土耳其\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t匈牙利\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t伊朗\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t津巴布韦\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t印度尼西亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴布亚新几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t摩尔多瓦\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t波兰\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t埃塞俄比亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t日本\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t卢森堡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t挪威\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t比利时\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴西\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t荷兰\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t墨西哥\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t约旦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t赤道几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t乌兹别克斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t新加坡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国香港\n\t\t\t\n\t\t\t\n\t\t\t\t253\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国台湾\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t合计\n\t\t\t\n\t\t\t\n\t\t\t\t709\n\t\t\t\n\t\t\n\t请与病例轨迹有交集人员、接到健康宝弹窗提示人员立即向社区报告；封控区、管控区、临时管控区人员自觉配合社区管理，严格落实隔离、健康监测等各项防控措施，防止区域疫情外溢。继续坚持戴口罩、勤洗手、常通风、一米线等防护措施，减少人员流动，不聚餐聚会，履行个人防控责任。节日期间，医务人员、流调人员、检测人员、社区工作者、公安干警、志愿者等一直坚守在一线，工作量大，任务繁重，十分辛苦，市民朋友要理解、支持一线疫情防控人员，配合做好流行病学调查、核酸检测、封控管控、隔离医学观察等防控工作，严格遵守各项规定，身体出现任何不适要及时报告。\n                \n            ",
       "infoSource": "北京卫健委",
