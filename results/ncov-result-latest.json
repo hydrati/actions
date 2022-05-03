@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 51,
       "currentConfirmedCount": 391,
       "confirmedCount": 2242,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 36,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 46,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1880,8 +1880,8 @@
       "yesterdayAsymptomaticCount": 11,
       "currentConfirmedCount": 391,
       "confirmedCount": 2242,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 36,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 46,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1893,8 +1893,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 231,
           "confirmedCount": 311,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 23,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 25,
           "currentConfirmedCountStr": "231"
         },
         {
@@ -1905,8 +1905,8 @@
           "yesterdayAsymptomaticCount": 6,
           "currentConfirmedCount": 102,
           "confirmedCount": 122,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 9,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 12,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1930,8 +1930,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 45,
           "confirmedCount": 65,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 9,
           "currentConfirmedCountStr": "45"
         },
         {
@@ -4857,8 +4857,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 10,
-      "midDangerCount": 26,
+      "highDangerCount": 12,
+      "midDangerCount": 34,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4881,8 +4881,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 7,
-          "midDangerCount": 16,
+          "highDangerCount": 8,
+          "midDangerCount": 17,
           "locationId": 110105,
           "currentConfirmedCountStr": "231"
         },
@@ -4906,8 +4906,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 3,
-          "midDangerCount": 6,
+          "highDangerCount": 4,
+          "midDangerCount": 8,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4932,7 +4932,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 4,
+          "midDangerCount": 9,
           "locationId": 110112,
           "currentConfirmedCountStr": "45"
         },
@@ -5131,6 +5131,11 @@
         },
         {
           "cityName": "朝阳区",
+          "areaName": "十八里店乡周家庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
           "areaName": "十八里店乡周家庄中路19号院",
           "dangerLevel": 1
         },
@@ -5152,6 +5157,11 @@
         {
           "cityName": "房山区",
           "areaName": "窦店镇于庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "长阳镇加州水郡东区社区金桥国际公寓",
           "dangerLevel": 1
         },
         {
@@ -5181,6 +5191,16 @@
         },
         {
           "cityName": "朝阳区",
+          "areaName": "劲松街道农光里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "金盏乡金盏嘉园二社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
           "areaName": "南磨房乡南新园社区",
           "dangerLevel": 2
         },
@@ -5202,11 +5222,6 @@
         {
           "cityName": "朝阳区",
           "areaName": "十八里店乡吕家营村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "十八里店乡周家庄村",
           "dangerLevel": 2
         },
         {
@@ -5235,6 +5250,51 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "通州区",
+          "areaName": "北苑街道官园社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "潞城镇后北营村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "梨园镇颐瑞西里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "通运街道通胡大街78号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "新华街道盛业家园社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "于家务回族乡西里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "玉桥街道葛布店北里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "永顺镇永顺西里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "中仓街道新华园社区",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "房山区",
           "areaName": "窦店镇芦村",
           "dangerLevel": 2
@@ -5256,32 +5316,22 @@
         },
         {
           "cityName": "房山区",
+          "areaName": "窦店镇下坡店村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇袁庄村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
           "areaName": "琉璃河镇兴礼村",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
-          "areaName": "长阳镇加州水郡东区社区金桥国际公寓",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "通运街道通胡大街78号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "新华街道盛业家园社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "于家务回族乡西里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "中仓街道新华园社区",
+          "areaName": "西潞街道苏庄三里社区",
           "dangerLevel": 2
         }
       ]
@@ -11118,11 +11168,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4687807354,
+  "getPV": 4687823108,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651569044000,
+    "modifyTime": 1651569458000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11355,14 +11405,14 @@
       "yesterdayConfirmedCountIncr": 723682
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0503/142/5831731927298366453-135.json",
-    "highDangerCount": 12,
-    "midDangerCount": 88
+    "highDangerCount": 14,
+    "midDangerCount": 96
   },
   "getTimelineService1": [
     {
       "id": 192527,
       "pubDate": 1651539613000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土确诊病例368+5647例",
       "summary": "5月2日0~24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例384例。其中境外输入病例16例（福建6例，四川5例，广西3例，广东2例），含2例由无症状感染者转为确诊病例（均在福建）；本土病例368例（上海274例，北京51例，黑龙江13例，广东7例，辽宁5例，江西5例，福建3例，山东3例，山西2例，河南2例，内蒙古1例，重庆1例，四川1例），含164例由无症状感染者转为确诊病例",
       "infoSource": "央视新闻app",
@@ -11375,7 +11425,7 @@
     {
       "id": 192505,
       "pubDate": 1651535187000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增本土确诊 274 例 ",
       "summary": "上海市卫健委今早（3日）通报：2022年5月2日0~24时，上海市新增本土新冠肺炎确诊病例274例和无症状感染者5395例，其中155例确诊病例为既往无症状感染者转归，117例确诊病例和5324例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎无症状感染者1例，在闭环管控中发现。\n2022年5月2日0—24时，新增本土新冠肺炎确诊病例274例，含155例由既往无症状感染者转为确诊病例。新增治愈",
       "infoSource": "央视新闻app",
@@ -11388,7 +11438,7 @@
     {
       "id": 192507,
       "pubDate": 1651535521000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "北京 | 昨日新增本土确诊 51 例",
       "summary": "5月2日0时至24时，北京新增51例本土确诊病例（含2例4月29日、1例5月1日诊断的无症状感染者转确诊病例，确诊病例1至30昨日已通报）和11例无症状感染者（无症状感染者1至8昨日已通报），无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院5例。\n确诊病例1：现住朝阳区金盏乡金盏嘉园。5月2日诊断为确诊病例，临床分型为轻型。\n确诊病例2、15：现住朝阳区常营乡住欣家园。5月",
       "infoSource": "央视新闻app",
@@ -11401,7 +11451,7 @@
     {
       "id": 192515,
       "pubDate": 1651536784000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "黑龙江 | 昨日新增本土确诊病例 13 例",
       "summary": "2022年5月2日0~24时，黑龙江省新增新冠肺炎本土确诊病例13例（哈尔滨市11例，牡丹江市2例），新增本土无症状感染者10例（哈尔滨市2例，牡丹江市8例），均为隔离管控期间核酸检测发现。当日治愈出院本土确诊病例30例（哈尔滨市28例，牡丹江市2例），解除医学观察本土无症状感染者19例（哈尔滨市17例，牡丹江市2例）。\n截至5月2日24时，黑龙江省现有境外输入确诊病例2例，境外输入无症状感染者2",
       "infoSource": "央视新闻app",
@@ -11414,7 +11464,7 @@
     {
       "id": 192525,
       "pubDate": 1651538726000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广东 | 昨日新增本土确诊病例 7 例 ",
       "summary": "5月2日0~24时，广东全省新增本土确诊病例7例（其中2例为无症状感染者转确诊），均为广州报告；新增本土无症状感染者5例，广州报告4例，江门报告1例。广东全省新增出院20例（境外输入1例），目前在院169例（境外输入17例）；新增解除医学观察无症状感染者35例（境外输入29例），尚在医学观察无症状感染者232例（境外输入174例）。\n广东全省新增境外输入确诊病例2例，均为广州报告，分别来自加拿大和",
       "infoSource": "央视新闻app",
