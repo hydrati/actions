@@ -484,8 +484,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 51,
       "confirmedCount": 154,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 4,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json"
     },
@@ -3405,8 +3405,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 24,
       "confirmedCount": 1385,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 5,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 4,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "cities": [
@@ -3418,8 +3418,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 51,
           "confirmedCount": 154,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "51"
         },
         {
@@ -7773,7 +7773,7 @@
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 5,
+      "midDangerCount": 4,
       "detectOrgCount": 286,
       "vaccinationOrgCount": 65,
       "cities": [
@@ -7785,7 +7785,7 @@
           "curedCount": 102,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 5,
+          "midDangerCount": 4,
           "locationId": 430500,
           "currentConfirmedCountStr": "51"
         },
@@ -7973,27 +7973,22 @@
       "dangerAreas": [
         {
           "cityName": "邵阳",
-          "areaName": "北塔区陈家桥镇的云山路以北、资兴路以东、龙源路以南、宝苑路以西的围合区域和杨旗岭社区",
+          "areaName": "北塔区陈家桥镇杨旗岭社区安置小区",
           "dangerLevel": 2
         },
         {
           "cityName": "邵阳",
-          "areaName": "大祥区城北路街道西外街社区的西外街路以南、民族二巷路以西、红旗西路以北、恒大未来城三期围墙以东的围合区域",
+          "areaName": "北塔区陈家桥镇杨旗岭社区馨竹园小区",
           "dangerLevel": 2
         },
         {
           "cityName": "邵阳",
-          "areaName": "双清区龙须塘街道龙须塘社区",
+          "areaName": "双清区石桥街道裕丰家园小区（1期）",
           "dangerLevel": 2
         },
         {
           "cityName": "邵阳",
-          "areaName": "双清区石桥街道和谐社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "邵阳",
-          "areaName": "双清区小江湖街道滨湖社区",
+          "areaName": "双清区小江湖街道清泉花园小区",
           "dangerLevel": 2
         }
       ]
@@ -11201,11 +11196,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4688041188,
+  "getPV": 4688064137,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651636132000,
+    "modifyTime": 1651637012000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11439,7 +11434,7 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0504/792/9321026343644286453-135.json",
     "highDangerCount": 14,
-    "midDangerCount": 105
+    "midDangerCount": 104
   },
   "getTimelineService1": [
     {
