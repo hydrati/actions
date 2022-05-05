@@ -125,7 +125,7 @@
       "currentConfirmedCount": 170,
       "confirmedCount": 1336,
       "dangerCountIncr": 1,
-      "currentDangerCount": 30,
+      "currentDangerCount": 29,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -2456,7 +2456,7 @@
       "currentConfirmedCount": 182,
       "confirmedCount": 2977,
       "dangerCountIncr": 1,
-      "currentDangerCount": 31,
+      "currentDangerCount": 30,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -2469,7 +2469,7 @@
           "currentConfirmedCount": 170,
           "confirmedCount": 1336,
           "dangerCountIncr": 1,
-          "currentDangerCount": 30,
+          "currentDangerCount": 29,
           "currentConfirmedCountStr": "170"
         },
         {
@@ -5316,7 +5316,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 2,
-      "midDangerCount": 29,
+      "midDangerCount": 28,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5328,7 +5328,7 @@
           "curedCount": 1162,
           "deadCount": 4,
           "highDangerCount": 2,
-          "midDangerCount": 28,
+          "midDangerCount": 27,
           "locationId": 230100,
           "currentConfirmedCountStr": "170"
         },
@@ -5566,11 +5566,6 @@
         {
           "cityName": "哈尔滨",
           "areaName": "朝阳镇平安村居民区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "朝阳镇前进村居民区",
           "dangerLevel": 2
         },
         {
@@ -11181,11 +11176,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4688416279,
+  "getPV": 4688434442,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651722091000,
+    "modifyTime": 1651722917000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11395,31 +11390,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 188717426,
-      "confirmedCount": 513753400,
+      "currentConfirmedCount": 187794480,
+      "confirmedCount": 514426440,
       "suspectedCount": 4,
-      "curedCount": 318795242,
-      "deadCount": 6240732,
+      "curedCount": 320387177,
+      "deadCount": 6244783,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": -922946,
+      "confirmedIncr": 673040,
+      "curedIncr": 1591935,
+      "deadIncr": 4051
     },
     "globalStatistics": {
-      "currentConfirmedCount": 189179654,
-      "confirmedCount": 514505453,
-      "curedCount": 319069717,
-      "deadCount": 6256082,
-      "currentConfirmedIncr": 26643,
-      "confirmedIncr": 28951,
-      "curedIncr": 2287,
-      "deadIncr": 21,
-      "yesterdayConfirmedCountIncr": 28951
+      "currentConfirmedCount": 188256708,
+      "confirmedCount": 515178493,
+      "curedCount": 320661652,
+      "deadCount": 6260133,
+      "currentConfirmedIncr": -896303,
+      "confirmedIncr": 701991,
+      "curedIncr": 1594222,
+      "deadIncr": 4072,
+      "yesterdayConfirmedCountIncr": 701991
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0505/607/6511233206000107453-135.json",
     "highDangerCount": 15,
-    "midDangerCount": 105
+    "midDangerCount": 104
   },
   "getTimelineService1": [
     {
