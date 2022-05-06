@@ -3951,11 +3951,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 217774,
-      "confirmedCount": 232402,
+      "currentConfirmedCount": 253931,
+      "confirmedCount": 268569,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 886,
+      "deadCount": 896,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -4658,8 +4658,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 17,
-      "midDangerCount": 31,
+      "highDangerCount": 18,
+      "midDangerCount": 30,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4670,8 +4670,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 11,
-          "midDangerCount": 15,
+          "highDangerCount": 12,
+          "midDangerCount": 14,
           "locationId": 110105,
           "currentConfirmedCountStr": "297"
         },
@@ -4914,6 +4914,11 @@
         },
         {
           "cityName": "朝阳区",
+          "areaName": "劲松街道农光里社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
           "areaName": "建外街道北郎东社区",
           "dangerLevel": 1
         },
@@ -5010,11 +5015,6 @@
         {
           "cityName": "朝阳区",
           "areaName": "垡头街道垡头西里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "劲松街道农光里社区",
           "dangerLevel": 2
         },
         {
@@ -10958,11 +10958,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4688937207,
+  "getPV": 4688953264,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1651824870000,
+    "modifyTime": 1651826753000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10978,17 +10978,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 490934,
-    "confirmedCount": 782526,
+    "currentConfirmedCount": 527091,
+    "confirmedCount": 818693,
     "suspectedCount": 18256,
     "curedCount": 276220,
-    "deadCount": 15372,
+    "deadCount": 15382,
     "seriousCount": 111906,
     "suspectedIncr": 18,
-    "currentConfirmedIncr": 28706,
-    "confirmedIncr": 30473,
+    "currentConfirmedIncr": 64863,
+    "confirmedIncr": 66640,
     "curedIncr": 1745,
-    "deadIncr": 22,
+    "deadIncr": 32,
     "seriousIncr": -6831,
     "yesterdayConfirmedCountIncr": 30473,
     "yesterdaySuspectedCountIncr": 18,
@@ -11184,25 +11184,25 @@
       "deadIncr": 2113
     },
     "globalStatistics": {
-      "currentConfirmedCount": 188799295,
-      "confirmedCount": 515780951,
+      "currentConfirmedCount": 188835452,
+      "confirmedCount": 515817118,
       "curedCount": 320719385,
-      "deadCount": 6262271,
-      "currentConfirmedIncr": 559945,
-      "confirmedIncr": 602438,
+      "deadCount": 6262281,
+      "currentConfirmedIncr": 596102,
+      "confirmedIncr": 638605,
       "curedIncr": 40358,
-      "deadIncr": 2135,
+      "deadIncr": 2145,
       "yesterdayConfirmedCountIncr": 602438
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0506/372/2954697570555917453-135.json",
-    "highDangerCount": 18,
-    "midDangerCount": 93
+    "highDangerCount": 19,
+    "midDangerCount": 92
   },
   "getTimelineService1": [
     {
       "id": 192961,
       "pubDate": 1651801003000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日本土新增 356+4272 例",
       "summary": "5月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例356例，新增本土无症状感染者4272例",
       "infoSource": "央视新闻",
@@ -11215,7 +11215,7 @@
     {
       "id": 192942,
       "pubDate": 1651794588000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "上海 | 昨日新增本土确诊病例 245 例",
       "summary": "上海市卫健委今早（6日）通报：2022年5月5日0—24时，上海新增本土新冠肺炎确诊病例245例和无症状感染者4024例，其中181例确诊病例为既往无症状感染者转归，64例确诊病例和4001例无症状感染者在隔离管控中发现。新增境外输入无症状感染者2例，均在闭环管控中发现。\n2022年5月5日0—24时，上海新增本土新冠肺炎确诊病例245例，含181例由既往无症状感染者转为确诊病例。新增治愈出院13",
       "infoSource": "央视新闻app",
@@ -11228,7 +11228,7 @@
     {
       "id": 192941,
       "pubDate": 1651794659000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "北京 | 昨日新增本土确诊病例 55 例",
       "summary": "5月5日0时至24时，北京新增55例本土确诊病例和17例本土无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院6例。\n确诊病例1：现住朝阳区管庄科技园。5月5日诊断为确诊病例，临床分型为轻型。\n确诊病例2：现住朝阳区武圣西里9号楼西侧平房。5月5日诊断为确诊病例，临床分型为轻型。\n确诊病例3、12、13：现住朝阳区建外街道光辉里小区。5月5日诊断为确诊病例，临床",
       "infoSource": "央视新闻app",
@@ -11241,7 +11241,7 @@
     {
       "id": 192952,
       "pubDate": 1651796940000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "河南 | 昨日新增本土确诊病例 24 例 ",
       "summary": "记者从河南省卫健委了解到，5月5日0—24时，河南省新增本土确诊病例24例（许昌市19例，郑州市5例），新增本土无症状感染者55例（许昌市28例，郑州市12例，周口市10例，濮阳市4例，漯河市1例），无新增本土疑似病例。新增境外输入无症状感染者1例，无新增境外输入确诊病例和疑似病例。2例确诊病例治愈出院（本土1例，境外输入1例），12例无症状感染者解除医学观察（本土11例，境外输入1例）。\n202",
       "infoSource": "央视新闻app",
@@ -11254,7 +11254,7 @@
     {
       "id": 192954,
       "pubDate": 1651798863000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "广东 | 昨日新增本土确诊病例 13 例 ",
       "summary": "5月5日0—24时，广东全省新增本土确诊病例13例（其中6例为无症状感染者转确诊），均为广州报告；新增本土无症状感染者1例，为广州报告。全省新增出院12例（境外输入1例），目前在院176例（境外输入18例）；新增解除医学观察无症状感染者19例（境外输入17例），尚在医学观察无症状感染者224例（境外输入181例）。\n广东新增境外输入确诊病例2例，均为广州报告，分别来自美国和加拿大；新增境外输入无症",
       "infoSource": "央视新闻app",
