@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 33,
       "currentConfirmedCount": 586,
       "confirmedCount": 2510,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 53,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 54,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -340,8 +340,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 52,
       "confirmedCount": 1341,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 19,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 18,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -352,8 +352,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 51,
       "confirmedCount": 154,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json"
     },
@@ -850,18 +850,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
     {
-      "provinceName": "河北省",
-      "provinceShortName": "河北",
-      "cityName": "邢台",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 6,
-      "confirmedCount": 136,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
-      "locationId": 130000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json"
-    },
-    {
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
       "cityName": "重庆",
@@ -872,6 +860,18 @@
       "currentDangerCount": 0,
       "locationId": 500000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json"
+    },
+    {
+      "provinceName": "河北省",
+      "provinceShortName": "河北",
+      "cityName": "邢台",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 6,
+      "confirmedCount": 136,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
+      "locationId": 130000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json"
     },
     {
       "provinceName": "湖南省",
@@ -1724,8 +1724,8 @@
       "yesterdayAsymptomaticCount": 16,
       "currentConfirmedCount": 586,
       "confirmedCount": 2510,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 53,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 54,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1750,8 +1750,8 @@
           "yesterdayAsymptomaticCount": 5,
           "currentConfirmedCount": 339,
           "confirmedCount": 419,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 25,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 26,
           "currentConfirmedCountStr": "339"
         },
         {
@@ -2324,8 +2324,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 26,
       "confirmedCount": 1392,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "cities": [
@@ -2349,8 +2349,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 51,
           "confirmedCount": 154,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "51"
         },
         {
@@ -2924,8 +2924,8 @@
       "yesterdayAsymptomaticCount": 1,
       "currentConfirmedCount": 10,
       "confirmedCount": 2003,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 1,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 130000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
       "cities": [
@@ -3021,8 +3021,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 6,
           "confirmedCount": 136,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "6"
         },
         {
@@ -3084,8 +3084,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 65,
       "confirmedCount": 2983,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 20,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 19,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -3097,8 +3097,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 52,
           "confirmedCount": 1341,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 19,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 18,
           "currentConfirmedCountStr": "52"
         },
         {
@@ -4378,7 +4378,7 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 20,
+      "highDangerCount": 21,
       "midDangerCount": 33,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
@@ -4390,7 +4390,7 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 11,
+          "highDangerCount": 12,
           "midDangerCount": 14,
           "locationId": 110105,
           "currentConfirmedCountStr": "339"
@@ -4655,6 +4655,11 @@
         {
           "cityName": "朝阳区",
           "areaName": "潘家园街道潘家园社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "潘家园松榆西里社区街道",
           "dangerLevel": 1
         },
         {
@@ -5640,7 +5645,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 20,
+      "midDangerCount": 19,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5652,7 +5657,7 @@
           "curedCount": 1285,
           "deadCount": 4,
           "highDangerCount": 0,
-          "midDangerCount": 19,
+          "midDangerCount": 18,
           "locationId": 230100,
           "currentConfirmedCountStr": "52"
         },
@@ -5915,11 +5920,6 @@
         {
           "cityName": "哈尔滨",
           "areaName": "永胜村居民区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "永治街道财富名苑小区",
           "dangerLevel": 2
         },
         {
@@ -7205,7 +7205,7 @@
       "locationId": 430000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/440/3398299751673072079-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 2,
+      "midDangerCount": 0,
       "detectOrgCount": 286,
       "vaccinationOrgCount": 65,
       "cities": [
@@ -7217,7 +7217,7 @@
           "curedCount": 102,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 0,
           "locationId": 430500,
           "currentConfirmedCountStr": "51"
         },
@@ -7402,18 +7402,7 @@
           "currentConfirmedCountStr": "-44"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "邵阳",
-          "areaName": "北塔区陈家桥镇杨旗岭社区安置小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "邵阳",
-          "areaName": "双清区石桥街道裕丰家园小区（1期）",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "海南省",
@@ -8489,7 +8478,7 @@
       "locationId": 130000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/473/3398299751673487477-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 566,
       "vaccinationOrgCount": 178,
       "cities": [
@@ -8585,7 +8574,7 @@
           "curedCount": 129,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 130500,
           "currentConfirmedCountStr": "6"
         },
@@ -8663,13 +8652,7 @@
           "currentConfirmedCountStr": "-"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "邢台",
-          "areaName": "南和区史召乡李牌村片区（史召乡果寨村以北、340国道以南、留垒河以西、史召桥村以东合围区域）",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "重庆市",
@@ -10795,11 +10778,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4689936283,
+  "getPV": 4689958322,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652067730000,
+    "modifyTime": 1652068828000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11032,8 +11015,8 @@
       "yesterdayConfirmedCountIncr": 336861
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0509/951/7404944182812577453-135.json",
-    "highDangerCount": 20,
-    "midDangerCount": 81
+    "highDangerCount": 21,
+    "midDangerCount": 77
   },
   "getTimelineService1": [
     {
