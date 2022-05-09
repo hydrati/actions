@@ -65,7 +65,7 @@
       "currentConfirmedCount": 586,
       "confirmedCount": 2510,
       "dangerCountIncr": 1,
-      "currentDangerCount": 54,
+      "currentDangerCount": 56,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -341,7 +341,7 @@
       "currentConfirmedCount": 52,
       "confirmedCount": 1341,
       "dangerCountIncr": 1,
-      "currentDangerCount": 18,
+      "currentDangerCount": 17,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json"
     },
@@ -1701,7 +1701,7 @@
       "currentConfirmedCount": 586,
       "confirmedCount": 2510,
       "dangerCountIncr": 1,
-      "currentDangerCount": 54,
+      "currentDangerCount": 56,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1713,8 +1713,8 @@
           "yesterdayAsymptomaticCount": 11,
           "currentConfirmedCount": 160,
           "confirmedCount": 180,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 15,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 18,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1727,7 +1727,7 @@
           "currentConfirmedCount": 339,
           "confirmedCount": 419,
           "dangerCountIncr": 1,
-          "currentDangerCount": 26,
+          "currentDangerCount": 25,
           "currentConfirmedCountStr": "339"
         },
         {
@@ -3049,7 +3049,7 @@
       "currentConfirmedCount": 65,
       "confirmedCount": 2983,
       "dangerCountIncr": 1,
-      "currentDangerCount": 19,
+      "currentDangerCount": 18,
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "cities": [
@@ -3062,7 +3062,7 @@
           "currentConfirmedCount": 52,
           "confirmedCount": 1341,
           "dangerCountIncr": 1,
-          "currentDangerCount": 18,
+          "currentDangerCount": 17,
           "currentConfirmedCountStr": "52"
         },
         {
@@ -4331,7 +4331,7 @@
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "highDangerCount": 21,
-      "midDangerCount": 33,
+      "midDangerCount": 35,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4343,7 +4343,7 @@
           "curedCount": 80,
           "deadCount": 0,
           "highDangerCount": 12,
-          "midDangerCount": 14,
+          "midDangerCount": 13,
           "locationId": 110105,
           "currentConfirmedCountStr": "339"
         },
@@ -4367,7 +4367,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 6,
-          "midDangerCount": 9,
+          "midDangerCount": 12,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4696,11 +4696,6 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "垡头街道垡头西里三区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "垡头街道垡头西里社区",
           "dangerLevel": 2
         },
@@ -4712,6 +4707,11 @@
         {
           "cityName": "朝阳区",
           "areaName": "南磨房乡双龙南里",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "南磨房乡双龙西社区",
           "dangerLevel": 2
         },
         {
@@ -4731,11 +4731,6 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "三间房乡艺水芳园社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "双井街道黄木厂社区",
           "dangerLevel": 2
         },
@@ -4747,6 +4742,66 @@
         {
           "cityName": "朝阳区",
           "areaName": "小红门乡鸿博家园第一社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇窦店产业园",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇芦村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇沁园春景社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇田家园村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇腾龙家园社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇下坡店村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇袁庄村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "琉璃河镇兴礼村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "西潞街道苏庄三里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇乐活雅苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇小紫草坞村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇张庄村",
           "dangerLevel": 2
         },
         {
@@ -4797,51 +4852,6 @@
         {
           "cityName": "通州区",
           "areaName": "永顺镇永顺西里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇芦村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇沁园春景社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇田家园村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇腾龙家园社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇小高舍村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇下坡店村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇袁庄村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "琉璃河镇兴礼村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "西潞街道苏庄三里社区",
           "dangerLevel": 2
         }
       ]
@@ -5597,7 +5607,7 @@
       "locationId": 230000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/643/3398299753820971199-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 19,
+      "midDangerCount": 18,
       "detectOrgCount": 315,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -5609,7 +5619,7 @@
           "curedCount": 1285,
           "deadCount": 4,
           "highDangerCount": 0,
-          "midDangerCount": 18,
+          "midDangerCount": 17,
           "locationId": 230100,
           "currentConfirmedCountStr": "52"
         },
@@ -5847,11 +5857,6 @@
         {
           "cityName": "哈尔滨",
           "areaName": "泓山水阳光小区1期",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "哈尔滨",
-          "areaName": "南岗区鲁商凤凰城3栋",
           "dangerLevel": 2
         },
         {
@@ -10718,11 +10723,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4690077851,
+  "getPV": 4690094039,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652087359000,
+    "modifyTime": 1652087953000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10956,13 +10961,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0509/951/7404944182812577453-135.json",
     "highDangerCount": 21,
-    "midDangerCount": 77
+    "midDangerCount": 78
   },
   "getTimelineService1": [
     {
       "id": 193472,
       "pubDate": 1652058286000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 401+3859 例",
       "summary": "5月8日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例415例。其中境外输入病例14例（广东7例，福建4例，上海2例，广西1例），含2例由无症状感染者转为确诊病例（福建1例，广东1例）；本土病例401例（上海322例，北京33例，广东28例，河南14例，青海2例，浙江1例，湖南1例），含236例由无症状感染者转为确诊病例（上海230例，北京5例，广东1例）。新增死亡病例1",
       "infoSource": "央视新闻app",
@@ -10975,7 +10980,7 @@
     {
       "id": 193453,
       "pubDate": 1652053655000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 322 例",
       "summary": "上海市卫健委今早（9日）通报：2022年5月8日0—24时，新增本土新冠肺炎确诊病例322例和无症状感染者3625例，其中230例确诊病例为既往无症状感染者转归，92例确诊病例和3616例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例2例和无症状感染者1例，均在闭环管控中发现。\n2022年5月8日0—24时，新增本土新冠肺炎确诊病例322例，含230例由既往无症状感染者转为确诊病例。",
       "infoSource": "央视新闻app",
@@ -10988,7 +10993,7 @@
     {
       "id": 193455,
       "pubDate": 1652053923000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 33 例",
       "summary": "5月8日0时至24时，北京新增33例本土确诊病例（含4例5月6日、1例5月7日诊断的无症状感染者转确诊病例）和16例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院13例。",
       "infoSource": "央视新闻app",
@@ -11014,7 +11019,7 @@
     {
       "id": 193476,
       "pubDate": 1652059374000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广东 | 湛江新增本土确诊病例 23 例",
       "summary": "2022年5月8日0至24时，广东湛江市新增23例本土确诊病例和10例本土无症状感染者，均从管控的重点人群中发现，已全程闭环送至湛江市定点医院隔离治疗。截至5月8日24时，湛江市累计报告新冠肺炎确诊病例95例（其中境外输入确诊病例30例），累计报告无症状感染者47例（其中境外输入无症状感染者30例）。\n新增确诊病例1：卢某某，女，69岁，在湛江市巾帼仓储有限公司工作。经专家会诊，诊断为新型冠状病毒",
       "infoSource": "央视新闻app",
