@@ -110,7 +110,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 174,
+      "currentConfirmedCount": 165,
       "confirmedCount": 2790,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -466,18 +466,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
-      "provinceName": "山东省",
-      "provinceShortName": "山东",
-      "cityName": "淄博",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 34,
-      "confirmedCount": 77,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 370000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
-    },
-    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "安阳",
@@ -644,18 +632,6 @@
       "currentDangerCount": 0,
       "locationId": 330000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
-    },
-    {
-      "provinceName": "福建省",
-      "provinceShortName": "福建",
-      "cityName": "宁德",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 15,
-      "confirmedCount": 76,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 350000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
     {
       "provinceName": "辽宁省",
@@ -1909,11 +1885,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 4,
           "yesterdayAsymptomaticCount": 1,
-          "currentConfirmedCount": 174,
+          "currentConfirmedCount": 165,
           "confirmedCount": 2790,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "174"
+          "currentConfirmedCountStr": "165"
         },
         {
           "provinceName": "广东省",
@@ -2858,18 +2834,6 @@
         {
           "provinceName": "山东省",
           "provinceShortName": "山东",
-          "cityName": "淄博",
-          "yesterdayLocalConfirmedCount": 0,
-          "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 34,
-          "confirmedCount": 77,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "34"
-        },
-        {
-          "provinceName": "山东省",
-          "provinceShortName": "山东",
           "cityName": "临沂",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
@@ -3127,18 +3091,6 @@
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
-        {
-          "provinceName": "福建省",
-          "provinceShortName": "福建",
-          "cityName": "宁德",
-          "yesterdayLocalConfirmedCount": 0,
-          "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 15,
-          "confirmedCount": 76,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "15"
-        },
         {
           "provinceName": "福建省",
           "provinceShortName": "福建",
@@ -5075,15 +5027,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 174,
+          "currentConfirmedCount": 165,
           "confirmedCount": 2790,
           "suspectedCount": 3,
-          "curedCount": 2615,
+          "curedCount": 2624,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "174"
+          "currentConfirmedCountStr": "165"
         },
         {
           "cityName": "湛江",
@@ -5327,15 +5279,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -13,
+          "currentConfirmedCount": -4,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 13,
+          "curedCount": 4,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-13"
+          "currentConfirmedCountStr": "-4"
         }
       ],
       "dangerAreas": [
@@ -6145,18 +6097,6 @@
           "currentConfirmedCountStr": "48"
         },
         {
-          "cityName": "宁德",
-          "currentConfirmedCount": 15,
-          "confirmedCount": 76,
-          "suspectedCount": 0,
-          "curedCount": 61,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 350900,
-          "currentConfirmedCountStr": "15"
-        },
-        {
           "cityName": "厦门",
           "currentConfirmedCount": 4,
           "confirmedCount": 315,
@@ -6202,6 +6142,18 @@
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 350300,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "宁德",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 76,
+          "suspectedCount": 0,
+          "curedCount": 76,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 350900,
           "currentConfirmedCountStr": "0"
         },
         {
@@ -6251,18 +6203,6 @@
           "midDangerCount": 0,
           "locationId": 350800,
           "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "待明确地区",
-          "currentConfirmedCount": -15,
-          "confirmedCount": 0,
-          "suspectedCount": 0,
-          "curedCount": 15,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": -1,
-          "currentConfirmedCountStr": "-15"
         }
       ],
       "dangerAreas": []
@@ -6330,18 +6270,6 @@
           "midDangerCount": 0,
           "locationId": 371400,
           "currentConfirmedCountStr": "35"
-        },
-        {
-          "cityName": "淄博",
-          "currentConfirmedCount": 34,
-          "confirmedCount": 77,
-          "suspectedCount": 0,
-          "curedCount": 42,
-          "deadCount": 1,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 370300,
-          "currentConfirmedCountStr": "34"
         },
         {
           "cityName": "境外输入",
@@ -6428,6 +6356,18 @@
           "currentConfirmedCountStr": "0"
         },
         {
+          "cityName": "淄博",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 77,
+          "suspectedCount": 0,
+          "curedCount": 76,
+          "deadCount": 1,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 370300,
+          "currentConfirmedCountStr": "0"
+        },
+        {
           "cityName": "潍坊",
           "currentConfirmedCount": 0,
           "confirmedCount": 52,
@@ -6477,15 +6417,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -194,
+          "currentConfirmedCount": -160,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 194,
+          "curedCount": 160,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-194"
+          "currentConfirmedCountStr": "-160"
         }
       ],
       "dangerAreas": []
@@ -10778,11 +10718,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4690043759,
+  "getPV": 4690061162,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652075333000,
+    "modifyTime": 1652082999000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11022,7 +10962,7 @@
     {
       "id": 193472,
       "pubDate": 1652058286000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "国家卫健委 | 昨日本土新增 401+3859 例",
       "summary": "5月8日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例415例。其中境外输入病例14例（广东7例，福建4例，上海2例，广西1例），含2例由无症状感染者转为确诊病例（福建1例，广东1例）；本土病例401例（上海322例，北京33例，广东28例，河南14例，青海2例，浙江1例，湖南1例），含236例由无症状感染者转为确诊病例（上海230例，北京5例，广东1例）。新增死亡病例1",
       "infoSource": "央视新闻app",
@@ -11035,7 +10975,7 @@
     {
       "id": 193453,
       "pubDate": 1652053655000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "上海 | 昨日新增本土确诊病例 322 例",
       "summary": "上海市卫健委今早（9日）通报：2022年5月8日0—24时，新增本土新冠肺炎确诊病例322例和无症状感染者3625例，其中230例确诊病例为既往无症状感染者转归，92例确诊病例和3616例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例2例和无症状感染者1例，均在闭环管控中发现。\n2022年5月8日0—24时，新增本土新冠肺炎确诊病例322例，含230例由既往无症状感染者转为确诊病例。",
       "infoSource": "央视新闻app",
@@ -11048,7 +10988,7 @@
     {
       "id": 193455,
       "pubDate": 1652053923000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "北京 | 昨日新增本土确诊病例 33 例",
       "summary": "5月8日0时至24时，北京新增33例本土确诊病例（含4例5月6日、1例5月7日诊断的无症状感染者转确诊病例）和16例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院13例。",
       "infoSource": "央视新闻app",
@@ -11061,7 +11001,7 @@
     {
       "id": 193466,
       "pubDate": 1652056740000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "河南 | 昨日新增本土确诊病例 14 例",
       "summary": "记者从河南省卫健委了解到，5月8日0—24时，河南省新增本土确诊病例14例（郑州市7例，许昌市7例），新增本土无症状感染者46例（周口市19例，郑州市12例，许昌市8例，濮阳市3例，平顶山市2例，商丘市1例，信阳市1例），无新增本土疑似病例。新增境外输入无症状感染者1例，无新增境外输入性确诊病例和疑似病例。6例本土确诊病例治愈出院，27例本土无症状感染者解除医学观察。\n2020年1月21日至202",
       "infoSource": "央视新闻app",
@@ -11074,7 +11014,7 @@
     {
       "id": 193476,
       "pubDate": 1652059374000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "广东 | 湛江新增本土确诊病例 23 例",
       "summary": "2022年5月8日0至24时，广东湛江市新增23例本土确诊病例和10例本土无症状感染者，均从管控的重点人群中发现，已全程闭环送至湛江市定点医院隔离治疗。截至5月8日24时，湛江市累计报告新冠肺炎确诊病例95例（其中境外输入确诊病例30例），累计报告无症状感染者47例（其中境外输入无症状感染者30例）。\n新增确诊病例1：卢某某，女，69岁，在湛江市巾帼仓储有限公司工作。经专家会诊，诊断为新型冠状病毒",
       "infoSource": "央视新闻app",
