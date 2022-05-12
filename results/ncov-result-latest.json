@@ -64,7 +64,7 @@
       "yesterdayLocalConfirmedCount": 35,
       "currentConfirmedCount": 595,
       "confirmedCount": 2632,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 54,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
@@ -676,8 +676,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 11,
       "confirmedCount": 288,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
@@ -1712,7 +1712,7 @@
       "yesterdayAsymptomaticCount": 11,
       "currentConfirmedCount": 595,
       "confirmedCount": 2632,
-      "dangerCountIncr": 0,
+      "dangerCountIncr": 1,
       "currentDangerCount": 54,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
@@ -1725,7 +1725,7 @@
           "yesterdayAsymptomaticCount": 8,
           "currentConfirmedCount": 192,
           "confirmedCount": 212,
-          "dangerCountIncr": 0,
+          "dangerCountIncr": 1,
           "currentDangerCount": 19,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -1874,8 +1874,8 @@
       "yesterdayAsymptomaticCount": 77,
       "currentConfirmedCount": 196,
       "confirmedCount": 3095,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "cities": [
@@ -1991,8 +1991,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 11,
           "confirmedCount": 288,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "11"
         },
         {
@@ -2336,7 +2336,7 @@
       "provinceName": "贵州省",
       "provinceShortName": "贵州",
       "yesterdayLocalConfirmedCount": 1,
-      "yesterdayAsymptomaticCount": 3,
+      "yesterdayAsymptomaticCount": 4,
       "currentConfirmedCount": 3,
       "confirmedCount": 182,
       "dangerCountIncr": 0,
@@ -2361,7 +2361,7 @@
           "provinceShortName": "贵州",
           "cityName": "黔东南州",
           "yesterdayLocalConfirmedCount": 0,
-          "yesterdayAsymptomaticCount": 1,
+          "yesterdayAsymptomaticCount": 2,
           "currentConfirmedCount": 2,
           "confirmedCount": 13,
           "dangerCountIncr": 0,
@@ -2535,8 +2535,8 @@
       "yesterdayAsymptomaticCount": 25,
       "currentConfirmedCount": 28,
       "confirmedCount": 2069,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -4561,12 +4561,12 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "琉璃河镇兴礼村",
+          "areaName": "韩村河镇五侯村",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
-          "areaName": "五侯村",
+          "areaName": "琉璃河镇兴礼村",
           "dangerLevel": 2
         },
         {
@@ -5166,7 +5166,7 @@
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 2,
+      "midDangerCount": 0,
       "detectOrgCount": 197,
       "vaccinationOrgCount": 234,
       "cities": [
@@ -5230,7 +5230,7 @@
           "curedCount": 275,
           "deadCount": 2,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 0,
           "locationId": 411500,
           "currentConfirmedCountStr": "11"
         },
@@ -5428,18 +5428,7 @@
           "currentConfirmedCountStr": "-163"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "信阳",
-          "areaName": "固始县石佛店镇漂桥村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "信阳",
-          "areaName": "固始县张广庙镇龙井村",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "福建省",
@@ -6175,7 +6164,7 @@
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 0,
+      "midDangerCount": 1,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -6259,7 +6248,7 @@
           "curedCount": 33,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 511600,
           "currentConfirmedCountStr": "0"
         },
@@ -6432,7 +6421,13 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "广安",
+          "areaName": "邻水县鼎屏镇康佳小区",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "江西省",
@@ -10586,11 +10581,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4691127468,
+  "getPV": 4691151479,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652323751000,
+    "modifyTime": 1652325517000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10824,7 +10819,7 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0512/225/8954848248088038453-135.json",
     "highDangerCount": 20,
-    "midDangerCount": 78
+    "midDangerCount": 77
   },
   "getTimelineService1": [
     {
@@ -10856,7 +10851,7 @@
     {
       "id": 193889,
       "pubDate": 1652313043000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "北京 | 昨日新增本土确诊病例 35 例",
       "summary": "5月11日0时至24时，北京新增35例本土确诊病例（含1例5月10日诊断的无症状感染者转确诊病例）和11例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院45例。\n本土病例\n确诊病例1：现住朝阳区中国第一商城纽约豪园。5月11日诊断为确诊病例，临床分型为轻型。\n确诊病例2、3：现住朝阳区农光里。5月11日诊断为确诊病例，临床分型均为轻型。\n确诊病例4：现住朝阳",
       "infoSource": "央视新闻app",
@@ -10882,8 +10877,8 @@
     {
       "id": 193924,
       "pubDate": 1652323511000,
-      "pubDateStr": "2分钟前",
-      "title": "青海 | 昨日本土新增确诊病例 13 例",
+      "pubDateStr": "12分钟前",
+      "title": "青海 | 昨日新增本土确诊病例 13 例",
       "summary": "青海省新增本土确诊病例13例，当日治愈出院2例，正在定点医疗机构隔离救治43例",
       "infoSource": "青海卫生与健康",
       "sourceUrl": "https://mp.weixin.qq.com/s/tnN_o57gleIoWVly7VehkA",
