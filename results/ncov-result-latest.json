@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 52,
       "currentConfirmedCount": 501,
       "confirmedCount": 2874,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 46,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 47,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1700,8 +1700,8 @@
       "yesterdayAsymptomaticCount": 17,
       "currentConfirmedCount": 501,
       "confirmedCount": 2874,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 46,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 47,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1725,8 +1725,8 @@
           "yesterdayAsymptomaticCount": 7,
           "currentConfirmedCount": 239,
           "confirmedCount": 259,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 23,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 24,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -4238,8 +4238,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 17,
-      "midDangerCount": 29,
+      "highDangerCount": 15,
+      "midDangerCount": 32,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4250,8 +4250,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 9,
-          "midDangerCount": 6,
+          "highDangerCount": 7,
+          "midDangerCount": 8,
           "locationId": 110105,
           "currentConfirmedCountStr": "406"
         },
@@ -4275,7 +4275,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 5,
-          "midDangerCount": 18,
+          "midDangerCount": 19,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4493,17 +4493,7 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "建外街道北郎东社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "建外街道南郎社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "金盏乡金盏嘉园二社区",
           "dangerLevel": 1
         },
         {
@@ -4573,6 +4563,11 @@
         },
         {
           "cityName": "房山区",
+          "areaName": "窦店镇苏村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
           "areaName": "窦店镇腾龙家园社区",
           "dangerLevel": 2
         },
@@ -4593,12 +4588,12 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "窦店镇袁庄村",
+          "areaName": "拱辰街道世茂维拉社区",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
-          "areaName": "拱辰街道世茂维拉社区",
+          "areaName": "琉璃河镇滨水雅园小区西区",
           "dangerLevel": 2
         },
         {
@@ -4659,6 +4654,16 @@
         {
           "cityName": "朝阳区",
           "areaName": "劲松街道大郊亭社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "建外街道北郎东社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "金盏乡金盏嘉园二社区",
           "dangerLevel": 2
         },
         {
@@ -10544,11 +10549,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4693425411,
+  "getPV": 4693436719,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652864417000,
+    "modifyTime": 1652865459000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10758,27 +10763,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 192352337,
-      "confirmedCount": 520694357,
+      "currentConfirmedCount": 192341614,
+      "confirmedCount": 520701082,
       "suspectedCount": 4,
-      "curedCount": 322075188,
-      "deadCount": 6266832,
+      "curedCount": 322092598,
+      "deadCount": 6266870,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 403064,
-      "confirmedIncr": 462216,
-      "curedIncr": 57361,
-      "deadIncr": 1791
+      "currentConfirmedIncr": 392341,
+      "confirmedIncr": 468941,
+      "curedIncr": 74771,
+      "deadIncr": 1829
     },
     "globalStatistics": {
-      "currentConfirmedCount": 193584689,
-      "confirmedCount": 522229674,
-      "curedCount": 322362399,
-      "deadCount": 6282586,
-      "currentConfirmedIncr": 553620,
-      "confirmedIncr": 613407,
-      "curedIncr": 57914,
-      "deadIncr": 1873,
-      "yesterdayConfirmedCountIncr": 528325
+      "currentConfirmedCount": 193573966,
+      "confirmedCount": 522236399,
+      "curedCount": 322379809,
+      "deadCount": 6282624,
+      "currentConfirmedIncr": 542897,
+      "confirmedIncr": 620132,
+      "curedIncr": 75324,
+      "deadIncr": 1911,
+      "yesterdayConfirmedCountIncr": 535050
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0518/867/2479014081602249453-135.json",
     "highDangerCount": 15,
@@ -10788,7 +10793,7 @@
     {
       "id": 194763,
       "pubDate": 1652836670000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 227+1000 例",
       "summary": "5月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例227例，新增本土无症状感染者1000例",
       "infoSource": "央视新闻",
@@ -10814,7 +10819,7 @@
     {
       "id": 194750,
       "pubDate": 1652831457000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "北京 | 昨日新增本土确诊病例 52 例",
       "summary": "5月17日0时至24时，北京新增52例本土确诊病例（含9例无症状感染者转确诊病例）和17例本土无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院51例。\n确诊病例1、2：现住朝阳区南新园小区。5月17日诊断为确诊病例。\n确诊病例3：现住朝阳区周家庄中路20号院。5月17日诊断为确诊病例。\n确诊病例4至11：现住房山区阳城环路1号。5月17日诊断为确诊病例。\n确诊",
       "infoSource": "央视新闻app",
@@ -10827,7 +10832,7 @@
     {
       "id": 194755,
       "pubDate": 1652833563000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "天津 | 昨日新增本土确诊病例 16 例 ",
       "summary": "2022年5月17日0—24时，天津市新增16例本土新冠肺炎确诊病例（其中10例为无症状感染者转为确诊病例）。无新增境外输入性新冠肺炎确诊病例。新增39例本土无症状感染者，新增8例境外输入无症状感染者。\n自2022年2月24日至5月17日，天津市累计报告本土新冠肺炎确诊病例639例，在院23人，治愈出院616人。累计报告本土无症状感染者395例，解除医学观察250人，尚在医学观察59例，转为确诊病",
       "infoSource": "央视新闻app",
@@ -10840,7 +10845,7 @@
     {
       "id": 194764,
       "pubDate": 1652836537000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 49 例 ",
       "summary": "5月17日0时至24时，四川新增本土确诊病例49例（巴中1例，为既往通报的无症状感染者转确诊；广安48例，其中1例为既往通报的无症状感染者转确诊），新增本土无症状感染者152例（乐山4例，广安148例），无新增境外输入确诊病例，新增境外输入无症状感染者11例（在成都），新增治愈出院病例2例，无新增疑似病例，无新增死亡病例。\n截至5月17日24时，全省共有3个中风险地区（如下图），全省其余地区均为低",
       "infoSource": "央视新闻app",
