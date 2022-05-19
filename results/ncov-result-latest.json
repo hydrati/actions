@@ -134,7 +134,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 72,
+      "currentConfirmedCount": 63,
       "confirmedCount": 2810,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -2228,11 +2228,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 1,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 72,
+          "currentConfirmedCount": 63,
           "confirmedCount": 2810,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "72"
+          "currentConfirmedCountStr": "63"
         },
         {
           "provinceName": "广东省",
@@ -3668,11 +3668,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 966223,
-      "confirmedCount": 981141,
+      "currentConfirmedCount": 1055584,
+      "confirmedCount": 1070561,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 1176,
+      "deadCount": 1235,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -5010,15 +5010,15 @@
         },
         {
           "cityName": "广州",
-          "currentConfirmedCount": 72,
+          "currentConfirmedCount": 63,
           "confirmedCount": 2810,
           "suspectedCount": 3,
-          "curedCount": 2737,
+          "curedCount": 2746,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "72"
+          "currentConfirmedCountStr": "63"
         },
         {
           "cityName": "深圳",
@@ -5250,15 +5250,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -18,
+          "currentConfirmedCount": -9,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 18,
+          "curedCount": 9,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-18"
+          "currentConfirmedCountStr": "-9"
         }
       ],
       "dangerAreas": [
@@ -10530,11 +10530,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4693699162,
+  "getPV": 4693712228,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652938609000,
+    "modifyTime": 1652950334000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10550,17 +10550,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 1232130,
-    "confirmedCount": 1535599,
+    "currentConfirmedCount": 1321491,
+    "confirmedCount": 1625019,
     "suspectedCount": 18444,
     "curedCount": 287710,
-    "deadCount": 15759,
+    "deadCount": 15818,
     "seriousCount": 45519,
     "suspectedIncr": 21,
-    "currentConfirmedIncr": 84760,
-    "confirmedIncr": 85364,
+    "currentConfirmedIncr": 174121,
+    "confirmedIncr": 174784,
     "curedIncr": 558,
-    "deadIncr": 46,
+    "deadIncr": 105,
     "seriousIncr": -2199,
     "yesterdayConfirmedCountIncr": 85364,
     "yesterdaySuspectedCountIncr": 21,
@@ -10756,14 +10756,14 @@
       "deadIncr": 2719
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194214340,
-      "confirmedCount": 522940265,
+      "currentConfirmedCount": 194303701,
+      "confirmedCount": 523029685,
       "curedCount": 322440577,
-      "deadCount": 6285348,
-      "currentConfirmedIncr": 725356,
-      "confirmedIncr": 788948,
+      "deadCount": 6285407,
+      "currentConfirmedIncr": 814717,
+      "confirmedIncr": 878368,
       "curedIncr": 60827,
-      "deadIncr": 2765,
+      "deadIncr": 2824,
       "yesterdayConfirmedCountIncr": 788948
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0519/272/2935926868067069453-135.json",
