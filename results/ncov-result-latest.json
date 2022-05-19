@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 50,
       "currentConfirmedCount": 520,
       "confirmedCount": 2924,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 47,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 43,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1700,8 +1700,8 @@
       "yesterdayAsymptomaticCount": 5,
       "currentConfirmedCount": 520,
       "confirmedCount": 2924,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 47,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 43,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1725,8 +1725,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 248,
           "confirmedCount": 268,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 24,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 23,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1738,8 +1738,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 414,
           "confirmedCount": 494,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 15,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 13,
           "currentConfirmedCountStr": "414"
         },
         {
@@ -1762,8 +1762,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 75,
           "confirmedCount": 95,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "75"
         },
         {
@@ -2139,11 +2139,11 @@
           "cityName": "北辰区",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 6,
-          "confirmedCount": 29,
+          "currentConfirmedCount": 7,
+          "confirmedCount": 30,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "6"
+          "currentConfirmedCountStr": "7"
         }
       ]
     },
@@ -4224,8 +4224,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 15,
-      "midDangerCount": 32,
+      "highDangerCount": 14,
+      "midDangerCount": 29,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4236,8 +4236,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 7,
-          "midDangerCount": 8,
+          "highDangerCount": 6,
+          "midDangerCount": 7,
           "locationId": 110105,
           "currentConfirmedCountStr": "414"
         },
@@ -4249,7 +4249,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 5,
-          "midDangerCount": 19,
+          "midDangerCount": 18,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4298,7 +4298,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 3,
+          "midDangerCount": 2,
           "locationId": 110112,
           "currentConfirmedCountStr": "75"
         },
@@ -4489,11 +4489,6 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "潘家园街道潘家园社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "十八里店乡周家庄村",
           "dangerLevel": 1
         },
@@ -4559,11 +4554,6 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "窦店镇瓦窑头村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
           "areaName": "窦店镇下坡店村",
           "dangerLevel": 2
         },
@@ -4595,6 +4585,11 @@
         {
           "cityName": "房山区",
           "areaName": "西潞街道苏庄三里社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇北京理工大学房山分校",
           "dangerLevel": 2
         },
         {
@@ -4633,11 +4628,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "房山区",
-          "areaName": "长阳镇加州水郡东区社区金桥国际公寓",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "朝阳区",
           "areaName": "劲松街道大郊亭社区",
           "dangerLevel": 2
@@ -4649,17 +4639,12 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "金盏乡金盏嘉园二社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "南磨房乡双龙西社区",
           "dangerLevel": 2
         },
         {
           "cityName": "朝阳区",
-          "areaName": "潘家园街道松榆东里社区",
+          "areaName": "潘家园街道潘家园社区",
           "dangerLevel": 2
         },
         {
@@ -4685,11 +4670,6 @@
         {
           "cityName": "通州区",
           "areaName": "马驹桥镇样本小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "中仓街道新华园社区",
           "dangerLevel": 2
         },
         {
@@ -6179,15 +6159,15 @@
       "cities": [
         {
           "cityName": "北辰区",
-          "currentConfirmedCount": 6,
-          "confirmedCount": 29,
+          "currentConfirmedCount": 7,
+          "confirmedCount": 30,
           "suspectedCount": 0,
           "curedCount": 23,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 120113,
-          "currentConfirmedCountStr": "6"
+          "currentConfirmedCountStr": "7"
         },
         {
           "cityName": "境外输入",
@@ -6383,15 +6363,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": 24,
-          "confirmedCount": 24,
+          "currentConfirmedCount": 23,
+          "confirmedCount": 23,
           "suspectedCount": 0,
           "curedCount": 0,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "24"
+          "currentConfirmedCountStr": "23"
         }
       ],
       "dangerAreas": []
@@ -10530,11 +10510,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4693712228,
+  "getPV": 4693724784,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1652950334000,
+    "modifyTime": 1652954125000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10744,37 +10724,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 192982210,
+      "currentConfirmedCount": 192973479,
       "confirmedCount": 521404666,
       "suspectedCount": 4,
-      "curedCount": 322152867,
+      "curedCount": 322161598,
       "deadCount": 6269589,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 640596,
+      "currentConfirmedIncr": 631865,
       "confirmedIncr": 703584,
-      "curedIncr": 60269,
+      "curedIncr": 69000,
       "deadIncr": 2719
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194303701,
+      "currentConfirmedCount": 194294970,
       "confirmedCount": 523029685,
-      "curedCount": 322440577,
+      "curedCount": 322449308,
       "deadCount": 6285407,
-      "currentConfirmedIncr": 814717,
+      "currentConfirmedIncr": 805986,
       "confirmedIncr": 878368,
-      "curedIncr": 60827,
+      "curedIncr": 69558,
       "deadIncr": 2824,
       "yesterdayConfirmedCountIncr": 788948
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0519/272/2935926868067069453-135.json",
-    "highDangerCount": 15,
-    "midDangerCount": 64
+    "highDangerCount": 14,
+    "midDangerCount": 61
   },
   "getTimelineService1": [
     {
       "id": 194920,
       "pubDate": 1652924423000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 191+825 例",
       "summary": "5月18日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例191例，新增本土无症状感染者825例",
       "infoSource": "央视新闻",
@@ -10787,7 +10767,7 @@
     {
       "id": 194890,
       "pubDate": 1652917464000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 82 例",
       "summary": "上海市卫健委今早（19日）通报：2022年5月18日0—24时，新增本土新冠肺炎确诊病例82例和无症状感染者637例，其中48例确诊病例为既往无症状感染者转归，34例确诊病例和637例无症状感染者在隔离管控中发现。新增境外输入性确诊病例1例和无症状感染者2例，均在闭环管控中发现。\n2022年5月18日0—24时，新增本土新冠肺炎确诊病例82例，含48例由既往无症状感染者转为确诊病例。新增治愈出院2",
       "infoSource": "央视新闻app",
@@ -10800,7 +10780,7 @@
     {
       "id": 194891,
       "pubDate": 1652917960000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 50 例",
       "summary": "5月18日0时至24时，北京新增50例本土确诊病例（含2例无症状感染者转确诊病例）和5例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院31例。\n确诊病例1：现住朝阳区翠城馨园小区。5月18日诊断为确诊病例。\n确诊病例2、3、27、28：现住朝阳区南新园小区。5月18日诊断为确诊病例。\n确诊病例4、26：现住朝阳区朗丽兹酒店（北京北工大西门地铁站店）。5月18",
       "infoSource": "央视新闻app",
@@ -10813,7 +10793,7 @@
     {
       "id": 194908,
       "pubDate": 1652921920000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 34 例 ",
       "summary": "5月18日0时至24时，四川新增本土确诊病例34例（资阳1例，为既往通报的无症状感染者转确诊，广安33例），新增本土无症状感染者115例（乐山3例，广安112例），新增境外输入确诊病例7例（在成都，其中2例为既往通报的无症状感染者转确诊），新增境外输入无症状感染者5例（在成都），新增治愈出院病例3例，无新增疑似病例，无新增死亡病例。\n截至5月18日24时，四川省共有3个中风险地区，四川省其余地区均",
       "infoSource": "央视新闻app",
@@ -10826,7 +10806,7 @@
     {
       "id": 194910,
       "pubDate": 1652921777000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "天津 | 昨日新增本土确诊病例 7 例",
       "summary": "2022年5月18日0—24时，天津市新增7例本土新冠肺炎确诊病例（其中4例为无症状感染者转为确诊病例）。新增1例境外输入性新冠肺炎确诊病例。新增26例本土无症状感染者，新增1例境外输入无症状感染者。\n自2022年2月24日至5月18日，天津市累计报告本土新冠肺炎确诊病例646例，在院30人，治愈出院616人。累计报告本土无症状感染者421例，解除医学观察250人，尚在医学观察81例，转为确诊病例",
       "infoSource": "央视新闻app",
