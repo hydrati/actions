@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 88,
       "currentConfirmedCount": 2815,
       "confirmedCount": 62523,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 13,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 14,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 50,
       "currentConfirmedCount": 532,
       "confirmedCount": 2975,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 43,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 37,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1470,8 +1470,8 @@
       "yesterdayAsymptomaticCount": 770,
       "currentConfirmedCount": 2815,
       "confirmedCount": 62523,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 13,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 14,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1639,8 +1639,8 @@
           "yesterdayAsymptomaticCount": 17,
           "currentConfirmedCount": 1,
           "confirmedCount": 1325,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "1"
         },
         {
@@ -1676,8 +1676,8 @@
       "yesterdayAsymptomaticCount": 12,
       "currentConfirmedCount": 532,
       "confirmedCount": 2975,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 43,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 37,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1701,8 +1701,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 264,
           "confirmedCount": 284,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 23,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 21,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1714,8 +1714,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 419,
           "confirmedCount": 499,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 13,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 10,
           "currentConfirmedCountStr": "419"
         },
         {
@@ -1750,8 +1750,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 75,
           "confirmedCount": 95,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "75"
         },
         {
@@ -3665,7 +3665,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 13,
+      "midDangerCount": 14,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -3857,7 +3857,7 @@
           "curedCount": 1324,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310118,
           "currentConfirmedCountStr": "1"
         },
@@ -3974,6 +3974,11 @@
         {
           "cityName": "黄浦区",
           "areaName": "打浦桥街道顺昌路612弄20号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "青浦区",
+          "areaName": "徐泾镇迮庵村（杨巷西区）",
           "dangerLevel": 2
         }
       ]
@@ -4176,8 +4181,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 14,
-      "midDangerCount": 29,
+      "highDangerCount": 15,
+      "midDangerCount": 22,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -4188,8 +4193,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 6,
-          "midDangerCount": 7,
+          "highDangerCount": 5,
+          "midDangerCount": 5,
           "locationId": 110105,
           "currentConfirmedCountStr": "419"
         },
@@ -4200,8 +4205,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 5,
-          "midDangerCount": 18,
+          "highDangerCount": 7,
+          "midDangerCount": 14,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4250,7 +4255,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 2,
+          "midDangerCount": 1,
           "locationId": 110112,
           "currentConfirmedCountStr": "75"
         },
@@ -4420,6 +4425,41 @@
       ],
       "dangerAreas": [
         {
+          "cityName": "房山区",
+          "areaName": "窦店镇窦店产业园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "窦店镇一街村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "拱辰街道世茂维拉社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "韩村河镇五侯村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇北京理工大学房山分校",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "阎村镇大紫草坞村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "房山区",
+          "areaName": "长阳镇韵达快递长阳分部",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "朝阳区",
           "areaName": "劲松街道农光东里社区",
           "dangerLevel": 1
@@ -4442,36 +4482,6 @@
         {
           "cityName": "朝阳区",
           "areaName": "十八里店乡周家庄村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "十八里店乡周家庄中路19号院",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇窦店产业园",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "窦店镇一街村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "韩村河镇五侯村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "阎村镇大紫草坞村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "长阳镇韵达快递长阳分部",
           "dangerLevel": 1
         },
         {
@@ -4501,22 +4511,12 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "窦店镇腾龙家园社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
           "areaName": "窦店镇下坡店村",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
           "areaName": "窦店镇于庄村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "拱辰街道世茂维拉社区",
           "dangerLevel": 2
         },
         {
@@ -4541,22 +4541,12 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "阎村镇北京理工大学房山分校",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
           "areaName": "阎村镇大董村",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
           "areaName": "阎村镇乐活雅苑小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "阎村镇小紫草坞村",
           "dangerLevel": 2
         },
         {
@@ -4586,17 +4576,7 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "建外街道北郎东社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "南磨房乡双龙西社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "潘家园街道潘家园社区",
           "dangerLevel": 2
         },
         {
@@ -4615,16 +4595,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "通州区",
-          "areaName": "潞城镇后北营村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "马驹桥镇样本小区",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "海淀区",
           "areaName": "北太平庄街道索家坟社区首钢小区",
           "dangerLevel": 2
@@ -4632,6 +4602,11 @@
         {
           "cityName": "丰台区",
           "areaName": "五里店街道彩虹北社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "马驹桥镇样本小区",
           "dangerLevel": 2
         }
       ]
@@ -10462,11 +10437,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4694023112,
+  "getPV": 4694035496,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1653035333000,
+    "modifyTime": 1653038004000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10676,27 +10651,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 193526537,
-      "confirmedCount": 522017239,
+      "currentConfirmedCount": 193519467,
+      "confirmedCount": 522017257,
       "suspectedCount": 4,
-      "curedCount": 322219366,
-      "deadCount": 6271336,
+      "curedCount": 322226457,
+      "deadCount": 6271333,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 553058,
-      "confirmedIncr": 612573,
-      "curedIncr": 57768,
-      "deadIncr": 1747
+      "currentConfirmedIncr": 545988,
+      "confirmedIncr": 612591,
+      "curedIncr": 64859,
+      "deadIncr": 1744
     },
     "globalStatistics": {
-      "currentConfirmedCount": 194847844,
-      "confirmedCount": 523642498,
-      "curedCount": 322507499,
-      "deadCount": 6287155,
-      "currentConfirmedIncr": 642181,
-      "confirmedIncr": 702233,
-      "curedIncr": 58245,
-      "deadIncr": 1807,
-      "yesterdayConfirmedCountIncr": 702233
+      "currentConfirmedCount": 194840774,
+      "confirmedCount": 523642516,
+      "curedCount": 322514590,
+      "deadCount": 6287152,
+      "currentConfirmedIncr": 635111,
+      "confirmedIncr": 702251,
+      "curedIncr": 65336,
+      "deadIncr": 1804,
+      "yesterdayConfirmedCountIncr": 702251
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0520/223/1109090243513979453-135.json",
     "highDangerCount": 15,
@@ -10706,7 +10681,7 @@
     {
       "id": 195117,
       "pubDate": 1653009961000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日本土新增 176+939 例",
       "summary": "5月19日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增新冠肺炎本土确诊病例176例，新增本土无症状感染者939例",
       "infoSource": "央视新闻",
@@ -10719,7 +10694,7 @@
     {
       "id": 195095,
       "pubDate": 1653003976000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 88 例 ",
       "summary": "上海市卫健委今早（20日）通报：2022年5月19日0—24时，新增本土新冠肺炎确诊病例88例和无症状感染者770例，其中71例确诊病例为既往无症状感染者转归，17例确诊病例和767例无症状感染者在隔离管控中发现。新增境外输入性确诊病例2例和无症状感染者3例，均在闭环管控中发现。\n2022年5月19日0—24时，新增治愈出院184例。（总台记者 王殿甲 杨静）",
       "infoSource": "央视新闻app",
@@ -10732,7 +10707,7 @@
     {
       "id": 195096,
       "pubDate": 1653004314000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 50 例  ",
       "summary": "5月19日0时至24时，北京新增50例本土确诊病例（含6例无症状感染者转确诊病例）和12例无症状感染者，无新增疑似病例；新增1例境外输入确诊病例，无新增疑似病例和无症状感染者。治愈出院39例。",
       "infoSource": "央视新闻app",
@@ -10745,7 +10720,7 @@
     {
       "id": 195109,
       "pubDate": 1653008401000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 20 例 ",
       "summary": "5月19日0时至24时，四川新增本土确诊病例20例（在广安），新增本土无症状感染者102例（在广安），无新增境外输入确诊病例，新增境外输入无症状感染者5例（在成都），新增重症病例2例、危重症病例2例，新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。\n具体情况如下：\n新增本土确诊病例20例（在广安）：\n均为广安邻水县筛查发现，5月19日确诊。\n新增本土无症状感染者102例（在广安）：\n均为广安",
       "infoSource": "央视新闻app",
@@ -10758,7 +10733,7 @@
     {
       "id": 195104,
       "pubDate": 1653006500000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "天津 | 昨日新增本土确诊病例 8 例",
       "summary": "2022年5月19日0—24时，天津市新增8例本土新冠肺炎确诊病例（其中4例为无症状感染者转为确诊病例）。无新增境外输入性新冠肺炎确诊病例。新增11例本土无症状感染者，无新增境外输入无症状感染者。\n自2022年2月24日—5月19日，天津市累计报告本土新冠肺炎确诊病例654例，在院38人，治愈出院616人。累计报告本土无症状感染者432例，解除医学观察252人，尚在医学观察86例，转为确诊病例94",
       "infoSource": "央视新闻app",
