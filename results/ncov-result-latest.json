@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 36,
       "currentConfirmedCount": 602,
       "confirmedCount": 3287,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 30,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 24,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -1580,8 +1580,8 @@
       "yesterdayAsymptomaticCount": 9,
       "currentConfirmedCount": 602,
       "confirmedCount": 3287,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 30,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 24,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1641,8 +1641,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 310,
           "confirmedCount": 330,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 17,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 15,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -1666,8 +1666,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 80,
           "confirmedCount": 100,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "80"
         },
         {
@@ -1691,8 +1691,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 424,
           "confirmedCount": 504,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "424"
         },
         {
@@ -3755,7 +3755,7 @@
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "highDangerCount": 9,
-      "midDangerCount": 21,
+      "midDangerCount": 15,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -3767,7 +3767,7 @@
           "curedCount": 80,
           "deadCount": 0,
           "highDangerCount": 2,
-          "midDangerCount": 5,
+          "midDangerCount": 2,
           "locationId": 110105,
           "currentConfirmedCountStr": "424"
         },
@@ -3791,7 +3791,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 6,
-          "midDangerCount": 11,
+          "midDangerCount": 9,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -3828,7 +3828,7 @@
           "curedCount": 20,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 2,
           "locationId": 110112,
           "currentConfirmedCountStr": "80"
         },
@@ -4069,22 +4069,12 @@
         },
         {
           "cityName": "房山区",
+          "areaName": "青龙湖镇青龙湖村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
           "areaName": "西潞街道苏庄三里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "阎村镇大董村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "阎村镇乐活雅苑小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "房山区",
-          "areaName": "阎村镇紫欣苑小区",
           "dangerLevel": 2
         },
         {
@@ -4104,27 +4094,7 @@
         },
         {
           "cityName": "朝阳区",
-          "areaName": "劲松街道农光里社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
           "areaName": "南磨房乡双龙西社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "十八里店乡周家庄中路19号院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "双井街道和平村一社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "马驹桥镇样本小区",
           "dangerLevel": 2
         },
         {
@@ -10127,11 +10097,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4695914494,
+  "getPV": 4695927176,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1653556410000,
+    "modifyTime": 1653558023000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10365,13 +10335,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0526/211/6554676169836090553-135.json",
     "highDangerCount": 9,
-    "midDangerCount": 40
+    "midDangerCount": 34
   },
   "getTimelineService1": [
     {
       "id": 195928,
       "pubDate": 1653526800000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 104+356 例",
       "summary": "5月25日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例130例。其中境外输入病例26例（福建11例，广东4例，云南4例，四川2例，北京1例，上海1例，江苏1例，广西1例，重庆1例）；本土病例104例（上海48例，北京36例，天津11例，河南9例），含44例由无症状感染者转为确诊病例（上海31例，河南9例，北京2例，天津2例）。新增死亡病例1例，为本土病例，在上海；无新增",
       "infoSource": "央视新闻app",
@@ -10384,7 +10354,7 @@
     {
       "id": 195912,
       "pubDate": 1653522350000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 48 例 ",
       "summary": "上海市卫健委今早（26日）通报：2022年5月25日0—24时，新增本土新冠肺炎确诊病例48例和无症状感染者290例，其中31例确诊病例为既往无症状感染者转归，17例确诊病例和290例无症状感染者在隔离管控中发现。新增境外输入性确诊病例1例和无症状感染者4例，均在闭环管控中发现。\n2022年5月25日0—24时，新增本土新冠肺炎确诊病例48例，含31例由既往无症状感染者转为确诊病例。新增治愈出院3",
       "infoSource": "央视新闻app",
@@ -10397,7 +10367,7 @@
     {
       "id": 195913,
       "pubDate": 1653522664000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 36 例",
       "summary": "5月25日0时至24时，北京新增36例本土确诊病例（含2例无症状感染者转确诊病例）和9例无症状感染者，无新增疑似病例；新增1例境外输入确诊病例和1例无症状感染者，无新增疑似病例。治愈出院36例。\n本土病例\n确诊病例1：现住东城区北口袋胡同。5月25日诊断为确诊病例。\n确诊病例2：现住东城区新景家园东区。5月25日诊断为确诊病例。\n确诊病例3：现住西城区百万庄未区。5月25日诊断为确诊病例。\n确诊病",
       "infoSource": "央视新闻app",
@@ -10423,7 +10393,7 @@
     {
       "id": 195917,
       "pubDate": 1653523394000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "天津 | 昨日新增本土确诊病例 9 例 ",
       "summary": "记者从天津市防控指挥部获悉，2022年5月25日0时至24时，天津市疾控部门报告18名本土新冠病毒核酸检测阳性感染者。其中，确诊病例9例，无症状感染者9例。\n（总台记者 贾立梁 孙强）",
       "infoSource": "央视新闻app",
