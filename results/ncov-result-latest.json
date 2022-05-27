@@ -3754,8 +3754,8 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 9,
-      "midDangerCount": 15,
+      "highDangerCount": 7,
+      "midDangerCount": 17,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -3766,8 +3766,8 @@
           "suspectedCount": 0,
           "curedCount": 80,
           "deadCount": 0,
-          "highDangerCount": 2,
-          "midDangerCount": 2,
+          "highDangerCount": 1,
+          "midDangerCount": 3,
           "locationId": 110105,
           "currentConfirmedCountStr": "426"
         },
@@ -3790,8 +3790,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 6,
-          "midDangerCount": 9,
+          "highDangerCount": 5,
+          "midDangerCount": 10,
           "locationId": 110111,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -4019,27 +4019,17 @@
         },
         {
           "cityName": "房山区",
-          "areaName": "阎村镇大紫草坞村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "房山区",
           "areaName": "长阳镇韵达快递长阳分部",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "南磨房乡南新园社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "十八里店乡周家庄村",
           "dangerLevel": 1
         },
         {
           "cityName": "海淀区",
           "areaName": "北太平庄街道金晖远洋社区远洋风景小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "南磨房乡南新园社区",
           "dangerLevel": 1
         },
         {
@@ -4079,22 +4069,17 @@
         },
         {
           "cityName": "房山区",
+          "areaName": "阎村镇大紫草坞村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "房山区",
           "areaName": "长阳镇碧桂园小区",
           "dangerLevel": 2
         },
         {
           "cityName": "房山区",
           "areaName": "长阳镇赛木小镇",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "台湖镇胡家垡村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "通州区",
-          "areaName": "新华街道如意社区",
           "dangerLevel": 2
         },
         {
@@ -4105,6 +4090,21 @@
         {
           "cityName": "朝阳区",
           "areaName": "南磨房乡双龙西社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "十八里店乡周家庄村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "台湖镇胡家垡村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "新华街道如意社区",
           "dangerLevel": 2
         },
         {
@@ -10097,11 +10097,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4696227507,
+  "getPV": 4696252299,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1653642515000,
+    "modifyTime": 1653643461000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10334,14 +10334,14 @@
       "yesterdayConfirmedCountIncr": 490591
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0527/170/3580736468391901553-135.json",
-    "highDangerCount": 9,
-    "midDangerCount": 34
+    "highDangerCount": 7,
+    "midDangerCount": 36
   },
   "getTimelineService1": [
     {
       "id": 196100,
       "pubDate": 1653613272000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 80+274 例",
       "summary": "5月26日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例102例。其中境外输入病例22例（福建8例，江苏4例，四川4例，云南2例，北京1例，上海1例，广东1例，重庆1例），含3例由无症状感染者转为确诊病例（广东1例，重庆1例，四川1例）；本土病例80例（上海45例，北京22例，天津7例，吉林2例，四川2例，江苏1例，云南1例），含36例由无症状感染者转为确诊病例（上海33",
       "infoSource": "央视新闻app",
@@ -10354,7 +10354,7 @@
     {
       "id": 196087,
       "pubDate": 1653608804000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增本土确诊病例 45 例 ",
       "summary": "上海市卫健委今早（27日）通报：2022年5月26日0—24时，新增本土新冠肺炎确诊病例45例和无症状感染者219例，其中33例确诊病例为既往无症状感染者转归，12例确诊病例和219例无症状感染者在隔离管控中发现。新增境外输入性确诊病例1例和无症状感染者6例，均在闭环管控中发现。\n2022年5月26日0—24时，新增本土新冠肺炎确诊病例45例，含33例由既往无症状感染者转为确诊病例。新增治愈出院1",
       "infoSource": "央视新闻app",
@@ -10367,7 +10367,7 @@
     {
       "id": 196088,
       "pubDate": 1653609080000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "北京 | 昨日新增本土确诊病例 22 例 ",
       "summary": "5月26日0时至24时，北京新增22例本土确诊病例（含2例无症状感染者转确诊病例）和7例无症状感染者，无新增疑似病例；新增1例境外输入确诊病例，无新增疑似病例和无症状感染者。治愈出院31例。\n本土病例\n确诊病例1：现住西城区后马厂胡同。5月26日诊断为确诊病例。&nbsp;&nbsp;&nbsp;&nbsp;\n确诊病例2：现住丰台区政馨园一区。5月26日诊断为确诊病例。\n确诊病例3：现住丰台区梅市",
       "infoSource": "央视新闻app",
@@ -10380,7 +10380,7 @@
     {
       "id": 196090,
       "pubDate": 1653609877000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "天津 | 昨日新增本土确诊病例 6 例 ",
       "summary": "记者从天津市防控指挥部获悉，2022年5月26日0时至24时，天津市疾控部门报告9名本土新冠病毒核酸检测阳性感染者。其中，确诊病例6例，无症状感染者3例。\n（总台记者 贾立梁 孙强）",
       "infoSource": "央视新闻app",
@@ -10393,7 +10393,7 @@
     {
       "id": 196106,
       "pubDate": 1653614639000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 2 例 ",
       "summary": "5月26日0时至24时，四川新增本土确诊病例2例（在广安），新增本土无症状感染者8例（成都2例，广安6例），新增境外输入确诊病例4例（在成都，其中1例为既往通报的无症状感染者转确诊），新增境外输入无症状感染者3例（在成都），新增重症和危重症病例各1例（在广安，均为高龄、基础疾病多），新增治愈出院病例4例，无新增疑似病例，无新增死亡病例。\n截至5月26日24时，四川全省共有3个中风险地区（如下图），",
       "infoSource": "央视新闻app",
