@@ -739,6 +739,17 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "深圳",
+      "currentConfirmedCount": 5,
+      "confirmedCount": 2519,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "陕西省",
       "provinceShortName": "陕西",
       "cityName": "西安",
@@ -792,17 +803,6 @@
       "currentDangerCount": 0,
       "locationId": 460000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "深圳",
-      "currentConfirmedCount": 4,
-      "confirmedCount": 2518,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "广东省",
@@ -1133,17 +1133,6 @@
       "currentDangerCount": 0,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
-    },
-    {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "cityName": "河池",
-      "currentConfirmedCount": 1,
-      "confirmedCount": 30,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
     {
       "provinceName": "云南省",
@@ -2110,8 +2099,8 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "currentConfirmedCount": 56,
-      "confirmedCount": 7291,
+      "currentConfirmedCount": 47,
+      "confirmedCount": 7292,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 440000,
@@ -2141,11 +2130,11 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "深圳",
-          "currentConfirmedCount": 4,
-          "confirmedCount": 2518,
+          "currentConfirmedCount": 5,
+          "confirmedCount": 2519,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "4"
+          "currentConfirmedCountStr": "5"
         },
         {
           "provinceName": "广东省",
@@ -2366,7 +2355,7 @@
     {
       "provinceName": "云南省",
       "provinceShortName": "云南",
-      "currentConfirmedCount": 15,
+      "currentConfirmedCount": 13,
       "confirmedCount": 2143,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -2469,28 +2458,6 @@
           "cityName": "昭通",
           "currentConfirmedCount": 1,
           "confirmedCount": 26,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        }
-      ]
-    },
-    {
-      "provinceName": "广西壮族自治区",
-      "provinceShortName": "广西",
-      "currentConfirmedCount": 14,
-      "confirmedCount": 1626,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 450000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-      "cities": [
-        {
-          "provinceName": "广西壮族自治区",
-          "provinceShortName": "广西",
-          "cityName": "河池",
-          "currentConfirmedCount": 1,
-          "confirmedCount": 30,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "1"
@@ -2636,6 +2603,17 @@
         {
           "provinceName": "辽宁省",
           "provinceShortName": "辽宁",
+          "cityName": "丹东",
+          "yesterdayAsymptomaticCount": 8,
+          "currentConfirmedCount": 43,
+          "confirmedCount": 54,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 8,
+          "currentConfirmedCountStr": "43"
+        },
+        {
+          "provinceName": "辽宁省",
+          "provinceShortName": "辽宁",
           "cityName": "营口",
           "currentConfirmedCount": 207,
           "confirmedCount": 218,
@@ -2662,16 +2640,6 @@
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "150"
-        },
-        {
-          "provinceName": "辽宁省",
-          "provinceShortName": "辽宁",
-          "cityName": "丹东",
-          "currentConfirmedCount": 43,
-          "confirmedCount": 54,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 8,
-          "currentConfirmedCountStr": "43"
         },
         {
           "provinceName": "辽宁省",
@@ -4836,10 +4804,10 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "currentConfirmedCount": 56,
-      "confirmedCount": 7291,
+      "currentConfirmedCount": 47,
+      "confirmedCount": 7292,
       "suspectedCount": 25,
-      "curedCount": 7227,
+      "curedCount": 7237,
       "deadCount": 8,
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
@@ -4875,15 +4843,15 @@
         },
         {
           "cityName": "深圳",
-          "currentConfirmedCount": 4,
-          "confirmedCount": 2518,
+          "currentConfirmedCount": 5,
+          "confirmedCount": 2519,
           "suspectedCount": 3,
           "curedCount": 2511,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440300,
-          "currentConfirmedCountStr": "4"
+          "currentConfirmedCountStr": "5"
         },
         {
           "cityName": "佛山",
@@ -5103,15 +5071,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -8,
+          "currentConfirmedCount": -18,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 8,
+          "curedCount": 18,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-8"
+          "currentConfirmedCountStr": "-18"
         }
       ],
       "dangerAreas": []
@@ -5541,10 +5509,10 @@
     {
       "provinceName": "云南省",
       "provinceShortName": "云南",
-      "currentConfirmedCount": 15,
+      "currentConfirmedCount": 13,
       "confirmedCount": 2143,
       "suspectedCount": 23,
-      "curedCount": 2126,
+      "curedCount": 2128,
       "deadCount": 2,
       "comment": "云南卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 530000,
@@ -5580,15 +5548,15 @@
         },
         {
           "cityName": "境外输入",
-          "currentConfirmedCount": 14,
+          "currentConfirmedCount": 12,
           "confirmedCount": 1512,
           "suspectedCount": 23,
-          "curedCount": 1498,
+          "curedCount": 1500,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "14"
+          "currentConfirmedCountStr": "12"
         },
         {
           "cityName": "临沧",
@@ -5752,10 +5720,10 @@
     {
       "provinceName": "广西壮族自治区",
       "provinceShortName": "广西",
-      "currentConfirmedCount": 14,
-      "confirmedCount": 1626,
+      "currentConfirmedCount": 13,
+      "confirmedCount": 1627,
       "suspectedCount": 0,
-      "curedCount": 1610,
+      "curedCount": 1612,
       "deadCount": 2,
       "comment": "",
       "locationId": 450000,
@@ -5768,26 +5736,14 @@
         {
           "cityName": "境外输入",
           "currentConfirmedCount": 13,
-          "confirmedCount": 991,
+          "confirmedCount": 992,
           "suspectedCount": 0,
-          "curedCount": 978,
+          "curedCount": 979,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
           "currentConfirmedCountStr": "13"
-        },
-        {
-          "cityName": "河池",
-          "currentConfirmedCount": 1,
-          "confirmedCount": 30,
-          "suspectedCount": 0,
-          "curedCount": 28,
-          "deadCount": 1,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 451200,
-          "currentConfirmedCountStr": "1"
         },
         {
           "cityName": "百色",
@@ -5847,6 +5803,18 @@
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 450300,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "河池",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 30,
+          "suspectedCount": 0,
+          "curedCount": 29,
+          "deadCount": 1,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 451200,
           "currentConfirmedCountStr": "0"
         },
         {
@@ -9491,11 +9459,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4696659514,
+  "getPV": 4696675289,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1653729197000,
+    "modifyTime": 1653785572000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9511,10 +9479,10 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 2063760,
-    "confirmedCount": 2371940,
+    "currentConfirmedCount": 2063748,
+    "confirmedCount": 2371942,
     "suspectedCount": 18609,
-    "curedCount": 291632,
+    "curedCount": 291646,
     "deadCount": 16548,
     "seriousCount": 17552,
     "virus": "该字段已替换为说明1",
@@ -9709,9 +9677,9 @@
       "deadIncr": 0
     },
     "globalStatistics": {
-      "currentConfirmedCount": 187007658,
-      "confirmedCount": 528430711,
-      "curedCount": 335120989,
+      "currentConfirmedCount": 187007646,
+      "confirmedCount": 528430713,
+      "curedCount": 335121003,
       "deadCount": 6302064
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0529/072/5039770283203641553-135.json",
@@ -9722,7 +9690,7 @@
     {
       "id": 196278,
       "pubDate": 1653699864000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "国家卫健委 | 昨日新增本土 71+193 例",
       "summary": "5月27日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例96例。其中境外输入病例25例（福建12例，广西4例，北京2例，辽宁2例，广东2例，四川2例，江苏1例），含2例由无症状感染者转为确诊病例（广东1例，四川1例）；本土病例71例（上海39例，北京18例，天津4例，河南4例，吉林3例，江苏3例），含20例由无症状感染者转为确诊病例（上海18例，北京1例，吉林1例）。无新",
       "infoSource": "央视新闻app",
@@ -9735,7 +9703,7 @@
     {
       "id": 196268,
       "pubDate": 1653695167000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "上海 | 昨日新增本土确诊病例 39 例 ",
       "summary": "上海市卫健委今早（28日）通报：2022年5月27日0—24时，新增本土新冠肺炎确诊病例39例和无症状感染者131例，其中18例确诊病例为既往无症状感染者转归，20例确诊病例和131例无症状感染者在隔离管控中发现。无新增境外输入确诊病例和无症状感染者。\n2022年5月27日0—24时，新增本土新冠肺炎确诊病例39例，含18例由既往无症状感染者转为确诊病例。新增治愈出院161例。\n病例1，居住于徐汇",
       "infoSource": "央视新闻app",
@@ -9748,7 +9716,7 @@
     {
       "id": 196270,
       "pubDate": 1653695888000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "北京 | 昨日新增本土确诊病例 18 例",
       "summary": "\n\t\t\t    5月27日0时至24时，新增18例本土确诊病例（含1例无症状感染者转确诊病例）和6例无症状感染者，无新增疑似病例；新增2例境外输入确诊病例和3例无症状感染者，无新增疑似病例。治愈出院43例。本土病例确诊病例1：现住东城区东四十条。5月27日诊断为确诊病例。确诊病例2：现住海淀区文龙家园二里。5月27日诊断为确诊病例。确诊病例3、6、7：现住海淀区四拨子村。5月27日诊断为确诊病例。确诊病例4：现住海淀区立方庭大厦。5月27日诊断为确诊病例。确诊病例5：现住海淀区挂甲屯虎城。5月27日诊断为确诊病例。确诊病例8：现住丰台区同仁园小区。5月27日诊断为确诊病例。确诊病例9：现住丰台区保温段小区。5月27日诊断为确诊病例。确诊病例10至13：现住丰台区碾子坟。5月27日诊断为确诊病例。确诊病例14、15：现住丰台区民岳家园小区。5月27日诊断为确诊病例。确诊病例16：现住门头沟区三家店中街。5月27日诊断为确诊病例。确诊病例17：现住石景山区重兴园小区。5月27日诊断为确诊病例。无症状感染者1、5：现住海淀区四拨子村。5月27日诊断为无症状感染者。无症状感染者2：现住丰台区碾子坟。5月27日诊断为无症状感染者。无症状感染者3：现住丰台区民岳家园小区。5月27日诊断为无症状感染者。无症状感染者4：现住朝阳区陈家村。5月27日诊断为无症状感染者。无症状感染者6：现住海淀区立方庭大厦。5月27日诊断为无症状感染者。境外输入确诊病例确诊病例1：中国籍，5月26日从中国香港到达北京首都机场，海关经健康筛查并进行核酸检测后，经闭环管理送至集中隔离酒店，当日报告核酸检测结果为阳性，5月27日诊断为确诊病例。确诊病例2：中国台湾籍，5月23日从中国台湾到达北京首都机场，海关经健康筛查并进行核酸检测后，经闭环管理送至集中隔离酒店，5月27日报告核酸检测结果为阳性，当日诊断为确诊病例。上述病例均已转至定点医院，已开展流行病学调查，按要求落实管控措施。全市16区和经济技术开发区无报告病例天数情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t地区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例天数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t平谷区\n\t\t\t\n\t\t\t\n\t\t\t\t无报告病例\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t延庆区\n\t\t\t\n\t\t\t\n\t\t\t\t32\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t经开区\n\t\t\t\n\t\t\t\n\t\t\t\t26\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t密云区\n\t\t\t\n\t\t\t\n\t\t\t\t23\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t顺义区\n\t\t\t\n\t\t\t\n\t\t\t\t15\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t怀柔区\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t通州区\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t大兴区\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西城区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t房山区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t昌平区\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t东城区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t朝阳区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t海淀区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丰台区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t石景山区\n\t\t\t\n\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t门头沟区\n\t\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t0\n\t\t\t\n\t\t\n\t2020年2月29日发生境外输入疫情以来境外输入确诊病例来源国（地区）情况\n\t\n\t\t\n\t\t\t\n\t\t\t\t来源国（地区）\n\t\t\t\n\t\t\t\n\t\t\t\t确诊病例数\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t英国\n\t\t\t\n\t\t\t\n\t\t\t\t79\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t西班牙\n\t\t\t\n\t\t\t\n\t\t\t\t47\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t奥地利\n\t\t\t\n\t\t\t\n\t\t\t\t31\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t意大利\n\t\t\t\n\t\t\t\n\t\t\t\t28\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t韩国\n\t\t\t\n\t\t\t\n\t\t\t\t27\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t美国\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞典\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t丹麦\n\t\t\t\n\t\t\t\n\t\t\t\t21\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t塞尔维亚\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t俄罗斯\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t希腊\n\t\t\t\n\t\t\t\n\t\t\t\t19\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴基斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t14\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t德国\n\t\t\t\n\t\t\t\n\t\t\t\t12\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t阿联酋\n\t\t\t\n\t\t\t\n\t\t\t\t11\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t加拿大\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t法国\n\t\t\t\n\t\t\t\n\t\t\t\t9\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t泰国\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t瑞士\n\t\t\t\n\t\t\t\n\t\t\t\t8\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土库曼斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t7\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t菲律宾\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t土耳其\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t匈牙利\n\t\t\t\n\t\t\t\n\t\t\t\t5\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t伊朗\n\t\t\t\n\t\t\t\n\t\t\t\t4\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t津巴布韦\n\t\t\t\n\t\t\t\n\t\t\t\t3\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t印度尼西亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴布亚新几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t摩尔多瓦\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t波兰\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t埃塞俄比亚\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t日本\n\t\t\t\n\t\t\t\n\t\t\t\t2\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t卢森堡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t挪威\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t比利时\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t巴西\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t荷兰\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t墨西哥\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t约旦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t赤道几内亚\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t乌兹别克斯坦\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t新加坡\n\t\t\t\n\t\t\t\n\t\t\t\t1\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国香港\n\t\t\t\n\t\t\t\n\t\t\t\t255\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t中国台湾\n\t\t\t\n\t\t\t\n\t\t\t\t11\n\t\t\t\n\t\t\n\t\t\n\t\t\t\n\t\t\t\t合计\n\t\t\t\n\t\t\t\n\t\t\t\t720\n\t\t\t\n\t\t\n\t加强外卖、快递、维修、保洁、保安、餐饮等行业单位人员管理，减少工作区域交叉，降低集体宿舍人员密度，进一步减少人员流动。封控区内人员要做到足不出户，管控区内人员原则上非必要不出门，严禁聚集性活动，如需出门，应全程规范佩戴N95或KN95医用防护口罩，并做好手卫生。\n                \n            ",
       "infoSource": "北京卫健委",
@@ -9761,7 +9729,7 @@
     {
       "id": 196275,
       "pubDate": 1653697800000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "河南 | 昨日新增本土确诊病例 4 例 ",
       "summary": "总台记者从河南省卫健委了解到，5月27日0—24时，河南省新增本土确诊病例4例（许昌市4例），新增本土无症状感染者5例（许昌市5例），无新增本土疑似病例。无新增境外输入确诊病例、无症状感染者和疑似病例。9例本土确诊病例治愈出院，24例无症状感染者解除医学观察（本土22例，境外输入2例）。\n2020年1月21日至2022年5月27日24时，河南省累计报告确诊病例3178例（本土2967例，境外输入2",
       "infoSource": "央视新闻app",
@@ -9774,7 +9742,7 @@
     {
       "id": 196271,
       "pubDate": 1653696094000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "天津 | 昨日新增本土确诊病例 4 例 ",
       "summary": "总台记者从天津市防控指挥部获悉，2022年5月27日0时至24时，天津市疾控部门报告7例本土新冠病毒核酸检测阳性感染者，其中，确诊病例4例，无症状感染者3例。\n（总台记者 贾立梁 孙强 白紫冉）",
       "infoSource": "央视新闻app",
