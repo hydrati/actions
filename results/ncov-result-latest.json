@@ -334,18 +334,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
-      "provinceName": "四川省",
-      "provinceShortName": "四川",
-      "cityName": "成都",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 31,
-      "confirmedCount": 1668,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 510000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
-    },
-    {
       "provinceName": "河南省",
       "provinceShortName": "河南",
       "cityName": "安阳",
@@ -368,6 +356,18 @@
       "currentDangerCount": 0,
       "locationId": 530000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/159/3398299758115523929-135.json"
+    },
+    {
+      "provinceName": "四川省",
+      "provinceShortName": "四川",
+      "cityName": "成都",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 28,
+      "confirmedCount": 1668,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 510000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
     {
       "provinceName": "浙江省",
@@ -2001,11 +2001,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 1,
-          "currentConfirmedCount": 31,
+          "currentConfirmedCount": 28,
           "confirmedCount": 1668,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "31"
+          "currentConfirmedCountStr": "28"
         },
         {
           "provinceName": "四川省",
@@ -2969,11 +2969,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 2016986,
-      "confirmedCount": 2032983,
+      "currentConfirmedCount": 2105112,
+      "confirmedCount": 2121231,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 2255,
+      "deadCount": 2377,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -3648,15 +3648,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 31,
+          "currentConfirmedCount": 28,
           "confirmedCount": 1668,
           "suspectedCount": 0,
-          "curedCount": 1634,
+          "curedCount": 1637,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 510100,
-          "currentConfirmedCountStr": "31"
+          "currentConfirmedCountStr": "28"
         },
         {
           "cityName": "达州",
@@ -3888,15 +3888,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -57,
+          "currentConfirmedCount": -54,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 57,
+          "curedCount": 54,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-57"
+          "currentConfirmedCountStr": "-54"
         }
       ],
       "dangerAreas": []
@@ -9506,11 +9506,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4698173529,
+  "getPV": 4698186225,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1654069849000,
+    "modifyTime": 1654074719000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9526,17 +9526,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 2279430,
-    "confirmedCount": 2589598,
+    "currentConfirmedCount": 2367556,
+    "confirmedCount": 2677846,
     "suspectedCount": 18686,
     "curedCount": 293309,
-    "deadCount": 16859,
+    "deadCount": 16981,
     "seriousCount": 10638,
     "suspectedIncr": 13,
-    "currentConfirmedIncr": 79716,
-    "confirmedIncr": 80726,
+    "currentConfirmedIncr": 167842,
+    "confirmedIncr": 168974,
     "curedIncr": 920,
-    "deadIncr": 90,
+    "deadIncr": 212,
     "seriousIncr": -1312,
     "yesterdayConfirmedCountIncr": 80726,
     "yesterdaySuspectedCountIncr": 13,
@@ -9720,27 +9720,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 185343515,
-      "confirmedCount": 527146395,
+      "currentConfirmedCount": 185347156,
+      "confirmedCount": 527150567,
       "suspectedCount": 4,
-      "curedCount": 335512187,
-      "deadCount": 6290693,
+      "curedCount": 335512703,
+      "deadCount": 6290708,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -20662,
-      "confirmedIncr": 424753,
-      "curedIncr": 442297,
-      "deadIncr": 3118
+      "currentConfirmedIncr": -17021,
+      "confirmedIncr": 428925,
+      "curedIncr": 442813,
+      "deadIncr": 3133
     },
     "globalStatistics": {
-      "currentConfirmedCount": 187622945,
-      "confirmedCount": 529735993,
-      "curedCount": 335805496,
-      "deadCount": 6307552,
-      "currentConfirmedIncr": 59054,
-      "confirmedIncr": 505479,
-      "curedIncr": 443217,
-      "deadIncr": 3208,
-      "yesterdayConfirmedCountIncr": 505479
+      "currentConfirmedCount": 187714712,
+      "confirmedCount": 529828413,
+      "curedCount": 335806012,
+      "deadCount": 6307689,
+      "currentConfirmedIncr": 150821,
+      "confirmedIncr": 597899,
+      "curedIncr": 443733,
+      "deadIncr": 3345,
+      "yesterdayConfirmedCountIncr": 509651
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0601/838/9052874349469102553-135.json",
     "highDangerCount": 3,
@@ -9750,7 +9750,7 @@
     {
       "id": 196782,
       "pubDate": 1654045336000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 22+46 例",
       "summary": "5月31日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例35例。其中境外输入病例13例（福建4例，广东2例，广西2例，四川2例，上海1例，重庆1例，云南1例）；本土病例22例（北京14例，上海5例，河南2例，河北1例），含3例由无症状感染者转为确诊病例（北京1例，上海1例，河南1例）。无新增死亡病例。无新增疑似病例。\n当日新增治愈出院病例247例，其中境外输入病例21例，",
       "infoSource": "央视新闻app",
@@ -9763,7 +9763,7 @@
     {
       "id": 196765,
       "pubDate": 1654040804000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "上海 | 昨日新增本土确诊病例 5 例",
       "summary": "上海市卫健委今早（6月1日）通报：2022年5月31日0—24时，新增本土新冠肺炎确诊病例5例和无症状感染者10例，其中1例确诊病例为既往无症状感染者转归，4例确诊病例和10例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例1例和无症状感染者4例，均在闭环管控中发现。\n2022年5月31日0—24时，新增本土新冠肺炎确诊病例5例，含1例由既往无症状感染者转为确诊病例。新增治愈出院101",
       "infoSource": "央视新闻app",
@@ -9776,7 +9776,7 @@
     {
       "id": 196766,
       "pubDate": 1654041087000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "北京 | 昨日新增本土确诊病例 14 例",
       "summary": "5月31日0时至24时，北京新增14例本土确诊病例（含1例无症状感染者转确诊病例）和1例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院40例。\n确诊病例1：现住西城区扣钟北里。5月31日诊断为确诊病例。\n确诊病例2至7：现住海淀区四拨子村。5月31日诊断为确诊病例。\n确诊病例8：现住丰台区政馨园二区。5月31日诊断为确诊病例。\n确诊病例9、10、11：现住丰",
       "infoSource": "央视新闻app",
@@ -9789,7 +9789,7 @@
     {
       "id": 196774,
       "pubDate": 1654043400000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "河南 | 昨日新增本土确诊病例 2 例",
       "summary": "记者从河南省卫健委了解到，5月31日0—24时，河南全省新增本土确诊病例2例（郑州市2例，含无症状感染者转确诊病例1例），新增本土无症状感染者1例（许昌市1例），无新增疑似病例。新增境外输入无症状感染者1例，无新增境外输入性确诊病例和疑似病例。11例本土确诊病例治愈出院，25例本土无症状感染者解除医学观察。\n2020年1月21日至2022年5月31日24时，河南全省累计报告确诊病例3182例（本土",
       "infoSource": "央视新闻app",
@@ -9802,7 +9802,7 @@
     {
       "id": 196771,
       "pubDate": 1654042497000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "河北 | 昨日新增本土确诊病例 1 例",
       "summary": "2022年5月31日0—24时，河北省新增本土新型冠状病毒肺炎确诊病例1例（廊坊市，在集中隔离点筛查发现）；新增本土无症状感染者8例（廊坊市，在集中隔离点筛查发现）。无症状感染者解除医学观察11例。\n截至5月31日24时，河北省现有本土确诊病例1例；尚在医学观察本土无症状感染者63例。（总台记者 谢宾超 王帅）",
       "infoSource": "央视新闻app",
