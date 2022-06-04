@@ -76,8 +76,8 @@
       "yesterdayLocalConfirmedCount": 5,
       "currentConfirmedCount": 270,
       "confirmedCount": 63035,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 11,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -980,8 +980,8 @@
       "yesterdayAsymptomaticCount": 9,
       "currentConfirmedCount": 270,
       "confirmedCount": 63035,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 11,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1005,8 +1005,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 100,
           "confirmedCount": 4673,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "100"
         },
         {
@@ -1029,8 +1029,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 70,
           "confirmedCount": 6618,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "70"
         },
         {
@@ -1065,8 +1065,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 20,
           "confirmedCount": 3089,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "20"
         },
         {
@@ -2841,7 +2841,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 8,
+      "midDangerCount": 11,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2889,7 +2889,7 @@
           "curedCount": 4572,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310104,
           "currentConfirmedCountStr": "100"
         },
@@ -2913,7 +2913,7 @@
           "curedCount": 6548,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310101,
           "currentConfirmedCountStr": "70"
         },
@@ -2949,7 +2949,7 @@
           "curedCount": 3068,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310113,
           "currentConfirmedCountStr": "20"
         },
@@ -3125,6 +3125,21 @@
         {
           "cityName": "闵行区",
           "areaName": "吴泾镇剑川路165号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "黄浦区",
+          "areaName": "瑞金二路街道13街坊（巨鹿路以南，进贤路以北，茂名南路以西，陕西南路以东合围地块）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "徐汇区",
+          "areaName": "湖南路街道新乐路58弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "大场镇乾溪一村小区",
           "dangerLevel": 2
         }
       ]
@@ -8993,11 +9008,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4699016345,
+  "getPV": 4699027441,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1654310447000,
+    "modifyTime": 1654311701000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9040,19 +9055,19 @@
     "abroadRemark": "",
     "marquee": [
       {
-        "id": 5595,
+        "id": 5601,
         "marqueeLabel": "首都防疫",
         "marqueeContent": "北京顺义区严控小区进出管理",
         "marqueeLink": "https://dxy.me/rGtZX3"
       },
       {
-        "id": 5596,
+        "id": 5602,
         "marqueeLabel": "管控升级",
         "marqueeContent": "辽宁再增 5 例本土确诊",
         "marqueeLink": "https://dxy.me/hHN6gT"
       },
       {
-        "id": 5597,
+        "id": 5603,
         "marqueeLabel": "云寄哀思",
         "marqueeContent": "钢琴家傅聪因新冠肺炎于英国去世",
         "marqueeLink": "https://dxy.me/Mtiv8P"
@@ -9207,31 +9222,31 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 185343125,
-      "confirmedCount": 528140156,
+      "currentConfirmedCount": 185741031,
+      "confirmedCount": 528608548,
       "suspectedCount": 4,
-      "curedCount": 336503355,
-      "deadCount": 6293676,
+      "curedCount": 336572677,
+      "deadCount": 6294840,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 0,
-      "confirmedIncr": 0,
-      "curedIncr": 0,
-      "deadIncr": 0
+      "currentConfirmedIncr": 397906,
+      "confirmedIncr": 468392,
+      "curedIncr": 69322,
+      "deadIncr": 1164
     },
     "globalStatistics": {
-      "currentConfirmedCount": 187863176,
-      "confirmedCount": 530971778,
-      "curedCount": 336797655,
-      "deadCount": 6310947,
-      "currentConfirmedIncr": 75494,
-      "confirmedIncr": 76623,
-      "curedIncr": 985,
-      "deadIncr": 144,
-      "yesterdayConfirmedCountIncr": 76623
+      "currentConfirmedCount": 188261082,
+      "confirmedCount": 531440170,
+      "curedCount": 336866977,
+      "deadCount": 6312111,
+      "currentConfirmedIncr": 473400,
+      "confirmedIncr": 545015,
+      "curedIncr": 70307,
+      "deadIncr": 1308,
+      "yesterdayConfirmedCountIncr": 545015
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0604/228/5470483439726752553-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 18
+    "midDangerCount": 21
   },
   "getTimelineService1": [
     {
