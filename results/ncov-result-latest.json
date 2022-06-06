@@ -77,7 +77,7 @@
       "currentConfirmedCount": 537,
       "confirmedCount": 63046,
       "dangerCountIncr": 1,
-      "currentDangerCount": 14,
+      "currentDangerCount": 17,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -1143,7 +1143,7 @@
       "currentConfirmedCount": 537,
       "confirmedCount": 63046,
       "dangerCountIncr": 1,
-      "currentDangerCount": 14,
+      "currentDangerCount": 17,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1215,8 +1215,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 173,
           "confirmedCount": 4675,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "173"
         },
         {
@@ -1227,8 +1227,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 112,
           "confirmedCount": 3226,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "112"
         },
         {
@@ -2501,7 +2501,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 14,
+      "midDangerCount": 17,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2525,7 +2525,7 @@
           "curedCount": 4501,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 3,
           "locationId": 310104,
           "currentConfirmedCountStr": "173"
         },
@@ -2573,7 +2573,7 @@
           "curedCount": 3113,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 3,
           "locationId": 310106,
           "currentConfirmedCountStr": "112"
         },
@@ -2763,6 +2763,36 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "静安区",
+          "areaName": "曹家渡街道武定西路1189号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "大宁路街道广延路1188弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "天目西路街道芷江西路593弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "徐汇区",
+          "areaName": "湖南路街道新乐路58弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "徐汇区",
+          "areaName": "田林街道田林十一村（多层住宅区）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "徐汇区",
+          "areaName": "天平路街道永嘉路172弄住宅小区（含永嘉路172弄、170号、166弄1-3号）",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "宝山区",
           "areaName": "大场镇乾溪一村小区",
           "dangerLevel": 2
@@ -2770,16 +2800,6 @@
         {
           "cityName": "宝山区",
           "areaName": "杨行镇蕰川路1498弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "曹家渡街道武定西路1189号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "天目西路街道芷江西路593弄",
           "dangerLevel": 2
         },
         {
@@ -2805,11 +2825,6 @@
         {
           "cityName": "闵行区",
           "areaName": "吴泾镇剑川路165号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "徐汇区",
-          "areaName": "湖南路街道新乐路58弄",
           "dangerLevel": 2
         },
         {
@@ -9015,11 +9030,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4699730193,
+  "getPV": 4699742251,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1654505934000,
+    "modifyTime": 1654507948000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9229,37 +9244,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 185725036,
+      "currentConfirmedCount": 185720157,
       "confirmedCount": 529170636,
       "suspectedCount": 4,
-      "curedCount": 337149002,
+      "curedCount": 337153881,
       "deadCount": 6296598,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 257141,
+      "currentConfirmedIncr": 252262,
       "confirmedIncr": 383470,
-      "curedIncr": 125209,
+      "curedIncr": 130088,
       "deadIncr": 1120
     },
     "globalStatistics": {
-      "currentConfirmedCount": 188428063,
+      "currentConfirmedCount": 188423184,
       "confirmedCount": 532185662,
-      "curedCount": 337443299,
+      "curedCount": 337448178,
       "deadCount": 6314300,
-      "currentConfirmedIncr": 371727,
+      "currentConfirmedIncr": 366848,
       "confirmedIncr": 498644,
-      "curedIncr": 125518,
+      "curedIncr": 130397,
       "deadIncr": 1399,
       "yesterdayConfirmedCountIncr": 445634
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0606/652/6024828154637492553-135.json",
     "highDangerCount": 4,
-    "midDangerCount": 27
+    "midDangerCount": 30
   },
   "getTimelineService1": [
     {
       "id": 197364,
       "pubDate": 1654477335000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 25+61 例",
       "summary": "6月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例31例。其中境外输入病例6例（福建2例，天津1例，浙江1例，广东1例，广西1例），含1例由无症状感染者转为确诊病例（在浙江）；本土病例25例（内蒙古16例，北京5例，上海4例），含1例由无症状感染者转为确诊病例（在北京）。无新增死亡病例。无新增疑似病例。\n当日新增治愈出院病例257例，其中境外输入病例19例，本土病例2",
       "infoSource": "央视新闻app",
@@ -9272,7 +9287,7 @@
     {
       "id": 197365,
       "pubDate": 1654477662000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 16 例",
       "summary": "内蒙古卫健委通报，6月5日0—24时，内蒙古自治区报告新增本土确诊病例16例（均在锡林郭勒盟）。本土无症状感染者33例，其中呼和浩特市1例、锡林郭勒盟32例。\n截至6月5日24时，内蒙古自治区现有本土确诊病例41例，其中通辽市1例、锡林郭勒盟40例。本土无症状感染者49例，其中呼和浩特市3例、通辽市2例、锡林郭勒盟42例、乌兰察布市2例。均在定点医院隔离治疗，所有密切接触者均在指定场所集中隔离医学",
       "infoSource": "央视新闻app",
@@ -9311,7 +9326,7 @@
     {
       "id": 197381,
       "pubDate": 1654485064000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "内蒙古 | 多地调整风险等级",
       "summary": "内蒙古二连浩特市新冠肺炎疫情防控指挥部公告 ，根据国务院联防联控机制《关于调整新冠肺炎疫情分区分级标准实施精准管控措施的通知》（国电发〔2020〕11号）和《自治区新型冠状病毒肺炎疫情防控应急预案（第六版）》（内防指发〔2022〕6号）关于科学划分风险等级的要求，经专家组评估，二连浩特市新型冠状病毒肺炎疫情防控工作指挥部研究决定，自公告发布之日起，将二连浩特市北疆社区、西城社区和锡林社区由中风险地",
       "infoSource": "央视新闻app",
