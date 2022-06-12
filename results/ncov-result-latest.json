@@ -321,6 +321,17 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
     {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "广州",
+      "currentConfirmedCount": 22,
+      "confirmedCount": 2849,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
       "provinceName": "天津市",
       "provinceShortName": "天津",
       "cityName": "天津",
@@ -330,17 +341,6 @@
       "currentDangerCount": 0,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "广州",
-      "currentConfirmedCount": 19,
-      "confirmedCount": 2846,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "江苏省",
@@ -1246,7 +1246,7 @@
     {
       "provinceName": "四川省",
       "provinceShortName": "四川",
-      "currentConfirmedCount": 38,
+      "currentConfirmedCount": 36,
       "confirmedCount": 2356,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -1338,8 +1338,8 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "currentConfirmedCount": 32,
-      "confirmedCount": 7329,
+      "currentConfirmedCount": 33,
+      "confirmedCount": 7332,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 440000,
@@ -1349,11 +1349,11 @@
           "provinceName": "广东省",
           "provinceShortName": "广东",
           "cityName": "广州",
-          "currentConfirmedCount": 19,
-          "confirmedCount": 2846,
+          "currentConfirmedCount": 22,
+          "confirmedCount": 2849,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "19"
+          "currentConfirmedCountStr": "22"
         },
         {
           "provinceName": "广东省",
@@ -1564,6 +1564,17 @@
         {
           "provinceName": "云南省",
           "provinceShortName": "云南",
+          "cityName": "普洱",
+          "yesterdayAsymptomaticCount": 3,
+          "currentConfirmedCount": 8,
+          "confirmedCount": 12,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "8"
+        },
+        {
+          "provinceName": "云南省",
+          "provinceShortName": "云南",
           "cityName": "德宏州",
           "currentConfirmedCount": 84,
           "confirmedCount": 379,
@@ -1607,16 +1618,6 @@
           "cityName": "文山州",
           "currentConfirmedCount": 8,
           "confirmedCount": 13,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "8"
-        },
-        {
-          "provinceName": "云南省",
-          "provinceShortName": "云南",
-          "cityName": "普洱",
-          "currentConfirmedCount": 8,
-          "confirmedCount": 12,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "8"
@@ -3135,10 +3136,10 @@
     {
       "provinceName": "四川省",
       "provinceShortName": "四川",
-      "currentConfirmedCount": 38,
+      "currentConfirmedCount": 36,
       "confirmedCount": 2356,
       "suspectedCount": 22,
-      "curedCount": 2315,
+      "curedCount": 2317,
       "deadCount": 3,
       "comment": "",
       "locationId": 510000,
@@ -3402,15 +3403,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -88,
+          "currentConfirmedCount": -90,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 88,
+          "curedCount": 90,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-88"
+          "currentConfirmedCountStr": "-90"
         }
       ],
       "dangerAreas": []
@@ -3418,10 +3419,10 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
-      "currentConfirmedCount": 32,
-      "confirmedCount": 7329,
+      "currentConfirmedCount": 33,
+      "confirmedCount": 7332,
       "suspectedCount": 25,
-      "curedCount": 7289,
+      "curedCount": 7291,
       "deadCount": 8,
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
@@ -3433,15 +3434,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 19,
-          "confirmedCount": 2846,
+          "currentConfirmedCount": 22,
+          "confirmedCount": 2849,
           "suspectedCount": 3,
           "curedCount": 2826,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "19"
+          "currentConfirmedCountStr": "22"
         },
         {
           "cityName": "深圳",
@@ -3685,15 +3686,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -2,
+          "currentConfirmedCount": -4,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 2,
+          "curedCount": 4,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-2"
+          "currentConfirmedCountStr": "-4"
         }
       ],
       "dangerAreas": []
@@ -8699,11 +8700,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4701527195,
+  "getPV": 4701550292,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1654938527000,
+    "modifyTime": 1654995431000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8719,8 +8720,8 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 3085838,
-    "confirmedCount": 3399685,
+    "currentConfirmedCount": 3085841,
+    "confirmedCount": 3399688,
     "suspectedCount": 18863,
     "curedCount": 295223,
     "deadCount": 18624,
@@ -8917,8 +8918,8 @@
       "deadIncr": 0
     },
     "globalStatistics": {
-      "currentConfirmedCount": 189940388,
-      "confirmedCount": 534981093,
+      "currentConfirmedCount": 189940391,
+      "confirmedCount": 534981096,
       "curedCount": 338718009,
       "deadCount": 6322696
     },
@@ -8930,7 +8931,7 @@
     {
       "id": 197948,
       "pubDate": 1654909376000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "国家卫健委 | 昨日新增本土 65+73 例",
       "summary": "6月10日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例79例。其中境外输入病例14例（上海4例，福建4例，北京3例，广东2例，四川1例），含1例由无症状感染者转为确诊病例（在四川）；本土病例65例（北京36例，内蒙古19例，上海7例，辽宁3例），含1例由无症状感染者转为确诊病例（在内蒙古）。无新增死亡病例。新增疑似病例1例，为境外输入病例（在上海）。\n当日新增治愈出院病",
       "infoSource": "央视新闻app",
@@ -8943,7 +8944,7 @@
     {
       "id": 197939,
       "pubDate": 1654905479000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "北京 | 昨日新增本土确诊病例 36 例",
       "summary": "6月10日0时至24时，北京新增36例本土确诊病例和25例无症状感染者，无新增疑似病例；新增3例境外输入确诊病例和6例无症状感染者，无新增疑似病例。治愈出院27例。\n本土病例\n确诊病例1：现住朝阳区乐乎公寓（王四营店），曾到访天堂超市酒吧（工体西路6号），6月10日诊断为确诊病例。\n确诊病例2：现住朝阳区姚家园东里7号院，曾到访天堂超市酒吧（工体西路6号），6月10日诊断为确诊病例。\n确诊病例3：",
       "infoSource": "央视新闻app",
@@ -8956,7 +8957,7 @@
     {
       "id": 197949,
       "pubDate": 1654909325000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 19 例",
       "summary": "6月10日0—24时，内蒙古自治区报告新增本土确诊病例19例，其中赤峰市8例、锡林郭勒盟11例（含1例由无症状感染者转为确诊病例）。本土无症状感染者24例（均在锡林郭勒盟）。排除无症状感染者1例（在锡林郭勒盟）。\n截至6月10日24时，内蒙古自治区现有本土确诊病例167例，其中通辽市2例、赤峰市26例、锡林郭勒盟139例。本土无症状感染者278例，其中呼和浩特市4例、通辽市2例、锡林郭勒盟270例",
       "infoSource": "央视新闻app",
@@ -8969,7 +8970,7 @@
     {
       "id": 197937,
       "pubDate": 1654904650000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "上海 | 昨日新增本土确诊病例 7 例",
       "summary": "上海市卫健委今早（6月11日）通报：2022年6月10日0—24时，新增本土新冠肺炎确诊病例7例和无症状感染者9例，其中3例确诊病例和7例无症状感染者在隔离管控中发现。新增境外输入确诊病例4例和无症状感染者3例，均在闭环管控中发现。\n2022年6月10日0—24时，上海新增本土新冠肺炎确诊病例7例。新增治愈出院31例。\n病例1、病例2，居住于闵行区，病例3，居住于宝山区，为上海市闭环隔离管控人员，",
       "infoSource": "央视新闻app",
@@ -8982,7 +8983,7 @@
     {
       "id": 197942,
       "pubDate": 1654906067000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "辽宁 | 昨日新增本土确诊病例 3 例",
       "summary": "6月10日0—24时，辽宁省新增3例本土新冠肺炎确诊病例，其中本溪市报告1例、丹东市报告2例；新增3例本土无症状感染者，均为丹东市报告。治愈出院本土新冠肺炎确诊病例1例；解除医学观察本土无症状感染者3例。\n截至6月10日24时，辽宁省累计报告确诊病例1704例（含境外输入214例），治愈出院1672例，死亡2例，在院治疗30例（本土28例、境外输入2例）。目前，尚在医学观察的无症状感染者119例（",
       "infoSource": "央视新闻app",
