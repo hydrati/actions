@@ -77,7 +77,7 @@
       "currentConfirmedCount": 197,
       "confirmedCount": 63111,
       "dangerCountIncr": 1,
-      "currentDangerCount": 35,
+      "currentDangerCount": 36,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -1156,7 +1156,7 @@
       "currentConfirmedCount": 197,
       "confirmedCount": 63111,
       "dangerCountIncr": 1,
-      "currentDangerCount": 35,
+      "currentDangerCount": 36,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1240,8 +1240,8 @@
           "yesterdayAsymptomaticCount": 5,
           "currentConfirmedCount": 25,
           "confirmedCount": 3094,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "25"
         },
         {
@@ -2556,7 +2556,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 35,
+      "midDangerCount": 36,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2664,7 +2664,7 @@
           "curedCount": 3068,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 4,
+          "midDangerCount": 5,
           "locationId": 310113,
           "currentConfirmedCountStr": "25"
         },
@@ -2878,6 +2878,31 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "宝山区",
+          "areaName": "大场镇乾溪一村小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "顾村镇陆翔路 678 弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "高境镇逸仙路1588弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "杨行镇蕰川路1498弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "张庙街道泗塘一村四号地块",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "浦东新区",
           "areaName": "花木街道樱花路801弄",
           "dangerLevel": 2
@@ -2895,26 +2920,6 @@
         {
           "cityName": "浦东新区",
           "areaName": "塘桥街道浦建路60弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宝山区",
-          "areaName": "大场镇乾溪一村小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宝山区",
-          "areaName": "高境镇逸仙路1588弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宝山区",
-          "areaName": "杨行镇蕰川路1498弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宝山区",
-          "areaName": "张庙街道泗塘一村四号地块",
           "dangerLevel": 2
         },
         {
@@ -8928,11 +8933,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4702046449,
+  "getPV": 4702057011,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1655110140000,
+    "modifyTime": 1655111647000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9142,37 +9147,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 186900331,
+      "currentConfirmedCount": 186897648,
       "confirmedCount": 532057520,
       "suspectedCount": 4,
-      "curedCount": 338851642,
+      "curedCount": 338854325,
       "deadCount": 6305547,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": -134451,
+      "currentConfirmedIncr": -137134,
       "confirmedIncr": 173091,
-      "curedIncr": 307091,
+      "curedIncr": 309774,
       "deadIncr": 451
     },
     "globalStatistics": {
-      "currentConfirmedCount": 190081827,
+      "currentConfirmedCount": 190079144,
       "confirmedCount": 535553376,
-      "curedCount": 339147106,
+      "curedCount": 339149789,
       "deadCount": 6324443,
-      "currentConfirmedIncr": -38951,
+      "currentConfirmedIncr": -41634,
       "confirmedIncr": 268988,
-      "curedIncr": 307216,
+      "curedIncr": 309899,
       "deadIncr": 723,
       "yesterdayConfirmedCountIncr": 223888
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0613/640/9194311840616424553-135.json",
     "highDangerCount": 9,
-    "midDangerCount": 41
+    "midDangerCount": 42
   },
   "getTimelineService1": [
     {
       "id": 198162,
       "pubDate": 1655082006000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 69+74 例",
       "summary": "6月12日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例89例。其中境外输入病例20例（陕西5例，浙江3例，福建3例，广东3例，天津2例，上海2例，黑龙江1例，四川1例），含4例由无症状感染者转为确诊病例（浙江3例，天津1例）；本土病例69例（北京29例，内蒙古27例，上海11例，重庆2例），含2例由无症状感染者转为确诊病例（北京1例，上海1例）。无新增死亡病例。无新增疑",
       "infoSource": "央视新闻app",
@@ -9185,7 +9190,7 @@
     {
       "id": 198148,
       "pubDate": 1655077920000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "北京 | 昨日新增本土确诊病例 29 例",
       "summary": "6月12日0时至24时，北京新增29例本土确诊病例（含1例无症状感染者转确诊病例）和22例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例和无症状感染者。治愈出院17例。\n确诊病例1、2：现住东城区新中西街小区，曾到访天堂超市酒吧（工体西路6号），6月12日诊断为确诊病例。\n确诊病例3：现住东城区左安浦园小区，涉天堂超市酒吧（工体西路6号）相关人员，6月12日诊断为确诊病例。\n确诊病",
       "infoSource": "央视新闻app",
@@ -9198,7 +9203,7 @@
     {
       "id": 198147,
       "pubDate": 1655077612000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增本土确诊病例 11 例 ",
       "summary": "上海市卫健委今早（6月13日）通报：2022年6月12日0—24时，上海新增本土新冠肺炎确诊病例11例和无症状感染者26例，其中1例确诊病例为既往无症状感染者转归，9例确诊病例和22例无症状感染者在隔离管控中发现。新增境外输入性确诊病例2例，均在闭环管控中发现。\n2022年6月12日0—24时，新增本土新冠肺炎确诊病例11例，含1例由既往无症状感染者转为确诊病例。新增治愈出院28例。\n病例1，居住",
       "infoSource": "央视新闻app",
@@ -9211,7 +9216,7 @@
     {
       "id": 198153,
       "pubDate": 1655078857000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "重庆 | 昨日新增本土确诊病例 2 例 ",
       "summary": "6月12日0—24时，重庆市无新增境外输入确诊病例和无症状感染者。\n截至6月12日24时，重庆市现有境外输入确诊病例4例（德国），现有境外输入无症状感染者1例（新加坡）。\n重庆市6月12日新增本土确诊病例和无症状感染者基本情况如下：\n九龙坡区确诊病例1，系九龙坡区无症状感染者1的密切接触者。6月6日起进入入境人员隔离点工作以来，一直处于闭环管理状态。6月12日，其核酸检测结果呈阳性，根据实验室检查",
       "infoSource": "央视新闻app",
@@ -9224,7 +9229,7 @@
     {
       "id": 198125,
       "pubDate": 1655041484000,
-      "pubDateStr": "19小时前",
+      "pubDateStr": "20小时前",
       "title": "上海 | 一地调整为低风险地区",
       "summary": "据“上海发布”微信公众号消息，上海市新冠肺炎疫情防控工作领导小组办公室发布消息：根据国务院联防联控机制有关要求，经市新冠肺炎疫情防控工作领导小组办公室研究决定，自2022年6月13日9时起，将闵行区吴泾镇剑川路165号由中风险地区调整为低风险地区，上海市其他区域风险等级不变。",
       "infoSource": "央视新闻app",
