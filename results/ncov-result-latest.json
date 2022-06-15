@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 25,
       "currentConfirmedCount": 230,
       "confirmedCount": 3616,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 4,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -64,8 +64,8 @@
       "yesterdayLocalConfirmedCount": 13,
       "currentConfirmedCount": 183,
       "confirmedCount": 63134,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 39,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 41,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -894,8 +894,8 @@
       "yesterdayAsymptomaticCount": 38,
       "currentConfirmedCount": 230,
       "confirmedCount": 3616,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 4,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -907,8 +907,8 @@
           "yesterdayAsymptomaticCount": 25,
           "currentConfirmedCount": 509,
           "confirmedCount": 589,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "509"
         },
         {
@@ -1131,8 +1131,8 @@
       "yesterdayAsymptomaticCount": 2,
       "currentConfirmedCount": 183,
       "confirmedCount": 63134,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 39,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 41,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -1156,8 +1156,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 114,
           "confirmedCount": 2396,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 2,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "114"
         },
         {
@@ -1216,8 +1216,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 149,
           "confirmedCount": 3693,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "149"
         },
         {
@@ -2704,7 +2704,7 @@
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 3,
+      "midDangerCount": 4,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -2716,7 +2716,7 @@
           "curedCount": 80,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 4,
           "locationId": 110105,
           "currentConfirmedCountStr": "509"
         },
@@ -2960,6 +2960,11 @@
           "cityName": "朝阳区",
           "areaName": "平房乡姚家园西社区",
           "dangerLevel": 2
+        },
+        {
+          "cityName": "朝阳区",
+          "areaName": "十八里店乡吕家营村",
+          "dangerLevel": 2
         }
       ]
     },
@@ -2975,7 +2980,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 39,
+      "midDangerCount": 41,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -3023,7 +3028,7 @@
           "curedCount": 3544,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 4,
+          "midDangerCount": 5,
           "locationId": 310109,
           "currentConfirmedCountStr": "149"
         },
@@ -3059,7 +3064,7 @@
           "curedCount": 2282,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 2,
+          "midDangerCount": 3,
           "locationId": 310110,
           "currentConfirmedCountStr": "114"
         },
@@ -3327,6 +3332,31 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "虹口区",
+          "areaName": "北外滩街道昆明路56号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "江湾镇街道池沟路60弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "欧阳路街道大连西路165弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "欧阳路街道天宝西路248弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "四川北路街道山阴路55号所在小区",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "浦东新区",
           "areaName": "花木街道樱花路801弄",
           "dangerLevel": 2
@@ -3344,26 +3374,6 @@
         {
           "cityName": "浦东新区",
           "areaName": "塘桥街道浦建路60弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "北外滩街道昆明路56号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "江湾镇街道池沟路60弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "欧阳路街道大连西路165弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "四川北路街道山阴路55号所在小区",
           "dangerLevel": 2
         },
         {
@@ -3389,6 +3399,11 @@
         {
           "cityName": "杨浦区",
           "areaName": "五角场街道邯郸路585号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "杨浦区",
+          "areaName": "五角场街道四平路2100弄",
           "dangerLevel": 2
         },
         {
@@ -9118,11 +9133,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4702681826,
+  "getPV": 4702693773,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1655284056000,
+    "modifyTime": 1655285431000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9332,37 +9347,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 187479792,
-      "confirmedCount": 532830681,
+      "currentConfirmedCount": 187481669,
+      "confirmedCount": 532834668,
       "suspectedCount": 4,
-      "curedCount": 339043546,
-      "deadCount": 6307343,
+      "curedCount": 339045655,
+      "deadCount": 6307344,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 404112,
-      "confirmedIncr": 502219,
-      "curedIncr": 97031,
-      "deadIncr": 1076
+      "currentConfirmedIncr": 405989,
+      "confirmedIncr": 506206,
+      "curedIncr": 99140,
+      "deadIncr": 1077
     },
     "globalStatistics": {
-      "currentConfirmedCount": 190796374,
-      "confirmedCount": 536462080,
-      "curedCount": 339339200,
-      "deadCount": 6326506,
-      "currentConfirmedIncr": 539068,
-      "confirmedIncr": 637543,
-      "curedIncr": 97132,
-      "deadIncr": 1343,
-      "yesterdayConfirmedCountIncr": 568612
+      "currentConfirmedCount": 190798251,
+      "confirmedCount": 536466067,
+      "curedCount": 339341309,
+      "deadCount": 6326507,
+      "currentConfirmedIncr": 540945,
+      "confirmedIncr": 641530,
+      "curedIncr": 99241,
+      "deadIncr": 1344,
+      "yesterdayConfirmedCountIncr": 572599
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0615/310/1781608053427164553-135.json",
     "highDangerCount": 9,
-    "midDangerCount": 47
+    "midDangerCount": 50
   },
   "getTimelineService1": [
     {
       "id": 198420,
       "pubDate": 1655255077000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 54+65 例",
       "summary": "6月14日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例77例。其中境外输入病例23例（上海5例，福建5例，广东5例，浙江2例，四川2例，天津1例，江苏1例，湖南1例，陕西1例），含4例由无症状感染者转为确诊病例（浙江2例，湖南1例，陕西1例）；本土病例54例（北京25例，内蒙古14例，上海13例，辽宁2例），含9例由无症状感染者转为确诊病例（内蒙古8例，上海1例）。无新",
       "infoSource": "央视新闻app",
@@ -9375,7 +9390,7 @@
     {
       "id": 198414,
       "pubDate": 1655250658000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 25 例",
       "summary": "6月14日0时至24时，北京新增25例本土确诊病例和38例无症状感染者，无新增疑似病例；无新增境外输入确诊病例、疑似病例，新增2例境外输入无症状感染者。治愈出院12例。\n（总台央视记者 牟媞媞）",
       "infoSource": "央视新闻app",
@@ -9388,7 +9403,7 @@
     {
       "id": 198429,
       "pubDate": 1655259450000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "上海 | 昨日新增本土确诊病例 13 例",
       "summary": "22年6月14日0—24时，新增本土新冠肺炎确诊病例13例和无症状感染者2例，其中1例确诊病例为既往无症状感染者转归，10例确诊病例和1例无症状感染者在隔离管控中发现",
       "infoSource": "上海卫健委",
@@ -9401,7 +9416,7 @@
     {
       "id": 198416,
       "pubDate": 1655251760000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "辽宁 | 昨日新增本土确诊病例 2 例",
       "summary": "6月14日0—24时，辽宁省新增2例本土新冠肺炎确诊病例和4例本土无症状感染者，均为丹东市报告。治愈出院本土新冠肺炎确诊病例4例；解除医学观察本土无症状感染者22例。\n截至6月14日24时，辽宁省累计报告确诊病例1706例（含境外输入214例），治愈出院1677例，死亡2例，在院治疗27例（本土25例、境外输入2例）。目前，尚在医学观察的无症状感染者70例（本土69例、境外输入1例）。\n（总台央视",
       "infoSource": "央视新闻app",
@@ -9414,7 +9429,7 @@
     {
       "id": 198430,
       "pubDate": 1655259602000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 14 例",
       "summary": "6月14日0—24时，内蒙古自治区报告新增本土确诊病例14例，其中赤峰市3例、锡林郭勒盟11例",
       "infoSource": "内蒙古卫健委",
