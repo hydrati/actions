@@ -89,7 +89,7 @@
       "currentConfirmedCount": 142,
       "confirmedCount": 63155,
       "dangerCountIncr": 1,
-      "currentDangerCount": 34,
+      "currentDangerCount": 37,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -822,7 +822,7 @@
       "currentConfirmedCount": 142,
       "confirmedCount": 63155,
       "dangerCountIncr": 1,
-      "currentDangerCount": 34,
+      "currentDangerCount": 37,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -846,8 +846,8 @@
           "yesterdayAsymptomaticCount": 5,
           "currentConfirmedCount": 15,
           "confirmedCount": 1785,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "15"
         },
         {
@@ -918,8 +918,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 119,
           "confirmedCount": 3233,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 6,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "119"
         },
         {
@@ -2242,7 +2242,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 34,
+      "midDangerCount": 37,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2314,7 +2314,7 @@
           "curedCount": 3113,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 6,
+          "midDangerCount": 8,
           "locationId": 310106,
           "currentConfirmedCountStr": "119"
         },
@@ -2374,7 +2374,7 @@
           "curedCount": 1770,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310107,
           "currentConfirmedCountStr": "15"
         },
@@ -2489,6 +2489,46 @@
       ],
       "dangerAreas": [
         {
+          "cityName": "静安区",
+          "areaName": "宝山路街道芷江中路413弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "曹家渡街道余姚路327号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "大宁路街道广延路1188弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "共和新路街道共和新路1290号（居民楼）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "共和新路街道共和新路1302号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "共和新路街道柳营路（北侧）1059号—1069号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "共和新路街道谈家桥路163弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "静安区",
+          "areaName": "芷江西路街道芷江西路270弄",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "徐汇区",
           "areaName": "湖南路街道新乐路58弄",
           "dangerLevel": 2
@@ -2521,36 +2561,6 @@
         {
           "cityName": "徐汇区",
           "areaName": "天平路街道永嘉路172弄住宅小区（含永嘉路172弄、170号、166弄1-3号）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "宝山路街道芷江中路413弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "曹家渡街道余姚路327号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "大宁路街道广延路1188弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "共和新路街道共和新路1302号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "共和新路街道谈家桥路163弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "静安区",
-          "areaName": "芷江西路街道芷江西路270弄",
           "dangerLevel": 2
         },
         {
@@ -2656,6 +2666,11 @@
         {
           "cityName": "青浦区",
           "areaName": "练塘镇芦潼村芦花自然村（泖阳港以西、老松蒸公路以北、小蒸港以南、贞溪路以东合围地块）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "普陀区",
+          "areaName": "真如镇街道桃浦路1028弄",
           "dangerLevel": 2
         }
       ]
@@ -8324,11 +8339,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4703617613,
+  "getPV": 4703631137,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1655543094000,
+    "modifyTime": 1655544038000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8538,37 +8553,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 188999842,
+      "currentConfirmedCount": 188992347,
       "confirmedCount": 534746901,
       "suspectedCount": 4,
-      "curedCount": 339434830,
+      "curedCount": 339442325,
       "deadCount": 6312229,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 382662,
+      "currentConfirmedIncr": 375167,
       "confirmedIncr": 479836,
-      "curedIncr": 95766,
+      "curedIncr": 103261,
       "deadIncr": 1408
     },
     "globalStatistics": {
-      "currentConfirmedCount": 192488292,
+      "currentConfirmedCount": 192480797,
       "confirmedCount": 538551033,
-      "curedCount": 339730844,
+      "curedCount": 339738339,
       "deadCount": 6331897,
-      "currentConfirmedIncr": 491285,
+      "currentConfirmedIncr": 483790,
       "confirmedIncr": 588933,
-      "curedIncr": 95904,
+      "curedIncr": 103399,
       "deadIncr": 1744,
       "yesterdayConfirmedCountIncr": 535267
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0618/407/3420164655783715553-135.json",
     "highDangerCount": 9,
-    "midDangerCount": 43
+    "midDangerCount": 46
   },
   "getTimelineService1": [
     {
       "id": 198710,
       "pubDate": 1655514063000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 11+41 例",
       "summary": "6月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例35例。其中境外输入病例24例（广东6例，福建4例，云南4例，上海2例，江苏2例，北京1例，黑龙江1例，湖北1例，湖南1例，四川1例，陕西1例），含2例由无症状感染者转为确诊病例（湖南1例，陕西1例）；本土病例11例（内蒙古5例，辽宁4例，北京1例，上海1例），含1例由无症状感染者转为确诊病例（在内蒙古）。无新增死亡",
       "infoSource": "央视新闻app",
@@ -8581,7 +8596,7 @@
     {
       "id": 198709,
       "pubDate": 1655514190000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 5 例",
       "summary": "6月17日0—24时，内蒙古自治区报告新增本土确诊病例5例，其中赤峰市1例、锡林郭勒盟4例（含1例由无症状感染者转为确诊病例）。本土无症状感染者16例，其中赤峰市1例、锡林郭勒盟15例。本土确诊病例治愈出院23例（均在锡林郭勒盟）。解除医学观察的本土无症状感染者36例，其中呼和浩特市1例、锡林郭勒盟35例。\n截至6月17日24时，内蒙古自治区现有本土确诊病例296例，其中通辽市1例、赤峰市63例、",
       "infoSource": "央视新闻app",
@@ -8594,7 +8609,7 @@
     {
       "id": 198701,
       "pubDate": 1655510725000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "辽宁 | 昨日新增本土确诊病例 4 例",
       "summary": "6月17日0-24时，辽宁省新增4例本土新冠肺炎确诊病例和2例本土无症状感染者，均为丹东市报告；新增1例境外输入无症状感染者，为大连市报告。治愈出院本土新冠肺炎确诊病例3例；解除医学观察本土无症状感染者2例。\n截至6月17日24时，辽宁省累计报告确诊病例1717例（含境外输入214例），治愈出院1686例，死亡2例，在院治疗29例（本土27例、境外输入2例）。目前，尚在医学观察的无症状感染者50例",
       "infoSource": "央视新闻app",
