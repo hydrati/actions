@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 131,
       "confirmedCount": 63164,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 37,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 35,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -534,8 +534,8 @@
       "yesterdayAsymptomaticCount": 6,
       "currentConfirmedCount": 131,
       "confirmedCount": 63164,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 37,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 35,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -607,8 +607,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 151,
           "confirmedCount": 3695,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "151"
         },
         {
@@ -1661,11 +1661,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 3225662,
-      "confirmedCount": 3244453,
+      "currentConfirmedCount": 3276113,
+      "confirmedCount": 3295076,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 5049,
+      "deadCount": 5221,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -2218,7 +2218,7 @@
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 37,
+      "midDangerCount": 35,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2266,7 +2266,7 @@
           "curedCount": 3544,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 5,
+          "midDangerCount": 3,
           "locationId": 310109,
           "currentConfirmedCountStr": "151"
         },
@@ -2540,31 +2540,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "虹口区",
-          "areaName": "北外滩街道昆明路56号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "江湾镇街道池沟路60弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "欧阳路街道大连西路165弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "欧阳路街道天宝西路248弄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "虹口区",
-          "areaName": "四川北路街道山阴路55号所在小区",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "宝山区",
           "areaName": "顾村镇陆翔路 678 弄",
           "dangerLevel": 2
@@ -2612,6 +2587,21 @@
         {
           "cityName": "杨浦区",
           "areaName": "五角场街道四平路2100弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "欧阳路街道大连西路165弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "欧阳路街道天宝西路248弄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "虹口区",
+          "areaName": "四川北路街道山阴路55号所在小区",
           "dangerLevel": 2
         },
         {
@@ -8315,11 +8305,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4703933058,
+  "getPV": 4703958988,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1655625907000,
+    "modifyTime": 1655627188000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8335,17 +8325,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 3488569,
-    "confirmedCount": 3804378,
+    "currentConfirmedCount": 3539020,
+    "confirmedCount": 3855001,
     "suspectedCount": 19061,
     "curedCount": 296141,
-    "deadCount": 19668,
+    "deadCount": 19840,
     "seriousCount": 1560,
     "suspectedIncr": 31,
-    "currentConfirmedIncr": 53604,
-    "confirmedIncr": 53912,
+    "currentConfirmedIncr": 104055,
+    "confirmedIncr": 104535,
     "curedIncr": 127,
-    "deadIncr": 181,
+    "deadIncr": 353,
     "seriousIncr": -25,
     "yesterdayConfirmedCountIncr": 53912,
     "yesterdaySuspectedCountIncr": 31,
@@ -8541,25 +8531,25 @@
       "deadIncr": 616
     },
     "globalStatistics": {
-      "currentConfirmedCount": 192685818,
-      "confirmedCount": 538831570,
+      "currentConfirmedCount": 192736269,
+      "confirmedCount": 538882193,
       "curedCount": 339813239,
-      "deadCount": 6332513,
-      "currentConfirmedIncr": 258506,
-      "confirmedIncr": 334203,
+      "deadCount": 6332685,
+      "currentConfirmedIncr": 308957,
+      "confirmedIncr": 384826,
       "curedIncr": 74900,
-      "deadIncr": 797,
+      "deadIncr": 969,
       "yesterdayConfirmedCountIncr": 334203
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0619/943/3218876583149535553-135.json",
     "highDangerCount": 9,
-    "midDangerCount": 46
+    "midDangerCount": 44
   },
   "getTimelineService1": [
     {
       "id": 198790,
       "pubDate": 1655600671000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 5+22 例",
       "summary": "6月18日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例36例。其中境外输入病例31例（山东10例，福建9例，上海6例，北京1例，江苏1例，湖南1例，广东1例，云南1例，陕西1例），含10例由无症状感染者转为确诊病例（山东8例，福建1例，湖南1例）；本土病例5例（上海3例，内蒙古1例，辽宁1例）。无新增死亡病例。无新增疑似病例。\n当日新增治愈出院病例53例，其中境外输入病",
       "infoSource": "央视新闻app",
@@ -8572,7 +8562,7 @@
     {
       "id": 198789,
       "pubDate": 1655600769000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "内蒙古 | 昨日新增本土确诊病例 1 例",
       "summary": "6月18日0—24时，内蒙古自治区报告新增本土确诊病例1例（在锡林郭勒盟）。本土无症状感染者4例（均在锡林郭勒盟）。本土确诊病例治愈出院17例，其中通辽市1例、赤峰市1例，锡林郭勒盟15例。解除医学观察的本土无症状感染者5例，其中通辽市1例、锡林郭勒盟4例。\n截至6月18日24时，内蒙古自治区现有本土确诊病例280例，其中赤峰市62例、锡林郭勒盟218例。本土无症状感染者262例，其中呼和浩特市2",
       "infoSource": "央视新闻app",
@@ -8585,7 +8575,7 @@
     {
       "id": 198788,
       "pubDate": 1655596800000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "辽宁 | 昨日新增本土确诊病例 1 例",
       "summary": "\n         6月18日0-24时，辽宁省新增1例本土新冠肺炎确诊病例和3例本土无症状感染者，均为丹东市报告；新增11例境外输入无症状感染者，均为沈阳市报告。治愈出院本土新冠肺炎确诊病例1例和境外输入新冠肺炎确诊病例1例；解除医学观察本土无症状感染者6例。\n截至6月18日24时，全省累计报告确诊病例1718例（含境外输入214例），治愈出院1688例，死亡2例，在院治疗28例（本土27例、境外输入1例）。目前，尚在医学观察的无症状感染者58例（本土45例、境外输入13例）。\n                   \n    \n                \n                  \n                    \n                     \n                  \n                \n      \n        ",
       "infoSource": "辽宁卫健委",
@@ -8598,7 +8588,7 @@
     {
       "id": 198786,
       "pubDate": 1655575887000,
-      "pubDateStr": "13小时前",
+      "pubDateStr": "14小时前",
       "title": "广东 | 珠澳口岸疫情防控措施调整",
       "summary": "记者从珠海市新型冠状病毒肺炎疫情防控指挥部办公室获悉，根据疫情防控需要，经珠澳联防联控机制协商一致，自2022年6月19日6时起，经珠澳口岸（含横琴口岸）入境人员需持有24小时内核酸检测阴性证明。现行出境疫情防控措施保持不变。\n此前，自2022年6月2日零时起，经珠澳口岸（含横琴口岸）出入境人员需持有7天内核酸检测阴性证明。\n（总台记者 魏星 王司琦）",
       "infoSource": "央视新闻app",
@@ -8611,7 +8601,7 @@
     {
       "id": 198808,
       "pubDate": 1655601501000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "广东 | 深圳市福田区在香蜜湖街道划定“三区”范围",
       "summary": "深圳市福田区新型冠状病毒肺炎疫情防控指挥部发布通告（第186号）称，根据疫情防控工作需要，自2022年6月18日起，福田区在香蜜湖街道划定封控区、管控区、防范区如下：\n1、封控区为香山美树苑\n实行“区域封闭、足不出户、核酸检测上门、服务上门”管理措施。\n2、管控区为竹香一路和竹香学校围墙—农林路—建业三街—京港澳高速公路的围合区域（封控区除外）\n前4天加强管理，实行“足不出户、核酸检测上门、服务上",
       "infoSource": "央视新闻app",
