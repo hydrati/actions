@@ -170,7 +170,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 64,
+      "currentConfirmedCount": 63,
       "confirmedCount": 2913,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -290,7 +290,7 @@
       "provinceShortName": "四川",
       "cityName": "成都",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 13,
+      "currentConfirmedCount": 12,
       "confirmedCount": 1701,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -437,11 +437,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 64,
+          "currentConfirmedCount": 63,
           "confirmedCount": 2913,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "64"
+          "currentConfirmedCountStr": "63"
         },
         {
           "provinceName": "广东省",
@@ -1298,11 +1298,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 13,
+          "currentConfirmedCount": 12,
           "confirmedCount": 1701,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "13"
+          "currentConfirmedCountStr": "12"
         },
         {
           "provinceName": "四川省",
@@ -2280,15 +2280,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 64,
+          "currentConfirmedCount": 63,
           "confirmedCount": 2913,
           "suspectedCount": 3,
-          "curedCount": 2848,
+          "curedCount": 2849,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "64"
+          "currentConfirmedCountStr": "63"
         },
         {
           "cityName": "深圳",
@@ -2532,15 +2532,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -3,
+          "currentConfirmedCount": -2,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 3,
+          "curedCount": 2,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-3"
+          "currentConfirmedCountStr": "-2"
         }
       ],
       "dangerAreas": []
@@ -3762,15 +3762,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 13,
+          "currentConfirmedCount": 12,
           "confirmedCount": 1701,
           "suspectedCount": 0,
-          "curedCount": 1685,
+          "curedCount": 1686,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 510100,
-          "currentConfirmedCountStr": "13"
+          "currentConfirmedCountStr": "12"
         },
         {
           "cityName": "广元",
@@ -4002,15 +4002,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -84,
+          "currentConfirmedCount": -83,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 84,
+          "curedCount": 83,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-84"
+          "currentConfirmedCountStr": "-83"
         }
       ],
       "dangerAreas": []
@@ -7903,11 +7903,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4705755758,
+  "getPV": 4705767287,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656138826000,
+    "modifyTime": 1656147834000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8147,7 +8147,7 @@
     {
       "id": 199421,
       "pubDate": 1656114645000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 7+15 例",
       "summary": "6月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例53例。其中境外输入病例46例（广东9例，上海5例，福建5例，云南5例，陕西5例，四川4例，北京3例，江苏3例，浙江2例，江西2例，天津1例，湖南1例，重庆1例），含8例由无症状感染者转为确诊病例（广东2例，四川2例，陕西2例，浙江1例，湖南1例）；本土病例7例（广东5例，北京2例），含1例由无症状感染者转为确诊病例（在广东）。无新增死亡病例。无新增疑似病例。",
       "infoSource": "央视新闻app",
@@ -8160,7 +8160,7 @@
     {
       "id": 199429,
       "pubDate": 1656118258000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广东 | 昨日新增本土确诊病例 5 例",
       "summary": "6月24日0-24时，广东全省新增本土确诊病例5例（其中1例为无症状感染者转确诊）和本土无症状感染者2例，均为深圳报告。全省新增出院1例（为境外输入），目前在院86例（境外输入79例）；新增解除医学观察无症状感染者26例（均为境外输入），尚在医学观察无症状感染者191例（境外输入179例）。\n广东全省新增境外输入确诊病例9例（其中2例为无症状感染者转确诊），广州报告6例，2例来自泰国，其余4例分别",
       "infoSource": "央视新闻app",
@@ -8173,7 +8173,7 @@
     {
       "id": 199422,
       "pubDate": 1656114644000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 2 例",
       "summary": "6月24日0时至24时，北京新增2例本土确诊病例，无新增疑似病例和无症状感染者；新增3例境外输入确诊病例和7例无症状感染者，无新增疑似病例。治愈出院23例，解除医学观察的无症状感染者19例。\n本土确诊病例\n确诊病例1、2：现住经开区鹿鸣苑，6月24日诊断为确诊病例。\n境外输入确诊病例\n确诊病例1：中国籍，6月22日从中国香港到达北京首都机场，海关经健康筛查并进行核酸检测后，经闭环管理送至集中隔离酒",
       "infoSource": "央视新闻app",
@@ -8186,7 +8186,7 @@
     {
       "id": 199425,
       "pubDate": 1656115505000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "辽宁 | 昨日新增本土无症状感染者 8 例",
       "summary": "6月24日0—24时，辽宁省无新增新冠肺炎确诊病例；新增8例本土无症状感染者，均为丹东市报告。解除医学观察本土无症状感染者5例、境外输入无症状感染者1例。\n截至6月24日24时，辽宁省累计报告确诊病例1718例（含境外输入214例），治愈出院1700例，死亡2例，在院治疗16例（本土15例、境外输入1例）。目前，尚在医学观察的无症状感染者60例（本土58例、境外输入2例）。\n（总台央视记者 李承泽",
       "infoSource": "央视新闻app",
@@ -8199,7 +8199,7 @@
     {
       "id": 199433,
       "pubDate": 1656119245000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "吉林 | 昨日新增本土无症状感染者 1 例",
       "summary": "吉林省卫健委发布，6月24日0-24时，吉林全省无新增本地确诊病例；新增本地无症状感染者1例，在吉林市。\n6月24日0-24时，吉林全省无新增治愈出院确诊病例；新增解除隔离医学观察无症状感染者3例，均在延边州。\n（总台记者 苑竞玮）\n&nbsp;",
       "infoSource": "央视新闻app",
