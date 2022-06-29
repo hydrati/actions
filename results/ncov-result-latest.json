@@ -184,8 +184,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 46,
       "confirmedCount": 3680,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -722,8 +722,8 @@
       "yesterdayAsymptomaticCount": 1,
       "currentConfirmedCount": 46,
       "confirmedCount": 3680,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -735,8 +735,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 525,
           "confirmedCount": 605,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 0,
           "currentConfirmedCountStr": "525"
         },
         {
@@ -1433,11 +1433,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 3666148,
-      "confirmedCount": 3686338,
+      "currentConfirmedCount": 3708088,
+      "confirmedCount": 3728363,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 6448,
+      "deadCount": 6533,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -2381,7 +2381,7 @@
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "highDangerCount": 1,
-      "midDangerCount": 1,
+      "midDangerCount": 0,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -2393,7 +2393,7 @@
           "curedCount": 80,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 1,
+          "midDangerCount": 0,
           "locationId": 110105,
           "currentConfirmedCountStr": "525"
         },
@@ -2627,11 +2627,6 @@
           "cityName": "昌平区",
           "areaName": "小汤山镇大汤山村双兴苑小区",
           "dangerLevel": 1
-        },
-        {
-          "cityName": "朝阳区",
-          "areaName": "十八里店乡吕家营村",
-          "dangerLevel": 2
         }
       ]
     },
@@ -7842,11 +7837,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4706963901,
+  "getPV": 4706978003,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656489987000,
+    "modifyTime": 1656493861000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -7862,17 +7857,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 3930827,
-    "confirmedCount": 4249438,
+    "currentConfirmedCount": 3972767,
+    "confirmedCount": 4291463,
     "suspectedCount": 19341,
     "curedCount": 297538,
-    "deadCount": 21073,
+    "deadCount": 21158,
     "seriousCount": 870,
     "suspectedIncr": 21,
-    "currentConfirmedIncr": 44607,
-    "confirmedIncr": 44822,
+    "currentConfirmedIncr": 86547,
+    "confirmedIncr": 86847,
     "curedIncr": 111,
-    "deadIncr": 104,
+    "deadIncr": 189,
     "seriousIncr": -5,
     "yesterdayConfirmedCountIncr": 44822,
     "yesterdaySuspectedCountIncr": 21,
@@ -8056,37 +8051,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 185278018,
-      "confirmedCount": 540771224,
+      "currentConfirmedCount": 185279175,
+      "confirmedCount": 540775393,
       "suspectedCount": 4,
-      "curedCount": 349168190,
-      "deadCount": 6325016,
+      "curedCount": 349171170,
+      "deadCount": 6325048,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 765157,
-      "confirmedIncr": 874670,
-      "curedIncr": 107801,
-      "deadIncr": 1712
+      "currentConfirmedIncr": 766314,
+      "confirmedIncr": 878839,
+      "curedIncr": 110781,
+      "deadIncr": 1744
     },
     "globalStatistics": {
-      "currentConfirmedCount": 189208845,
-      "confirmedCount": 545020662,
-      "curedCount": 349465728,
-      "deadCount": 6346089,
-      "currentConfirmedIncr": 809764,
-      "confirmedIncr": 919492,
-      "curedIncr": 107912,
-      "deadIncr": 1816,
-      "yesterdayConfirmedCountIncr": 919492
+      "currentConfirmedCount": 189251942,
+      "confirmedCount": 545066856,
+      "curedCount": 349468708,
+      "deadCount": 6346206,
+      "currentConfirmedIncr": 852861,
+      "confirmedIncr": 965686,
+      "curedIncr": 110892,
+      "deadIncr": 1933,
+      "yesterdayConfirmedCountIncr": 923661
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0629/357/7815916781484127553-135.json",
     "highDangerCount": 1,
-    "midDangerCount": 10
+    "midDangerCount": 9
   },
   "getTimelineService1": [
     {
       "id": 199771,
       "pubDate": 1656464734000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 3+36 例",
       "summary": "6月28日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例24例。其中境外输入病例21例（广东6例，福建4例，江西3例，重庆3例，山东2例，北京1例，上海1例，四川1例），含1例由无症状感染者转为确诊病例（在广东）；本土病例3例（江苏2例，广东1例）。无新增死亡病例。无新增疑似病例。\n当日新增治愈出院病例47例，其中境外输入病例20例，本土病例27例（北京10例，内蒙古10",
       "infoSource": "央视新闻app",
@@ -8099,7 +8094,7 @@
     {
       "id": 199773,
       "pubDate": 1656465494000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "江苏 | 昨日新增本土确诊病例 2 例",
       "summary": "江苏省卫健委6月29日通报：6月28日0—24时，江苏新增本土确诊病例2例（均为南京市报告，在定点医院隔离治疗），新增本土无症状感染者4例（南京市2例，徐州市1例，淮安市1例，在定点医院接受隔离医学观察），以上人员均为在外省阳性感染者密接人员中筛查发现。新增境外输入无症状感染者1例。新增出院病例2例（均为境外输入）。\n目前，在定点医院隔离治疗的确诊病例9例（本土2例，境外输入7例），接受隔离医学管",
       "infoSource": "央视新闻app",
@@ -8112,7 +8107,7 @@
     {
       "id": 199772,
       "pubDate": 1656464930000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "广东 | 昨日新增本土确诊病例 1 例",
       "summary": " ",
       "infoSource": "广东省卫生健康委员会",
@@ -8125,7 +8120,7 @@
     {
       "id": 199758,
       "pubDate": 1656460886000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "安徽 | 昨日新增本土无症状感染者 15 例",
       "summary": "2022年6月28日0-24时，安徽省报告无新增确诊病例，无新增疑似病例，新增无症状感染者15例（合肥市肥西县1例、蜀山区1例，宿州市泗县13例）。\n截至6月28日24时，安徽省累计报告本地确诊病例1050例，累计治愈出院1044例；累计报告境外输入确诊病例15例，治愈出院15例；累计报告医学观察116218人，尚在医学观察的密切接触者1526人。\n截至6月28日24时，安徽省尚在医学观察的无症状",
       "infoSource": "央视新闻app",
@@ -8138,7 +8133,7 @@
     {
       "id": 199732,
       "pubDate": 1656406566000,
-      "pubDateStr": "23小时前",
+      "pubDateStr": "1天前",
       "title": "上海 | 两地调整为低风险地区",
       "summary": "28日，记者获悉，上海市新冠肺炎疫情防控工作领导小组办公室发布消息：根据国务院联防联控机制有关要求，经市新冠肺炎疫情防控工作领导小组办公室研究决定，自2022年6月29日零时起，将徐汇区湖南路街道长乐路335号—339弄、虹口区欧阳路街道天宝西路248弄由中风险地区调整为低风险地区，上海市其他区域风险等级不变。\n（总台央视记者 王殿甲）",
       "infoSource": "央视新闻app",
