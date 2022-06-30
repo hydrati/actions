@@ -178,18 +178,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
     {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "广州",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 62,
-      "confirmedCount": 2930,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
-    },
-    {
       "provinceName": "浙江省",
       "provinceShortName": "浙江",
       "cityName": "宁波",
@@ -200,6 +188,18 @@
       "currentDangerCount": 0,
       "locationId": 330000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
+    },
+    {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
+      "cityName": "广州",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 55,
+      "confirmedCount": 2930,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "天津市",
@@ -290,7 +290,7 @@
       "provinceShortName": "四川",
       "cityName": "成都",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 16,
+      "currentConfirmedCount": 14,
       "confirmedCount": 1706,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -511,11 +511,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 62,
+          "currentConfirmedCount": 55,
           "confirmedCount": 2930,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "62"
+          "currentConfirmedCountStr": "55"
         },
         {
           "provinceName": "广东省",
@@ -1200,11 +1200,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 14,
           "confirmedCount": 1706,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "14"
         },
         {
           "provinceName": "四川省",
@@ -1526,15 +1526,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 62,
+          "currentConfirmedCount": 55,
           "confirmedCount": 2930,
           "suspectedCount": 3,
-          "curedCount": 2867,
+          "curedCount": 2874,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "62"
+          "currentConfirmedCountStr": "55"
         },
         {
           "cityName": "深圳",
@@ -1778,15 +1778,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -8,
+          "currentConfirmedCount": -1,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 8,
+          "curedCount": 1,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-8"
+          "currentConfirmedCountStr": "-1"
         }
       ],
       "dangerAreas": []
@@ -3105,15 +3105,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 14,
           "confirmedCount": 1706,
           "suspectedCount": 0,
-          "curedCount": 1687,
+          "curedCount": 1689,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 510100,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "14"
         },
         {
           "cityName": "广元",
@@ -3345,15 +3345,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -85,
+          "currentConfirmedCount": -83,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 85,
+          "curedCount": 83,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-85"
+          "currentConfirmedCountStr": "-83"
         }
       ],
       "dangerAreas": []
@@ -7848,11 +7848,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4707240348,
+  "getPV": 4707289573,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656557340000,
+    "modifyTime": 1656578765000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8092,7 +8092,7 @@
     {
       "id": 199866,
       "pubDate": 1656551283000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 8+31 例",
       "summary": "6月29日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例33例。其中境外输入病例25例（上海10例，福建7例，北京2例，陕西2例，安徽1例，广东1例，重庆1例，四川1例），含2例由无症状感染者转为确诊病例（广东1例，重庆1例）；本土病例8例（江苏5例，广东2例，北京1例），含1例由无症状感染者转为确诊病例（在广东）。无新增死亡病例。无新增疑似病例。\n当日新增治愈出院病例6",
       "infoSource": "央视新闻app",
@@ -8105,7 +8105,7 @@
     {
       "id": 199872,
       "pubDate": 1656552187000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "7小时前",
       "title": "江苏 | 昨日新增本土确诊病例 5 例",
       "summary": "江苏省卫健委6月30日通报：6月29日0-24时，江苏新增本土确诊病例5例（南京市4例，无锡市1例，均在定点医院隔离治疗），新增本土无症状感染者9例（南京市1例，无锡市8例，均在定点医院接受隔离医学管理）。受外省疫情输入影响，以上14名阳性感染者中，4名为外省涉疫地区来苏人员，10名为外省涉疫地区来苏阳性感染者的密切接触者。\n新增境外输入无症状感染者3例。新增出院病例1例（境外输入）。新增解除隔离",
       "infoSource": "央视新闻app",
@@ -8118,7 +8118,7 @@
     {
       "id": 199862,
       "pubDate": 1656550234000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "7小时前",
       "title": "广东 | 昨日新增本土确诊病例 2 例",
       "summary": "6月29日0—24时，广东省新增本土确诊病例2例（其中1例为无症状感染者转确诊）和本土无症状感染者2例，均为深圳报告。广东省新增出院8例（均为境外输入），目前在院87例（境外输入75例）；新增解除医学观察无症状感染者20例（均为境外输入），尚在医学观察无症状感染者193例（境外输入167例）。\n广东省新增境外输入确诊病例1例，为无症状感染者转确诊，深圳报告，来自中国香港。新增境外输入无症状感染者1",
       "infoSource": "央视新闻app",
@@ -8131,7 +8131,7 @@
     {
       "id": 199854,
       "pubDate": 1656546688000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "8小时前",
       "title": "北京 | 昨日新增本土确诊病例 1 例",
       "summary": "6月29日0时至24时，北京新增1例本土确诊病例，无新增疑似病例和无症状感染者；新增2例境外输入确诊病例和3例无症状感染者，无新增疑似病例。治愈出院10例，解除医学观察的无症状感染者20例。\n本土确诊病例：现住通州区台湖镇银河湾10号院，6月29日诊断为确诊病例。\n境外输入确诊病例\n确诊病例1：中国台湾籍，6月21日从中国台湾到达北京首都机场，海关经健康筛查并进行核酸检测后，经闭环管理送至集中隔离",
       "infoSource": "央视新闻app",
@@ -8144,7 +8144,7 @@
     {
       "id": 199856,
       "pubDate": 1656547341000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "8小时前",
       "title": "上海 | 五地将调整为低风险地区",
       "summary": "上海市新冠肺炎疫情防控工作领导小组办公室发布消息：根据国家第九版新冠肺炎疫情防控方案要求，经市新冠肺炎疫情防控工作领导小组办公室研究决定，自2022年6月30日12时起，将普陀区真如镇街道桃浦路1028弄、静安区共和新路街道共和新路1290号（居民楼）、静安区共和新路街道柳营路（北侧）1059号—1069号、静安区共和新路街道柳营路588弄、闵行区七宝镇航华四村一二街坊由中风险地区调整为低风险地区",
       "infoSource": "央视新闻app",
