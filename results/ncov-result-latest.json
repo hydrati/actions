@@ -53,7 +53,7 @@
       "currentConfirmedCount": 43,
       "confirmedCount": 85,
       "dangerCountIncr": 1,
-      "currentDangerCount": 54,
+      "currentDangerCount": 59,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
@@ -451,7 +451,7 @@
       "currentConfirmedCount": 44,
       "confirmedCount": 1109,
       "dangerCountIncr": 1,
-      "currentDangerCount": 54,
+      "currentDangerCount": 59,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "cities": [
@@ -464,7 +464,7 @@
           "currentConfirmedCount": 43,
           "confirmedCount": 85,
           "dangerCountIncr": 1,
-          "currentDangerCount": 54,
+          "currentDangerCount": 59,
           "currentConfirmedCountStr": "43"
         }
       ]
@@ -2213,8 +2213,8 @@
       "comment": "",
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-      "highDangerCount": 52,
-      "midDangerCount": 2,
+      "highDangerCount": 56,
+      "midDangerCount": 3,
       "detectOrgCount": 412,
       "vaccinationOrgCount": 161,
       "cities": [
@@ -2225,8 +2225,8 @@
           "suspectedCount": 0,
           "curedCount": 42,
           "deadCount": 0,
-          "highDangerCount": 52,
-          "midDangerCount": 2,
+          "highDangerCount": 56,
+          "midDangerCount": 3,
           "locationId": 341300,
           "currentConfirmedCountStr": "43"
         },
@@ -2636,6 +2636,16 @@
         },
         {
           "cityName": "宿州",
+          "areaName": "韦集镇：代家村、韦集村、藕庄村、永久村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "温州商城",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
           "areaName": "西城丽苑",
           "dangerLevel": 1
         },
@@ -2647,6 +2657,11 @@
         {
           "cityName": "宿州",
           "areaName": "西苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "向阳镇：新湖村、官庄村",
           "dangerLevel": 1
         },
         {
@@ -2671,6 +2686,11 @@
         },
         {
           "cityName": "宿州",
+          "areaName": "中安江山印小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
           "areaName": "长沟镇：长沟村、大高圩村、汴河村、洋城湖村",
           "dangerLevel": 1
         },
@@ -2687,6 +2707,11 @@
         {
           "cityName": "宿州",
           "areaName": "墩集镇、黑塔镇、长沟镇、大庄镇除高风险区外的其他区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "东蔬社区、山南社区、太平社区、滨河社区、韦集镇、向阳镇除封控区外的其他区域。",
           "dangerLevel": 2
         },
         {
@@ -8277,11 +8302,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4707950140,
+  "getPV": 4707962328,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656752050000,
+    "modifyTime": 1656753388000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8491,37 +8516,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 187666383,
-      "confirmedCount": 543500657,
+      "currentConfirmedCount": 187823332,
+      "confirmedCount": 543672830,
       "suspectedCount": 4,
-      "curedCount": 349504714,
-      "deadCount": 6329560,
+      "curedCount": 349519636,
+      "deadCount": 6329862,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 761117,
-      "confirmedIncr": 845440,
-      "curedIncr": 82644,
-      "deadIncr": 1679
+      "currentConfirmedIncr": 918066,
+      "confirmedIncr": 1017613,
+      "curedIncr": 97566,
+      "deadIncr": 1981
     },
     "globalStatistics": {
-      "currentConfirmedCount": 191749240,
-      "confirmedCount": 547902979,
-      "curedCount": 349802683,
-      "deadCount": 6351056,
-      "currentConfirmedIncr": 831777,
-      "confirmedIncr": 916475,
-      "curedIncr": 82801,
-      "deadIncr": 1897,
-      "yesterdayConfirmedCountIncr": 881668
+      "currentConfirmedCount": 191906189,
+      "confirmedCount": 548075152,
+      "curedCount": 349817605,
+      "deadCount": 6351358,
+      "currentConfirmedIncr": 988726,
+      "confirmedIncr": 1088648,
+      "curedIncr": 97723,
+      "deadIncr": 2199,
+      "yesterdayConfirmedCountIncr": 1053841
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0702/232/3267677369641777553-135.json",
-    "highDangerCount": 66,
-    "midDangerCount": 24
+    "highDangerCount": 70,
+    "midDangerCount": 25
   },
   "getTimelineService1": [
     {
       "id": 200079,
       "pubDate": 1656723694000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 38+145 例",
       "summary": "7月1日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例72例。其中境外输入病例34例（广东10例，福建7例，上海3例，海南3例，江苏2例，浙江2例，山东2例，重庆2例，天津1例，内蒙古1例，江西1例），含4例由无症状感染者转为确诊病例（天津1例，福建1例，山东1例，重庆1例）；本土病例38例（安徽34例，山东3例，江苏1例），含1例由无症状感染者转为确诊病例（在山东）。无",
       "infoSource": "央视新闻app",
@@ -8534,7 +8559,7 @@
     {
       "id": 200087,
       "pubDate": 1656725171000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "8小时前",
       "title": "安徽 | 昨日新增本土确诊病例 34 例",
       "summary": "2022年7月1日0到24时，安徽省报告新增确诊病例34例（均在宿州市泗县），无新增疑似病例，新增无症状感染者101例（宿州市泗县100例，蚌埠市固镇县1例）。\n6月26日至7月1日24时，安徽省共报告确诊病例44例，其中境外输入1例，宿州市泗县43例；共报告无症状感染者236例。",
       "infoSource": "央视新闻app",
@@ -8547,7 +8572,7 @@
     {
       "id": 200062,
       "pubDate": 1656716746000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "11小时前",
       "title": "山东 | 昨日新增本土确诊病例 3 例",
       "summary": "2022年7月1日0时至24时，山东省报告新增本土确诊病例2例，均在青岛，系隔离期间检测发现。新增本土无症状感染者2例，均在青岛，系隔离期间检测发现。新增境外输入确诊病例1例，在青岛，为韩国输入。新增境外输入无症状感染者3例，均在济南，分别为德国输入、日本输入和韩国输入。\n2022年7月1日0时至24时，山东省报告本土无症状感染者转为确诊病例1例，在青岛。境外输入无症状感染者转为确诊病例1例，在济",
       "infoSource": "央视新闻app",
@@ -8560,7 +8585,7 @@
     {
       "id": 200085,
       "pubDate": 1656724833000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "8小时前",
       "title": "江苏 | 昨日新增本土确诊病例 1 例",
       "summary": "7月1日0-24时，江苏新增本土确诊病例1例（无锡市报告，在定点医院隔离治疗），新增本土无症状感染者29例（南京市1例，无锡市27例，苏州市1例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例2例（伊拉克输入，均在南京市定点医院隔离治疗），新增境外输入无症状感染者3例。\n新增确诊病例及无症状感染者详情由相关设区市发布。\n目前，在定点医院隔离治疗的确诊病例17例（本土9例，境外输入8例），接",
       "infoSource": "央视新闻app",
@@ -8573,7 +8598,7 @@
     {
       "id": 200061,
       "pubDate": 1656717475000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "10小时前",
       "title": "安徽 | 多地调整风险地区等级",
       "summary": "据“泗县发布”微信公众号7月2日消息：为有效阻断疫情传播，切实保障广大人民群众生命安全和身体健康，经专家开展疫情形势分析研判，泗县新冠肺炎疫情防控应急指挥部根据《新型冠状病毒肺炎防控方案（第九版）》相关规定，决定调整高风险区、中风险区和低风险区，决定于2022年7月2日在全县范围内开展一轮全员核酸检测。\n一、新增高风险区\n高尤社区、南关社区、衡尤社区全域划为高风险区，此外新增下列地区为高风险区：\n",
       "infoSource": "央视新闻app",
