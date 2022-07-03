@@ -88,8 +88,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 65,
       "confirmedCount": 63266,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -603,8 +603,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 65,
       "confirmedCount": 63266,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 2,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -700,8 +700,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 46,
           "confirmedCount": 3115,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "46"
         },
         {
@@ -724,8 +724,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 15,
           "confirmedCount": 1785,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "15"
         },
         {
@@ -2698,8 +2698,8 @@
       "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-      "highDangerCount": 0,
-      "midDangerCount": 2,
+      "highDangerCount": 1,
+      "midDangerCount": 4,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
       "cities": [
@@ -2795,7 +2795,7 @@
           "curedCount": 3068,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 310113,
           "currentConfirmedCountStr": "46"
         },
@@ -2830,8 +2830,8 @@
           "suspectedCount": 0,
           "curedCount": 1770,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 1,
           "locationId": 310107,
           "currentConfirmedCountStr": "15"
         },
@@ -2946,6 +2946,11 @@
       ],
       "dangerAreas": [
         {
+          "cityName": "普陀区",
+          "areaName": "长风新村街道光复西路2077弄小区",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "奉贤区",
           "areaName": "金汇镇梅园村部分区域（东至航塘港，西至航塘公路，南至梅园9组小排河，北至浦东/奉贤界河）",
           "dangerLevel": 2
@@ -2953,6 +2958,16 @@
         {
           "cityName": "静安区",
           "areaName": "芷江西路街道西藏北路新赵家宅（36号、51-112号、119-120号）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宝山区",
+          "areaName": "高境镇殷高西路333号长江国际生活广场东区二楼老炉家木炭烤肉店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "普陀区",
+          "areaName": "曹杨新村街道兰溪路148号耕耘茶室",
           "dangerLevel": 2
         }
       ]
@@ -8798,11 +8813,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4708256740,
+  "getPV": 4708269264,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656838949000,
+    "modifyTime": 1656839866000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9012,37 +9027,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 188358319,
-      "confirmedCount": 544226183,
+      "currentConfirmedCount": 188394448,
+      "confirmedCount": 544262339,
       "suspectedCount": 4,
       "curedCount": 349536945,
-      "deadCount": 6330919,
+      "deadCount": 6330946,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 534987,
-      "confirmedIncr": 553353,
+      "currentConfirmedIncr": 571116,
+      "confirmedIncr": 589509,
       "curedIncr": 17309,
-      "deadIncr": 1057
+      "deadIncr": 1084
     },
     "globalStatistics": {
-      "currentConfirmedCount": 192474074,
-      "confirmedCount": 548661596,
+      "currentConfirmedCount": 192510203,
+      "confirmedCount": 548697752,
       "curedCount": 349835016,
-      "deadCount": 6352506,
-      "currentConfirmedIncr": 602596,
-      "confirmedIncr": 621251,
+      "deadCount": 6352533,
+      "currentConfirmedIncr": 638725,
+      "confirmedIncr": 657407,
       "curedIncr": 17411,
-      "deadIncr": 1244,
-      "yesterdayConfirmedCountIncr": 588572
+      "deadIncr": 1271,
+      "yesterdayConfirmedCountIncr": 624728
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0703/227/6723222734107597553-135.json",
-    "highDangerCount": 127,
-    "midDangerCount": 52
+    "highDangerCount": 128,
+    "midDangerCount": 54
   },
   "getTimelineService1": [
     {
       "id": 200167,
       "pubDate": 1656810315000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 75+310 例",
       "summary": "7月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例104例。其中境外输入病例29例（福建8例，上海5例，广东5例，重庆4例，内蒙古2例，北京1例，江苏1例，江西1例，四川1例，陕西1例），含4例由无症状感染者转为确诊病例（广东2例，江西1例，陕西1例）；本土病例75例（安徽61例，山东6例，江苏3例，陕西3例，上海2例），含2例由无症状感染者转为确诊病例（均在山东）。",
       "infoSource": "央视新闻app",
@@ -9055,7 +9070,7 @@
     {
       "id": 200162,
       "pubDate": 1656806685000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "安徽 | 昨日新增本土确诊病例 61 例",
       "summary": "2022年7月2日0-24时，安徽省报告新增确诊病例61例（宿州市灵璧县1例、泗县60例），无新增疑似病例，新增无症状感染者231例（宿州市灵璧县3例、泗县228例）。\n6月26日至7月2日24时，安徽省共报告确诊病例105例，其中境外输入1例，宿州市泗县103例、灵璧县1例；共报告无症状感染者467例。",
       "infoSource": "央视新闻app",
@@ -9081,7 +9096,7 @@
     {
       "id": 200171,
       "pubDate": 1656810687000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "陕西 | 昨日新增本土确诊病例 3 例",
       "summary": "7月2日0—24时，陕西新增报告本土确诊病例3例（其中1例昨日已发布）、无症状感染者3例，均在西安。\n截至7月2日24时，现有在院隔离治疗本土确诊病例3例、隔离医学观察无症状感染者3例。\n本土确诊病例1，男，41岁，西安市报告，为7月2日发布的本土确诊病例的密切接触者。核酸检测结果阳性，经市级专家组诊断为新冠肺炎确诊病例（轻型），目前在定点医疗机构隔离治疗。\n本土确诊病例2，女，21岁，西安市报告",
       "infoSource": "央视新闻app",
