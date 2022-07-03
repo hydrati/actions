@@ -206,7 +206,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 57,
+      "currentConfirmedCount": 54,
       "confirmedCount": 2944,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -314,7 +314,7 @@
       "provinceShortName": "四川",
       "cityName": "成都",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 16,
+      "currentConfirmedCount": 15,
       "confirmedCount": 1709,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -966,11 +966,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 57,
+          "currentConfirmedCount": 54,
           "confirmedCount": 2944,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "57"
+          "currentConfirmedCountStr": "54"
         },
         {
           "provinceName": "广东省",
@@ -1423,11 +1423,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 15,
           "confirmedCount": 1709,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "15"
         },
         {
           "provinceName": "四川省",
@@ -1534,11 +1534,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 3817246,
-      "confirmedCount": 3837856,
+      "currentConfirmedCount": 3849830,
+      "confirmedCount": 3870528,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 6868,
+      "deadCount": 6956,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -1570,8 +1570,8 @@
     {
       "provinceName": "澳门",
       "provinceShortName": "澳门",
-      "currentConfirmedCount": 265,
-      "confirmedCount": 348,
+      "currentConfirmedCount": 272,
+      "confirmedCount": 355,
       "suspectedCount": 9,
       "curedCount": 83,
       "deadCount": 0,
@@ -2422,15 +2422,15 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 57,
+          "currentConfirmedCount": 54,
           "confirmedCount": 2944,
           "suspectedCount": 3,
-          "curedCount": 2886,
+          "curedCount": 2889,
           "deadCount": 1,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 440100,
-          "currentConfirmedCountStr": "57"
+          "currentConfirmedCountStr": "54"
         },
         {
           "cityName": "深圳",
@@ -2674,15 +2674,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -4,
+          "currentConfirmedCount": -1,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 4,
+          "curedCount": 1,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-4"
+          "currentConfirmedCountStr": "-1"
         }
       ],
       "dangerAreas": []
@@ -5012,15 +5012,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 15,
           "confirmedCount": 1709,
           "suspectedCount": 0,
-          "curedCount": 1690,
+          "curedCount": 1691,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 510100,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "15"
         },
         {
           "cityName": "广元",
@@ -5252,15 +5252,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -84,
+          "currentConfirmedCount": -83,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 84,
+          "curedCount": 83,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-84"
+          "currentConfirmedCountStr": "-83"
         }
       ],
       "dangerAreas": []
@@ -7021,8 +7021,8 @@
       "comment": "",
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-      "highDangerCount": 10,
-      "midDangerCount": 14,
+      "highDangerCount": 13,
+      "midDangerCount": 18,
       "detectOrgCount": 192,
       "vaccinationOrgCount": 204,
       "cities": [
@@ -7093,8 +7093,8 @@
           "suspectedCount": 0,
           "curedCount": 83,
           "deadCount": 0,
-          "highDangerCount": 10,
-          "midDangerCount": 14,
+          "highDangerCount": 13,
+          "midDangerCount": 18,
           "locationId": 210600,
           "currentConfirmedCountStr": "0"
         },
@@ -7222,6 +7222,31 @@
       "dangerAreas": [
         {
           "cityName": "丹东",
+          "areaName": "临江街道振四街15号/17号/19号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "帽盔山街道知春园小区5号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "汤池镇集环路47号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "汤池镇集贤新村二期",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "纤维街道和谐家园小区10号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "丹东",
           "areaName": "元宝区兴东街道环球小区",
           "dangerLevel": 1
         },
@@ -7232,17 +7257,12 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "振安区珍珠街道紫光福郡一期15号楼",
+          "areaName": "站前街道三纬路90号/92号/94号/锦山大街58号",
           "dangerLevel": 1
         },
         {
           "cityName": "丹东",
           "areaName": "振兴区合作区中央大街31-2至31-18号楼，文庆路70-19至70-43号楼、文庆路70-45号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振兴区临江街道东升佳园二期",
           "dangerLevel": 1
         },
         {
@@ -7257,11 +7277,6 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区汤池镇复兴村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
           "areaName": "振兴区纤维街道福馨佳园小区",
           "dangerLevel": 1
         },
@@ -7272,7 +7287,22 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "元宝区广济街到御景苑小区二期2号楼",
+          "areaName": "广济街道御景苑小区二期2号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "临江街道东升佳园二期",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "汤池镇复兴村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "纤维街道和谐家园小区",
           "dangerLevel": 2
         },
         {
@@ -7338,6 +7368,11 @@
         {
           "cityName": "丹东",
           "areaName": "振兴区永昌街道保利一期A2区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "珍珠街道紫光福郡一期15号楼",
           "dangerLevel": 2
         }
       ]
@@ -8763,11 +8798,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4708244158,
+  "getPV": 4708256740,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1656830923000,
+    "modifyTime": 1656838949000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -8783,17 +8818,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4083164,
-    "confirmedCount": 4402734,
+    "currentConfirmedCount": 4115755,
+    "confirmedCount": 4435413,
     "suspectedCount": 19454,
     "curedCount": 298071,
-    "deadCount": 21499,
+    "deadCount": 21587,
     "seriousCount": 1249,
     "suspectedIncr": 29,
-    "currentConfirmedIncr": 35018,
-    "confirmedIncr": 35219,
+    "currentConfirmedIncr": 67609,
+    "confirmedIncr": 67898,
     "curedIncr": 102,
-    "deadIncr": 99,
+    "deadIncr": 187,
     "seriousIncr": 261,
     "yesterdayConfirmedCountIncr": 35219,
     "yesterdaySuspectedCountIncr": 29,
@@ -8989,25 +9024,25 @@
       "deadIncr": 1057
     },
     "globalStatistics": {
-      "currentConfirmedCount": 192441483,
-      "confirmedCount": 548628917,
+      "currentConfirmedCount": 192474074,
+      "confirmedCount": 548661596,
       "curedCount": 349835016,
-      "deadCount": 6352418,
-      "currentConfirmedIncr": 570005,
-      "confirmedIncr": 588572,
+      "deadCount": 6352506,
+      "currentConfirmedIncr": 602596,
+      "confirmedIncr": 621251,
       "curedIncr": 17411,
-      "deadIncr": 1156,
+      "deadIncr": 1244,
       "yesterdayConfirmedCountIncr": 588572
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0703/227/6723222734107597553-135.json",
-    "highDangerCount": 124,
-    "midDangerCount": 48
+    "highDangerCount": 127,
+    "midDangerCount": 52
   },
   "getTimelineService1": [
     {
       "id": 200167,
       "pubDate": 1656810315000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "国家卫健委 | 昨日新增本土 75+310 例",
       "summary": "7月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例104例。其中境外输入病例29例（福建8例，上海5例，广东5例，重庆4例，内蒙古2例，北京1例，江苏1例，江西1例，四川1例，陕西1例），含4例由无症状感染者转为确诊病例（广东2例，江西1例，陕西1例）；本土病例75例（安徽61例，山东6例，江苏3例，陕西3例，上海2例），含2例由无症状感染者转为确诊病例（均在山东）。",
       "infoSource": "央视新闻app",
@@ -9020,7 +9055,7 @@
     {
       "id": 200162,
       "pubDate": 1656806685000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "安徽 | 昨日新增本土确诊病例 61 例",
       "summary": "2022年7月2日0-24时，安徽省报告新增确诊病例61例（宿州市灵璧县1例、泗县60例），无新增疑似病例，新增无症状感染者231例（宿州市灵璧县3例、泗县228例）。\n6月26日至7月2日24时，安徽省共报告确诊病例105例，其中境外输入1例，宿州市泗县103例、灵璧县1例；共报告无症状感染者467例。",
       "infoSource": "央视新闻app",
@@ -9033,7 +9068,7 @@
     {
       "id": 200170,
       "pubDate": 1656811127000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "江苏 | 昨日新增本土确诊病例 3 例",
       "summary": "7月2日0—24时，江苏新增本土确诊病例3例（南京市1例，徐州市2例，均在定点医院隔离治疗），新增本土无症状感染者56例（无锡市42例，徐州市11例，苏州市2例，盐城市1例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例1例（新加坡输入，在南京市定点医院隔离治疗），新增境外输入无症状感染者3例。新增解除隔离医学管理的无症状感染者1例（境外输入）。\n新增确诊病例及无症状感染者详情由相关设区市",
       "infoSource": "央视新闻app",
@@ -9046,7 +9081,7 @@
     {
       "id": 200171,
       "pubDate": 1656810687000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "陕西 | 昨日新增本土确诊病例 3 例",
       "summary": "7月2日0—24时，陕西新增报告本土确诊病例3例（其中1例昨日已发布）、无症状感染者3例，均在西安。\n截至7月2日24时，现有在院隔离治疗本土确诊病例3例、隔离医学观察无症状感染者3例。\n本土确诊病例1，男，41岁，西安市报告，为7月2日发布的本土确诊病例的密切接触者。核酸检测结果阳性，经市级专家组诊断为新冠肺炎确诊病例（轻型），目前在定点医疗机构隔离治疗。\n本土确诊病例2，女，21岁，西安市报告",
       "infoSource": "央视新闻app",
@@ -9059,7 +9094,7 @@
     {
       "id": 200157,
       "pubDate": 1656805359000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 2 例",
       "summary": "上海市卫健委今早（7月3日）通报：2022年7月2日0—24时，新增本土新冠肺炎确诊病例2例，均在隔离管控中发现。新增境外输入性新冠肺炎确诊病例5例和无症状感染者7例，均在闭环管控中发现。\n2022年7月2日0—24时，新增本土新冠肺炎确诊病例2例。治愈出院1例。\n病例1，39岁，病例2，33岁，均为航司国际航班入境服务保障人员。7月1日，在闭环管理期间例行检测发现结果异常，2人即被隔离排查。经市",
       "infoSource": "央视新闻app",
