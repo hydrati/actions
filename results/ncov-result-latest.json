@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 52,
       "currentConfirmedCount": 185,
       "confirmedCount": 227,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 139,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 141,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
@@ -89,7 +89,7 @@
       "currentConfirmedCount": 19,
       "confirmedCount": 3689,
       "dangerCountIncr": 1,
-      "currentDangerCount": 5,
+      "currentDangerCount": 7,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -498,8 +498,8 @@
       "yesterdayAsymptomaticCount": 179,
       "currentConfirmedCount": 186,
       "confirmedCount": 1251,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 139,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 141,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "cities": [
@@ -511,8 +511,8 @@
           "yesterdayAsymptomaticCount": 179,
           "currentConfirmedCount": 185,
           "confirmedCount": 227,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 139,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 141,
           "currentConfirmedCountStr": "185"
         }
       ]
@@ -784,7 +784,7 @@
       "currentConfirmedCount": 19,
       "confirmedCount": 3689,
       "dangerCountIncr": 1,
-      "currentDangerCount": 5,
+      "currentDangerCount": 7,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -797,7 +797,7 @@
           "currentConfirmedCount": 4,
           "confirmedCount": 5,
           "dangerCountIncr": 1,
-          "currentDangerCount": 4,
+          "currentDangerCount": 5,
           "currentConfirmedCountStr": "4"
         },
         {
@@ -857,8 +857,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 94,
           "confirmedCount": 114,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "94"
         },
         {
@@ -1594,11 +1594,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 3872876,
-      "confirmedCount": 3893643,
+      "currentConfirmedCount": 3908757,
+      "confirmedCount": 3929627,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 7025,
+      "deadCount": 7128,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -1630,8 +1630,8 @@
     {
       "provinceName": "澳门",
       "provinceShortName": "澳门",
-      "currentConfirmedCount": 315,
-      "confirmedCount": 400,
+      "currentConfirmedCount": 350,
+      "confirmedCount": 435,
       "suspectedCount": 9,
       "curedCount": 83,
       "deadCount": 2,
@@ -1656,8 +1656,8 @@
       "comment": "",
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-      "highDangerCount": 120,
-      "midDangerCount": 19,
+      "highDangerCount": 121,
+      "midDangerCount": 20,
       "detectOrgCount": 412,
       "vaccinationOrgCount": 161,
       "cities": [
@@ -1668,8 +1668,8 @@
           "suspectedCount": 0,
           "curedCount": 42,
           "deadCount": 0,
-          "highDangerCount": 120,
-          "midDangerCount": 19,
+          "highDangerCount": 121,
+          "midDangerCount": 20,
           "locationId": 341300,
           "currentConfirmedCountStr": "185"
         },
@@ -2064,11 +2064,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "高尤社区小石庄",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "虹城街道城市花园",
           "dangerLevel": 1
         },
@@ -2150,6 +2145,11 @@
         {
           "cityName": "宿州",
           "areaName": "锦绣华庭小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "灵城镇君临天下小区",
           "dangerLevel": 1
         },
         {
@@ -2275,6 +2275,11 @@
         {
           "cityName": "宿州",
           "areaName": "韦集镇永久村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "韦集镇杨马村",
           "dangerLevel": 1
         },
         {
@@ -2515,6 +2520,11 @@
         {
           "cityName": "宿州",
           "areaName": "灵璧县灵城镇刘赵村除封控区外的其他区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "灵城镇西关社区除高风险区外的其他区域",
           "dangerLevel": 2
         },
         {
@@ -5234,7 +5244,7 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 1,
+      "highDangerCount": 3,
       "midDangerCount": 4,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
@@ -5307,7 +5317,7 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 0,
+          "highDangerCount": 1,
           "midDangerCount": 0,
           "locationId": 110112,
           "currentConfirmedCountStr": "94"
@@ -5418,7 +5428,7 @@
           "suspectedCount": 0,
           "curedCount": 1,
           "deadCount": 0,
-          "highDangerCount": 1,
+          "highDangerCount": 2,
           "midDangerCount": 3,
           "locationId": 110119,
           "currentConfirmedCountStr": "4"
@@ -5478,7 +5488,17 @@
       "dangerAreas": [
         {
           "cityName": "延庆区",
+          "areaName": "八达岭镇石佛寺村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "延庆区",
           "areaName": "八达岭镇长城脚下的公社（酒店）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "通州区",
+          "areaName": "潞邑街道珠江拉维小镇小区",
           "dangerLevel": 1
         },
         {
@@ -9304,11 +9324,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4708891805,
+  "getPV": 4708903725,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657012251000,
+    "modifyTime": 1657014445000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9324,17 +9344,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4139295,
-    "confirmedCount": 4459242,
+    "currentConfirmedCount": 4175211,
+    "confirmedCount": 4495261,
     "suspectedCount": 19528,
     "curedCount": 298289,
-    "deadCount": 21658,
+    "deadCount": 21761,
     "seriousCount": 1774,
     "suspectedIncr": 43,
-    "currentConfirmedIncr": 23278,
-    "confirmedIncr": 23475,
+    "currentConfirmedIncr": 59194,
+    "confirmedIncr": 59494,
     "curedIncr": 128,
-    "deadIncr": 69,
+    "deadIncr": 172,
     "seriousIncr": 222,
     "yesterdayConfirmedCountIncr": 23475,
     "yesterdaySuspectedCountIncr": 43,
@@ -9518,37 +9538,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 188924128,
-      "confirmedCount": 545101249,
+      "currentConfirmedCount": 188915599,
+      "confirmedCount": 545101545,
       "suspectedCount": 4,
-      "curedCount": 349844780,
+      "curedCount": 349853605,
       "deadCount": 6332341,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 247845,
-      "confirmedIncr": 371633,
-      "curedIncr": 123125,
+      "currentConfirmedIncr": 239316,
+      "confirmedIncr": 371929,
+      "curedIncr": 131950,
       "deadIncr": 663
     },
     "globalStatistics": {
-      "currentConfirmedCount": 193063423,
-      "confirmedCount": 549560491,
-      "curedCount": 350143069,
-      "deadCount": 6353999,
-      "currentConfirmedIncr": 271123,
-      "confirmedIncr": 395108,
-      "curedIncr": 123253,
-      "deadIncr": 732,
-      "yesterdayConfirmedCountIncr": 395108
+      "currentConfirmedCount": 193090810,
+      "confirmedCount": 549596806,
+      "curedCount": 350151894,
+      "deadCount": 6354102,
+      "currentConfirmedIncr": 298510,
+      "confirmedIncr": 431423,
+      "curedIncr": 132078,
+      "deadIncr": 835,
+      "yesterdayConfirmedCountIncr": 395404
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0705/681/5340176459908238553-135.json",
-    "highDangerCount": 190,
-    "midDangerCount": 78
+    "highDangerCount": 193,
+    "midDangerCount": 79
   },
   "getTimelineService1": [
     {
       "id": 200339,
       "pubDate": 1656983543000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 69+266 例",
       "summary": "7月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例112例。其中境外输入病例43例（广东11例，福建8例，天津4例，上海4例，江苏3例，重庆3例，云南3例，内蒙古2例，北京1例，山西1例，浙江1例，江西1例，湖北1例），含3例由无症状感染者转为确诊病例（广东2例，浙江1例）；本土病例69例（安徽52例，陕西7例，北京3例，上海3例，山东3例，广东1例），含9例由无症状",
       "infoSource": "央视新闻app",
@@ -9561,7 +9581,7 @@
     {
       "id": 200332,
       "pubDate": 1656979209000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "安徽 | 昨日新增本土确诊病例 52 例 ",
       "summary": "2022年7月4日0—24时，安徽省报告新增确诊病例52例（均在宿州市泗县，其中8例系已报告的无症状感染者转为确诊病例），无新增疑似病例，新增无症状感染者179例（宿州市灵璧县15例、泗县164例）。\n6月26日至7月4日24时，安徽省共报告确诊病例186例，其中境外输入1例，宿州市泗县184例、灵璧县1例；共报告无症状感染者895例。（总台央视记者 李屹）",
       "infoSource": "央视新闻app",
@@ -9574,7 +9594,7 @@
     {
       "id": 200329,
       "pubDate": 1656978658000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 3 例",
       "summary": "7月4日0时至24时，北京新增3例本土确诊病例（1例社会面筛查人员、2例隔离观察人员），无新增疑似病例和无症状感染者；新增1例境外输入确诊病例和1例无症状感染者，无新增疑似病例。治愈出院4例，解除医学观察的无症状感染者1例。\n本土确诊病例\n确诊病例1：现住延庆区长城脚下的公社（酒店），为社会面筛查人员，7月4日诊断为确诊病例。\n确诊病例2、3：现住延庆区长城脚下的公社（酒店），均为隔离观察人员，确",
       "infoSource": "央视新闻app",
@@ -9587,7 +9607,7 @@
     {
       "id": 200328,
       "pubDate": 1656978348000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 3 例",
       "summary": "上海市卫健委今早（7月5日）通报：2022年7月4日0—24时，新增本土新冠肺炎确诊病例3例和无症状感染者5例，其中2例确诊病例和5例无症状感染者在隔离管控中发现。新增境外输入新冠肺炎确诊病例4例和无症状感染者9例，均在闭环管控中发现。\n（总台记者 王殿甲 杨静）",
       "infoSource": "央视新闻app",
@@ -9600,7 +9620,7 @@
     {
       "id": 200336,
       "pubDate": 1656981838000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广东 | 昨日新增本土确诊病例 1 例 ",
       "summary": "7月4日0—24时，广东省新增本土确诊病例1例，河源报告，为闭环管理的外省协查人员检测发现。新增本土无症状感染者2例，广州和深圳各报告1例，均在集中隔离的密接筛查中发现。全省新增出院9例（境外输入8例），目前在院92例（境外输入79例）；新增解除医学观察无症状感染者27例（均为境外输入），尚在医学观察无症状感染者132例（境外输入105例）。\n广东省新增境外输入确诊病例11例（其中2例为无症状感染",
       "infoSource": "央视新闻app",
