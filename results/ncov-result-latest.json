@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 81,
       "currentConfirmedCount": 266,
       "confirmedCount": 308,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 141,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 148,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
@@ -76,8 +76,8 @@
       "yesterdayLocalConfirmedCount": 8,
       "currentConfirmedCount": 9,
       "confirmedCount": 86,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 21,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 53,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
@@ -148,8 +148,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 11,
       "confirmedCount": 2348,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 7,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 19,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
     },
@@ -510,8 +510,8 @@
       "yesterdayAsymptomaticCount": 141,
       "currentConfirmedCount": 267,
       "confirmedCount": 1332,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 141,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 148,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "cities": [
@@ -523,8 +523,8 @@
           "yesterdayAsymptomaticCount": 139,
           "currentConfirmedCount": 266,
           "confirmedCount": 308,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 141,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 148,
           "currentConfirmedCountStr": "266"
         }
       ]
@@ -742,8 +742,8 @@
       "yesterdayAsymptomaticCount": 6,
       "currentConfirmedCount": 65,
       "confirmedCount": 3476,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 21,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 55,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
@@ -755,8 +755,8 @@
           "yesterdayAsymptomaticCount": 6,
           "currentConfirmedCount": 9,
           "confirmedCount": 86,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 21,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 53,
           "currentConfirmedCountStr": "9"
         }
       ]
@@ -1163,8 +1163,8 @@
       "yesterdayAsymptomaticCount": 10,
       "currentConfirmedCount": 17,
       "confirmedCount": 3347,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 7,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 19,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
       "cities": [
@@ -1176,8 +1176,8 @@
           "yesterdayAsymptomaticCount": 10,
           "currentConfirmedCount": 11,
           "confirmedCount": 2348,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 7,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 19,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         }
@@ -1534,8 +1534,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 19,
       "confirmedCount": 2104,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
       "cities": [
@@ -1680,7 +1680,7 @@
       "comment": "",
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-      "highDangerCount": 121,
+      "highDangerCount": 128,
       "midDangerCount": 20,
       "detectOrgCount": 412,
       "vaccinationOrgCount": 161,
@@ -1692,7 +1692,7 @@
           "suspectedCount": 0,
           "curedCount": 42,
           "deadCount": 0,
-          "highDangerCount": 121,
+          "highDangerCount": 128,
           "midDangerCount": 20,
           "locationId": 341300,
           "currentConfirmedCountStr": "266"
@@ -1968,6 +1968,16 @@
         },
         {
           "cityName": "宿州",
+          "areaName": "东城丽苑",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "东城英郡小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
           "areaName": "东方明珠小区",
           "dangerLevel": 1
         },
@@ -2073,7 +2083,17 @@
         },
         {
           "cityName": "宿州",
+          "areaName": "大杨镇大杨镇卫生院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
           "areaName": "大庄镇朝阳村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "大庄镇东风村",
           "dangerLevel": 1
         },
         {
@@ -2158,12 +2178,22 @@
         },
         {
           "cityName": "宿州",
+          "areaName": "黑塔镇三葛村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
           "areaName": "黄圩镇三侯村",
           "dangerLevel": 1
         },
         {
           "cityName": "宿州",
           "areaName": "和谐家园小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "家和花园小区",
           "dangerLevel": 1
         },
         {
@@ -2474,6 +2504,11 @@
         {
           "cityName": "宿州",
           "areaName": "中安江山印小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "紫宸苑",
           "dangerLevel": 1
         },
         {
@@ -3207,8 +3242,8 @@
       "comment": "",
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
-      "highDangerCount": 12,
-      "midDangerCount": 9,
+      "highDangerCount": 26,
+      "midDangerCount": 29,
       "detectOrgCount": 59,
       "vaccinationOrgCount": 156,
       "cities": [
@@ -3231,8 +3266,8 @@
           "suspectedCount": 0,
           "curedCount": 77,
           "deadCount": 0,
-          "highDangerCount": 12,
-          "midDangerCount": 9,
+          "highDangerCount": 25,
+          "midDangerCount": 28,
           "locationId": 350900,
           "currentConfirmedCountStr": "9"
         },
@@ -3291,8 +3326,8 @@
           "suspectedCount": 0,
           "curedCount": 40,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 1,
           "locationId": 350600,
           "currentConfirmedCountStr": "0"
         },
@@ -3336,6 +3371,11 @@
       "dangerAreas": [
         {
           "cityName": "宁德",
+          "areaName": "松港街道金顶国际一期1#、2#、5#",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
           "areaName": "霞浦松城街道燕窝里172号周边两排（含172号）",
           "dangerLevel": 1
         },
@@ -3361,6 +3401,16 @@
         },
         {
           "cityName": "宁德",
+          "areaName": "霞浦县松城街道东吾华庭1号楼、3号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道东园新村23号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
           "areaName": "霞浦县松城街道富荣弄196号",
           "dangerLevel": 1
         },
@@ -3372,6 +3422,56 @@
         {
           "cityName": "宁德",
           "areaName": "霞浦县松城街道山河路96号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道天安花苑26号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道中乘社区中兴商场",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东关平安路165号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东关永康路9号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东阳社区东泰华府二期盐田湾海鲜楼店铺",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道后港村育英街103号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道金山花园19号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道阳光城6号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县沙江镇坡头村渔民沃自然村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松山街道红星美凯龙商场",
           "dangerLevel": 1
         },
         {
@@ -3392,6 +3492,11 @@
         {
           "cityName": "宁德",
           "areaName": "霞浦县长春镇渔家地村（主村）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "漳州",
+          "areaName": "浦南镇布坑村龙前社26-1号4幢",
           "dangerLevel": 1
         },
         {
@@ -3426,7 +3531,67 @@
         },
         {
           "cityName": "宁德",
+          "areaName": "霞浦县松城街道彩虹社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道崇儒乡杨沙溪村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道俊星社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道俊贤社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道龙贤社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道七宝洋新村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道沙江镇坡头村（除渔民沃自然村外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道松兴社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道万贤社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道西关社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道兴贤社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
           "areaName": "霞浦县松城街道燕窝里第四网格，东至松城街道龙马新村，西至松城街道霞富弄，北至松城街道太康路，南至松城街道燕窝里165号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松城街道玉旺新村",
           "dangerLevel": 2
         },
         {
@@ -3436,7 +3601,47 @@
         },
         {
           "cityName": "宁德",
+          "areaName": "霞浦县松港街道东关社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东景社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东昇社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东兴社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道东阳社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松港街道后港村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
+          "areaName": "霞浦县松山街道世邦三千府小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宁德",
           "areaName": "霞浦县玉旺新村前三排",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "漳州",
+          "areaName": "浦南镇布坑村（除龙前社26-1号4幢、布坑新村外）",
           "dangerLevel": 2
         }
       ]
@@ -5161,8 +5366,8 @@
       "comment": "",
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 0,
-      "midDangerCount": 0,
+      "highDangerCount": 1,
+      "midDangerCount": 1,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
       "cities": [
@@ -5281,8 +5486,8 @@
           "suspectedCount": 0,
           "curedCount": 12,
           "deadCount": 1,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 1,
           "locationId": 150800,
           "currentConfirmedCountStr": "0"
         },
@@ -5335,7 +5540,18 @@
           "currentConfirmedCountStr": "-2"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "甘其毛都镇",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "海流图镇",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "陕西省",
@@ -5348,8 +5564,8 @@
       "comment": "",
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json",
-      "highDangerCount": 4,
-      "midDangerCount": 3,
+      "highDangerCount": 9,
+      "midDangerCount": 10,
       "detectOrgCount": 276,
       "vaccinationOrgCount": 26,
       "cities": [
@@ -5360,8 +5576,8 @@
           "suspectedCount": 0,
           "curedCount": 2334,
           "deadCount": 3,
-          "highDangerCount": 4,
-          "midDangerCount": 3,
+          "highDangerCount": 9,
+          "midDangerCount": 10,
           "locationId": 610100,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -5529,12 +5745,37 @@
         },
         {
           "cityName": "西安",
+          "areaName": "航天基地上元郡社区航天新佳园一期（含临街商铺）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区金辉社区金辉世界城小区C区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区龙游北路社区万科翡翠国际城东区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区曲江香都社区天地源曲江香都小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西安",
           "areaName": "曲江新区曲江香都社区万科蜜柚小区5号楼沿街3F-105店铺",
           "dangerLevel": 1
         },
         {
           "cityName": "西安",
           "areaName": "曲江新区中铁国际社区龙邸保障房小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西安",
+          "areaName": "雁塔区等驾坡街道白杨寨村",
           "dangerLevel": 1
         },
         {
@@ -5550,6 +5791,41 @@
         {
           "cityName": "西安",
           "areaName": "大兆街道三益村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "航天基地农行小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "航天基地上元郡社区泓景云尚小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区金地天境社区春晓苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区曲江香都社区香都东岸小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "曲江新区雁南路曲江金辉小学",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "雁塔区羊头镇社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西安",
+          "areaName": "长安区韦曲街道大府井村",
           "dangerLevel": 2
         },
         {
@@ -9360,11 +9636,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4709086320,
+  "getPV": 4709115204,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657077604000,
+    "modifyTime": 1657079551000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -9597,14 +9873,14 @@
       "yesterdayConfirmedCountIncr": 1055217
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0706/476/1139483312463158553-135.json",
-    "highDangerCount": 221,
-    "midDangerCount": 106
+    "highDangerCount": 220,
+    "midDangerCount": 107
   },
   "getTimelineService1": [
     {
       "id": 200452,
       "pubDate": 1657070608000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "2小时前",
       "title": "国家卫健委 | 昨日新增本土 112+241 例",
       "summary": "7月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例141例。其中境外输入病例29例（广东9例，上海6例，福建3例，北京2例，重庆2例，天津1例，浙江1例，山东1例，海南1例，四川1例，云南1例，陕西1例），含6例由无症状感染者转为确诊病例（广东2例，浙江1例，山东1例，重庆1例，四川1例）；本土病例112例（安徽81例，上海9例，福建8例，北京5例，江苏4例，浙江2例",
       "infoSource": "央视新闻app",
@@ -9630,7 +9906,7 @@
     {
       "id": 200433,
       "pubDate": 1657064787000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "上海 | 昨日新增本土确诊病例 9 例",
       "summary": "上海市卫健委今早（7月6日）通报：2022年7月5日0—24时，新增本土新冠肺炎确诊病例9例和无症状感染者15例，均在隔离管控中发现。新增境外输入性新冠肺炎确诊病例6例和无症状感染者11例，均在闭环管控中发现。\n2022年7月5日0—24时，新增本土新冠肺炎确诊病例9例。治愈出院1例。\n病例1，居住于浦东新区，病例2，居住于黄浦区，病例3—病例5，居住于徐汇区，病例6，居住于静安区，病例7，居住于",
       "infoSource": "央视新闻app",
@@ -9641,15 +9917,15 @@
       "jumpUrl": ""
     },
     {
-      "id": 200328,
-      "pubDate": 1656978348000,
-      "pubDateStr": "1天前",
-      "title": "上海 | 昨日新增本土确诊病例 3 例",
-      "summary": "上海市卫健委今早（7月5日）通报：2022年7月4日0—24时，新增本土新冠肺炎确诊病例3例和无症状感染者5例，其中2例确诊病例和5例无症状感染者在隔离管控中发现。新增境外输入新冠肺炎确诊病例4例和无症状感染者9例，均在闭环管控中发现。\n（总台记者 王殿甲 杨静）",
+      "id": 200461,
+      "pubDate": 1657072621000,
+      "pubDateStr": "1小时前",
+      "title": "福建 | 昨日新增本土确诊病例 8 例",
+      "summary": "7月5日0—24时，福建省报告新增境外输入确诊病例3例（厦门市3例）。\n当日报告新增境外输入无症状感染者1例（福州市1例）。\n截至7月5日24时，福建省累计报告境外输入确诊病例1402例，目前住院56例，无死亡病例；现有境外输入无症状感染者尚在隔离医学观察10例。\n7月5日0—24时，福建省报告新增本土确诊病例8例（宁德市8例，其中无症状感染者转确诊6例）。\n当日报告新增本土无症状感染者6例（宁德",
       "infoSource": "央视新闻app",
-      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=5110080924324612085&toc_style_id=feeds_default",
+      "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=8090462684615155648&toc_style_id=feeds_default",
       "provinceId": "",
-      "articleId": 105155,
+      "articleId": 105336,
       "category": 1,
       "jumpUrl": ""
     },
