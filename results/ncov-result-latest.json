@@ -77,7 +77,7 @@
       "currentConfirmedCount": 27,
       "confirmedCount": 3702,
       "dangerCountIncr": 1,
-      "currentDangerCount": 11,
+      "currentDangerCount": 10,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -137,7 +137,7 @@
       "currentConfirmedCount": 4,
       "confirmedCount": 17,
       "dangerCountIncr": 1,
-      "currentDangerCount": 7,
+      "currentDangerCount": 6,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json"
     },
@@ -805,7 +805,7 @@
       "currentConfirmedCount": 27,
       "confirmedCount": 3702,
       "dangerCountIncr": 1,
-      "currentDangerCount": 11,
+      "currentDangerCount": 10,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -916,7 +916,7 @@
           "currentConfirmedCount": 57,
           "confirmedCount": 102,
           "dangerCountIncr": 1,
-          "currentDangerCount": 2,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "57"
         },
         {
@@ -1083,7 +1083,7 @@
       "currentConfirmedCount": 18,
       "confirmedCount": 2108,
       "dangerCountIncr": 1,
-      "currentDangerCount": 7,
+      "currentDangerCount": 6,
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
       "cities": [
@@ -1096,7 +1096,7 @@
           "currentConfirmedCount": 4,
           "confirmedCount": 17,
           "dangerCountIncr": 1,
-          "currentDangerCount": 7,
+          "currentDangerCount": 6,
           "currentConfirmedCountStr": "4"
         },
         {
@@ -5352,7 +5352,7 @@
       "comment": "北京卫健委未明确大部分治愈与死亡病例的分区归属，因此北京市下辖分区的现存确诊暂无法获取。",
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
-      "highDangerCount": 6,
+      "highDangerCount": 5,
       "midDangerCount": 5,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
@@ -5462,7 +5462,7 @@
           "suspectedCount": 0,
           "curedCount": 45,
           "deadCount": 0,
-          "highDangerCount": 2,
+          "highDangerCount": 1,
           "midDangerCount": 0,
           "locationId": 110113,
           "currentConfirmedCountStr": "57"
@@ -5605,16 +5605,6 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "顺义区",
-          "areaName": "空港街道龙湾别墅",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "顺义区",
-          "areaName": "空港街道龙湾别墅5702栋",
-          "dangerLevel": 1
-        },
-        {
           "cityName": "通州区",
           "areaName": "潞邑街道珠江拉维小镇小区",
           "dangerLevel": 1
@@ -5622,6 +5612,11 @@
         {
           "cityName": "昌平区",
           "areaName": "中东路121号院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "顺义区",
+          "areaName": "空港街道龙湾别墅5702栋",
           "dangerLevel": 1
         },
         {
@@ -6453,7 +6448,7 @@
       "comment": "",
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 4,
+      "highDangerCount": 3,
       "midDangerCount": 3,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
@@ -6489,7 +6484,7 @@
           "suspectedCount": 0,
           "curedCount": 12,
           "deadCount": 1,
-          "highDangerCount": 4,
+          "highDangerCount": 3,
           "midDangerCount": 3,
           "locationId": 150800,
           "currentConfirmedCountStr": "4"
@@ -6616,11 +6611,6 @@
         }
       ],
       "dangerAreas": [
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "甘其毛都镇",
-          "dangerLevel": 1
-        },
         {
           "cityName": "巴彦淖尔",
           "areaName": "乌拉特中旗甘其毛都镇汇鑫源商店所在生活区",
@@ -10444,11 +10434,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4709517354,
+  "getPV": 4709529553,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657185044000,
+    "modifyTime": 1657186043000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10681,14 +10671,14 @@
       "yesterdayConfirmedCountIncr": 1206562
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0707/834/0781763752819968553-135.json",
-    "highDangerCount": 273,
+    "highDangerCount": 271,
     "midDangerCount": 210
   },
   "getTimelineService1": [
     {
       "id": 200603,
       "pubDate": 1657155934000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 94+244 例",
       "summary": "7月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例124例。其中境外输入病例30例（上海11例，福建7例，广东5例，北京2例，江苏2例，山西1例，黑龙江1例，河南1例），含4例由无症状感染者转为确诊病例（北京1例，山西1例，河南1例，广东1例）；本土病例94例（安徽39例，上海32例，北京4例，内蒙古4例，江苏4例，陕西3例，福建2例，山东2例，广东2例，天津1例，山",
       "infoSource": "央视新闻app",
@@ -10701,7 +10691,7 @@
     {
       "id": 200591,
       "pubDate": 1657152209000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "安徽 | 昨日新增本土确诊病例 39 例",
       "summary": "2022年7月6日0-24时，安徽省报告新增确诊病例39例（宿州市灵璧县3例、泗县36例，其中灵璧县1例、泗县8例系已报告的无症状感染者转为确诊病例），无新增疑似病例，新增无症状感染者128例（宿州市灵璧县2例、泗县126例），新增治愈出院病例9例（均在宿州市泗县），新增解除医学观察的无症状感染者51例（宿州市灵璧县2例、泗县49例）。\n6月26日至7月6日24时，安徽省共报告确诊病例306例，其",
       "infoSource": "央视新闻app",
@@ -10714,7 +10704,7 @@
     {
       "id": 200582,
       "pubDate": 1657151078000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 32 例",
       "summary": "上海市卫健委今早（7月7日）通报：2022年7月6日0—24时，新增本土新冠肺炎确诊病例32例和无症状感染者22例，其中30例确诊病例和22例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例11例和无症状感染者6例，均在闭环管控中发现。\n2022年7月6日0—24时，新增本土新冠肺炎确诊病例32例。治愈出院2例。\n病例1，居住于虹口区，病例2，居住于松江区，均在发热就诊时发现核酸检测异",
       "infoSource": "央视新闻app",
@@ -10727,7 +10717,7 @@
     {
       "id": 200585,
       "pubDate": 1657151497000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "北京 | 昨日新增本土确诊病例 4 例",
       "summary": "7月6日0时至24时，北京新增4例本土确诊病例（含1例无症状感染者转确诊病例，均为隔离观察人员），无新增疑似病例和无症状感染者；新增2例境外输入确诊病例（含1例无症状感染者转确诊病例）和2例无症状感染者，无新增疑似病例。治愈出院5例，解除医学观察的无症状感染者4例。\n本土病例\n确诊病例1：现住昌平区中东路121号院，为隔离观察人员，7月6日诊断为确诊病例。\n确诊病例2、3：现住延庆区长城脚下的公社",
       "infoSource": "央视新闻app",
@@ -10740,7 +10730,7 @@
     {
       "id": 200610,
       "pubDate": 1657156442000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "江苏 | 昨日新增本土确诊病例 4 例",
       "summary": "江苏省卫健委7月7日通报：7月6日0-24时，江苏新增本土确诊病例4例（均为无锡市报告，在定点医院隔离治疗），新增本土无症状感染者57例（无锡市29例，徐州市28例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例2例（意大利输入，在南京市定点医院隔离治疗），新增境外输入无症状感染者2例。新增解除隔离医学管理的无症状感染者1例（境外输入）。\n目前，在定点医院隔离治疗的确诊病例35例（本土24",
       "infoSource": "央视新闻app",
