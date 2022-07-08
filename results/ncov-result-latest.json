@@ -225,8 +225,8 @@
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
       "cityName": "重庆",
-      "currentConfirmedCount": 19,
-      "confirmedCount": 745,
+      "currentConfirmedCount": 18,
+      "confirmedCount": 746,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
       "locationId": 500000,
@@ -5718,12 +5718,218 @@
       ]
     },
     {
+      "provinceName": "内蒙古自治区",
+      "provinceShortName": "内蒙古",
+      "currentConfirmedCount": 18,
+      "confirmedCount": 2108,
+      "suspectedCount": 35,
+      "curedCount": 2089,
+      "deadCount": 1,
+      "comment": "",
+      "locationId": 150000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
+      "highDangerCount": 3,
+      "midDangerCount": 3,
+      "detectOrgCount": 248,
+      "vaccinationOrgCount": 9,
+      "cities": [
+        {
+          "cityName": "境外输入人员",
+          "currentConfirmedCount": 7,
+          "confirmedCount": 356,
+          "suspectedCount": 35,
+          "curedCount": 349,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 0,
+          "currentConfirmedCountStr": "7"
+        },
+        {
+          "cityName": "锡林郭勒盟",
+          "currentConfirmedCount": 6,
+          "confirmedCount": 305,
+          "suspectedCount": 0,
+          "curedCount": 299,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 152500,
+          "currentConfirmedCountStr": "6"
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "currentConfirmedCount": 4,
+          "confirmedCount": 17,
+          "suspectedCount": 0,
+          "curedCount": 12,
+          "deadCount": 1,
+          "highDangerCount": 3,
+          "midDangerCount": 3,
+          "locationId": 150800,
+          "currentConfirmedCountStr": "4"
+        },
+        {
+          "cityName": "赤峰",
+          "currentConfirmedCount": 1,
+          "confirmedCount": 77,
+          "suspectedCount": 0,
+          "curedCount": 76,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150400,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "cityName": "呼伦贝尔",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 658,
+          "suspectedCount": 0,
+          "curedCount": 658,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150700,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "呼和浩特",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 446,
+          "suspectedCount": 0,
+          "curedCount": 446,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150100,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "阿拉善盟",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 167,
+          "suspectedCount": 0,
+          "curedCount": 167,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 152900,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "包头",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 39,
+          "suspectedCount": 0,
+          "curedCount": 39,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150200,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "通辽",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 20,
+          "suspectedCount": 0,
+          "curedCount": 20,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150500,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "鄂尔多斯",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 15,
+          "suspectedCount": 0,
+          "curedCount": 15,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150600,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "乌兰察布",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 3,
+          "suspectedCount": 0,
+          "curedCount": 3,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150900,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "兴安盟",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 3,
+          "suspectedCount": 0,
+          "curedCount": 3,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 152200,
+          "currentConfirmedCountStr": "0"
+        },
+        {
+          "cityName": "乌海市",
+          "currentConfirmedCount": 0,
+          "confirmedCount": 2,
+          "suspectedCount": 0,
+          "curedCount": 2,
+          "deadCount": 0,
+          "highDangerCount": 0,
+          "midDangerCount": 0,
+          "locationId": 150300,
+          "currentConfirmedCountStr": "0"
+        }
+      ],
+      "dangerAreas": [
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "乌拉特中旗甘其毛都镇汇鑫源商店所在生活区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "乌拉特中旗甘其毛都镇酒吧街A区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "乌拉特中旗甘其毛都镇中蒙花园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "海流图镇",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "乌拉特中旗甘其毛都镇9公里物流园区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "巴彦淖尔",
+          "areaName": "五原县隆兴昌镇汽车城顺通车行",
+          "dangerLevel": 2
+        }
+      ]
+    },
+    {
       "provinceName": "重庆市",
       "provinceShortName": "重庆",
-      "currentConfirmedCount": 19,
-      "confirmedCount": 745,
+      "currentConfirmedCount": 18,
+      "confirmedCount": 746,
       "suspectedCount": 15,
-      "curedCount": 720,
+      "curedCount": 722,
       "deadCount": 6,
       "comment": "",
       "locationId": 500000,
@@ -5735,15 +5941,15 @@
       "cities": [
         {
           "cityName": "境外输入",
-          "currentConfirmedCount": 19,
-          "confirmedCount": 79,
+          "currentConfirmedCount": 18,
+          "confirmedCount": 80,
           "suspectedCount": 0,
-          "curedCount": 60,
+          "curedCount": 62,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "19"
+          "currentConfirmedCountStr": "18"
         },
         {
           "cityName": "万州区",
@@ -6215,212 +6421,6 @@
         }
       ],
       "dangerAreas": []
-    },
-    {
-      "provinceName": "内蒙古自治区",
-      "provinceShortName": "内蒙古",
-      "currentConfirmedCount": 18,
-      "confirmedCount": 2108,
-      "suspectedCount": 35,
-      "curedCount": 2089,
-      "deadCount": 1,
-      "comment": "",
-      "locationId": 150000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 3,
-      "midDangerCount": 3,
-      "detectOrgCount": 248,
-      "vaccinationOrgCount": 9,
-      "cities": [
-        {
-          "cityName": "境外输入人员",
-          "currentConfirmedCount": 7,
-          "confirmedCount": 356,
-          "suspectedCount": 35,
-          "curedCount": 349,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 0,
-          "currentConfirmedCountStr": "7"
-        },
-        {
-          "cityName": "锡林郭勒盟",
-          "currentConfirmedCount": 6,
-          "confirmedCount": 305,
-          "suspectedCount": 0,
-          "curedCount": 299,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 152500,
-          "currentConfirmedCountStr": "6"
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "currentConfirmedCount": 4,
-          "confirmedCount": 17,
-          "suspectedCount": 0,
-          "curedCount": 12,
-          "deadCount": 1,
-          "highDangerCount": 3,
-          "midDangerCount": 3,
-          "locationId": 150800,
-          "currentConfirmedCountStr": "4"
-        },
-        {
-          "cityName": "赤峰",
-          "currentConfirmedCount": 1,
-          "confirmedCount": 77,
-          "suspectedCount": 0,
-          "curedCount": 76,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150400,
-          "currentConfirmedCountStr": "1"
-        },
-        {
-          "cityName": "呼伦贝尔",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 658,
-          "suspectedCount": 0,
-          "curedCount": 658,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150700,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "呼和浩特",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 446,
-          "suspectedCount": 0,
-          "curedCount": 446,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150100,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "阿拉善盟",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 167,
-          "suspectedCount": 0,
-          "curedCount": 167,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 152900,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "包头",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 39,
-          "suspectedCount": 0,
-          "curedCount": 39,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150200,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "通辽",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 20,
-          "suspectedCount": 0,
-          "curedCount": 20,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150500,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "鄂尔多斯",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 15,
-          "suspectedCount": 0,
-          "curedCount": 15,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150600,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "乌兰察布",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 3,
-          "suspectedCount": 0,
-          "curedCount": 3,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150900,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "兴安盟",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 3,
-          "suspectedCount": 0,
-          "curedCount": 3,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 152200,
-          "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "乌海市",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 2,
-          "suspectedCount": 0,
-          "curedCount": 2,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": 150300,
-          "currentConfirmedCountStr": "0"
-        }
-      ],
-      "dangerAreas": [
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "乌拉特中旗甘其毛都镇汇鑫源商店所在生活区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "乌拉特中旗甘其毛都镇酒吧街A区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "乌拉特中旗甘其毛都镇中蒙花园",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "海流图镇",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "乌拉特中旗甘其毛都镇9公里物流园区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "巴彦淖尔",
-          "areaName": "五原县隆兴昌镇汽车城顺通车行",
-          "dangerLevel": 2
-        }
-      ]
     },
     {
       "provinceName": "云南省",
@@ -10213,11 +10213,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4709657422,
+  "getPV": 4709684627,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657186043000,
+    "modifyTime": 1657242034000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -10233,8 +10233,8 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4241908,
-    "confirmedCount": 4562431,
+    "currentConfirmedCount": 4241909,
+    "confirmedCount": 4562432,
     "suspectedCount": 19587,
     "curedCount": 298561,
     "deadCount": 21962,
@@ -10431,8 +10431,8 @@
       "deadIncr": 0
     },
     "globalStatistics": {
-      "currentConfirmedCount": 195081979,
-      "confirmedCount": 551854991,
+      "currentConfirmedCount": 195081980,
+      "confirmedCount": 551854992,
       "curedCount": 350414903,
       "deadCount": 6358109
     },
@@ -10444,7 +10444,7 @@
     {
       "id": 200603,
       "pubDate": 1657155934000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "国家卫健委 | 昨日新增本土 94+244 例",
       "summary": "7月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例124例。其中境外输入病例30例（上海11例，福建7例，广东5例，北京2例，江苏2例，山西1例，黑龙江1例，河南1例），含4例由无症状感染者转为确诊病例（北京1例，山西1例，河南1例，广东1例）；本土病例94例（安徽39例，上海32例，北京4例，内蒙古4例，江苏4例，陕西3例，福建2例，山东2例，广东2例，天津1例，山",
       "infoSource": "央视新闻app",
@@ -10457,7 +10457,7 @@
     {
       "id": 200591,
       "pubDate": 1657152209000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "安徽 | 昨日新增本土确诊病例 39 例",
       "summary": "2022年7月6日0-24时，安徽省报告新增确诊病例39例（宿州市灵璧县3例、泗县36例，其中灵璧县1例、泗县8例系已报告的无症状感染者转为确诊病例），无新增疑似病例，新增无症状感染者128例（宿州市灵璧县2例、泗县126例），新增治愈出院病例9例（均在宿州市泗县），新增解除医学观察的无症状感染者51例（宿州市灵璧县2例、泗县49例）。\n6月26日至7月6日24时，安徽省共报告确诊病例306例，其",
       "infoSource": "央视新闻app",
@@ -10470,7 +10470,7 @@
     {
       "id": 200582,
       "pubDate": 1657151078000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "上海 | 昨日新增本土确诊病例 32 例",
       "summary": "上海市卫健委今早（7月7日）通报：2022年7月6日0—24时，新增本土新冠肺炎确诊病例32例和无症状感染者22例，其中30例确诊病例和22例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例11例和无症状感染者6例，均在闭环管控中发现。\n2022年7月6日0—24时，新增本土新冠肺炎确诊病例32例。治愈出院2例。\n病例1，居住于虹口区，病例2，居住于松江区，均在发热就诊时发现核酸检测异",
       "infoSource": "央视新闻app",
@@ -10483,7 +10483,7 @@
     {
       "id": 200585,
       "pubDate": 1657151497000,
-      "pubDateStr": "22小时前",
+      "pubDateStr": "1天前",
       "title": "北京 | 昨日新增本土确诊病例 4 例",
       "summary": "7月6日0时至24时，北京新增4例本土确诊病例（含1例无症状感染者转确诊病例，均为隔离观察人员），无新增疑似病例和无症状感染者；新增2例境外输入确诊病例（含1例无症状感染者转确诊病例）和2例无症状感染者，无新增疑似病例。治愈出院5例，解除医学观察的无症状感染者4例。\n本土病例\n确诊病例1：现住昌平区中东路121号院，为隔离观察人员，7月6日诊断为确诊病例。\n确诊病例2、3：现住延庆区长城脚下的公社",
       "infoSource": "央视新闻app",
@@ -10496,7 +10496,7 @@
     {
       "id": 200610,
       "pubDate": 1657156442000,
-      "pubDateStr": "21小时前",
+      "pubDateStr": "23小时前",
       "title": "江苏 | 昨日新增本土确诊病例 4 例",
       "summary": "江苏省卫健委7月7日通报：7月6日0-24时，江苏新增本土确诊病例4例（均为无锡市报告，在定点医院隔离治疗），新增本土无症状感染者57例（无锡市29例，徐州市28例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例2例（意大利输入，在南京市定点医院隔离治疗），新增境外输入无症状感染者2例。新增解除隔离医学管理的无症状感染者1例（境外输入）。\n目前，在定点医院隔离治疗的确诊病例35例（本土24",
       "infoSource": "央视新闻app",
