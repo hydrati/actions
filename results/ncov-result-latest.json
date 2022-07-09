@@ -52,8 +52,8 @@
       "yesterdayLocalConfirmedCount": 25,
       "currentConfirmedCount": 334,
       "confirmedCount": 389,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 156,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 154,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
@@ -65,7 +65,7 @@
       "currentConfirmedCount": 139,
       "confirmedCount": 63380,
       "dangerCountIncr": 1,
-      "currentDangerCount": 161,
+      "currentDangerCount": 162,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json"
     },
@@ -76,8 +76,8 @@
       "yesterdayLocalConfirmedCount": 6,
       "currentConfirmedCount": 19,
       "confirmedCount": 93,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 74,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 77,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json"
     },
@@ -88,8 +88,8 @@
       "yesterdayLocalConfirmedCount": 5,
       "currentConfirmedCount": 64,
       "confirmedCount": 2976,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 1,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -124,8 +124,8 @@
       "yesterdayLocalConfirmedCount": 3,
       "currentConfirmedCount": 27,
       "confirmedCount": 3705,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 10,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 13,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json"
     },
@@ -137,7 +137,7 @@
       "currentConfirmedCount": 15,
       "confirmedCount": 92,
       "dangerCountIncr": 1,
-      "currentDangerCount": 80,
+      "currentDangerCount": 70,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
@@ -293,7 +293,7 @@
       "currentConfirmedCount": 35,
       "confirmedCount": 2026,
       "dangerCountIncr": 1,
-      "currentDangerCount": 12,
+      "currentDangerCount": 16,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
     },
@@ -304,8 +304,8 @@
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 34,
       "confirmedCount": 2569,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 15,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -516,6 +516,18 @@
     {
       "provinceName": "广东省",
       "provinceShortName": "广东",
+      "cityName": "中山",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 126,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 2,
+      "locationId": 440000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
+    },
+    {
+      "provinceName": "广东省",
+      "provinceShortName": "广东",
       "cityName": "东莞",
       "yesterdayLocalConfirmedCount": 0,
       "currentConfirmedCount": 1,
@@ -536,18 +548,6 @@
       "currentDangerCount": 0,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
-    },
-    {
-      "provinceName": "广东省",
-      "provinceShortName": "广东",
-      "cityName": "中山",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 126,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 440000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
     {
       "provinceName": "广东省",
@@ -594,8 +594,8 @@
       "yesterdayAsymptomaticCount": 114,
       "currentConfirmedCount": 335,
       "confirmedCount": 1413,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 156,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 154,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "cities": [
@@ -607,8 +607,8 @@
           "yesterdayAsymptomaticCount": 114,
           "currentConfirmedCount": 334,
           "confirmedCount": 389,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 156,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 154,
           "currentConfirmedCountStr": "334"
         }
       ]
@@ -621,7 +621,7 @@
       "currentConfirmedCount": 139,
       "confirmedCount": 63380,
       "dangerCountIncr": 1,
-      "currentDangerCount": 161,
+      "currentDangerCount": 162,
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
       "cities": [
@@ -741,8 +741,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 9,
           "confirmedCount": 2977,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 3,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "9"
         },
         {
@@ -826,8 +826,8 @@
       "yesterdayAsymptomaticCount": 71,
       "currentConfirmedCount": 38,
       "confirmedCount": 2287,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 99,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 102,
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "cities": [
@@ -839,8 +839,8 @@
           "yesterdayAsymptomaticCount": 44,
           "currentConfirmedCount": 19,
           "confirmedCount": 93,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 74,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 77,
           "currentConfirmedCountStr": "19"
         },
         {
@@ -876,8 +876,8 @@
       "yesterdayAsymptomaticCount": 2,
       "currentConfirmedCount": 120,
       "confirmedCount": 7538,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 18,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -889,8 +889,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 64,
           "confirmedCount": 2976,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 1,
           "currentConfirmedCountStr": "64"
         },
         {
@@ -913,8 +913,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 34,
           "confirmedCount": 2569,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 8,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 15,
           "currentConfirmedCountStr": "34"
         },
         {
@@ -980,23 +980,23 @@
         {
           "provinceName": "广东省",
           "provinceShortName": "广东",
-          "cityName": "东莞",
-          "yesterdayLocalConfirmedCount": 0,
-          "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 1,
-          "confirmedCount": 496,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
-          "currentConfirmedCountStr": "1"
-        },
-        {
-          "provinceName": "广东省",
-          "provinceShortName": "广东",
           "cityName": "中山",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 1,
           "confirmedCount": 126,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
+          "currentConfirmedCountStr": "1"
+        },
+        {
+          "provinceName": "广东省",
+          "provinceShortName": "广东",
+          "cityName": "东莞",
+          "yesterdayLocalConfirmedCount": 0,
+          "yesterdayAsymptomaticCount": 0,
+          "currentConfirmedCount": 1,
+          "confirmedCount": 496,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
           "currentConfirmedCountStr": "1"
@@ -1075,7 +1075,7 @@
       "currentConfirmedCount": 89,
       "confirmedCount": 3511,
       "dangerCountIncr": 1,
-      "currentDangerCount": 82,
+      "currentDangerCount": 72,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
@@ -1088,7 +1088,7 @@
           "currentConfirmedCount": 15,
           "confirmedCount": 92,
           "dangerCountIncr": 1,
-          "currentDangerCount": 80,
+          "currentDangerCount": 70,
           "currentConfirmedCountStr": "15"
         },
         {
@@ -1124,8 +1124,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 27,
       "confirmedCount": 3705,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 10,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 13,
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "cities": [
@@ -1137,8 +1137,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 60,
           "confirmedCount": 105,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 4,
           "currentConfirmedCountStr": "60"
         },
         {
@@ -1323,8 +1323,8 @@
       "yesterdayAsymptomaticCount": 45,
       "currentConfirmedCount": 27,
       "confirmedCount": 2780,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 21,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 27,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
       "cities": [
@@ -1535,7 +1535,7 @@
       "currentConfirmedCount": 35,
       "confirmedCount": 2026,
       "dangerCountIncr": 1,
-      "currentDangerCount": 12,
+      "currentDangerCount": 16,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "cities": [
@@ -1548,7 +1548,7 @@
           "currentConfirmedCount": 8,
           "confirmedCount": 36,
           "dangerCountIncr": 1,
-          "currentDangerCount": 6,
+          "currentDangerCount": 8,
           "currentConfirmedCountStr": "8"
         },
         {
@@ -1607,8 +1607,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 6,
           "confirmedCount": 38,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 1,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "6"
         },
         {
@@ -1643,8 +1643,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 3,
           "confirmedCount": 367,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 5,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 6,
           "currentConfirmedCountStr": "3"
         },
         {
@@ -1814,11 +1814,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4004866,
-      "confirmedCount": 4026067,
+      "currentConfirmedCount": 4032894,
+      "confirmedCount": 4054189,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 7459,
+      "deadCount": 7553,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -1876,8 +1876,8 @@
       "comment": "",
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
-      "highDangerCount": 113,
-      "midDangerCount": 43,
+      "highDangerCount": 95,
+      "midDangerCount": 59,
       "detectOrgCount": 412,
       "vaccinationOrgCount": 161,
       "cities": [
@@ -1888,8 +1888,8 @@
           "suspectedCount": 0,
           "curedCount": 55,
           "deadCount": 0,
-          "highDangerCount": 113,
-          "midDangerCount": 43,
+          "highDangerCount": 95,
+          "midDangerCount": 59,
           "locationId": 341300,
           "currentConfirmedCountStr": "334"
         },
@@ -2129,11 +2129,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "草沟镇汪尚村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "草沟镇夏庙村",
           "dangerLevel": 1
         },
@@ -2159,11 +2154,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "东方明珠小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "丁湖镇春韩村",
           "dangerLevel": 1
         },
@@ -2180,11 +2170,6 @@
         {
           "cityName": "宿州",
           "areaName": "丁湖镇文湖村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "丁湖镇张彭村",
           "dangerLevel": 1
         },
         {
@@ -2224,11 +2209,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "大路口镇网周村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "大路口镇西李村",
           "dangerLevel": 1
         },
@@ -2250,16 +2230,6 @@
         {
           "cityName": "宿州",
           "areaName": "大庄镇东风村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "大庄镇万安村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "古汴湾小区",
           "dangerLevel": 1
         },
         {
@@ -2309,11 +2279,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "黑塔镇马厂村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "黑塔镇三葛村",
           "dangerLevel": 1
         },
@@ -2324,17 +2289,7 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "和谐家园小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "家和花园小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "锦绣华庭小区",
           "dangerLevel": 1
         },
         {
@@ -2379,16 +2334,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "屏山镇老山村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "屏山镇屏东村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "荣辉国际小区",
           "dangerLevel": 1
         },
@@ -2415,11 +2360,6 @@
         {
           "cityName": "宿州",
           "areaName": "泗水街道康庄家园",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "泗州绿苑小区",
           "dangerLevel": 1
         },
         {
@@ -2465,21 +2405,6 @@
         {
           "cityName": "宿州",
           "areaName": "温州商城",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "新发地",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "西关开发区虹州运输公司",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "西关社区天和鞋服宿舍",
           "dangerLevel": 1
         },
         {
@@ -2549,11 +2474,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "运河街道国际装饰城小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "运河街道高尤社区",
           "dangerLevel": 1
         },
@@ -2619,11 +2539,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "玉兰菜市场",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "尤庄",
           "dangerLevel": 1
         },
@@ -2649,11 +2564,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "长沟镇长沟村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "宿州",
           "areaName": "滨河社区除封控区外的其他社区",
           "dangerLevel": 2
         },
@@ -2675,11 +2585,6 @@
         {
           "cityName": "宿州",
           "areaName": "草沟镇王楼村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "丁湖镇除高风险区外的其他区域",
           "dangerLevel": 2
         },
         {
@@ -2764,11 +2669,6 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "屏山镇除高风险区外的其他区域",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
           "areaName": "屏山镇陈刘村",
           "dangerLevel": 2
         },
@@ -2815,6 +2715,96 @@
         {
           "cityName": "宿州",
           "areaName": "泗水街道除高风险区外的其他区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县草沟镇汪尚村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县丁湖镇张彭村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县大路口镇网周村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县大庄镇万安村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县虹城街道古汴湾小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县虹城街道和谐家园小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县黑塔镇马厂村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县屏山镇老山村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县屏山镇屏东村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县泗城镇西关开发区虹州运输公司",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县泗水街道泗州绿苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县泗水街道新发地",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县运河街道东方明珠小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县运河街道国际装饰城小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县运河街道锦绣华庭小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县运河街道西关社区天和鞋服宿舍",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县运河街道玉兰菜市场",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "宿州",
+          "areaName": "泗县长沟镇长沟村",
           "dangerLevel": 2
         },
         {
@@ -2880,7 +2870,7 @@
       "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
       "locationId": 310000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/128/3398299755968454977-135.json",
-      "highDangerCount": 10,
+      "highDangerCount": 11,
       "midDangerCount": 151,
       "detectOrgCount": 130,
       "vaccinationOrgCount": 17,
@@ -3024,7 +3014,7 @@
           "suspectedCount": 0,
           "curedCount": 2968,
           "deadCount": 0,
-          "highDangerCount": 1,
+          "highDangerCount": 2,
           "midDangerCount": 2,
           "locationId": 310117,
           "currentConfirmedCountStr": "9"
@@ -3158,13 +3148,18 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "长宁区",
-          "areaName": "虹桥街道娄山关路85号A座2楼仙纳都量贩式KTV",
+          "cityName": "松江区",
+          "areaName": "车墩镇大官塘路180弄松南城善德苑",
           "dangerLevel": 1
         },
         {
           "cityName": "松江区",
           "areaName": "小昆山镇平原街86弄平原新村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "长宁区",
+          "areaName": "虹桥街道娄山关路85号A座2楼仙纳都量贩式KTV",
           "dangerLevel": 1
         },
         {
@@ -3945,8 +3940,8 @@
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-      "highDangerCount": 4,
-      "midDangerCount": 4,
+      "highDangerCount": 10,
+      "midDangerCount": 8,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -3957,7 +3952,7 @@
           "suspectedCount": 3,
           "curedCount": 2911,
           "deadCount": 1,
-          "highDangerCount": 0,
+          "highDangerCount": 1,
           "midDangerCount": 0,
           "locationId": 440100,
           "currentConfirmedCountStr": "64"
@@ -3969,8 +3964,8 @@
           "suspectedCount": 3,
           "curedCount": 2532,
           "deadCount": 3,
-          "highDangerCount": 4,
-          "midDangerCount": 4,
+          "highDangerCount": 8,
+          "midDangerCount": 7,
           "locationId": 440300,
           "currentConfirmedCountStr": "34"
         },
@@ -4053,8 +4048,8 @@
           "suspectedCount": 0,
           "curedCount": 125,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 1,
           "locationId": 442000,
           "currentConfirmedCountStr": "1"
         },
@@ -4233,7 +4228,37 @@
         },
         {
           "cityName": "深圳",
+          "areaName": "罗湖区黄贝街道黄贝岭中村50、54、55、56、64、65栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "罗湖区莲塘街道兰亭国际二座（5楼至50楼）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "南湖街道罗湖桥社区房地产大厦",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
           "areaName": "南湖街道罗湖新村东区（81、82、83、84、85、86、87、88、89、90号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "南山区沙河街道白石洲村东三坊",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "广州",
+          "areaName": "海珠区顺意花园A5、A6、A7、A8、A9栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "中山",
+          "areaName": "高平大道西侧1、3、5、7、9、11、13号、蔡份北街59号、60号之一至六号",
           "dangerLevel": 1
         },
         {
@@ -4253,7 +4278,27 @@
         },
         {
           "cityName": "深圳",
+          "areaName": "罗湖区黄贝街道黄贝岭中村1栋至88栋（除高风险区外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "罗湖区莲塘街道兰亭国际一座（6楼至50楼）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
           "areaName": "南湖街道罗湖新村（除高风险区外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "南山区沙河街道白石洲村（除高风险区外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "中山",
+          "areaName": "三角镇高平村",
           "dangerLevel": 2
         }
       ]
@@ -4270,7 +4315,7 @@
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "highDangerCount": 45,
-      "midDangerCount": 37,
+      "midDangerCount": 27,
       "detectOrgCount": 59,
       "vaccinationOrgCount": 156,
       "cities": [
@@ -4294,7 +4339,7 @@
           "curedCount": 77,
           "deadCount": 0,
           "highDangerCount": 44,
-          "midDangerCount": 36,
+          "midDangerCount": 26,
           "locationId": 350900,
           "currentConfirmedCountStr": "15"
         },
@@ -4638,36 +4683,6 @@
         },
         {
           "cityName": "宁德",
-          "areaName": "霞浦县北至松城街道河沿路，南至松城街道太康路，东至松城街道永福弄，西至松城街道茶厂路",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县北至松城街道龙首花园步行街上弄，南至松城街道山河路，东至松城街道龙首路，西至松城街道文化广场对面十米路",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县东至松城街道西山洋，北至松城街道变电站，西南至松城街道真如寺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县金顶国际1期 1号楼、2号楼、5号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县家缘小区第二排、第三排、第四排",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县康辉花园2号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
           "areaName": "霞浦县松城街道城北社区",
           "dangerLevel": 2
         },
@@ -4708,11 +4723,6 @@
         },
         {
           "cityName": "宁德",
-          "areaName": "霞浦县松城街道七宝洋新村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
           "areaName": "霞浦县松城街道沙江镇坡头村（除渔民沃自然村外）",
           "dangerLevel": 2
         },
@@ -4738,17 +4748,7 @@
         },
         {
           "cityName": "宁德",
-          "areaName": "霞浦县松城街道燕窝里第四网格，东至松城街道龙马新村，西至松城街道霞富弄，北至松城街道太康路，南至松城街道燕窝里165号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
           "areaName": "霞浦县松城街道玉旺新村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宁德",
-          "areaName": "霞浦县松港街道百丽花园小区",
           "dangerLevel": 2
         },
         {
@@ -4797,11 +4797,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "宁德",
-          "areaName": "霞浦县玉旺新村前三排",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "漳州",
           "areaName": "浦南镇布坑村（除龙前社26-1号4幢、布坑新村外）",
           "dangerLevel": 2
@@ -4820,7 +4815,7 @@
       "locationId": 320000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/111/3398299753820971290-135.json",
       "highDangerCount": 57,
-      "midDangerCount": 42,
+      "midDangerCount": 45,
       "detectOrgCount": 395,
       "vaccinationOrgCount": 261,
       "cities": [
@@ -4832,7 +4827,7 @@
           "curedCount": 74,
           "deadCount": 0,
           "highDangerCount": 47,
-          "midDangerCount": 27,
+          "midDangerCount": 30,
           "locationId": 320200,
           "currentConfirmedCountStr": "19"
         },
@@ -5013,7 +5008,7 @@
         },
         {
           "cityName": "无锡",
-          "areaName": "滨湖区荣巷街道集景花园东北片区",
+          "areaName": "滨湖区雪浪街道山水花苑",
           "dangerLevel": 1
         },
         {
@@ -5038,11 +5033,6 @@
         },
         {
           "cityName": "无锡",
-          "areaName": "惠山区堰桥街道阳光壹佰北区阿尔勒二期",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "无锡",
           "areaName": "黄巷街道前盛岸",
           "dangerLevel": 1
         },
@@ -5063,17 +5053,22 @@
         },
         {
           "cityName": "无锡",
-          "areaName": "梁溪区惠山街道盛岸二村东区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "无锡",
           "areaName": "梁溪区惠盛路小区",
           "dangerLevel": 1
         },
         {
           "cityName": "无锡",
           "areaName": "梁溪区山北街道惠华新村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "无锡",
+          "areaName": "梁溪区山北街道盛岸市场周边片区（东至惠峰路、南至惠钱路、西至石门路、北至盛岸路区域：阅山花园小区，惠麓苑一期，惠麓苑二期A区、B区、C区、D区，惠峰新村，二泉花园小区）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "无锡",
+          "areaName": "梁溪区山北街道盛岸一村",
           "dangerLevel": 1
         },
         {
@@ -5143,6 +5138,11 @@
         },
         {
           "cityName": "无锡",
+          "areaName": "锡山区东亭街道蓝光五彩华庭",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "无锡",
           "areaName": "锡山区东亭街道隆亭新苑",
           "dangerLevel": 1
         },
@@ -5168,11 +5168,6 @@
         },
         {
           "cityName": "无锡",
-          "areaName": "新吴区丽景佳苑二期",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "无锡",
           "areaName": "新吴区联心嘉园",
           "dangerLevel": 1
         },
@@ -5193,11 +5188,6 @@
         },
         {
           "cityName": "无锡",
-          "areaName": "新吴区尚品尚农家菜馆",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "无锡",
           "areaName": "新吴区泰伯花苑二期",
           "dangerLevel": 1
         },
@@ -5209,6 +5199,11 @@
         {
           "cityName": "无锡",
           "areaName": "新吴区无锡威孚高科技集团股份有限公司（锡兴路30号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "无锡",
+          "areaName": "新吴区旺庄街道科园路科技产业园93-C",
           "dangerLevel": 1
         },
         {
@@ -5293,12 +5288,17 @@
         },
         {
           "cityName": "无锡",
+          "areaName": "滨湖区河埒街道幸福里（华润悦府）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "无锡",
           "areaName": "滨湖区蠡园街道隐秀苑线泾滨东侧",
           "dangerLevel": 2
         },
         {
           "cityName": "无锡",
-          "areaName": "滨湖区荣巷街道集景花园其他片区",
+          "areaName": "滨湖区荣巷街道集景花园东北片区",
           "dangerLevel": 2
         },
         {
@@ -5319,6 +5319,16 @@
         {
           "cityName": "无锡",
           "areaName": "惠山区堰桥街道林陆苑",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "无锡",
+          "areaName": "惠山区堰桥街道阳光壹佰北区阿尔勒二期",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "无锡",
+          "areaName": "惠山区长安街道锦绣商业广场小区（时代公馆）",
           "dangerLevel": 2
         },
         {
@@ -5515,7 +5525,7 @@
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "highDangerCount": 9,
-      "midDangerCount": 3,
+      "midDangerCount": 7,
       "detectOrgCount": 101,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -5587,7 +5597,7 @@
           "curedCount": 28,
           "deadCount": 0,
           "highDangerCount": 4,
-          "midDangerCount": 2,
+          "midDangerCount": 4,
           "locationId": 120103,
           "currentConfirmedCountStr": "8"
         },
@@ -5623,7 +5633,7 @@
           "curedCount": 32,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 0,
+          "midDangerCount": 1,
           "locationId": 120110,
           "currentConfirmedCountStr": "6"
         },
@@ -5635,7 +5645,7 @@
           "curedCount": 364,
           "deadCount": 0,
           "highDangerCount": 4,
-          "midDangerCount": 1,
+          "midDangerCount": 2,
           "locationId": 120112,
           "currentConfirmedCountStr": "3"
         },
@@ -5738,26 +5748,6 @@
       ],
       "dangerAreas": [
         {
-          "cityName": "津南区",
-          "areaName": "八里台镇瞰湖苑小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "津南区",
-          "areaName": "双港镇金地格林棕榈苑D区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "津南区",
-          "areaName": "双林街海天南苑",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "津南区",
-          "areaName": "双林街津铁惠苑-南区",
-          "dangerLevel": 1
-        },
-        {
           "cityName": "河西区",
           "areaName": "陈塘庄街复兴门家园",
           "dangerLevel": 1
@@ -5778,13 +5768,43 @@
           "dangerLevel": 1
         },
         {
+          "cityName": "津南区",
+          "areaName": "八里台镇瞰湖苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双港镇金地格林棕榈苑D区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双林街海天南苑",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双林街津铁惠苑-南区",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "东丽区",
           "areaName": "万新街蔚秀花园9、10、11、14、15、22、23、26号楼",
           "dangerLevel": 1
         },
         {
           "cityName": "河西区",
+          "areaName": "陈塘庄街四信里8-11号楼除10号楼1门外",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "河西区",
           "areaName": "东海里9门至16门",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "河西区",
+          "areaName": "柳林街东江南里",
           "dangerLevel": 2
         },
         {
@@ -5794,7 +5814,17 @@
         },
         {
           "cityName": "津南区",
-          "areaName": "双林街海天南苑除1号楼、2号楼、15号楼以外区域",
+          "areaName": "双林街福松源庄7号楼3门",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双林街海天馨苑诚勤园13号楼4门",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "东丽区",
+          "areaName": "万新街蔚秀花园（除9、10、11、14、15、22、23、26号楼）",
           "dangerLevel": 2
         }
       ]
@@ -5811,7 +5841,7 @@
       "locationId": 110000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/004/3398299758115524169-135.json",
       "highDangerCount": 5,
-      "midDangerCount": 5,
+      "midDangerCount": 8,
       "detectOrgCount": 300,
       "vaccinationOrgCount": 2,
       "cities": [
@@ -5921,7 +5951,7 @@
           "curedCount": 45,
           "deadCount": 0,
           "highDangerCount": 1,
-          "midDangerCount": 0,
+          "midDangerCount": 3,
           "locationId": 110113,
           "currentConfirmedCountStr": "60"
         },
@@ -6098,6 +6128,21 @@
           "dangerLevel": 2
         },
         {
+          "cityName": "顺义区",
+          "areaName": "空港街道金地中央世家工作室(金地中央世家别墅裕庆路18号院2-101)",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "顺义区",
+          "areaName": "空港街道双囍烧腊茶餐厅(国展店)",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "顺义区",
+          "areaName": "龙湾别墅新冠病毒感染者活动轨迹周边区域（龙湾别墅5号门至1号门连线右侧（面对5号门）堂尚社区6B5单元、2033、2601-2617、1901-1912、1917-1928栋别墅；龙湾别墅5号门至1号门连线左侧（面对5号门）7、19、5101、6101-6107、物业楼、会所楼、3101-3115、5501、5521、5601、5621-5623、5701、5703、5721-5723）",
+          "dangerLevel": 2
+        },
+        {
           "cityName": "昌平区",
           "areaName": "小汤山镇大汤山村双兴苑小区",
           "dangerLevel": 2
@@ -6115,8 +6160,8 @@
       "comment": "",
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-      "highDangerCount": 9,
-      "midDangerCount": 12,
+      "highDangerCount": 13,
+      "midDangerCount": 14,
       "detectOrgCount": 221,
       "vaccinationOrgCount": 113,
       "cities": [
@@ -6235,8 +6280,8 @@
           "suspectedCount": 0,
           "curedCount": 66,
           "deadCount": 0,
-          "highDangerCount": 7,
-          "midDangerCount": 10,
+          "highDangerCount": 11,
+          "midDangerCount": 12,
           "locationId": 371300,
           "currentConfirmedCountStr": "0"
         },
@@ -6316,7 +6361,17 @@
       "dangerAreas": [
         {
           "cityName": "临沂",
+          "areaName": "北沙埠村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临沂",
           "areaName": "大邬埠湖村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临沂",
+          "areaName": "刘家朱许村",
           "dangerLevel": 1
         },
         {
@@ -6336,12 +6391,22 @@
         },
         {
           "cityName": "临沂",
+          "areaName": "兰山街道北道小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临沂",
           "areaName": "堰东村中央大街以东区域",
           "dangerLevel": 1
         },
         {
           "cityName": "临沂",
           "areaName": "银雀山街道阳光新城小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临沂",
+          "areaName": "义堂镇开元上郡小区",
           "dangerLevel": 1
         },
         {
@@ -6376,6 +6441,11 @@
         },
         {
           "cityName": "临沂",
+          "areaName": "兰山街道二十里堡社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临沂",
           "areaName": "柳树王村",
           "dangerLevel": 2
         },
@@ -6397,6 +6467,11 @@
         {
           "cityName": "临沂",
           "areaName": "银雀山街道银雀华府小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临沂",
+          "areaName": "义堂镇小葛庄村",
           "dangerLevel": 2
         },
         {
@@ -8696,8 +8771,8 @@
       "comment": "",
       "locationId": 460000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json",
-      "highDangerCount": 0,
-      "midDangerCount": 0,
+      "highDangerCount": 1,
+      "midDangerCount": 3,
       "detectOrgCount": 38,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -8732,8 +8807,8 @@
           "suspectedCount": 0,
           "curedCount": 51,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 3,
           "locationId": 460100,
           "currentConfirmedCountStr": "0"
         },
@@ -8894,7 +8969,28 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "海口",
+          "areaName": "美兰区海甸岛人民西里80号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "海口",
+          "areaName": "华彩·海口湾广场工地生活区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "海口",
+          "areaName": "海口湾6号驿站",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "海口",
+          "areaName": "人民大道以西、海甸一西路以北、海甸三西路以南的合围区域",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "湖北省",
@@ -9142,8 +9238,8 @@
       "comment": "",
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-      "highDangerCount": 0,
-      "midDangerCount": 0,
+      "highDangerCount": 4,
+      "midDangerCount": 1,
       "detectOrgCount": 197,
       "vaccinationOrgCount": 234,
       "cities": [
@@ -9243,8 +9339,8 @@
           "suspectedCount": 0,
           "curedCount": 143,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 4,
+          "midDangerCount": 1,
           "locationId": 411700,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -9393,7 +9489,33 @@
           "currentConfirmedCountStr": "-"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "驻马店",
+          "areaName": "李岗村委李岗自然村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "驻马店",
+          "areaName": "马下庄自然村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "驻马店",
+          "areaName": "泌阳县付庄乡范庄村委付庄街",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "驻马店",
+          "areaName": "土桥自然村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "驻马店",
+          "areaName": "泌阳县付庄乡所有区域（除高风险区外）",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "辽宁省",
@@ -9406,8 +9528,8 @@
       "comment": "",
       "locationId": 210000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/815/3398299758115938736-135.json",
-      "highDangerCount": 14,
-      "midDangerCount": 12,
+      "highDangerCount": 5,
+      "midDangerCount": 11,
       "detectOrgCount": 192,
       "vaccinationOrgCount": 204,
       "cities": [
@@ -9478,8 +9600,8 @@
           "suspectedCount": 0,
           "curedCount": 83,
           "deadCount": 0,
-          "highDangerCount": 13,
-          "midDangerCount": 11,
+          "highDangerCount": 4,
+          "midDangerCount": 10,
           "locationId": 210600,
           "currentConfirmedCountStr": "0"
         },
@@ -9607,52 +9729,7 @@
       "dangerAreas": [
         {
           "cityName": "丹东",
-          "areaName": "临江街道振四街15号/17号/19号",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "帽盔山街道知春园小区5号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "汤池镇集环路47号",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "汤池镇集贤新村二期",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "纤维街道和谐家园小区10号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
           "areaName": "振安区九连城镇马市村3组",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振安区九连城镇上尖村5组",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "站前街道三纬路90号/92号/94号/锦山大街58号",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振兴区合作区中央大街31-2至31-18号楼，文庆路70-19至70-43号楼、文庆路70-45号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振兴区纤维街道福馨佳园小区",
           "dangerLevel": 1
         },
         {
@@ -9662,12 +9739,12 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区永昌街道保利一期A2区5号楼",
+          "areaName": "振兴区永昌街道保利一期B区4号楼",
           "dangerLevel": 1
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区永昌街道保利一期B区4号楼",
+          "areaName": "振兴区永昌街道振八街28-25号",
           "dangerLevel": 1
         },
         {
@@ -9677,37 +9754,27 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "临江街道东升佳园二期",
+          "areaName": "振安区九连城镇上尖村5组",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
-          "areaName": "纤维街道和谐家园小区",
+          "areaName": "振兴区临江街道振四街15号/17号/19号",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
-          "areaName": "元宝区兴东街道环球小区",
+          "areaName": "振兴区帽盔山街道知春园小区5号楼",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
-          "areaName": "振安区珍珠街道曙光家园小区1号楼、2号楼",
+          "areaName": "振兴区汤池镇集环路47号",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区帽盔山街道四库春秋小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振兴区帽盔山街道桃源逸景小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "丹东",
-          "areaName": "振兴区汤池镇复兴村",
+          "areaName": "振兴区汤池镇集贤新村二期",
           "dangerLevel": 2
         },
         {
@@ -9717,17 +9784,22 @@
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区纤维街道福春街58号",
+          "areaName": "振兴区纤维街道福馨佳园小区",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
-          "areaName": "振兴区永昌街道保利一期A2区",
+          "areaName": "振兴区纤维街道和谐家园小区10号楼",
           "dangerLevel": 2
         },
         {
           "cityName": "丹东",
           "areaName": "振兴区永昌街道保利一期B区5号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "丹东",
+          "areaName": "振兴区站前街道三纬路90号/92号/94号/锦山大街58号",
           "dangerLevel": 2
         },
         {
@@ -11270,11 +11342,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4710163390,
+  "getPV": 4710177394,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657356152000,
+    "modifyTime": 1657361466000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -11290,17 +11362,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4273058,
-    "confirmedCount": 4594043,
+    "currentConfirmedCount": 4301086,
+    "confirmedCount": 4622165,
     "suspectedCount": 19682,
     "curedCount": 298888,
-    "deadCount": 22097,
+    "deadCount": 22191,
     "seriousCount": 2666,
     "suspectedIncr": 45,
-    "currentConfirmedIncr": 30723,
-    "confirmedIncr": 31024,
+    "currentConfirmedIncr": 58751,
+    "confirmedIncr": 59146,
     "curedIncr": 167,
-    "deadIncr": 134,
+    "deadIncr": 228,
     "seriousIncr": 263,
     "yesterdayConfirmedCountIncr": 31024,
     "yesterdaySuspectedCountIncr": 45,
@@ -11484,37 +11556,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 192214861,
+      "currentConfirmedCount": 192214858,
       "confirmedCount": 549392793,
       "suspectedCount": 4,
       "curedCount": 350837104,
-      "deadCount": 6340828,
+      "deadCount": 6340831,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 507310,
+      "currentConfirmedIncr": 507307,
       "confirmedIncr": 1006687,
       "curedIncr": 497455,
-      "deadIncr": 1922
+      "deadIncr": 1925
     },
     "globalStatistics": {
-      "currentConfirmedCount": 196487919,
-      "confirmedCount": 553986836,
+      "currentConfirmedCount": 196515944,
+      "confirmedCount": 554014958,
       "curedCount": 351135992,
-      "deadCount": 6362925,
-      "currentConfirmedIncr": 538033,
-      "confirmedIncr": 1037711,
+      "deadCount": 6363022,
+      "currentConfirmedIncr": 566058,
+      "confirmedIncr": 1065833,
       "curedIncr": 497622,
-      "deadIncr": 2056,
+      "deadIncr": 2153,
       "yesterdayConfirmedCountIncr": 1037711
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0709/323/9200045989620709553-135.json",
-    "highDangerCount": 272,
-    "midDangerCount": 350
+    "highDangerCount": 274,
+    "midDangerCount": 354
   },
   "getTimelineService1": [
     {
       "id": 200849,
       "pubDate": 1657328661000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 67+304 例",
       "summary": "7月8日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例112例。其中境外输入病例45例（广东12例，上海8例，内蒙古7例，福建6例，天津3例，江西3例，重庆2例，陕西2例，辽宁1例，四川1例），含6例由无症状感染者转为确诊病例（天津2例，广东2例，辽宁1例，四川1例）；本土病例67例（安徽25例，上海11例，江苏7例，广东6例，内蒙古5例，甘肃4例，北京3例，福建3例，浙",
       "infoSource": "央视新闻app",
@@ -11553,7 +11625,7 @@
     {
       "id": 200850,
       "pubDate": 1657329013000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "江苏 | 昨日新增本土确诊病例 7 例",
       "summary": "江苏省卫健委7月9日通报：7月8日0—24时，江苏新增本土确诊病例7例（无锡市6例，徐州市1例，均在定点医院隔离治疗），新增本土无症状感染者71例（无锡市44例，徐州市27例，均在定点医院接受隔离医学管理）。\n新增出院病例3例（均为本土），新增解除隔离医学管理的无症状感染者5例（本土1例，境外输入4例）。\n目前，在定点医院隔离治疗的确诊病例38例（本土29例，境外输入9例），接受隔离医学管理的无症",
       "infoSource": "央视新闻app",
