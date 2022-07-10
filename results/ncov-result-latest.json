@@ -209,7 +209,7 @@
       "currentConfirmedCount": 3,
       "confirmedCount": 110,
       "dangerCountIncr": 1,
-      "currentDangerCount": 8,
+      "currentDangerCount": 18,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -643,7 +643,7 @@
       "currentConfirmedCount": 142,
       "confirmedCount": 7566,
       "dangerCountIncr": 1,
-      "currentDangerCount": 57,
+      "currentDangerCount": 67,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -668,7 +668,7 @@
           "currentConfirmedCount": 3,
           "confirmedCount": 110,
           "dangerCountIncr": 1,
-          "currentDangerCount": 8,
+          "currentDangerCount": 18,
           "currentConfirmedCountStr": "3"
         },
         {
@@ -4075,8 +4075,8 @@
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-      "highDangerCount": 25,
-      "midDangerCount": 32,
+      "highDangerCount": 29,
+      "midDangerCount": 38,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -4159,8 +4159,8 @@
           "suspectedCount": 0,
           "curedCount": 107,
           "deadCount": 0,
-          "highDangerCount": 1,
-          "midDangerCount": 7,
+          "highDangerCount": 5,
+          "midDangerCount": 13,
           "locationId": 440700,
           "currentConfirmedCountStr": "3"
         },
@@ -4452,6 +4452,31 @@
           "dangerLevel": 1
         },
         {
+          "cityName": "江门",
+          "areaName": "开平市赤坎镇中开高速赤坎服务区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道侧贤里38号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道侧贤里39号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道凤阳里117号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道中远大厦",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "中山",
           "areaName": "高平大道西侧1、3、5、7、9、11、13号、蔡份北街59号、60号之一至六号",
           "dangerLevel": 1
@@ -4468,8 +4493,68 @@
         },
         {
           "cityName": "江门",
-          "areaName": "开平市赤坎镇中开高速赤坎服务区",
-          "dangerLevel": 1
+          "areaName": "百合镇上洞村委会北成村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "赤坎镇五堡村委会",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "东坡楼餐馆",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "开平市三埠街道三围卫生站",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街侧贤社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道会龙社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "蓬江区白沙街道江边社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "三围敬老楼主楼、副楼（含楼下5间商铺）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "塘美村委会",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "台山市白沙镇长江上雷洞村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "台山市白沙镇正力新村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "台山市广安石油阳岭加油站",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "江门",
+          "areaName": "长沙街道安宏车城",
+          "dangerLevel": 2
         },
         {
           "cityName": "茂名",
@@ -4574,41 +4659,6 @@
         {
           "cityName": "深圳",
           "areaName": "南山区沙河街道白石洲村（除高风险区外）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "百合镇上洞村委会北成村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "赤坎镇五堡村委会",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "东坡楼餐馆",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "开平市三埠街道三围卫生站",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "三围敬老楼主楼、副楼（含楼下5间商铺）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "塘美村委会",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "江门",
-          "areaName": "长沙街道安宏车城",
           "dangerLevel": 2
         },
         {
@@ -11790,11 +11840,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4710408037,
+  "getPV": 4710431439,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657426708000,
+    "modifyTime": 1657426909000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12027,8 +12077,8 @@
       "yesterdayConfirmedCountIncr": 53676
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0710/340/3928605330185529553-135.json",
-    "highDangerCount": 289,
-    "midDangerCount": 404
+    "highDangerCount": 293,
+    "midDangerCount": 410
   },
   "getTimelineService1": [
     {
