@@ -196,8 +196,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 10,
       "confirmedCount": 365,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 4,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 23,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -248,6 +248,18 @@
       "currentDangerCount": 0,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
+    },
+    {
+      "provinceName": "青海省",
+      "provinceShortName": "青海",
+      "cityName": "西宁",
+      "yesterdayLocalConfirmedCount": 1,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 90,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 630000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/581/3398299758115524121-135.json"
     },
     {
       "provinceName": "浙江省",
@@ -1167,7 +1179,7 @@
       "currentConfirmedCount": 12,
       "confirmedCount": 693,
       "dangerCountIncr": 1,
-      "currentDangerCount": 10,
+      "currentDangerCount": 29,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -1179,8 +1191,8 @@
           "yesterdayAsymptomaticCount": 25,
           "currentConfirmedCount": 10,
           "confirmedCount": 365,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 4,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 23,
           "currentConfirmedCountStr": "10"
         },
         {
@@ -1658,6 +1670,32 @@
       ]
     },
     {
+      "provinceName": "青海省",
+      "provinceShortName": "青海",
+      "yesterdayLocalConfirmedCount": 1,
+      "yesterdayAsymptomaticCount": 0,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 148,
+      "dangerCountIncr": 0,
+      "currentDangerCount": 0,
+      "locationId": 630000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/581/3398299758115524121-135.json",
+      "cities": [
+        {
+          "provinceName": "青海省",
+          "provinceShortName": "青海",
+          "cityName": "西宁",
+          "yesterdayLocalConfirmedCount": 1,
+          "yesterdayAsymptomaticCount": 0,
+          "currentConfirmedCount": 1,
+          "confirmedCount": 90,
+          "dangerCountIncr": 0,
+          "currentDangerCount": 0,
+          "currentConfirmedCountStr": "1"
+        }
+      ]
+    },
+    {
       "provinceName": "福建省",
       "provinceShortName": "福建",
       "yesterdayLocalConfirmedCount": 0,
@@ -2020,11 +2058,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4060662,
-      "confirmedCount": 4082028,
+      "currentConfirmedCount": 4079694,
+      "confirmedCount": 4101156,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 7624,
+      "deadCount": 7720,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -9124,8 +9162,8 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 5,
-      "midDangerCount": 5,
+      "highDangerCount": 20,
+      "midDangerCount": 9,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -9136,8 +9174,8 @@
           "suspectedCount": 0,
           "curedCount": 353,
           "deadCount": 2,
-          "highDangerCount": 2,
-          "midDangerCount": 2,
+          "highDangerCount": 17,
+          "midDangerCount": 6,
           "locationId": 620100,
           "currentConfirmedCountStr": "10"
         },
@@ -9313,7 +9351,82 @@
       "dangerAreas": [
         {
           "cityName": "兰州",
+          "areaName": "安宁区西路街道交大南苑公寓10号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "安宁区西路街道荣冠威廉公馆3号楼1单元",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "安宁区永登县红城华山村2社",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区草场街街道3512西大院63号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区草场街街道香榭丽花园2号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区东岗街道兰泰小区院内48中学",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区皋兰路街道六建家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区火车站街道金轮颐园小区6号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区火车站街道铁路设计院小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区九州主食厨房",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区铁路西村街道达祥南苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区五泉街道和平新村19号火电公司家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区五泉街道五泉南路117号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区盐场路街道九州幸福苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "甘肃火电工程公司安宁小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "孔家崖街道陇电盐锅峡电厂小区",
           "dangerLevel": 1
         },
         {
@@ -9338,12 +9451,32 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "安宁区培黎街道西北师范大学知行学院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "安宁区西路街道交大南苑公寓10号楼以外其他交大校园区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "安宁区西路街道荣冠威廉公馆除3号楼1单元以外区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区靖远路街道九州东环路宇泰嘉园小区",
           "dangerLevel": 2
         },
         {
           "cityName": "兰州",
           "areaName": "七里河区兰州老街（7188号路（银滩路）以西、金豪庭以东、西津西路以北、马滩路以南区域）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "永登县红城华山村全域（2社除外）",
           "dangerLevel": 2
         },
         {
@@ -11479,15 +11612,15 @@
       "cities": [
         {
           "cityName": "西宁",
-          "currentConfirmedCount": 0,
-          "confirmedCount": 89,
+          "currentConfirmedCount": 1,
+          "confirmedCount": 90,
           "suspectedCount": 0,
           "curedCount": 89,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 630100,
-          "currentConfirmedCountStr": "0"
+          "currentConfirmedCountStr": "1"
         },
         {
           "cityName": "海东",
@@ -11515,15 +11648,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": 1,
-          "confirmedCount": 51,
+          "currentConfirmedCount": 0,
+          "confirmedCount": 50,
           "suspectedCount": 0,
           "curedCount": 50,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 0,
-          "currentConfirmedCountStr": "1"
+          "currentConfirmedCountStr": "0"
         }
       ],
       "dangerAreas": []
@@ -12431,11 +12564,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4710917323,
+  "getPV": 4710932447,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657533169000,
+    "modifyTime": 1657536105000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12451,17 +12584,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4329813,
-    "confirmedCount": 4651281,
+    "currentConfirmedCount": 4348845,
+    "confirmedCount": 4670409,
     "suspectedCount": 19766,
     "curedCount": 299204,
-    "deadCount": 22264,
+    "deadCount": 22360,
     "seriousCount": 3094,
     "suspectedIncr": 48,
-    "currentConfirmedIncr": 28253,
-    "confirmedIncr": 28487,
+    "currentConfirmedIncr": 47285,
+    "confirmedIncr": 47615,
     "curedIncr": 161,
-    "deadIncr": 73,
+    "deadIncr": 169,
     "seriousIncr": 218,
     "yesterdayConfirmedCountIncr": 28487,
     "yesterdaySuspectedCountIncr": 48,
@@ -12645,37 +12778,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 193224184,
-      "confirmedCount": 550671108,
+      "currentConfirmedCount": 193220267,
+      "confirmedCount": 550671351,
       "suspectedCount": 4,
-      "curedCount": 351103878,
-      "deadCount": 6343046,
+      "curedCount": 351108036,
+      "deadCount": 6343048,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1208589,
-      "confirmedIncr": 1253390,
-      "curedIncr": 42622,
-      "deadIncr": 2179
+      "currentConfirmedIncr": 1204672,
+      "confirmedIncr": 1253633,
+      "curedIncr": 46780,
+      "deadIncr": 2181
     },
     "globalStatistics": {
-      "currentConfirmedCount": 197553997,
-      "confirmedCount": 555322389,
-      "curedCount": 351403082,
-      "deadCount": 6365310,
-      "currentConfirmedIncr": 1236842,
-      "confirmedIncr": 1281877,
-      "curedIncr": 42783,
-      "deadIncr": 2252,
-      "yesterdayConfirmedCountIncr": 1281877
+      "currentConfirmedCount": 197569112,
+      "confirmedCount": 555341760,
+      "curedCount": 351407240,
+      "deadCount": 6365408,
+      "currentConfirmedIncr": 1251957,
+      "confirmedIncr": 1301248,
+      "curedIncr": 46941,
+      "deadIncr": 2350,
+      "yesterdayConfirmedCountIncr": 1282120
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0711/764/3357332151631449553-135.json",
-    "highDangerCount": 281,
-    "midDangerCount": 521
+    "highDangerCount": 296,
+    "midDangerCount": 525
   },
   "getTimelineService1": [
     {
       "id": 201031,
       "pubDate": 1657501495000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 46+306 例",
       "summary": "7月10日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例94例。其中境外输入病例48例（上海11例，福建10例，广东10例，四川7例，天津2例，内蒙古2例，辽宁2例，北京1例，浙江1例，山东1例，陕西1例），含8例由无症状感染者转为确诊病例（天津2例，福建2例，辽宁1例，浙江1例，广东1例，四川1例）；本土病例46例（广东17例，安徽9例，上海6例，江苏4例，海南2例，甘",
       "infoSource": "央视新闻app",
@@ -12688,7 +12821,7 @@
     {
       "id": 201027,
       "pubDate": 1657500057000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广东 | 昨日新增本土确诊病例 17 例 ",
       "summary": "7月10日0—24时，广东省新增本土确诊病例17例（广州2例，深圳2例，韶关1例，中山5例，江门2例，茂名5例），含3例无症状感染者转确诊病例（深圳1例，江门2例）；新增本土无症状感染者15例（广州1例，深圳1例，佛山10例，东莞2例，茂名1例）。全省新增境外输入确诊病例10例（广州2例，深圳5例，佛山3例），含1例无症状感染者转确诊病例（佛山1例）；新增境外输入无症状感染者4例（广州1例，佛山2",
       "infoSource": "央视新闻app",
@@ -12701,7 +12834,7 @@
     {
       "id": 201021,
       "pubDate": 1657497681000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "安徽 | 昨日新增本土确诊病例 9 例 ",
       "summary": "2022年7月10日0—24时，安徽省报告新增本土确诊病例9例（宿州市泗县），新增本土无症状感染者30例（宿州市泗县）。上述感染者中，社会面筛查发现0例，均在隔离管控中发现。\n7月10日0—24时，新增治愈出院病例17例（宿州市泗县），新增解除医学观察的无症状感染者51例（合肥市肥西县1例、瑶海区1例、蜀山区1例，宿州市泗县48例）。\n6月26日至7月10日24时，安徽省共报告本土确诊病例367例",
       "infoSource": "央视新闻app",
@@ -12714,7 +12847,7 @@
     {
       "id": 201018,
       "pubDate": 1657496696000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "上海 | 昨日新增本土确诊病例 6 例",
       "summary": "上海市卫健委今早（7月11日）通报：2022年7月10日0—24时，上海新增本土新冠肺炎确诊病例6例和无症状感染者63例，其中6例确诊病例和62例无症状感染者在隔离管控中发现。新增境外输入新冠肺炎确诊病例11例和无症状感染者8例，其中10例确诊病例和8例无症状感染者在闭环管控中发现。",
       "infoSource": "央视新闻app",
@@ -12727,7 +12860,7 @@
     {
       "id": 201033,
       "pubDate": 1657502080000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "江苏 | 昨日新增本土确诊病例 4 例",
       "summary": "江苏省卫健委7月11日通报：7月10日0—24时，江苏新增本土确诊病例4例（无锡市3例，其中1例由无症状感染者转为确诊病例；连云港市1例。均在定点医院隔离治疗），新增本土无症状感染者57例（无锡市25例，徐州市13例，苏州市2例，连云港市17例，均在定点医院接受隔离医学管理）。\n新增境外输入无症状感染者1例。新增出院病例4例（本土），新增解除隔离医学管理的无症状感染者12例（本土9例，境外输入3例",
       "infoSource": "央视新闻app",
