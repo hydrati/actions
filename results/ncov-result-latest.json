@@ -124,8 +124,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 46,
       "confirmedCount": 2582,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 19,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 20,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -691,7 +691,7 @@
       "currentConfirmedCount": 157,
       "confirmedCount": 7593,
       "dangerCountIncr": 1,
-      "currentDangerCount": 85,
+      "currentDangerCount": 86,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -739,8 +739,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 46,
           "confirmedCount": 2582,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 19,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 20,
           "currentConfirmedCountStr": "46"
         },
         {
@@ -2911,7 +2911,7 @@
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-      "highDangerCount": 40,
+      "highDangerCount": 41,
       "midDangerCount": 45,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
@@ -2935,7 +2935,7 @@
           "suspectedCount": 3,
           "curedCount": 2533,
           "deadCount": 3,
-          "highDangerCount": 9,
+          "highDangerCount": 10,
           "midDangerCount": 10,
           "locationId": 440300,
           "currentConfirmedCountStr": "46"
@@ -3265,6 +3265,11 @@
         {
           "cityName": "深圳",
           "areaName": "罗湖区莲塘街道兰亭国际二座（5楼至50楼）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "龙华区民治街道民乐社区民乐翠园第8栋",
           "dangerLevel": 1
         },
         {
@@ -12266,11 +12271,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4710786913,
+  "getPV": 4710813552,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657513827000,
+    "modifyTime": 1657514038000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -12503,7 +12508,7 @@
       "yesterdayConfirmedCountIncr": 1281877
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0711/764/3357332151631449553-135.json",
-    "highDangerCount": 304,
+    "highDangerCount": 305,
     "midDangerCount": 465
   },
   "getTimelineService1": [
@@ -12562,7 +12567,7 @@
     {
       "id": 201033,
       "pubDate": 1657502080000,
-      "pubDateStr": "2小时前",
+      "pubDateStr": "3小时前",
       "title": "江苏 | 昨日新增本土确诊病例 4 例",
       "summary": "江苏省卫健委7月11日通报：7月10日0—24时，江苏新增本土确诊病例4例（无锡市3例，其中1例由无症状感染者转为确诊病例；连云港市1例。均在定点医院隔离治疗），新增本土无症状感染者57例（无锡市25例，徐州市13例，苏州市2例，连云港市17例，均在定点医院接受隔离医学管理）。\n新增境外输入无症状感染者1例。新增出院病例4例（本土），新增解除隔离医学管理的无症状感染者12例（本土9例，境外输入3例",
       "infoSource": "央视新闻app",
