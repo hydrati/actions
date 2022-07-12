@@ -350,7 +350,7 @@
       "provinceShortName": "广东",
       "cityName": "深圳",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 57,
+      "currentConfirmedCount": 48,
       "confirmedCount": 2593,
       "dangerCountIncr": 1,
       "currentDangerCount": 22,
@@ -410,7 +410,7 @@
       "provinceShortName": "四川",
       "cityName": "成都",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 22,
+      "currentConfirmedCount": 20,
       "confirmedCount": 1724,
       "dangerCountIncr": 0,
       "currentDangerCount": 0,
@@ -833,11 +833,11 @@
           "cityName": "深圳",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 4,
-          "currentConfirmedCount": 57,
+          "currentConfirmedCount": 48,
           "confirmedCount": 2593,
           "dangerCountIncr": 1,
           "currentDangerCount": 22,
-          "currentConfirmedCountStr": "57"
+          "currentConfirmedCountStr": "48"
         },
         {
           "provinceName": "广东省",
@@ -1613,11 +1613,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 22,
+          "currentConfirmedCount": 20,
           "confirmedCount": 1724,
           "dangerCountIncr": 0,
           "currentDangerCount": 0,
-          "currentConfirmedCountStr": "22"
+          "currentConfirmedCountStr": "20"
         },
         {
           "provinceName": "四川省",
@@ -3064,15 +3064,15 @@
         },
         {
           "cityName": "深圳",
-          "currentConfirmedCount": 57,
+          "currentConfirmedCount": 48,
           "confirmedCount": 2593,
           "suspectedCount": 3,
-          "curedCount": 2533,
+          "curedCount": 2542,
           "deadCount": 3,
           "highDangerCount": 11,
           "midDangerCount": 11,
           "locationId": 440300,
-          "currentConfirmedCountStr": "57"
+          "currentConfirmedCountStr": "48"
         },
         {
           "cityName": "茂名",
@@ -3304,15 +3304,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -10,
+          "currentConfirmedCount": -1,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 10,
+          "curedCount": 1,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-10"
+          "currentConfirmedCountStr": "-1"
         }
       ],
       "dangerAreas": [
@@ -8319,15 +8319,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 22,
+          "currentConfirmedCount": 20,
           "confirmedCount": 1724,
           "suspectedCount": 0,
-          "curedCount": 1699,
+          "curedCount": 1701,
           "deadCount": 3,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": 510100,
-          "currentConfirmedCountStr": "22"
+          "currentConfirmedCountStr": "20"
         },
         {
           "cityName": "广元",
@@ -8559,15 +8559,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -86,
+          "currentConfirmedCount": -84,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 86,
+          "curedCount": 84,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-86"
+          "currentConfirmedCountStr": "-84"
         }
       ],
       "dangerAreas": []
@@ -12870,11 +12870,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4711274032,
+  "getPV": 4711290735,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657607831000,
+    "modifyTime": 1657616932000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
