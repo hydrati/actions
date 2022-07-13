@@ -158,8 +158,8 @@
       "provinceShortName": "海南",
       "cityName": "海口",
       "yesterdayLocalConfirmedCount": 3,
-      "currentConfirmedCount": 12,
-      "confirmedCount": 63,
+      "currentConfirmedCount": 14,
+      "confirmedCount": 65,
       "dangerCountIncr": 1,
       "currentDangerCount": 11,
       "locationId": 460000,
@@ -226,6 +226,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
     {
+      "provinceName": "江西省",
+      "provinceShortName": "江西",
+      "cityName": "南昌",
+      "yesterdayLocalConfirmedCount": 1,
+      "currentConfirmedCount": 3,
+      "confirmedCount": 457,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 23,
+      "locationId": 360000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json"
+    },
+    {
       "provinceName": "山东省",
       "provinceShortName": "山东",
       "cityName": "青岛",
@@ -236,18 +248,6 @@
       "currentDangerCount": 4,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
-    },
-    {
-      "provinceName": "江西省",
-      "provinceShortName": "江西",
-      "cityName": "南昌",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 2,
-      "confirmedCount": 456,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 23,
-      "locationId": 360000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/161/3398299751673072165-135.json"
     },
     {
       "provinceName": "广东省",
@@ -1475,11 +1475,11 @@
           "cityName": "海口",
           "yesterdayLocalConfirmedCount": 3,
           "yesterdayAsymptomaticCount": 6,
-          "currentConfirmedCount": 12,
-          "confirmedCount": 63,
+          "currentConfirmedCount": 14,
+          "confirmedCount": 65,
           "dangerCountIncr": 1,
           "currentDangerCount": 11,
-          "currentConfirmedCountStr": "12"
+          "currentConfirmedCountStr": "14"
         }
       ]
     },
@@ -1488,8 +1488,8 @@
       "provinceShortName": "江西",
       "yesterdayLocalConfirmedCount": 1,
       "yesterdayAsymptomaticCount": 4,
-      "currentConfirmedCount": 12,
-      "confirmedCount": 1402,
+      "currentConfirmedCount": 13,
+      "confirmedCount": 1403,
       "dangerCountIncr": 1,
       "currentDangerCount": 23,
       "locationId": 360000,
@@ -1501,11 +1501,11 @@
           "cityName": "南昌",
           "yesterdayLocalConfirmedCount": 1,
           "yesterdayAsymptomaticCount": 3,
-          "currentConfirmedCount": 2,
-          "confirmedCount": 456,
+          "currentConfirmedCount": 3,
+          "confirmedCount": 457,
           "dangerCountIncr": 1,
           "currentDangerCount": 23,
-          "currentConfirmedCountStr": "2"
+          "currentConfirmedCountStr": "3"
         }
       ]
     },
@@ -9808,15 +9808,15 @@
       "cities": [
         {
           "cityName": "海口",
-          "currentConfirmedCount": 12,
-          "confirmedCount": 63,
+          "currentConfirmedCount": 14,
+          "confirmedCount": 65,
           "suspectedCount": 0,
           "curedCount": 51,
           "deadCount": 0,
           "highDangerCount": 6,
           "midDangerCount": 5,
           "locationId": 460100,
-          "currentConfirmedCountStr": "12"
+          "currentConfirmedCountStr": "14"
         },
         {
           "cityName": "境外输入",
@@ -9997,18 +9997,6 @@
           "midDangerCount": 0,
           "locationId": 469030,
           "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "待明确地区",
-          "currentConfirmedCount": 2,
-          "confirmedCount": 2,
-          "suspectedCount": 0,
-          "curedCount": 0,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": -1,
-          "currentConfirmedCountStr": "2"
         }
       ],
       "dangerAreas": [
@@ -10611,8 +10599,8 @@
     {
       "provinceName": "江西省",
       "provinceShortName": "江西",
-      "currentConfirmedCount": 12,
-      "confirmedCount": 1402,
+      "currentConfirmedCount": 13,
+      "confirmedCount": 1403,
       "suspectedCount": 0,
       "curedCount": 1389,
       "deadCount": 1,
@@ -10638,15 +10626,15 @@
         },
         {
           "cityName": "南昌",
-          "currentConfirmedCount": 2,
-          "confirmedCount": 456,
+          "currentConfirmedCount": 3,
+          "confirmedCount": 457,
           "suspectedCount": 0,
           "curedCount": 454,
           "deadCount": 0,
           "highDangerCount": 8,
           "midDangerCount": 15,
           "locationId": 360100,
-          "currentConfirmedCountStr": "2"
+          "currentConfirmedCountStr": "3"
         },
         {
           "cityName": "上饶",
@@ -13057,11 +13045,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4711619077,
+  "getPV": 4711638199,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657685559000,
+    "modifyTime": 1657693428000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13301,7 +13289,7 @@
     {
       "id": 201336,
       "pubDate": 1657674180000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "国家卫健委：昨日新增本土 57+204 例",
       "summary": "7月12日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例98例。其中境外输入病例41例（上海9例，广东9例，福建8例，湖南3例，天津2例，内蒙古2例，云南2例，江苏1例，浙江1例，山东1例，重庆1例，四川1例，陕西1例），含4例由无症状感染者转为确诊病例（湖南2例，福建1例，四川1例）；本土病例57例（广东16例，甘肃8例，安徽7例，上海5例，江苏5例，山东5例，内蒙古4",
       "infoSource": "央视新闻app",
@@ -13314,7 +13302,7 @@
     {
       "id": 201334,
       "pubDate": 1657673071000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "广东 | 昨日新增本土确诊病例 16 例",
       "summary": "7月12日0-24时，广东省新增本土确诊病例16例（广州4例，深圳1例，珠海7例，中山3例，清远1例），含2例无症状感染者转确诊病例（中山1例，清远1例）；新增本土无症状感染者6例（深圳1例，佛山2例，东莞2例，清远1例）。全省新增境外输入确诊病例9例（广州3例，深圳5例，佛山1例）；新增境外输入无症状感染者5例（广州4例，深圳1例）。\n广东省新增出院12例（境外输入10例），目前在院197例（境",
       "infoSource": "央视新闻app",
@@ -13327,7 +13315,7 @@
     {
       "id": 201321,
       "pubDate": 1657670517000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "安徽 | 昨日新增本土确诊病例 7 例",
       "summary": "2022年7月12日0-24时，安徽省报告新增本土确诊病例7例（宿州市泗县，其中2例系已报告的无症状感染者转为确诊病例），新增本土无症状感染者3例（宿州市泗县）。\n上述感染者中，社会面筛查发现0例，均在隔离管控中发现。\n7月12日0-24时，新增治愈出院病例36例（宿州市泗县），新增解除医学观察的无症状感染者154例（宿州市灵璧县4例、泗县149例、埇桥区1例）。\n6月26日至7月12日24时，安",
       "infoSource": "央视新闻app",
@@ -13340,7 +13328,7 @@
     {
       "id": 201314,
       "pubDate": 1657669610000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "上海 | 昨日新增本土确诊病例 5 例",
       "summary": "上海市卫健委今早（7月13日）通报：2022年7月12日0—24时，新增本土新冠肺炎确诊病例5例和无症状感染者50例，均在隔离管控中发现。新增境外输入性新冠肺炎确诊病例9例和无症状感染者5例，均在闭环管控中发现。\n2022年7月12日0—24时，新增本土新冠肺炎确诊病例5例。\n病例1—病例4，居住于浦东新区，病例5，居住于长宁区，均为上海市闭环隔离管控人员，其间新冠病毒核酸检测结果异常，经疾控中心",
       "infoSource": "央视新闻app",
@@ -13353,7 +13341,7 @@
     {
       "id": 201342,
       "pubDate": 1657675236000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "江苏 | 昨日新增本土确诊病例 5 例 ",
       "summary": "江苏省卫健委7月13日通报：7月12日0-24时，江苏新增本土确诊病例5例（无锡市3例，其中1例由无症状感染者转为确诊病例；连云港市2例，其中1例由无症状感染者转为确诊病例。均在定点医院隔离治疗），新增本土无症状感染者14例（无锡市10例，苏州市1例，连云港市3例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例1例（新加坡输入，在南京市定点医院隔离治疗）。新增解除隔离医学管理的无症状感染者",
       "infoSource": "央视新闻app",
