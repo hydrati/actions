@@ -98,7 +98,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 4,
-      "currentConfirmedCount": 71,
+      "currentConfirmedCount": 64,
       "confirmedCount": 2995,
       "dangerCountIncr": 1,
       "currentDangerCount": 13,
@@ -206,7 +206,7 @@
       "provinceShortName": "广东",
       "cityName": "深圳",
       "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 51,
+      "currentConfirmedCount": 47,
       "confirmedCount": 2596,
       "dangerCountIncr": 1,
       "currentDangerCount": 23,
@@ -821,11 +821,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 4,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 71,
+          "currentConfirmedCount": 64,
           "confirmedCount": 2995,
           "dangerCountIncr": 1,
           "currentDangerCount": 13,
-          "currentConfirmedCountStr": "71"
+          "currentConfirmedCountStr": "64"
         },
         {
           "provinceName": "广东省",
@@ -845,11 +845,11 @@
           "cityName": "深圳",
           "yesterdayLocalConfirmedCount": 1,
           "yesterdayAsymptomaticCount": 1,
-          "currentConfirmedCount": 51,
+          "currentConfirmedCount": 47,
           "confirmedCount": 2596,
           "dangerCountIncr": 1,
           "currentDangerCount": 23,
-          "currentConfirmedCountStr": "51"
+          "currentConfirmedCountStr": "47"
         },
         {
           "provinceName": "广东省",
@@ -2269,11 +2269,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4110907,
-      "confirmedCount": 4132429,
+      "currentConfirmedCount": 4140719,
+      "confirmedCount": 4162290,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 7780,
+      "deadCount": 7829,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -3012,27 +3012,27 @@
       "cities": [
         {
           "cityName": "广州",
-          "currentConfirmedCount": 71,
+          "currentConfirmedCount": 64,
           "confirmedCount": 2995,
           "suspectedCount": 3,
-          "curedCount": 2923,
+          "curedCount": 2930,
           "deadCount": 1,
           "highDangerCount": 5,
           "midDangerCount": 8,
           "locationId": 440100,
-          "currentConfirmedCountStr": "71"
+          "currentConfirmedCountStr": "64"
         },
         {
           "cityName": "深圳",
-          "currentConfirmedCount": 51,
+          "currentConfirmedCount": 47,
           "confirmedCount": 2596,
           "suspectedCount": 3,
-          "curedCount": 2542,
+          "curedCount": 2546,
           "deadCount": 3,
           "highDangerCount": 11,
           "midDangerCount": 12,
           "locationId": 440300,
-          "currentConfirmedCountStr": "51"
+          "currentConfirmedCountStr": "47"
         },
         {
           "cityName": "茂名",
@@ -3264,15 +3264,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -13,
+          "currentConfirmedCount": -2,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 13,
+          "curedCount": 2,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-13"
+          "currentConfirmedCountStr": "-2"
         }
       ],
       "dangerAreas": [
@@ -13025,11 +13025,11 @@
       "countryType": 2
     }
   ],
-  "getPV": 4711687846,
+  "getPV": 4711702597,
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657707056000,
+    "modifyTime": 1657708834000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -13045,17 +13045,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4380829,
-    "confirmedCount": 4702869,
+    "currentConfirmedCount": 4410641,
+    "confirmedCount": 4732730,
     "suspectedCount": 19845,
     "curedCount": 299611,
-    "deadCount": 22429,
+    "deadCount": 22478,
     "seriousCount": 3207,
     "suspectedIncr": 41,
-    "currentConfirmedIncr": 31645,
-    "confirmedIncr": 31901,
+    "currentConfirmedIncr": 61457,
+    "confirmedIncr": 61762,
     "curedIncr": 194,
-    "deadIncr": 62,
+    "deadIncr": 111,
     "seriousIncr": -1,
     "yesterdayConfirmedCountIncr": 31901,
     "yesterdaySuspectedCountIncr": 41,
@@ -13239,27 +13239,27 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 193879553,
-      "confirmedCount": 552332664,
+      "currentConfirmedCount": 193862714,
+      "confirmedCount": 552348118,
       "suspectedCount": 4,
-      "curedCount": 352107200,
-      "deadCount": 6345911,
+      "curedCount": 352139476,
+      "deadCount": 6345928,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 354093,
-      "confirmedIncr": 1104660,
-      "curedIncr": 748776,
-      "deadIncr": 1791
+      "currentConfirmedIncr": 337254,
+      "confirmedIncr": 1120114,
+      "curedIncr": 781052,
+      "deadIncr": 1808
     },
     "globalStatistics": {
-      "currentConfirmedCount": 198260382,
-      "confirmedCount": 557035533,
-      "curedCount": 352406811,
-      "deadCount": 6368340,
-      "currentConfirmedIncr": 385738,
-      "confirmedIncr": 1136561,
-      "curedIncr": 748970,
-      "deadIncr": 1853,
-      "yesterdayConfirmedCountIncr": 1136561
+      "currentConfirmedCount": 198273355,
+      "confirmedCount": 557080848,
+      "curedCount": 352439087,
+      "deadCount": 6368406,
+      "currentConfirmedIncr": 398711,
+      "confirmedIncr": 1181876,
+      "curedIncr": 781246,
+      "deadIncr": 1919,
+      "yesterdayConfirmedCountIncr": 1152015
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0713/984/6425519495342189553-135.json",
     "highDangerCount": 272,
