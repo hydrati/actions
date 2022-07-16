@@ -418,18 +418,6 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
     },
     {
-      "provinceName": "福建省",
-      "provinceShortName": "福建",
-      "cityName": "宁德",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 16,
-      "confirmedCount": 93,
-      "dangerCountIncr": 1,
-      "currentDangerCount": 52,
-      "locationId": 350000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
-    },
-    {
       "provinceName": "陕西省",
       "provinceShortName": "陕西",
       "cityName": "西安",
@@ -440,6 +428,18 @@
       "currentDangerCount": 3,
       "locationId": 610000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/857/3398299753820971228-135.json"
+    },
+    {
+      "provinceName": "福建省",
+      "provinceShortName": "福建",
+      "cityName": "宁德",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 14,
+      "confirmedCount": 93,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 52,
+      "locationId": 350000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json"
     },
     {
       "provinceName": "吉林省",
@@ -1637,11 +1637,11 @@
           "cityName": "宁德",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 14,
           "confirmedCount": 93,
           "dangerCountIncr": 1,
           "currentDangerCount": 52,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "14"
         },
         {
           "provinceName": "福建省",
@@ -6438,15 +6438,15 @@
         },
         {
           "cityName": "宁德",
-          "currentConfirmedCount": 16,
+          "currentConfirmedCount": 14,
           "confirmedCount": 93,
           "suspectedCount": 0,
-          "curedCount": 77,
+          "curedCount": 79,
           "deadCount": 0,
           "highDangerCount": 9,
           "midDangerCount": 43,
           "locationId": 350900,
-          "currentConfirmedCountStr": "16"
+          "currentConfirmedCountStr": "14"
         },
         {
           "cityName": "厦门",
@@ -6543,18 +6543,6 @@
           "midDangerCount": 0,
           "locationId": 350800,
           "currentConfirmedCountStr": "0"
-        },
-        {
-          "cityName": "待明确地区",
-          "currentConfirmedCount": -2,
-          "confirmedCount": 0,
-          "suspectedCount": 0,
-          "curedCount": 2,
-          "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
-          "locationId": -1,
-          "currentConfirmedCountStr": "-2"
         }
       ],
       "dangerAreas": [
@@ -14224,7 +14212,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1657959088000,
+    "modifyTime": 1657959277000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -14490,7 +14478,7 @@
     {
       "id": 201735,
       "pubDate": 1657932524000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广东 | 昨日新增本土确诊病例 15 例 ",
       "summary": "7月15日0—24时，广东省新增本土确诊病例15例（广州2例，珠海11例，中山2例），含10例无症状转确诊（广州1例，珠海9例）；新增本土无症状感染者26例（广州1例，深圳5例，珠海16例，佛山4例）。全省新增境外输入确诊病例10例（广州4例，深圳5例，江门1例），含2例无症状感染者转确诊病例（广州1例，江门1例）；新增境外输入无症状感染者10例（广州6例，深圳3例，珠海1例）。\n全省新增出院13",
       "infoSource": "央视新闻app",
@@ -14503,7 +14491,7 @@
     {
       "id": 201727,
       "pubDate": 1657928710000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "上海 | 昨日新增本土确诊病例 5 例 ",
       "summary": "上海市卫健委今早（7月16日）通报：2022年7月15日0—24时，新增本土新冠肺炎确诊病例5例和无症状感染者28例，均在隔离管控中发现。新增境外输入新冠肺炎确诊病例6例和无症状感染者5例，均在闭环管控中发现。\n2022年7月15日0—24时，新增本土新冠肺炎确诊病例5例。治愈出院4例。\n病例1，居住于浦东新区，病例2，居住于长宁区，病例3，居住于静安区，病例4，居住于杨浦区，病例5，居住于宝山区",
       "infoSource": "央视新闻app",
@@ -14516,7 +14504,7 @@
     {
       "id": 201741,
       "pubDate": 1657934235000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "江苏 | 昨日新增本土确诊病例 1 例",
       "summary": "江苏省卫健委7月16日通报：7月15日0—24时，江苏新增本土确诊病例1例（无锡市报告，在定点医院隔离治疗），新增本土无症状感染者4例（无锡市3例，连云港市1例，均在定点医院接受隔离医学管理）。\n新增境外输入确诊病例2例（均为意大利输入，在南京市定点医院隔离治疗），新增境外输入无症状感染者1例。新增出院病例7例（本土4例，境外输入3例），新增解除隔离医学管理的无症状感染者65例（本土64例，境外输",
       "infoSource": "央视新闻app",
