@@ -53,7 +53,7 @@
       "currentConfirmedCount": 163,
       "confirmedCount": 518,
       "dangerCountIncr": 1,
-      "currentDangerCount": 189,
+      "currentDangerCount": 209,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -86,7 +86,7 @@
       "provinceShortName": "四川",
       "cityName": "成都",
       "yesterdayLocalConfirmedCount": 5,
-      "currentConfirmedCount": 34,
+      "currentConfirmedCount": 31,
       "confirmedCount": 1740,
       "dangerCountIncr": 1,
       "currentDangerCount": 7,
@@ -134,7 +134,7 @@
       "provinceShortName": "广东",
       "cityName": "深圳",
       "yesterdayLocalConfirmedCount": 2,
-      "currentConfirmedCount": 58,
+      "currentConfirmedCount": 49,
       "confirmedCount": 2619,
       "dangerCountIncr": 1,
       "currentDangerCount": 33,
@@ -190,6 +190,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
     {
+      "provinceName": "四川省",
+      "provinceShortName": "四川",
+      "cityName": "眉山",
+      "yesterdayLocalConfirmedCount": 1,
+      "currentConfirmedCount": 1,
+      "confirmedCount": 10,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 3,
+      "locationId": 510000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
+    },
+    {
       "provinceName": "黑龙江省",
       "provinceShortName": "黑龙江",
       "cityName": "佳木斯",
@@ -212,18 +224,6 @@
       "currentDangerCount": 0,
       "locationId": 520000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/148/3398299753820971243-135.json"
-    },
-    {
-      "provinceName": "四川省",
-      "provinceShortName": "四川",
-      "cityName": "眉山",
-      "yesterdayLocalConfirmedCount": 1,
-      "currentConfirmedCount": 1,
-      "confirmedCount": 10,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 510000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
     {
       "provinceName": "浙江省",
@@ -314,7 +314,7 @@
       "provinceShortName": "广东",
       "cityName": "广州",
       "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 74,
+      "currentConfirmedCount": 68,
       "confirmedCount": 3016,
       "dangerCountIncr": 0,
       "currentDangerCount": 10,
@@ -859,7 +859,7 @@
       "currentConfirmedCount": 170,
       "confirmedCount": 851,
       "dangerCountIncr": 1,
-      "currentDangerCount": 298,
+      "currentDangerCount": 318,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -872,7 +872,7 @@
           "currentConfirmedCount": 163,
           "confirmedCount": 518,
           "dangerCountIncr": 1,
-          "currentDangerCount": 189,
+          "currentDangerCount": 209,
           "currentConfirmedCountStr": "163"
         },
         {
@@ -943,11 +943,11 @@
           "cityName": "深圳",
           "yesterdayLocalConfirmedCount": 2,
           "yesterdayAsymptomaticCount": 2,
-          "currentConfirmedCount": 58,
+          "currentConfirmedCount": 49,
           "confirmedCount": 2619,
           "dangerCountIncr": 1,
           "currentDangerCount": 33,
-          "currentConfirmedCountStr": "58"
+          "currentConfirmedCountStr": "49"
         },
         {
           "provinceName": "广东省",
@@ -979,11 +979,11 @@
           "cityName": "广州",
           "yesterdayLocalConfirmedCount": 0,
           "yesterdayAsymptomaticCount": 0,
-          "currentConfirmedCount": 74,
+          "currentConfirmedCount": 68,
           "confirmedCount": 3016,
           "dangerCountIncr": 0,
           "currentDangerCount": 10,
-          "currentConfirmedCountStr": "74"
+          "currentConfirmedCountStr": "68"
         },
         {
           "provinceName": "广东省",
@@ -1117,7 +1117,7 @@
       "currentConfirmedCount": 33,
       "confirmedCount": 2412,
       "dangerCountIncr": 1,
-      "currentDangerCount": 7,
+      "currentDangerCount": 10,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -1127,11 +1127,11 @@
           "cityName": "成都",
           "yesterdayLocalConfirmedCount": 5,
           "yesterdayAsymptomaticCount": 1,
-          "currentConfirmedCount": 34,
+          "currentConfirmedCount": 31,
           "confirmedCount": 1740,
           "dangerCountIncr": 1,
           "currentDangerCount": 7,
-          "currentConfirmedCountStr": "34"
+          "currentConfirmedCountStr": "31"
         },
         {
           "provinceName": "四川省",
@@ -1141,8 +1141,8 @@
           "yesterdayAsymptomaticCount": 3,
           "currentConfirmedCount": 1,
           "confirmedCount": 10,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "1"
         },
         {
@@ -2487,18 +2487,6 @@
       "vaccinationOrgCount": 42,
       "cities": [
         {
-          "cityName": "广州",
-          "currentConfirmedCount": 74,
-          "confirmedCount": 3016,
-          "suspectedCount": 3,
-          "curedCount": 2941,
-          "deadCount": 1,
-          "highDangerCount": 4,
-          "midDangerCount": 6,
-          "locationId": 440100,
-          "currentConfirmedCountStr": "74"
-        },
-        {
           "cityName": "珠海",
           "currentConfirmedCount": 73,
           "confirmedCount": 428,
@@ -2511,16 +2499,28 @@
           "currentConfirmedCountStr": "73"
         },
         {
+          "cityName": "广州",
+          "currentConfirmedCount": 68,
+          "confirmedCount": 3016,
+          "suspectedCount": 3,
+          "curedCount": 2947,
+          "deadCount": 1,
+          "highDangerCount": 4,
+          "midDangerCount": 6,
+          "locationId": 440100,
+          "currentConfirmedCountStr": "68"
+        },
+        {
           "cityName": "深圳",
-          "currentConfirmedCount": 58,
+          "currentConfirmedCount": 49,
           "confirmedCount": 2619,
           "suspectedCount": 3,
-          "curedCount": 2558,
+          "curedCount": 2567,
           "deadCount": 3,
           "highDangerCount": 11,
           "midDangerCount": 22,
           "locationId": 440300,
-          "currentConfirmedCountStr": "58"
+          "currentConfirmedCountStr": "49"
         },
         {
           "cityName": "茂名",
@@ -2740,15 +2740,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -23,
+          "currentConfirmedCount": -8,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 23,
+          "curedCount": 8,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-23"
+          "currentConfirmedCountStr": "-8"
         }
       ],
       "dangerAreas": [
@@ -2998,61 +2998,6 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "深圳",
-          "areaName": "东湖街道观山祥苑临近05、06生活区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "福田街道福田南路34号小区（综合楼、生活区篮球场除外）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "九祥岭村东区第89、90、91、97、98、99栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "罗湖区莲塘街道鹏兴花园五期64栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "龙华区民治街道北站社区龙悦居2期第4栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "龙华区民治街道民乐社区民乐翠园第8栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "民治街道民乐社区民乐翠园第9栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "南山区粤海街道龙城花园东南区（1栋、3栋、6栋）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "南山区粤海街道铜鼓社区华润润府三期4栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "沙头街道新洲社区祠堂村文化广场以南区域（新洲二街—新洲六街—祠堂村一街—祠堂村文化广场南侧围合区域）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "西丽街道九祥岭村西区第13、14A、14B、15、16、17栋",
-          "dangerLevel": 1
-        },
-        {
           "cityName": "佛山",
           "areaName": "南海区大沥镇泌冲社区泌一东约中街38号原润雄滕笪厂",
           "dangerLevel": 1
@@ -3105,6 +3050,61 @@
         {
           "cityName": "佛山",
           "areaName": "狮山镇翠湖绿洲二期24座",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "东湖街道观山祥苑临近05、06生活区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "福田街道福田南路34号小区（综合楼、生活区篮球场除外）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "九祥岭村东区第89、90、91、97、98、99栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "罗湖区莲塘街道鹏兴花园五期64栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "龙华区民治街道北站社区龙悦居2期第4栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "龙华区民治街道民乐社区民乐翠园第8栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "民治街道民乐社区民乐翠园第9栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "南山区粤海街道龙城花园东南区（1栋、3栋、6栋）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "南山区粤海街道铜鼓社区华润润府三期4栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "沙头街道新洲社区祠堂村文化广场以南区域（新洲二街—新洲六街—祠堂村一街—祠堂村文化广场南侧围合区域）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "西丽街道九祥岭村西区第13、14A、14B、15、16、17栋",
           "dangerLevel": 1
         },
         {
@@ -3675,8 +3675,8 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 126,
-      "midDangerCount": 172,
+      "highDangerCount": 131,
+      "midDangerCount": 187,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -3687,8 +3687,8 @@
           "suspectedCount": 0,
           "curedCount": 353,
           "deadCount": 2,
-          "highDangerCount": 77,
-          "midDangerCount": 112,
+          "highDangerCount": 82,
+          "midDangerCount": 127,
           "locationId": 620100,
           "currentConfirmedCountStr": "163"
         },
@@ -3929,6 +3929,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "城关区白银路街道兰林路小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区草场街街道3512西大院63号楼",
           "dangerLevel": 1
         },
@@ -4024,6 +4029,16 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "定远镇定远村东社",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "定远镇张老营村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "皋兰路街道颜家沟94-98号",
           "dangerLevel": 1
         },
@@ -4035,6 +4050,11 @@
         {
           "cityName": "兰州",
           "areaName": "拱星墩街道东岗东路2036号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "高新区南面滩二网格（南面滩村西北角）",
           "dangerLevel": 1
         },
         {
@@ -4065,6 +4085,11 @@
         {
           "cityName": "兰州",
           "areaName": "和平镇新元绿洲小区12号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "均家滩三网格（雁兴路以西、雁滩路以南、均家滩汽修厂以东、均家滩村南侧边缘）",
           "dangerLevel": 1
         },
         {
@@ -4499,6 +4524,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "安宁区孔家崖街道大青山片区（南至万里人防，北至安宁滑雪场和保利领秀山交界，西至蚂蚁沟，东至民政厅林场东侧）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "安宁区培黎街道国资物业第二佳园",
           "dangerLevel": 2
         },
@@ -4529,12 +4559,17 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "白银路街道兰林路小区",
+          "areaName": "草场街街道电器厂家属院",
           "dangerLevel": 2
         },
         {
           "cityName": "兰州",
           "areaName": "草场街街道大砂坪怡苑小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "草场街街道大沙坪自建房片区(1-153号)",
           "dangerLevel": 2
         },
         {
@@ -4589,11 +4624,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "城关区雁南街道嘉盛园D区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "城市学院家属院",
           "dangerLevel": 2
         },
@@ -4609,6 +4639,16 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "皋兰路街道大工贸家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "皋兰路街道郑家台73-75号（单号）家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "甘肃东兴铝业兰州生活小区东区",
           "dangerLevel": 2
         },
@@ -4619,7 +4659,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "广武门街道大教梁15号片区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "拱星墩街道安兴小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "拱星墩街道财经大学家属院",
           "dangerLevel": 2
         },
         {
@@ -4630,6 +4680,11 @@
         {
           "cityName": "兰州",
           "areaName": "拱星墩街道东岗东路文明村（1675-1911号）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "拱星墩街道东湖小区",
           "dangerLevel": 2
         },
         {
@@ -4645,11 +4700,6 @@
         {
           "cityName": "兰州",
           "areaName": "拱星墩街道飞天大院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "拱星墩街道甘肃省气象局锅炉房",
           "dangerLevel": 2
         },
         {
@@ -4804,6 +4854,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "青白石街道碧桂园诺丁山4组团",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "青白石街道小达子坪车管所",
           "dangerLevel": 2
         },
@@ -4844,7 +4899,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "团结新村街道排洪沟红星巷造纸厂120号平房区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "团结新村街道新华印刷厂家属院东南区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "团结新村街道移动公司家属院",
           "dangerLevel": 2
         },
         {
@@ -4895,6 +4960,11 @@
         {
           "cityName": "兰州",
           "areaName": "渭源路街道科技街航天和美",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "渭源路街道南河新村小区",
           "dangerLevel": 2
         },
         {
@@ -4959,6 +5029,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "雁南街道金盛宾馆",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "雁南街道景苑丽都",
           "dangerLevel": 2
         },
@@ -4970,6 +5045,26 @@
         {
           "cityName": "兰州",
           "areaName": "雁南街道联合大学家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道南河路2180-2188号（双号）家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道南河路2232-2268号（双号）家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道滩尖子371号附1号家属院",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道滩尖子玉原小区",
           "dangerLevel": 2
         },
         {
@@ -5005,6 +5100,11 @@
         {
           "cityName": "兰州",
           "areaName": "雁园街道基业豪庭西南片",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁园街道天庆花园东北片区",
           "dangerLevel": 2
         },
         {
@@ -8850,8 +8950,8 @@
       "comment": "",
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-      "highDangerCount": 3,
-      "midDangerCount": 4,
+      "highDangerCount": 4,
+      "midDangerCount": 6,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -8869,15 +8969,15 @@
         },
         {
           "cityName": "成都",
-          "currentConfirmedCount": 34,
+          "currentConfirmedCount": 31,
           "confirmedCount": 1740,
           "suspectedCount": 0,
-          "curedCount": 1703,
+          "curedCount": 1706,
           "deadCount": 3,
           "highDangerCount": 3,
           "midDangerCount": 4,
           "locationId": 510100,
-          "currentConfirmedCountStr": "34"
+          "currentConfirmedCountStr": "31"
         },
         {
           "cityName": "广元",
@@ -8922,8 +9022,8 @@
           "suspectedCount": 0,
           "curedCount": 9,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 2,
           "locationId": 511400,
           "currentConfirmedCountStr": "1"
         },
@@ -9109,15 +9209,15 @@
         },
         {
           "cityName": "待明确地区",
-          "currentConfirmedCount": -88,
+          "currentConfirmedCount": -85,
           "confirmedCount": 0,
           "suspectedCount": 0,
-          "curedCount": 88,
+          "curedCount": 85,
           "deadCount": 0,
           "highDangerCount": 0,
           "midDangerCount": 0,
           "locationId": -1,
-          "currentConfirmedCountStr": "-88"
+          "currentConfirmedCountStr": "-85"
         }
       ],
       "dangerAreas": [
@@ -9134,6 +9234,11 @@
         {
           "cityName": "成都",
           "areaName": "锦江区沙河街道锦东庭园14栋和15栋（岷江路1668号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "眉山",
+          "areaName": "洪雅县七里坪镇度假区F3区15栋、16栋、17栋",
           "dangerLevel": 1
         },
         {
@@ -9154,6 +9259,16 @@
         {
           "cityName": "成都",
           "areaName": "武侯区人民南路四段15号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "眉山",
+          "areaName": "洪雅县七里坪社区2组、3组、4组、7组",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "眉山",
+          "areaName": "洪雅县七里坪镇度假区（除F3区15栋、16栋、17栋外）",
           "dangerLevel": 2
         }
       ]
@@ -14497,7 +14612,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658033686000,
+    "modifyTime": 1658041787000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -14730,14 +14845,14 @@
       "yesterdayConfirmedCountIncr": 887124
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0717/656/9741245448064550653-135.json",
-    "highDangerCount": 434,
-    "midDangerCount": 699
+    "highDangerCount": 440,
+    "midDangerCount": 717
   },
   "getTimelineService1": [
     {
       "id": 201837,
       "pubDate": 1658019761000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "国家卫健委 | 昨日新增本土 106+474 例",
       "summary": "7月16日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例154例。其中境外输入病例48例（福建10例，广东10例，上海6例，天津4例，重庆3例，四川3例，北京2例，辽宁2例，江苏2例，山东2例，云南2例，湖北1例，湖南1例），含3例由无症状感染者转为确诊病例（北京1例，湖南1例，广东1例）；本土病例106例（甘肃53例，广东21例，广西9例，四川7例，安徽5例，海南4例，",
       "infoSource": "央视新闻app",
@@ -14750,7 +14865,7 @@
     {
       "id": 201850,
       "pubDate": 1658024734000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 53 例",
       "summary": "据甘肃省卫健委消息，7月16日0—24时，甘肃省新冠肺炎疫情信息公布如下：\n本土疫情：\n7月16日0—24时，甘肃省新增本土确诊病例53例，其中兰州市53例（城关区47例，安宁区4例，西固区2例），含1例由无症状感染者转确诊病例（为兰州市西固区1例）。新增本土无症状感染者105例，其中兰州市68例（城关区57例，榆中县5例，七里河区4例，安宁区2例）、临夏州18例（广河县15例，临夏市2例，积石山",
       "infoSource": "央视新闻app",
@@ -14763,7 +14878,7 @@
     {
       "id": 201835,
       "pubDate": 1658018259000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "广西 | 昨日新增本土确诊病例 9 例",
       "summary": "7月16日0—24时，广西新增本土确诊病例9例（均在北海市，其中海城区7例、银海区1例、合浦县1例），含3例无症状感染者转为确诊病例（均在北海市海城区），新增本土无症状感染者235例（北海市232例，其中海城区173例、银海区49例、合浦县10例；南宁市西乡塘区2例；崇左市龙州县1例）。截至7月16日24时，广西现有本土无症状感染者474例（北海市444例，防城港市14例，南宁市11例，崇左市3例",
       "infoSource": "央视新闻app",
@@ -14776,7 +14891,7 @@
     {
       "id": 201842,
       "pubDate": 1658021022000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "四川 | 昨日新增本土确诊病例 7 例",
       "summary": " \n\t\t    7月16日0时至24时，四川新增本土确诊病例7例（成都5例，眉山1例，广元1例），新增本土无症状感染者5例（成都1例，眉山3例，广元1例），新增境外输入确诊病例3例（在成都），新增境外输入无症状感染者11例（在成都），新增治愈出院病例3例，无新增疑似病例，无新增死亡病例 。 \n    截至7月16日24时，全省共有6个高风险区，7个中风险区，4个低风险区。（如下图）\n\n    具体情况如下： \n    新增本土确诊病例7例（成都5例，眉山1例，广元1例）： \n    6例（成都5例、眉山1例）均为成都市确诊病例的密切接触者； \n    1例为省外返广元人员； \n    均于7月16日确诊。 \n    新增本土无症状感染者5例（成都1例，眉山3例，广元1例）： \n    1例为成都市确诊病例的密切接触者； \n    3例为眉山市确诊病例的密切接触者； \n    1例为省外返广元人员； \n    均于7月16日诊断为无症状感染者。 \n    新增境外输入确诊病例3例（在成都）： \n    2例为7月15日自哈萨克斯坦乘机抵蓉进行隔离； \n    1例为7月16日自哈萨克斯坦乘机抵蓉进行隔离； \n    均于7月16日确诊。 \n    新增境外输入无症状感染者11例（在成都）： \n    2例为7月13日自新加坡乘机抵蓉进行隔离； \n    1例为7月15日自哈萨克斯坦乘机抵蓉进行隔离； \n    8例为7月16日自哈萨克斯坦乘机抵蓉进行隔离； \n    均于7月16日诊断为无症状感染者。 \n   （确诊病例及无症状感染者具体情况由相关市（州）卫生健康委进行通报）\n     温馨提示：保持警惕，做好防护，勤洗手、不扎堆、少聚集，若有发热、咳嗽等不适症状，请及时就近前往发热门诊、哨点诊室、新冠病毒核酸检测机构。具体请点击https://hissct.mobimedical.cn/urgentYiq，随时查看距您最近的医疗卫生机构，快捷咨询，精准预约。\n    点击健康四川官微左下角“疫情防控”栏目可查询“疫情。\n",
       "infoSource": "四川卫健委",
@@ -14789,7 +14904,7 @@
     {
       "id": 201831,
       "pubDate": 1658016399000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "安徽 | 昨日新增本土确诊病例 5 例",
       "summary": "2022年7月16日0—24时，安徽省报告新增本土确诊病例5例（蚌埠市怀远县4例、淮上区1例），新增本土无症状感染者42例（蚌埠市怀远县40例、禹会区2例）。\n7月16日0—24时，新增治愈出院病例27例（宿州市灵璧县1例、泗县26例），新增解除医学观察的无症状感染者138例（淮北市濉溪县1例，宿州市灵璧县12例、泗县125例）。\n截至7月16日24时，安徽省在院治疗的本土确诊病例138例，尚在医",
       "infoSource": "央视新闻app",
