@@ -184,8 +184,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 16,
       "confirmedCount": 763,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 500000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json"
     },
@@ -1702,8 +1702,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 16,
       "confirmedCount": 763,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 5,
       "locationId": 500000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
       "cities": [
@@ -12192,7 +12192,7 @@
       "locationId": 500000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/368/3398299751673487486-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 0,
+      "midDangerCount": 5,
       "detectOrgCount": 80,
       "vaccinationOrgCount": 261,
       "cities": [
@@ -12672,12 +12672,38 @@
           "curedCount": 1,
           "deadCount": 0,
           "highDangerCount": 0,
-          "midDangerCount": 0,
+          "midDangerCount": 5,
           "locationId": -1,
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "万盛经开区",
+          "areaName": "万盛经开区芙蓉丽苑2、3单元",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "万盛经开区",
+          "areaName": "万盛经开区芙蓉丽苑小区外芙蓉副食店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "万盛经开区",
+          "areaName": "万盛经开区煤苑小区9栋2单元",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "万盛经开区",
+          "areaName": "万盛经开区南天门小商店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "万盛经开区",
+          "areaName": "万盛经开区万盛桃子加油站超市",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "辽宁省",
@@ -14911,7 +14937,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658224660000,
+    "modifyTime": 1658226459000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -15145,13 +15171,13 @@
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0719/857/5109489163965290653-135.json",
     "highDangerCount": 465,
-    "midDangerCount": 736
+    "midDangerCount": 741
   },
   "getTimelineService1": [
     {
       "id": 202143,
       "pubDate": 1658192840000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 199+500 例",
       "summary": "7月18日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例237例。其中境外输入病例38例（广东9例，北京4例，天津4例，上海4例，福建4例，云南4例，江西3例，内蒙古2例，浙江1例，河南1例，湖北1例，广西1例），含6例由无症状感染者转为确诊病例（天津2例，内蒙古1例，浙江1例，广东1例，广西1例）；本土病例199例（广西134例，甘肃32例，四川12例，安徽6例，广东5",
       "infoSource": "央视新闻app",
@@ -15177,7 +15203,7 @@
     {
       "id": 202144,
       "pubDate": 1658193165000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 32 例 ",
       "summary": "7月18日0—24时，甘肃省新增确诊病例32例，其中兰州市28例（城关区27例，榆中县1例）、天水市2例（甘谷县1例，麦积区1例）、武威市古浪县1例、临夏州积石山县1例。新增无症状感染者199例，其中兰州市154例（城关区137例，榆中县8例，七里河区7例，安宁区1例，西固区1例）、甘南州26例（夏河县21例，玛曲县5例）、天水市8例（麦积区5例，甘谷县3例）、临夏州8例（广河县6例，积石山县1例",
       "infoSource": "央视新闻app",
@@ -15203,7 +15229,7 @@
     {
       "id": 202132,
       "pubDate": 1658188949000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "安徽 | 昨日新增本土确诊病例 6 例",
       "summary": "2022年7月18日0-24时，安徽省报告新增本土确诊病例6例（蚌埠市怀远县，其中1例系已报告的无症状感染者转为确诊病例），新增本土无症状感染者73例（亳州市利辛县5例，蚌埠市怀远县66例、禹会区2例）。\n上述感染者中，社会面筛查中发现1例（怀远县），重点人群排查中发现1例（利辛县），其余均在隔离管控中发现。\n7月18日0-24时，安徽省新增治愈出院病例27例（宿州市灵璧县4例、泗县23例），新增",
       "infoSource": "央视新闻app",
