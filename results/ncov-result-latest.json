@@ -172,8 +172,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 4,
       "confirmedCount": 7,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 42,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 44,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -329,7 +329,7 @@
       "currentConfirmedCount": 56,
       "confirmedCount": 2065,
       "dangerCountIncr": 1,
-      "currentDangerCount": 10,
+      "currentDangerCount": 12,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
     },
@@ -895,7 +895,7 @@
       "currentConfirmedCount": 271,
       "confirmedCount": 959,
       "dangerCountIncr": 1,
-      "currentDangerCount": 505,
+      "currentDangerCount": 507,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -943,8 +943,8 @@
           "yesterdayAsymptomaticCount": 42,
           "currentConfirmedCount": 4,
           "confirmedCount": 7,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 42,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 44,
           "currentConfirmedCountStr": "4"
         },
         {
@@ -1807,7 +1807,7 @@
       "currentConfirmedCount": 56,
       "confirmedCount": 2065,
       "dangerCountIncr": 1,
-      "currentDangerCount": 10,
+      "currentDangerCount": 12,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "cities": [
@@ -1831,7 +1831,7 @@
           "yesterdayAsymptomaticCount": 4,
           "currentConfirmedCount": 11,
           "confirmedCount": 39,
-          "dangerCountIncr": 0,
+          "dangerCountIncr": 1,
           "currentDangerCount": 4,
           "currentConfirmedCountStr": "11"
         },
@@ -1927,8 +1927,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 3,
           "confirmedCount": 367,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 2,
           "currentConfirmedCountStr": "3"
         },
         {
@@ -3554,8 +3554,8 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 187,
-      "midDangerCount": 318,
+      "highDangerCount": 190,
+      "midDangerCount": 317,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -3614,8 +3614,8 @@
           "suspectedCount": 0,
           "curedCount": 3,
           "deadCount": 0,
-          "highDangerCount": 23,
-          "midDangerCount": 19,
+          "highDangerCount": 26,
+          "midDangerCount": 18,
           "locationId": 622900,
           "currentConfirmedCountStr": "4"
         },
@@ -4372,6 +4372,11 @@
         },
         {
           "cityName": "临夏",
+          "areaName": "买家巷镇马家咀村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
           "areaName": "买家巷镇买家巷村",
           "dangerLevel": 1
         },
@@ -4382,12 +4387,22 @@
         },
         {
           "cityName": "临夏",
+          "areaName": "祁家集镇孙家村、陈家湾村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
           "areaName": "齐家镇邓家湾村、上马家村、排子坪村",
           "dangerLevel": 1
         },
         {
           "cityName": "临夏",
           "areaName": "三甲集镇全域15个行政村、2个社区（除乌玛高速广河段）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "水泉乡园子村",
           "dangerLevel": 1
         },
         {
@@ -6002,6 +6017,11 @@
         },
         {
           "cityName": "临夏",
+          "areaName": "广河县祁家集镇寺后子村、朱家坪村、谢家村、蔡王家村、何家湾村、果园山村、黄家沟村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
           "areaName": "广河县三甲集镇沙家村茶叶巷道、尕场巷道、二社巷道、大场市场、皮子巷道区域",
           "dangerLevel": 2
         },
@@ -6037,17 +6057,7 @@
         },
         {
           "cityName": "临夏",
-          "areaName": "祁家集镇寺后子村、孙家村、朱家坪村、谢家村、蔡王家村、何家湾村、果园山村、黄家沟村、陈家湾村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
           "areaName": "齐家镇园子坪村、王家沟村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "水泉乡园子村",
           "dangerLevel": 2
         },
         {
@@ -9531,8 +9541,8 @@
       "comment": "",
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-      "highDangerCount": 5,
-      "midDangerCount": 5,
+      "highDangerCount": 6,
+      "midDangerCount": 6,
       "detectOrgCount": 101,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -9651,8 +9661,8 @@
           "suspectedCount": 0,
           "curedCount": 364,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 1,
+          "midDangerCount": 1,
           "locationId": 120112,
           "currentConfirmedCountStr": "3"
         },
@@ -9761,7 +9771,7 @@
         },
         {
           "cityName": "河西区",
-          "areaName": "陈塘庄街云山里双号22-30门，单号29-33门、35-39门、41-45门、47-51门、53-55门、57-61门、63-67门及小区内的天津科信建设工程检测有限公司办公楼",
+          "areaName": "河西区陈塘庄街云山里小区及小区内天津科信建设工程检测有限公司办公楼",
           "dangerLevel": 1
         },
         {
@@ -9777,6 +9787,11 @@
         {
           "cityName": "南开区",
           "areaName": "长虹街阳城里1、2、3号楼，嘉陵道街罗江西里4、5、6号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双林街泓沪园5号楼、6号楼、7号楼、8号楼",
           "dangerLevel": 1
         },
         {
@@ -9802,6 +9817,11 @@
         {
           "cityName": "南开区",
           "areaName": "嘉陵道街罗江西里（除4、5、6号楼外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "津南区",
+          "areaName": "双林街泓沪园除5号楼、6号楼、7号楼、8号楼以外区域",
           "dangerLevel": 2
         }
       ]
@@ -15128,7 +15148,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658289804000,
+    "modifyTime": 1658297078000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -15361,7 +15381,7 @@
       "yesterdayConfirmedCountIncr": 1172338
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0720/936/4151702191321111653-135.json",
-    "highDangerCount": 508,
+    "highDangerCount": 512,
     "midDangerCount": 734
   },
   "getTimelineService1": [
@@ -15381,7 +15401,7 @@
     {
       "id": 202343,
       "pubDate": 1658282228000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 47 例",
       "summary": "据甘肃省卫健委通报，7月19日0—24时，甘肃省新增确诊病例47例，其中兰州市31例（城关区29例，榆中县2例）、甘南州10例（夏河县8例，玛曲县2例）、定西市临洮县3例、临夏州2例（康乐县1例，积石山县1例），武威市凉州区1例。含22例由无症状感染者转确诊病例，其中甘南州10例（夏河县8例，玛曲县2例）、兰州市城关区7例、定西市临洮县3例、临夏州2例（康乐县1例，积石山县1例）。\n新增无症状感染",
       "infoSource": "央视新闻app",
@@ -15394,7 +15414,7 @@
     {
       "id": 202323,
       "pubDate": 1658278484000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "广西 | 昨日新增本土确诊病例 21 例",
       "summary": "7月19日0—24时，广西新增本土确诊病例21例（均在北海市，其中海城区20例、合浦县1例），无症状感染者256例（北海市250例，其中海城区160例、银海区63例、合浦县19例、铁山港区8例；防城港东兴市3例；南宁市2例，其中青秀区1例、经济技术开发区1例；崇左凭祥市1例）。当日治愈出院本土确诊病例1例（北海市）。截至7月19日24时，全区现有本土确诊病例222例（均在北海市），本土无症状感染者",
       "infoSource": "央视新闻app",
@@ -15407,7 +15427,7 @@
     {
       "id": 202322,
       "pubDate": 1658277716000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "广东 | 昨日新增本土确诊病例 20 例",
       "summary": "7月19日0-24时，广东全省新增本土确诊病例19例（深圳14例，珠海4例，佛山1例）；新增本土无症状感染者8例（深圳5例，珠海2例，惠州1例）；另有1例本土无症状感染者转确诊病例（广州1例）。广东全省新增境外输入确诊病例14例（广州10例，深圳4例）；新增境外输入无症状感染者7例（广州3例，深圳1例，东莞2例，中山1例）；另有3例境外输入无症状感染者转确诊病例（广州3例）。\n广东全省新增出院10",
       "infoSource": "央视新闻app",
