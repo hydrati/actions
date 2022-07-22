@@ -53,7 +53,7 @@
       "currentConfirmedCount": 326,
       "confirmedCount": 690,
       "dangerCountIncr": 1,
-      "currentDangerCount": 330,
+      "currentDangerCount": 370,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -89,7 +89,7 @@
       "currentConfirmedCount": 107,
       "confirmedCount": 2701,
       "dangerCountIncr": 1,
-      "currentDangerCount": 52,
+      "currentDangerCount": 56,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -317,7 +317,7 @@
       "currentConfirmedCount": 53,
       "confirmedCount": 2068,
       "dangerCountIncr": 1,
-      "currentDangerCount": 17,
+      "currentDangerCount": 20,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json"
     },
@@ -569,7 +569,7 @@
       "currentConfirmedCount": 5,
       "confirmedCount": 8,
       "dangerCountIncr": 1,
-      "currentDangerCount": 35,
+      "currentDangerCount": 62,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -823,7 +823,7 @@
       "currentConfirmedCount": 361,
       "confirmedCount": 1060,
       "dangerCountIncr": 1,
-      "currentDangerCount": 552,
+      "currentDangerCount": 619,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -836,7 +836,7 @@
           "currentConfirmedCount": 326,
           "confirmedCount": 690,
           "dangerCountIncr": 1,
-          "currentDangerCount": 330,
+          "currentDangerCount": 370,
           "currentConfirmedCountStr": "326"
         },
         {
@@ -872,7 +872,7 @@
           "currentConfirmedCount": 5,
           "confirmedCount": 8,
           "dangerCountIncr": 1,
-          "currentDangerCount": 35,
+          "currentDangerCount": 62,
           "currentConfirmedCountStr": "5"
         },
         {
@@ -971,7 +971,7 @@
       "currentConfirmedCount": 332,
       "confirmedCount": 7933,
       "dangerCountIncr": 1,
-      "currentDangerCount": 90,
+      "currentDangerCount": 94,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -984,7 +984,7 @@
           "currentConfirmedCount": 107,
           "confirmedCount": 2701,
           "dangerCountIncr": 1,
-          "currentDangerCount": 52,
+          "currentDangerCount": 56,
           "currentConfirmedCountStr": "107"
         },
         {
@@ -1574,7 +1574,7 @@
       "currentConfirmedCount": 53,
       "confirmedCount": 2068,
       "dangerCountIncr": 1,
-      "currentDangerCount": 17,
+      "currentDangerCount": 20,
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
       "cities": [
@@ -1658,8 +1658,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 6,
           "confirmedCount": 212,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 3,
           "currentConfirmedCountStr": "6"
         },
         {
@@ -1719,8 +1719,8 @@
       "yesterdayAsymptomaticCount": 0,
       "currentConfirmedCount": 109,
       "confirmedCount": 3616,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 3,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 0,
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "cities": [
@@ -2400,8 +2400,8 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 253,
-      "midDangerCount": 299,
+      "highDangerCount": 315,
+      "midDangerCount": 304,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -2412,8 +2412,8 @@
           "suspectedCount": 0,
           "curedCount": 362,
           "deadCount": 2,
-          "highDangerCount": 171,
-          "midDangerCount": 159,
+          "highDangerCount": 225,
+          "midDangerCount": 145,
           "locationId": 620100,
           "currentConfirmedCountStr": "326"
         },
@@ -2472,8 +2472,8 @@
           "suspectedCount": 0,
           "curedCount": 3,
           "deadCount": 0,
-          "highDangerCount": 19,
-          "midDangerCount": 16,
+          "highDangerCount": 27,
+          "midDangerCount": 35,
           "locationId": 622900,
           "currentConfirmedCountStr": "5"
         },
@@ -2613,6 +2613,11 @@
       "dangerAreas": [
         {
           "cityName": "兰州",
+          "areaName": "安定门外60号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "安宁区兰州供电公司办公楼区域（含小二楼）",
           "dangerLevel": 1
         },
@@ -2643,12 +2648,27 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "白银路街道84-90双号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "白银路街道安定门外65号小区",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
+          "areaName": "白银路街道安定门外7号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "白银路街道柏道路3-60号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道柏道路65号",
           "dangerLevel": 1
         },
         {
@@ -2663,12 +2683,47 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "白银路街道市政家属院中山林45-53单号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道锡源便利店",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道永昌路115-123单号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道永昌路126、134、136号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道永昌路南口53-65单号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "白银路街道正宁路231-285单号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "草场街街道白土巷",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
           "areaName": "草场街街道恒大绿洲一号院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "草场街街道兰州十中家属院",
           "dangerLevel": 1
         },
         {
@@ -2823,6 +2878,16 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "东岗街道欣欣茗园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "东岗西路街道旧大路橡胶厂家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "东岗西路街道农民巷179-235号（单号）家属院",
           "dangerLevel": 1
         },
@@ -2834,6 +2899,11 @@
         {
           "cityName": "兰州",
           "areaName": "敦煌路街道任家庄西街兰石润安小区（110栋—103栋、108栋）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "代龙坪街道杨家沟自建房片区（179-196号）",
           "dangerLevel": 1
         },
         {
@@ -2868,7 +2938,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "皋兰路街道旧大路张家园1-19号单号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "皋兰路街道锦华家属院（含铺面）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "皋兰路街道兰运司家属院",
           "dangerLevel": 1
         },
         {
@@ -2888,7 +2968,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "皋兰路街道郑家台-詹家拐子片区（麦积山路以北、金昌南路以东、郑家台路以南、皋兰路以西）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "皋兰路街道郑家台1—7号（单号）家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "广武门街道32-42双号小区",
           "dangerLevel": 1
         },
         {
@@ -2903,7 +2993,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "拱星墩街道安兴小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "拱星墩街道东岗东路2036号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "拱星墩街道东岗东路文明村（1675-1911号）",
           "dangerLevel": 1
         },
         {
@@ -2918,7 +3018,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "拱星墩街道段家滩路6号商铺（通乐烤卯喷漆）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "拱星墩街道丰和丽园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "拱星墩街道南河庭院",
           "dangerLevel": 1
         },
         {
@@ -2963,6 +3073,16 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "火车站街道红山四村自建房片区（201-276号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "火车站街道绿茵小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "恒大绿洲二号院9号楼",
           "dangerLevel": 1
         },
@@ -3003,7 +3123,22 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "焦家湾街道焦家湾南路249-349单号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "焦家湾街道凯地华丽家族",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "酒泉路街道鼓楼巷南方小张菜铺",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "酒泉路街道井儿街19号小区",
           "dangerLevel": 1
         },
         {
@@ -3013,12 +3148,47 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "嘉峪关路街道瑞德大道珊瑚海",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "嘉峪关路街道瑞德摩尔加勒比海小区",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
+          "areaName": "嘉峪关路街道邮政小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "靖远路街道市二建家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "孔家崖街道桃海高层商住楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "青白石街道碧桂园诺丁山4组团",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "青白石街道上坪村（石沟老路以西、312国道以北，北环路以南，小沙沟以东)",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "青白石街道银河国际A区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "青白石街道杨家湾村",
           "dangerLevel": 1
         },
         {
@@ -3058,7 +3228,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "团结新村街道地矿之家东院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "团结新村街道地矿之家东院10号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "团结新村街道定西二支路245号小区",
           "dangerLevel": 1
         },
         {
@@ -3073,12 +3253,32 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "铁路东村街道何家庄西街水泵厂小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "铁路东村街道金铁小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "铁路东村街道引大家属院",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
+          "areaName": "铁路东村街道怡苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "铁路西村街道居安小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "五泉街87-123单号小区",
           "dangerLevel": 1
         },
         {
@@ -3104,6 +3304,11 @@
         {
           "cityName": "兰州",
           "areaName": "五泉街道和平新村227号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "五泉街道兰铁设计院小区",
           "dangerLevel": 1
         },
         {
@@ -3184,11 +3389,6 @@
         {
           "cityName": "兰州",
           "areaName": "西固区陈坪街道陈官营社区南方建材东侧巷道及周边区域（石化低温水处理厂以南、一支路以北、南方建材西南门巷道以东、一支路公厕斜对面巷道以西）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西固区陈坪街道新滩社区北滩庄闽兴建材市场及周边区域（一支路以南、北滩油库以北、北滩庄公厕巷道以东、南滨河西路以西）",
           "dangerLevel": 1
         },
         {
@@ -3293,7 +3493,22 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "盐场路街道兰州制药厂家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "盐场路街道兰州制药厂家属院5号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道IU酒店",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道大雁滩109-118号",
           "dangerLevel": 1
         },
         {
@@ -3313,12 +3528,27 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "雁南街道华英小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道锦华小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "雁南街道锦华医院",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
           "areaName": "雁南街道金鹏小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道景苑丽都",
           "dangerLevel": 1
         },
         {
@@ -3358,6 +3588,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "雁南街道滩尖子371号附1号家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "雁南街道滩尖子花园小区",
           "dangerLevel": 1
         },
@@ -3373,6 +3608,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "雁南街道天庆嘉园A区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "雁南街道文庭雅苑",
           "dangerLevel": 1
         },
@@ -3384,6 +3624,16 @@
         {
           "cityName": "兰州",
           "areaName": "雁南街道雁滩路自建房片区（2251-2501号单号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道雁滩路自建房片区（雁滩2815-2895单号、2907-2911单号)",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁南街道雁西路自建房片区(1677-1707、1715、1725、1733、1739单号)",
           "dangerLevel": 1
         },
         {
@@ -3413,7 +3663,17 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "雁园街道北面滩新村西一区（408-1136号)",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "雁园街道城关区刘家滩11号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "雁园街道和泰馨合园",
           "dangerLevel": 1
         },
         {
@@ -3458,12 +3718,157 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "张掖路街道大众巷22-48双号小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "张掖路街道盛世广场A座",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "张掖路街道依河园",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
           "areaName": "张掖路街道中广大厦怡园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "阿力麻土乡：古城村、大户赵家村、贾家",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "城关镇：河北社区、滨河社区、东街社区、西街社区、石那奴村、火红村、大杨家村、西关村、赵家村、双泉村、李家河村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "达板社区（含达板综合市场）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县北岭乡",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县北岭乡大湾头村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县达板镇上科妥村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县达板镇下科妥村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县董岭乡苏尚村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县董岭乡周家塬村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县坪庄乡坪庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县坪庄乡五麦寺村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇环城北路公租房9号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇苦改村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇张王家村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "公路段下家属院6号楼、8号楼、11号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "红园街道红园社区北院小区1号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "积石山县居集镇深沟村一社、二社、三社、四社、五社、六社、七社、八社",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "魁星阁光华东路延伸段入口平房区（环城东路以东、光华东路延伸段以南、光华东路魁星阁寺以西、新花市周家坝路以北）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "买家巷镇：买家巷村、马家咀村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "祁家集镇：景家村、田家村、黄赵家村、徐牟家村、祁家集村、高家村、李家湾村、孙家村、陈家湾村、谢家村、寺后子村、黄家沟村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "齐家镇：邓家湾村、上马家村、排子坪村、园子坪村、新民滩村、魏家咀村、黄家村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "三甲集镇全域（除乌玛高速广河段）：水家村、陈家村、东关村、沙家村、上集村、白庄头村、宗家村、头家村、甘坪村、小沟村、康家村、五户村、黑山村、小洼沟村、南山村、三甲集社区、广惠社区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "水泉乡园子村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "圣泽苑A区10号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "天华苑第6栋（54单元、55单元、56单元、57单元、58单元）及53单元",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "中天健2号楼、3号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "寨子沟乡尕马家村一社、二社、三社、四社、五社、六社、七社",
           "dangerLevel": 1
         },
         {
@@ -3589,101 +3994,6 @@
         {
           "cityName": "甘南",
           "areaName": "牙利吉办事处尼玛龙行政村第4、5自然村，第6、7、8自然村，第9、10自然村与尼玛龙行政村第1、2、3、11自然村联片",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "阿力麻土乡：古城村、大户赵家村、贾家",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "城关镇：河北社区、滨河社区、东街社区、西街社区、石那奴村、火红村、大杨家村、西关村、赵家村、双泉村、李家河村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "达板社区（含达板综合市场）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县达板镇上科妥村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县董岭乡苏尚村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县锁南镇张王家村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "公路段下家属院6号楼、8号楼、11号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "红园街道红园社区北院小区1号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "积石山县居集镇深沟村一社、二社、三社、四社、五社、六社、七社、八社",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "魁星阁光华东路延伸段入口平房区（环城东路以东、光华东路延伸段以南、光华东路魁星阁寺以西、新花市周家坝路以北）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "买家巷镇：买家巷村、马家咀村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "祁家集镇：景家村、田家村、黄赵家村、徐牟家村、祁家集村、高家村、李家湾村、孙家村、陈家湾村、谢家村、寺后子村、黄家沟村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "齐家镇：邓家湾村、上马家村、排子坪村、园子坪村、新民滩村、魏家咀村、黄家村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "三甲集镇全域（除乌玛高速广河段）：水家村、陈家村、东关村、沙家村、上集村、白庄头村、宗家村、头家村、甘坪村、小沟村、康家村、五户村、黑山村、小洼沟村、南山村、三甲集社区、广惠社区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "水泉乡园子村",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "圣泽苑A区10号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "天华苑第6栋（54单元、55单元、56单元、57单元、58单元）及53单元",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "中天健2号楼、3号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "寨子沟乡尕马家村一社、二社、三社、四社、五社、六社、七社",
           "dangerLevel": 1
         },
         {
@@ -3998,11 +4308,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "草场街街道兰州十中家属院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "草场街街道天诚丽舍（1号楼以外）片区",
           "dangerLevel": 2
         },
@@ -4043,11 +4348,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "城关区拱星墩街道南河庭院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "城关区火车站街道康居苑小区",
           "dangerLevel": 2
         },
@@ -4079,11 +4379,6 @@
         {
           "cityName": "兰州",
           "areaName": "东岗西路街道福田大厦",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "东岗西路街道旧大路橡胶厂家属院",
           "dangerLevel": 2
         },
         {
@@ -4138,22 +4433,12 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "拱星墩街道安兴小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "拱星墩街道财经大学家属院",
           "dangerLevel": 2
         },
         {
           "cityName": "兰州",
           "areaName": "拱星墩街道东岗东路7437工厂菜市场",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "拱星墩街道东岗东路文明村（1675-1911号）",
           "dangerLevel": 2
         },
         {
@@ -4338,16 +4623,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "青白石街道碧桂园诺丁山4组团",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "青白石街道上坪村(石沟老路以西、312国道以北，北环路以南，小沙沟以东)",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "青白石街道小达子坪车管所",
           "dangerLevel": 2
         },
@@ -4389,11 +4664,6 @@
         {
           "cityName": "兰州",
           "areaName": "山坪子小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "团结新村街道地矿之家东院（10号楼以外）",
           "dangerLevel": 2
         },
         {
@@ -4508,6 +4778,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "西固区陈坪街道新滩社区北滩庄闽兴建材市场及周边区域（一支路以南、北滩油库以北、北滩庄公厕巷道以东、南滨河西路以西）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "西固区陈坪街道新滩社区沿沟庄及周边区域（环形东路石化公用工程一部以南、梅陇石材以北、沿沟庄铁路沿线以东、南滨河西路以西）",
           "dangerLevel": 2
         },
@@ -4568,32 +4843,7 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "盐场路街道兰州制药厂家属院（5号楼以外）片区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "银路街道安定门外7号小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁南街道华英小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "雁南街道金盛宾馆",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁南街道景苑丽都",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁南街道滩尖子371号附1号家属院",
           "dangerLevel": 2
         },
         {
@@ -4624,16 +4874,6 @@
         {
           "cityName": "兰州",
           "areaName": "雁南街道中广宜景湾望河楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁园街道北面滩新村西一区（408-1136号）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁园街道和泰馨合园",
           "dangerLevel": 2
         },
         {
@@ -4864,6 +5104,181 @@
         {
           "cityName": "白银",
           "areaName": "兆烽嘉园珊瑞超市",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "白王乡白王村中街骡马市场巷北至入口南至流川河河谷",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "城关镇：马家村、潘家村、李家坪村、马力庄村、牟家窑村、十里墩村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县北岭乡温都山",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县春台乡和岘村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县达板镇崔家村、下科妥村、凤凰山社区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县达板镇东乡六中",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县达板镇拱北滩村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县董岭乡董家岭村董岭街道",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县东塬乡东塬加气站",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县龙泉镇老庄村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县龙泉镇老庄村龙泉街道",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇美食一条街",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇煤炭公司",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇马有布牛肉面馆",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇民族中学对面蔬菜铺",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇南大街",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇牛羊肉市场",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇南园市场",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇盘旋路卡派洗车店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇体育场对面祁师手抓馆",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇信用社",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇信用社旁边移动公司营业厅",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "东乡族自治县锁南镇亚舟国际饭店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "公路段下家属院内其他楼栋（临夏公路段办公楼、小二楼12号、9号楼、10号楼）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "龙甫村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "临夏市中天健2号、3号楼南侧边际至刘临路",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "临夏市中天健商业5号楼（盛颐酒店所在楼栋）至城东一路区域以及中心广场“蜜雪冰城”春光店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "临夏市中心广场“吉庆楼”",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "临夏市中心广场“蜜雪冰城”春光店二楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "南塬乡张河西村水漫滩社",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "祁家集镇：朱家坪村、蔡王家村、何家湾村、果园山村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "齐家镇王家沟村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "圣泽园A区4号、5号、11号楼及圣泽园A区周边商铺",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "天华苑小区其余12栋及城北街道天华社区、天华苑物业中心、小区内商铺",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "临夏",
+          "areaName": "先锋乡前韩村寨五二社",
           "dangerLevel": 2
         },
         {
@@ -5137,86 +5552,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "临夏",
-          "areaName": "白王乡白王村中街骡马市场巷北至入口南至流川河河谷",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "城关镇：马家村、潘家村、李家坪村、马力庄村、牟家窑村、十里墩村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县达板镇崔家村、下科妥村、凤凰山社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县董岭乡董家岭村董岭街道",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "东乡族自治县龙泉镇老庄村龙泉街道",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "公路段下家属院内其他楼栋（临夏公路段办公楼、小二楼12号、9号楼、10号楼）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "临夏市中天健2号、3号楼南侧边际至刘临路",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "临夏市中天健商业5号楼（盛颐酒店所在楼栋）至城东一路区域以及中心广场“蜜雪冰城”春光店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "临夏市中心广场“吉庆楼”",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "临夏市中心广场“蜜雪冰城”春光店二楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "南塬乡张河西村水漫滩社",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "祁家集镇：朱家坪村、蔡王家村、何家湾村、果园山村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "齐家镇王家沟村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "圣泽园A区4号、5号、11号楼及圣泽园A区周边商铺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "天华苑小区其余12栋及城北街道天华社区、天华苑物业中心、小区内商铺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "临夏",
-          "areaName": "先锋乡前韩村寨五二社",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "天水",
           "areaName": "安远镇北城村一组",
           "dangerLevel": 2
@@ -5384,8 +5719,8 @@
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-      "highDangerCount": 33,
-      "midDangerCount": 57,
+      "highDangerCount": 36,
+      "midDangerCount": 58,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -5396,8 +5731,8 @@
           "suspectedCount": 3,
           "curedCount": 2591,
           "deadCount": 3,
-          "highDangerCount": 26,
-          "midDangerCount": 26,
+          "highDangerCount": 29,
+          "midDangerCount": 27,
           "locationId": 440300,
           "currentConfirmedCountStr": "107"
         },
@@ -5655,6 +5990,21 @@
         }
       ],
       "dangerAreas": [
+        {
+          "cityName": "深圳",
+          "areaName": "百花一路东三巷6号和7号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "百花一路东四巷6号和7号",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "布吉社区横向南街13号",
+          "dangerLevel": 1
+        },
         {
           "cityName": "深圳",
           "areaName": "东湖街道观山祥苑临近05、06生活区",
@@ -5953,6 +6303,11 @@
         {
           "cityName": "珠海",
           "areaName": "香洲区南屏镇华发新城一期18栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "深圳",
+          "areaName": "布吉社区百花一街东一巷至九巷（除高风险区外）",
           "dangerLevel": 2
         },
         {
@@ -7424,7 +7779,7 @@
       "locationId": 350000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/744/3398299751673071813-135.json",
       "highDangerCount": 0,
-      "midDangerCount": 3,
+      "midDangerCount": 0,
       "detectOrgCount": 59,
       "vaccinationOrgCount": 156,
       "cities": [
@@ -7508,7 +7863,7 @@
           "curedCount": 73,
           "deadCount": 1,
           "highDangerCount": 0,
-          "midDangerCount": 3,
+          "midDangerCount": 0,
           "locationId": 350100,
           "currentConfirmedCountStr": "0"
         },
@@ -7549,23 +7904,7 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": [
-        {
-          "cityName": "福州",
-          "areaName": "澳前村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "福州",
-          "areaName": "磹报村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "福州",
-          "areaName": "南赖村",
-          "dangerLevel": 2
-        }
-      ]
+      "dangerAreas": []
     },
     {
       "provinceName": "四川省",
@@ -8971,8 +9310,8 @@
       "comment": "",
       "locationId": 120000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/669/3398299753820555949-135.json",
-      "highDangerCount": 9,
-      "midDangerCount": 8,
+      "highDangerCount": 11,
+      "midDangerCount": 9,
       "detectOrgCount": 101,
       "vaccinationOrgCount": 16,
       "cities": [
@@ -9067,8 +9406,8 @@
           "suspectedCount": 0,
           "curedCount": 206,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 2,
+          "midDangerCount": 1,
           "locationId": 120111,
           "currentConfirmedCountStr": "6"
         },
@@ -9225,6 +9564,16 @@
           "dangerLevel": 1
         },
         {
+          "cityName": "西青区",
+          "areaName": "中北镇润姜家园小区A区3号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "西青区",
+          "areaName": "中铁十八局宿舍2号楼",
+          "dangerLevel": 1
+        },
+        {
           "cityName": "滨海新区",
           "areaName": "新北街道首创国际小区45-56号楼",
           "dangerLevel": 1
@@ -9277,6 +9626,11 @@
         {
           "cityName": "津南区",
           "areaName": "双林街泓沪园除5号楼、6号楼、7号楼、8号楼以外区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "西青区",
+          "areaName": "中铁十八局宿舍1号楼",
           "dangerLevel": 2
         }
       ]
@@ -14351,7 +14705,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658479386000,
+    "modifyTime": 1658481755000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -14561,37 +14915,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 186205866,
-      "confirmedCount": 562220368,
+      "currentConfirmedCount": 186330100,
+      "confirmedCount": 562349242,
       "suspectedCount": 4,
-      "curedCount": 369642658,
-      "deadCount": 6371844,
+      "curedCount": 369644474,
+      "deadCount": 6374668,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 1235224,
-      "confirmedIncr": 1382244,
-      "curedIncr": 143881,
-      "deadIncr": 3139
+      "currentConfirmedIncr": 1359458,
+      "confirmedIncr": 1511118,
+      "curedIncr": 145697,
+      "deadIncr": 5963
     },
     "globalStatistics": {
-      "currentConfirmedCount": 190844970,
-      "confirmedCount": 567184334,
-      "curedCount": 369944362,
-      "deadCount": 6395002,
-      "currentConfirmedIncr": 1284918,
-      "confirmedIncr": 1432370,
-      "curedIncr": 144149,
-      "deadIncr": 3303,
-      "yesterdayConfirmedCountIncr": 1408308
+      "currentConfirmedCount": 190969204,
+      "confirmedCount": 567313208,
+      "curedCount": 369946178,
+      "deadCount": 6397826,
+      "currentConfirmedIncr": 1409152,
+      "confirmedIncr": 1561244,
+      "curedIncr": 145965,
+      "deadIncr": 6127,
+      "yesterdayConfirmedCountIncr": 1537182
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0722/913/5985846807132841653-135.json",
-    "highDangerCount": 512,
-    "midDangerCount": 631
+    "highDangerCount": 571,
+    "midDangerCount": 619
   },
   "getTimelineService1": [
     {
       "id": 202562,
       "pubDate": 1658452424000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 106+774 例",
       "summary": "7月21日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例175例。其中境外输入病例69例（广东33例，福建10例，上海9例，四川8例，北京3例，天津2例，内蒙古2例，浙江1例，广西1例），含10例由无症状感染者转为确诊病例（广东4例，天津1例，内蒙古1例，浙江1例，福建1例，广西1例，四川1例）；本土病例106例（甘肃52例，广西21例，广东10例，安徽8例，四川6例，重",
       "infoSource": "央视新闻app",
@@ -14604,7 +14958,7 @@
     {
       "id": 202568,
       "pubDate": 1658454249000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 52 例 ",
       "summary": "据甘肃省卫健委通报，7月21日0—24时，甘肃省新增确诊病例52例，其中兰州市50例（城关区44例，七里河区2例，红古区2例，西固区1例，榆中县1例）、白银市会宁县1例、定西市临洮县1例。含13例由无症状感染者转确诊病例，其中兰州市11例（城关区8例，七里河区1例，西固区1例，榆中县1例）、白银市会宁县1例、定西市临洮县1例。新增无症状感染者517例，其中兰州市201例（城关区190例，七里河区6",
       "infoSource": "央视新闻app",
@@ -14617,7 +14971,7 @@
     {
       "id": 202560,
       "pubDate": 1658450127000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "广西 | 昨日新增本土确诊病例 21 例",
       "summary": "7月21日0—24时，广西新增本土确诊病例21例（北海市20例，其中海城区17例、银海区3例，南宁市青秀区1例），含2例无症状感染者转为确诊病例（北海市1例，南宁市1例）；无症状感染者132例（北海市124例，防城港市5例，南宁市1例，钦州市1例，崇左市1例）。当日治愈出院本土确诊病例9例（均在北海市），解除隔离医学观察本土无症状感染者14例（北海市12例，防城港市2例）。截至7月21日24时，全",
       "infoSource": "央视新闻app",
@@ -14630,7 +14984,7 @@
     {
       "id": 202555,
       "pubDate": 1658448145000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "安徽 | 昨日新增本土确诊病例 8 例",
       "summary": "2022年7月21日0—24时，安徽省报告新增本土确诊病例8例（蚌埠市怀远县，其中1例系已报告的无症状感染者转为确诊病例），新增本土无症状感染者44例（亳州市涡阳县2例，宿州市埇桥区3例，蚌埠市怀远县39例），均在隔离管控中发现。\n7月21日0—24时，新增治愈出院病例8例（境外输入2例，宿州市泗县6例），新增解除医学观察的无症状感染者61例（宿州市灵璧县1例、泗县58例，蚌埠市怀远县2例）。\n截",
       "infoSource": "央视新闻app",
@@ -14643,7 +14997,7 @@
     {
       "id": 202561,
       "pubDate": 1658451697000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 6 例 ",
       "summary": "7月21日0时至24时，四川新增本土确诊病例6例（成都4例，其中1例为既往通报的无症状感染者转确诊；眉山2例），新增本土无症状感染者13例（成都3例，眉山9例，遂宁1例），新增境外输入确诊病例8例（在成都， 其中1例为既往通报的境外输入无症状感染者转确诊），新增境外输入无症状感染者5例（在成都），新增治愈出院病例3例，无新增疑似病例，无新增死亡病例 。\n截至7月21日24时，全省共有32个高风险区",
       "infoSource": "央视新闻app",
