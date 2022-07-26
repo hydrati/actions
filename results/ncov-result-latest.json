@@ -53,7 +53,7 @@
       "currentConfirmedCount": 406,
       "confirmedCount": 797,
       "dangerCountIncr": 1,
-      "currentDangerCount": 370,
+      "currentDangerCount": 368,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -622,6 +622,18 @@
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
     {
+      "provinceName": "浙江省",
+      "provinceShortName": "浙江",
+      "cityName": "台州",
+      "yesterdayLocalConfirmedCount": 0,
+      "currentConfirmedCount": 2,
+      "confirmedCount": 149,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 7,
+      "locationId": 330000,
+      "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
+    },
+    {
       "provinceName": "海南省",
       "provinceShortName": "海南",
       "cityName": "定安",
@@ -632,18 +644,6 @@
       "currentDangerCount": 2,
       "locationId": 460000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/126/3398299753820555862-135.json"
-    },
-    {
-      "provinceName": "浙江省",
-      "provinceShortName": "浙江",
-      "cityName": "台州",
-      "yesterdayLocalConfirmedCount": 0,
-      "currentConfirmedCount": 2,
-      "confirmedCount": 149,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
-      "locationId": 330000,
-      "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json"
     },
     {
       "provinceName": "广东省",
@@ -799,7 +799,7 @@
       "currentConfirmedCount": 440,
       "confirmedCount": 1189,
       "dangerCountIncr": 1,
-      "currentDangerCount": 543,
+      "currentDangerCount": 541,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -812,7 +812,7 @@
           "currentConfirmedCount": 406,
           "confirmedCount": 797,
           "dangerCountIncr": 1,
-          "currentDangerCount": 370,
+          "currentDangerCount": 368,
           "currentConfirmedCountStr": "406"
         },
         {
@@ -1697,8 +1697,8 @@
       "yesterdayAsymptomaticCount": 1,
       "currentConfirmedCount": 25,
       "confirmedCount": 3197,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 0,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 7,
       "locationId": 330000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json",
       "cities": [
@@ -1830,8 +1830,8 @@
           "yesterdayAsymptomaticCount": 0,
           "currentConfirmedCount": 2,
           "confirmedCount": 149,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 0,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 7,
           "currentConfirmedCountStr": "2"
         }
       ]
@@ -2335,7 +2335,7 @@
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "highDangerCount": 299,
-      "midDangerCount": 244,
+      "midDangerCount": 242,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -2347,7 +2347,7 @@
           "curedCount": 389,
           "deadCount": 2,
           "highDangerCount": 222,
-          "midDangerCount": 148,
+          "midDangerCount": 146,
           "locationId": 620100,
           "currentConfirmedCountStr": "406"
         },
@@ -2757,6 +2757,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "城关区恒大绿洲一号院11号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区酒泉路街道华玺花园",
           "dangerLevel": 1
         },
@@ -2777,6 +2782,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "城关区九州主食厨房园区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区青白石街道石沟村回道沟",
           "dangerLevel": 1
         },
@@ -2787,12 +2797,27 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "城关区铁路东村街道何家庄自建房片区(268-279号、304-372号)",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "城关区铁路东村街道仁恒国际",
           "dangerLevel": 1
         },
         {
           "cityName": "兰州",
           "areaName": "城关区渭源路街道长城山海苑",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区雁北街道雁京家园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区盐场路街道九州幸福苑小区",
           "dangerLevel": 1
         },
         {
@@ -2838,16 +2863,6 @@
         {
           "cityName": "兰州",
           "areaName": "城关区雁园街道基业豪庭（西南片区）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "东岗街道欣欣嘉园东区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "东岗街道欣欣嘉园东区西门果蔬之家",
           "dangerLevel": 1
         },
         {
@@ -3197,11 +3212,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "团结新村街道地矿之家东院10号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
           "areaName": "团结新村街道定西二支路245号小区",
           "dangerLevel": 1
         },
@@ -3337,11 +3347,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "渭源路街道长城山海苑",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
           "areaName": "渭源路街道中科院兰州分院市场科苑调料店及库房",
           "dangerLevel": 1
         },
@@ -3428,11 +3433,6 @@
         {
           "cityName": "兰州",
           "areaName": "盐场路街道兰州制药厂家属院",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "盐场路街道兰州制药厂家属院5号楼",
           "dangerLevel": 1
         },
         {
@@ -4077,11 +4077,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "草场街街道白土巷",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "草场街街道电器厂家属院",
           "dangerLevel": 2
         },
@@ -4208,6 +4203,11 @@
         {
           "cityName": "兰州",
           "areaName": "城关区雁北街道银雁家园",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区雁园街道天庆花园东北片区",
           "dangerLevel": 2
         },
         {
@@ -4632,11 +4632,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "渭源路街道广电小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "渭源路街道科技街航天和美",
           "dangerLevel": 2
         },
@@ -4748,11 +4743,6 @@
         {
           "cityName": "兰州",
           "areaName": "雁园街道刘家滩自建房片区（金徽财富中心以西、飞雁街以东、温馨家园以南、高新创新园区以北）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "雁园街道天庆花园东北片区",
           "dangerLevel": 2
         },
         {
@@ -11214,8 +11204,8 @@
       "comment": "2月10日通报核减的12例在浙江省治愈的外省病例，根据国家最新要求重新纳入累计病例。",
       "locationId": 330000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/537/3398299755968455045-135.json",
-      "highDangerCount": 0,
-      "midDangerCount": 0,
+      "highDangerCount": 5,
+      "midDangerCount": 2,
       "detectOrgCount": 519,
       "vaccinationOrgCount": 217,
       "cities": [
@@ -11358,8 +11348,8 @@
           "suspectedCount": 0,
           "curedCount": 147,
           "deadCount": 0,
-          "highDangerCount": 0,
-          "midDangerCount": 0,
+          "highDangerCount": 5,
+          "midDangerCount": 2,
           "locationId": 331000,
           "currentConfirmedCountStr": "2"
         },
@@ -11388,7 +11378,43 @@
           "currentConfirmedCountStr": "-1089"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "台州",
+          "areaName": "吉华盛超市附近河南滋补烩面店",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "台州",
+          "areaName": "沃民小区对面的老北京炸酱面馆",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "台州",
+          "areaName": "沃民小区秦记烧烤店",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "台州",
+          "areaName": "沃民小区七十二变理发店",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "台州",
+          "areaName": "浙江万通重工有限公司",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "台州",
+          "areaName": "康辰大药房（吉华盛超市附近）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "台州",
+          "areaName": "沃民小区（高风险区除外",
+          "dangerLevel": 2
+        }
+      ]
     },
     {
       "provinceName": "北京市",
@@ -16011,7 +16037,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658814575000,
+    "modifyTime": 1658817929000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -16244,8 +16270,8 @@
       "yesterdayConfirmedCountIncr": 709312
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0726/701/6780620371944222653-135.json",
-    "highDangerCount": 824,
-    "midDangerCount": 630
+    "highDangerCount": 831,
+    "midDangerCount": 632
   },
   "getTimelineService1": [
     {
