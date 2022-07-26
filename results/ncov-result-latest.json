@@ -53,7 +53,7 @@
       "currentConfirmedCount": 406,
       "confirmedCount": 797,
       "dangerCountIncr": 1,
-      "currentDangerCount": 372,
+      "currentDangerCount": 369,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -77,7 +77,7 @@
       "currentConfirmedCount": 164,
       "confirmedCount": 1886,
       "dangerCountIncr": 1,
-      "currentDangerCount": 105,
+      "currentDangerCount": 142,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
@@ -161,7 +161,7 @@
       "currentConfirmedCount": 3,
       "confirmedCount": 23,
       "dangerCountIncr": 1,
-      "currentDangerCount": 31,
+      "currentDangerCount": 36,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
     },
@@ -545,7 +545,7 @@
       "currentConfirmedCount": 5,
       "confirmedCount": 28,
       "dangerCountIncr": 1,
-      "currentDangerCount": 22,
+      "currentDangerCount": 13,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -799,7 +799,7 @@
       "currentConfirmedCount": 440,
       "confirmedCount": 1189,
       "dangerCountIncr": 1,
-      "currentDangerCount": 554,
+      "currentDangerCount": 542,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -812,7 +812,7 @@
           "currentConfirmedCount": 406,
           "confirmedCount": 797,
           "dangerCountIncr": 1,
-          "currentDangerCount": 372,
+          "currentDangerCount": 369,
           "currentConfirmedCountStr": "406"
         },
         {
@@ -872,7 +872,7 @@
           "currentConfirmedCount": 5,
           "confirmedCount": 28,
           "dangerCountIncr": 1,
-          "currentDangerCount": 22,
+          "currentDangerCount": 13,
           "currentConfirmedCountStr": "5"
         },
         {
@@ -947,7 +947,7 @@
       "currentConfirmedCount": 185,
       "confirmedCount": 2578,
       "dangerCountIncr": 1,
-      "currentDangerCount": 108,
+      "currentDangerCount": 145,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -960,7 +960,7 @@
           "currentConfirmedCount": 164,
           "confirmedCount": 1886,
           "dangerCountIncr": 1,
-          "currentDangerCount": 105,
+          "currentDangerCount": 142,
           "currentConfirmedCountStr": "164"
         },
         {
@@ -1435,7 +1435,7 @@
       "currentConfirmedCount": 14,
       "confirmedCount": 2826,
       "dangerCountIncr": 1,
-      "currentDangerCount": 31,
+      "currentDangerCount": 36,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
       "cities": [
@@ -1448,7 +1448,7 @@
           "currentConfirmedCount": 3,
           "confirmedCount": 23,
           "dangerCountIncr": 1,
-          "currentDangerCount": 31,
+          "currentDangerCount": 36,
           "currentConfirmedCountStr": "3"
         }
       ]
@@ -2335,7 +2335,7 @@
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "highDangerCount": 298,
-      "midDangerCount": 256,
+      "midDangerCount": 244,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -2346,8 +2346,8 @@
           "suspectedCount": 0,
           "curedCount": 389,
           "deadCount": 2,
-          "highDangerCount": 219,
-          "midDangerCount": 153,
+          "highDangerCount": 221,
+          "midDangerCount": 148,
           "locationId": 620100,
           "currentConfirmedCountStr": "406"
         },
@@ -2406,8 +2406,8 @@
           "suspectedCount": 0,
           "curedCount": 23,
           "deadCount": 0,
-          "highDangerCount": 4,
-          "midDangerCount": 18,
+          "highDangerCount": 2,
+          "midDangerCount": 11,
           "locationId": 620400,
           "currentConfirmedCountStr": "5"
         },
@@ -2657,6 +2657,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "草场街街道瑞安小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "草场街街道四毛厂家属院",
           "dangerLevel": 1
         },
@@ -2773,6 +2778,11 @@
         {
           "cityName": "兰州",
           "areaName": "城关区团结新村街道天平街40-44号（双号）家属院",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
+          "areaName": "城关区铁路东村街道仁恒国际",
           "dangerLevel": 1
         },
         {
@@ -3038,11 +3048,6 @@
         {
           "cityName": "兰州",
           "areaName": "红古区华龙街道振兴社区煤电六小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "红古区矿区街道新跃社区梅花楼片区（37-41号楼）",
           "dangerLevel": 1
         },
         {
@@ -3632,6 +3637,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "张掖路街道大众巷区域（永昌北路以东、张掖路以北、贤后街和城隍庙以西、南滨河东路以南）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "兰州",
           "areaName": "张掖路街道盛世广场A座",
           "dangerLevel": 1
         },
@@ -4001,26 +4011,6 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "白银",
-          "areaName": "北滩镇独山村西社",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县土高山乡中庄村中庄组（护山洼以南，王川涧沟以北、前川路口以东、后川组界以西的区域）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "白银",
-          "areaName": "金地华府3号楼",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇万霞大酒店",
-          "dangerLevel": 1
-        },
-        {
           "cityName": "天水",
           "areaName": "麦积区石佛北路以东、泉湖路以西、兴陇路以南、龙园西路以北的区域范围内五龙路以东、琥珀路以西的区域",
           "dangerLevel": 1
@@ -4033,6 +4023,16 @@
         {
           "cityName": "天水",
           "areaName": "张家川县张家川镇刘家村（不含五组）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县土高山乡中庄村中庄组（护山洼以南，王川涧沟以北、前川路口以东、后川组界以西的区域）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "白银",
+          "areaName": "金地华府3号楼",
           "dangerLevel": 1
         },
         {
@@ -4158,11 +4158,6 @@
         {
           "cityName": "兰州",
           "areaName": "城关区草场街街道恒大绿洲二号院（6号、9号楼以外）片区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "城关区草场街街道瑞安小区",
           "dangerLevel": 2
         },
         {
@@ -4382,22 +4377,7 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "红古区矿区街道跃进街集贸市场",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "和平镇和平村徐家营社",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "和平镇和平嘉园北区8号楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "和平镇薇乐如意园7号楼",
+          "areaName": "红古区矿区街道新跃社区梅花楼片区（37-41号楼）",
           "dangerLevel": 2
         },
         {
@@ -4552,6 +4532,11 @@
         },
         {
           "cityName": "兰州",
+          "areaName": "铁路东村街道何家庄社区全域（除高风险区外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "兰州",
           "areaName": "铁路西村街道达祥南苑小区",
           "dangerLevel": 2
         },
@@ -4658,16 +4643,6 @@
         {
           "cityName": "兰州",
           "areaName": "西固区陈坪街道陈官营社区南方建材东侧巷道及周边区域（石化低温水处理厂以南、一支路以北、南方建材西南门巷道以东、一支路公厕斜对面巷道以西）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西固区陈坪街道新滩社区北滩庄闽兴建材市场及周边区域（一支路以南、北滩油库以北、北滩庄公厕巷道以东、南滨河西路以西）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西固区陈坪街道新滩社区沿沟庄及周边区域（环形东路石化公用工程一部以南、梅陇石材以北、沿沟庄铁路沿线以东、南滨河西路以西）",
           "dangerLevel": 2
         },
         {
@@ -4787,12 +4762,12 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "榆中县和平镇和平嘉园北区7号楼",
+          "areaName": "榆中县和平镇和平嘉园南区",
           "dangerLevel": 2
         },
         {
           "cityName": "兰州",
-          "areaName": "榆中县和平镇和平嘉园南区",
+          "areaName": "张掖路街道大众巷社区全域（除高风险区外）",
           "dangerLevel": 2
         },
         {
@@ -5121,96 +5096,6 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "白银",
-          "areaName": "北滩镇独山村川九酒饭馆",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "北滩镇独山村顺仁堂大药房",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "北滩镇中滩村砂梁社",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "白银百灵医药连锁第七医药商店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县会宁县第四中学",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县会师镇南关通宁街51号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县菁华港湾李宁专卖店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县土高山乡中庄村中庄组（除以上高风险区外）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会宁县头寨子镇双坪村牛岔组",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "会师镇红军北路9号",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "靖远县刘川镇来窑村米粮社",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "若笠乡富民社区除11号楼外其他楼栋及小区外围商铺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇火狐狸服装城",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇马六美味餐厅",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇三回头烤吧",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇世纪缘商铺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇兴华百货",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "白银",
-          "areaName": "五合镇永辉超市",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "武威",
           "areaName": "古浪县土门镇台子村",
           "dangerLevel": 2
@@ -5263,6 +5148,61 @@
         {
           "cityName": "武威",
           "areaName": "土门镇漪泉村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "北滩镇独山村西社",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "白银百灵医药连锁第七医药商店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县会宁县第四中学",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县会师镇南关通宁街51号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县菁华港湾李宁专卖店",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县土高山乡中庄村中庄组（除以上高风险区外）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会宁县头寨子镇双坪村牛岔组",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "会师镇红军北路9号",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "靖远县刘川镇来窑村米粮社",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "若笠乡富民社区除11号楼外其他楼栋及小区外围商铺",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "白银",
+          "areaName": "五合镇万霞大酒店",
           "dangerLevel": 2
         },
         {
@@ -8165,8 +8105,8 @@
       "comment": "",
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-      "highDangerCount": 61,
-      "midDangerCount": 47,
+      "highDangerCount": 66,
+      "midDangerCount": 79,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -8177,8 +8117,8 @@
           "suspectedCount": 0,
           "curedCount": 1719,
           "deadCount": 3,
-          "highDangerCount": 59,
-          "midDangerCount": 46,
+          "highDangerCount": 64,
+          "midDangerCount": 78,
           "locationId": 510100,
           "currentConfirmedCountStr": "164"
         },
@@ -8438,7 +8378,42 @@
       "dangerAreas": [
         {
           "cityName": "成都",
-          "areaName": "病例住房所在的一条街左右两排自建房区域",
+          "areaName": " 金牛区芙蓉锦绣城西苑（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区碧桂园中环荟3栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区成电花园3栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区二仙桥街道机车厂宿舍71栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道大新华苑",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道建设北路三段233号及小区入口一楼商铺",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道祥和苑6栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道小新华苑",
           "dangerLevel": 1
         },
         {
@@ -8453,12 +8428,32 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区红枫岭三期7栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区建设北路二段5号附1号35栋",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
+          "areaName": "成华区锦绣上城1栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区朗诗萃樾（含一楼售楼部）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区龙潭工业园区安置房5期9栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区龙潭街道丛树家园1栋",
           "dangerLevel": 1
         },
         {
@@ -8473,6 +8468,26 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区跳蹬河街道龙湖三千城1期3栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区天伦花园4栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区五交化宿舍（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区祥和苑西区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区熊猫大道壹号院2、8栋",
           "dangerLevel": 1
         },
@@ -8483,47 +8498,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "草堂街道十二桥路16号附2号10、11栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "二仙桥街道机车厂宿舍71栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "府南街道双清巷18号清水绿苑3栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "府青路街道大新华苑",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "府青路街道建设北路三段233号及小区入口一楼商铺",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "府青路街道祥和苑6栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "府青路街道小新华苑",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
           "areaName": "高新区桂溪街道复地金融岛5栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "锦江区牛市口街道南府锦小区1栋",
           "dangerLevel": 1
         },
         {
@@ -8543,17 +8518,27 @@
         },
         {
           "cityName": "成都",
+          "areaName": "金牛区明月锦苑二期北苑（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区驷马桥街道府青路1段36号大院38栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区天回镇街道明月村五组175号，病例住房所在的一条街左右两排自建房区域",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "金牛区五里墩东一巷 1 号院 1-2 栋（含底商）",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
-          "areaName": "来龙村江华路314号楼（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "黎明小区2栋（含底商）",
+          "areaName": "金堂县鹭洲城邦小区2 栋（含底商）",
           "dangerLevel": 1
         },
         {
@@ -8588,12 +8573,57 @@
         },
         {
           "cityName": "成都",
+          "areaName": "龙泉驿区家园小区1栋2单元",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区来龙村江华路314号楼（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区黎明小区2栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区蓝天小区（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区龙兴苑小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区名景花园2栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区瑞丰苑2栋",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "龙泉驿区同安街道丽阳路208号丽阳社区D区13栋（含底商）",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
           "areaName": "龙泉驿区文豪世苑2栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区五星嘉园小区2栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区星光小区29栋",
           "dangerLevel": 1
         },
         {
@@ -8608,6 +8638,11 @@
         },
         {
           "cityName": "成都",
+          "areaName": "龙泉驿区怡和新城E1区8栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
           "areaName": "龙泉驿区怡和新城F2区13栋（含底商)",
           "dangerLevel": 1
         },
@@ -8618,22 +8653,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "龙潭街道丛树家园1栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "蓝天小区（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "龙兴苑小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "名景花园2栋（含底商）",
+          "areaName": "龙泉驿区中国电建云立方小区9栋（含底商）",
           "dangerLevel": 1
         },
         {
@@ -8653,82 +8673,27 @@
         },
         {
           "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南A区13栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南B区2栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南C区18栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "瑞丰苑2栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "驷马桥街道府青路1段36号大院38栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "跳蹬河街道龙湖三千城1期3栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "天回镇街道明月村五组175号",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "炜岸城40-41栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
           "areaName": "武侯区果堰街100号10栋",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
-          "areaName": "武侯区望江路街道锦宏骏苑北区4-5栋（龙江路19号）",
+          "areaName": "新都区蓉都大道天河路天府江南A区13栋（含底商）",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
-          "areaName": "五星嘉园小区2栋（含底商）",
+          "areaName": "新都区蓉都大道天河路天府江南B区2栋（含底商）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "新都区蓉都大道天河路天府江南C区18栋（含底商）",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
           "areaName": "新都区钰邸华府2栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "新都区育英路与绕城大道南一段交汇处东侧观澜鹭岛一期7栋（含底层商铺）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "鑫园小区1栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "怡和新城E1区8栋（含底商）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "中国电建云立方小区9栋（含底商）",
           "dangerLevel": 1
         },
         {
@@ -8743,12 +8708,32 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区碧桂园中环荟1-2、4栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区成电花园1-2、4栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道祥和苑1-5栋、7-8栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区关家苑1栋（含底商）",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
           "areaName": "成华区红枫岭1期2-5栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区红枫岭三期1-6、8-10栋",
           "dangerLevel": 2
         },
         {
@@ -8768,6 +8753,11 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区锦绣上城2-3栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区联合四组1-15、17、19-21栋",
           "dangerLevel": 2
         },
@@ -8778,12 +8768,27 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区龙潭街道丛树家园2-9栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区平祥雅居1-2、4栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
           "areaName": "成华区水乡嘉苑1-3、5-15栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区跳蹬河街道龙湖三千城1期1-2栋、4-5栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区天伦花园1、3、5-7栋",
           "dangerLevel": 2
         },
         {
@@ -8823,27 +8828,57 @@
         },
         {
           "cityName": "成都",
-          "areaName": "锦江区南府锦小区2栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
           "areaName": "锦江区南糠市街48号大院2栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
-          "areaName": "吉利安大厦及周边商铺",
+          "areaName": "锦江区蜀都花园小区除22栋以外的其他区域（含底商）",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
-          "areaName": "晶蓝半岛小区3栋（包括楼栋底层商户）",
+          "areaName": "金牛区芙蓉锦绣城东苑（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区明月锦苑二期南苑（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区人和佳苑小区（含底商及成都人和商务楼 ）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区首开龙湖紫宸小区（一期）3栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区驷马桥街道府青路1段36号大院除38栋外",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区驷马桥街道马鞍东路19号蜀涛苑一栋、二栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金牛区天回镇街道明月村五组除高风险区以外的区域",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
           "areaName": "金牛区“金华寺西路-毗河-马觉寺路-金华寺南路-天宝路西北段-金芙蓉大道一段辅路-金华寺西路”合围区域中，除去高风险区域的其他区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "金堂县鹭洲城邦小区除2栋（含底商）外的其他楼栋（含底商）",
           "dangerLevel": 2
         },
         {
@@ -8854,6 +8889,11 @@
         {
           "cityName": "成都",
           "areaName": "龙泉驿区东山领地1-3、5-6栋、8栋、东山领地一期旁长远二组自建点（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区格兰玺城1栋、3-7栋",
           "dangerLevel": 2
         },
         {
@@ -8873,7 +8913,32 @@
         },
         {
           "cityName": "成都",
+          "areaName": "龙泉驿区家园小区除1栋2单元以外的其他区域",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区来龙村江华路306号楼（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区黎明小区1栋、3-24栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区名景花园除2栋以外的其他区域（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "龙泉驿区南二路35号成都天屹生物科技有限公司、南二路33号成都市龙泉密封脂厂、南二路31号香港艾乐集团成都工业园、南二路25号中国电建、南二路19号成都市龙泉黎明非标制造有限公司、车城东五路133号四川万汇票证印务有限公司、车城东五路333号四川海岸电子开发有限公司、车城东五路145号成都新亿诺电器有限公司、车城东五路143号成都润信实业有限公司",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区瑞丰苑1栋、3-6栋",
           "dangerLevel": 2
         },
         {
@@ -8883,7 +8948,22 @@
         },
         {
           "cityName": "成都",
+          "areaName": "龙泉驿区炜岸城40、41栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "龙泉驿区文豪世苑1、3栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区五星嘉园小区除2栋以外的其他区域（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区星光小区除29栋以外的其他区域（含底商）",
           "dangerLevel": 2
         },
         {
@@ -8893,7 +8973,47 @@
         },
         {
           "cityName": "成都",
+          "areaName": "龙泉驿区鑫园小区2栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区驿都城二期7栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区怡和新城E1区除8栋以外的其他区域和E4区28栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "龙泉驿区怡和新城F2区9-12、14-15栋（含底商)",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区怡和新居1期1-16栋、18栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区中国电建云立方小区1-11、13-16栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "龙泉驿区长伍村二组石院坝",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "蒲江县大塘镇蒲塘路两侧（国道318 以南团结堰以北建筑物区域）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "邛崃市平乐镇青华社区粮农街东侧、政府街南侧、滨河路西侧、滨河路北侧所辖区域（含底商）",
           "dangerLevel": 2
         },
         {
@@ -8908,47 +9028,32 @@
         },
         {
           "cityName": "成都",
+          "areaName": "青羊区光华街道怡馨花园5栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "青羊区清江美庐1-6、8-10栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南A区除13栋（含底商）外的其他楼栋（含底商）",
+          "areaName": "青羊区清水绿苑3栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南C区18栋（含底商）外的其他楼栋（含底商）",
+          "areaName": "青羊区十二桥路16号附2号10-11栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
-          "areaName": "蓉都大道天河路天府江南除B区2栋（含底商）外的其他楼栋（含底商）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
-          "areaName": "圣采·泊尚小区除17-18栋外其余楼栋（含底商）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
-          "areaName": "天海商业广场",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
-          "areaName": "桃花源别墅27区11-12栋",
+          "areaName": "武侯区锦宏骏苑北区4-5栋",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
           "areaName": "武侯区江天路1号院1-2栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
-          "areaName": "武侯区望江路街道中海格林威治城 3-7 栋",
           "dangerLevel": 2
         },
         {
@@ -8959,6 +9064,26 @@
         {
           "cityName": "成都",
           "areaName": "武侯区玉林街道玉林北街70号1-2栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "新都区观澜鹭岛一期7栋（含底层商铺）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "新都区蓉都大道天河路天府江南A区除13栋（含底商）外的其他楼栋（含底商）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "新都区蓉都大道天河路天府江南C区18栋（含底商）外的其他楼栋（含底商）、吉利安大厦及周边商铺",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "新都区蓉都大道天河路天府江南除B区2栋（含底商）外的其他楼栋（含底商）、天海商业广场",
           "dangerLevel": 2
         },
         {
@@ -12960,8 +13085,8 @@
       "comment": "",
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-      "highDangerCount": 10,
-      "midDangerCount": 21,
+      "highDangerCount": 14,
+      "midDangerCount": 22,
       "detectOrgCount": 221,
       "vaccinationOrgCount": 113,
       "cities": [
@@ -12984,8 +13109,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 10,
-          "midDangerCount": 21,
+          "highDangerCount": 14,
+          "midDangerCount": 22,
           "locationId": 371700,
           "currentConfirmedCountStr": "3"
         },
@@ -13161,6 +13286,11 @@
       "dangerAreas": [
         {
           "cityName": "菏泽",
+          "areaName": "曹城街道贵和嘉园小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "曹县楼庄镇韩庄村",
           "dangerLevel": 1
         },
@@ -13191,6 +13321,11 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "楼庄镇高庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "楼庄镇楼庄村东村",
           "dangerLevel": 1
         },
@@ -13207,6 +13342,16 @@
         {
           "cityName": "菏泽",
           "areaName": "牡丹区西城街道景韵苑小区57号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "青菏街道环岛花园小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "王集镇丁庄村",
           "dangerLevel": 1
         },
         {
@@ -13312,6 +13457,11 @@
         {
           "cityName": "菏泽",
           "areaName": "万基小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "魏湾镇魏湾村",
           "dangerLevel": 2
         }
       ]
@@ -15856,7 +16006,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1658807900000,
+    "modifyTime": 1658809162000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -16089,14 +16239,14 @@
       "yesterdayConfirmedCountIncr": 709312
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0726/701/6780620371944222653-135.json",
-    "highDangerCount": 815,
-    "midDangerCount": 610
+    "highDangerCount": 824,
+    "midDangerCount": 631
   },
   "getTimelineService1": [
     {
       "id": 202965,
       "pubDate": 1658797928000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "3小时前",
       "title": "国家卫健委 | 昨日新增本土 98+770 例",
       "summary": "7月25日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例148例。其中境外输入病例50例（广东19例，福建11例，四川6例，浙江3例，北京2例，上海2例，山东2例，天津1例，辽宁1例，湖北1例，重庆1例，陕西1例），含14例由无症状感染者转为确诊病例（浙江3例，广东3例，四川3例，福建2例，山东2例，天津1例）；本土病例98例（甘肃37例，广西32例，四川16例，广东6例",
       "infoSource": "央视新闻app",
@@ -16109,8 +16259,8 @@
     {
       "id": 202959,
       "pubDate": 1658795607000,
-      "pubDateStr": "2小时前",
-      "title": "广西 | 新增本土确诊病例 32 例 ",
+      "pubDateStr": "3小时前",
+      "title": "广西 | 昨日新增本土确诊病例 32 例 ",
       "summary": "7月25日0-24时，广西新增本土确诊病例32例（均在北海市，其中海城区25例，银海区6例，合浦县1例），含9例无症状感染者订正为确诊病例（均在北海市）；本土无症状感染者370例（北海市365例，其中海城区334例，银海区27例，合浦县3例，铁山港区1例；防城港市4例，其中防城区3例，东兴市1例；南宁市青秀区1例）。当日治愈出院本土确诊病例12例（均在北海市），解除隔离医学观察本土无症状感染者45",
       "infoSource": "央视新闻app",
       "sourceUrl": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=4173147118132033629&toc_style_id=feeds_default",
@@ -16122,7 +16272,7 @@
     {
       "id": 202966,
       "pubDate": 1658797896000,
-      "pubDateStr": "1小时前",
+      "pubDateStr": "3小时前",
       "title": "四川 | 昨日新增本土确诊病例 16 例 ",
       "summary": "7月25日0—24时，四川新增本土确诊病例16例（在成都，其中5例为既往通报的无症状感染者转确诊），新增本土无症状感染者14例（成都12例，眉山2例），新增境外输入确诊病例6例（在成都，其中3例为既往通报的无症状感染者转确诊），新增境外输入无症状感染者10例（在成都），新增治愈出院病例1例，无新增疑似病例，无新增死亡病例 。\n（总台记者 郑轶）",
       "infoSource": "央视新闻app",
@@ -16135,7 +16285,7 @@
     {
       "id": 202951,
       "pubDate": 1658792601000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "4小时前",
       "title": "上海 | 昨日新增本土确诊病例 4 例 ",
       "summary": "上海市卫健委今早（7月26日）通报：2022年7月25日0—24时，新增本土新冠肺炎确诊病例4例和无症状感染者15例，其中4例确诊病例和12例无症状感染者在隔离管控中发现。新增境外输入性新冠肺炎确诊病例2例和无症状感染者7例，均在闭环管控中发现。\n2022年7月25日0—24时，新增本土新冠肺炎确诊病例4例。治愈出院7例。\n病例1，居住于静安区，病例2、病例3，居住于宝山区，病例4，居住于松江区，",
       "infoSource": "央视新闻app",
@@ -16148,7 +16298,7 @@
     {
       "id": 202948,
       "pubDate": 1658790860000,
-      "pubDateStr": "3小时前",
+      "pubDateStr": "5小时前",
       "title": "山东 | 昨日新增本土确诊病例 1 例",
       "summary": "2022年7月25日0时至24时，山东省报告新增本土确诊病例1例，新增本土无症状感染者27例，均在菏泽。无新增境外输入确诊病例。新增境外输入无症状感染者7例，其中青岛4例，分别为德国输入、日本输入、韩国输入和新加坡输入；济南3例，均为日本输入。\n2022年7月25日0时至24时，山东省报告境外输入无症状感染者转为确诊病例2例，其中济南1例、青岛1例。\n2022年7月25日0时至24时，山东省本土确",
       "infoSource": "央视新闻app",
