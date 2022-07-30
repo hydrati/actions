@@ -53,7 +53,7 @@
       "currentConfirmedCount": 313,
       "confirmedCount": 846,
       "dangerCountIncr": 1,
-      "currentDangerCount": 265,
+      "currentDangerCount": 257,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -77,7 +77,7 @@
       "currentConfirmedCount": 222,
       "confirmedCount": 1951,
       "dangerCountIncr": 1,
-      "currentDangerCount": 159,
+      "currentDangerCount": 156,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
@@ -100,8 +100,8 @@
       "yesterdayLocalConfirmedCount": 2,
       "currentConfirmedCount": 11,
       "confirmedCount": 31,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 85,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 108,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json"
     },
@@ -136,8 +136,8 @@
       "yesterdayLocalConfirmedCount": 1,
       "currentConfirmedCount": 4,
       "confirmedCount": 43,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 8,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 10,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json"
     },
@@ -751,7 +751,7 @@
       "currentConfirmedCount": 378,
       "confirmedCount": 1267,
       "dangerCountIncr": 1,
-      "currentDangerCount": 378,
+      "currentDangerCount": 370,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -764,7 +764,7 @@
           "currentConfirmedCount": 313,
           "confirmedCount": 846,
           "dangerCountIncr": 1,
-          "currentDangerCount": 265,
+          "currentDangerCount": 257,
           "currentConfirmedCountStr": "313"
         },
         {
@@ -899,7 +899,7 @@
       "currentConfirmedCount": 250,
       "confirmedCount": 2652,
       "dangerCountIncr": 1,
-      "currentDangerCount": 163,
+      "currentDangerCount": 160,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -912,7 +912,7 @@
           "currentConfirmedCount": 222,
           "confirmedCount": 1951,
           "dangerCountIncr": 1,
-          "currentDangerCount": 159,
+          "currentDangerCount": 156,
           "currentConfirmedCountStr": "222"
         },
         {
@@ -996,8 +996,8 @@
       "yesterdayAsymptomaticCount": 56,
       "currentConfirmedCount": 28,
       "confirmedCount": 2845,
-      "dangerCountIncr": 0,
-      "currentDangerCount": 85,
+      "dangerCountIncr": 1,
+      "currentDangerCount": 108,
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
       "cities": [
@@ -1009,8 +1009,8 @@
           "yesterdayAsymptomaticCount": 56,
           "currentConfirmedCount": 11,
           "confirmedCount": 31,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 85,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 108,
           "currentConfirmedCountStr": "11"
         }
       ]
@@ -1023,7 +1023,7 @@
       "currentConfirmedCount": 23,
       "confirmedCount": 3223,
       "dangerCountIncr": 1,
-      "currentDangerCount": 34,
+      "currentDangerCount": 36,
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
       "cities": [
@@ -1035,8 +1035,8 @@
           "yesterdayAsymptomaticCount": 1,
           "currentConfirmedCount": 4,
           "confirmedCount": 43,
-          "dangerCountIncr": 0,
-          "currentDangerCount": 8,
+          "dangerCountIncr": 1,
+          "currentDangerCount": 10,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
         },
@@ -4629,7 +4629,7 @@
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "highDangerCount": 184,
-      "midDangerCount": 194,
+      "midDangerCount": 186,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
       "cities": [
@@ -4641,7 +4641,7 @@
           "curedCount": 531,
           "deadCount": 2,
           "highDangerCount": 134,
-          "midDangerCount": 131,
+          "midDangerCount": 123,
           "locationId": 620100,
           "currentConfirmedCountStr": "313"
         },
@@ -5866,11 +5866,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "敦煌路街道任家庄西街兰石润安小区110栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "定远镇大名城D区",
           "dangerLevel": 2
         },
@@ -6051,11 +6046,6 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "嘉峪关路街道嘉峪关南路242—248（双号）综合楼（即嘉峪关路街道邮政小区）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "靖远路街道市二建家属院",
           "dangerLevel": 2
         },
@@ -6087,16 +6077,6 @@
         {
           "cityName": "兰州",
           "areaName": "青白石街道杨家湾村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "七里河区西果园镇南站社区南苑小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "七里河区西湖街道小西湖民族金街",
           "dangerLevel": 2
         },
         {
@@ -6236,27 +6216,7 @@
         },
         {
           "cityName": "兰州",
-          "areaName": "秀川街道崔家崖社区陆家嘴蔬菜市场及相邻居民区（东至肉联厂饲养场围墙，西至T210路，北至南山路，南至翡翠华庭北路）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
           "areaName": "西果园镇南苑小区（晏家坪201号除8单元外）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西湖街道西津桥火电工程公司家属院及周边自建房片区（东至火电工程公司家属院东围墙、西至七里河桥排洪沟、北至火电工程公司家属院北围墙、南至火电工程公司家属院南围墙）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西湖街道小西湖硷沟沿新华园小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "西园街道西藏佳苑2号楼",
           "dangerLevel": 2
         },
         {
@@ -7291,8 +7251,8 @@
       "comment": "",
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-      "highDangerCount": 76,
-      "midDangerCount": 87,
+      "highDangerCount": 74,
+      "midDangerCount": 86,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -7303,8 +7263,8 @@
           "suspectedCount": 0,
           "curedCount": 1726,
           "deadCount": 3,
-          "highDangerCount": 74,
-          "midDangerCount": 85,
+          "highDangerCount": 72,
+          "midDangerCount": 84,
           "locationId": 510100,
           "currentConfirmedCountStr": "222"
         },
@@ -7879,17 +7839,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "青羊区东通顺街28号院1栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
           "areaName": "青羊区府南街道清溪南街18、20号院11、12栋（清溪南街18、20号）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "青羊区清江美庐7栋",
           "dangerLevel": 1
         },
         {
@@ -8279,12 +8229,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "青羊区东通顺街26号院3栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "成都",
-          "areaName": "青羊区府南街道清溪南街20号院10栋（清溪南街20号）",
+          "areaName": "青羊区草市街街道东通顺街28号院1栋",
           "dangerLevel": 2
         },
         {
@@ -8294,7 +8239,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "青羊区清江美庐1-6、8-10栋",
+          "areaName": "青羊区黄田坝街道万花一路301号清江美庐小区7栋",
           "dangerLevel": 2
         },
         {
@@ -9922,8 +9867,8 @@
       "comment": "",
       "locationId": 370000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/601/3398299749526003726-135.json",
-      "highDangerCount": 57,
-      "midDangerCount": 28,
+      "highDangerCount": 79,
+      "midDangerCount": 29,
       "detectOrgCount": 221,
       "vaccinationOrgCount": 113,
       "cities": [
@@ -9946,8 +9891,8 @@
           "suspectedCount": 0,
           "curedCount": 20,
           "deadCount": 0,
-          "highDangerCount": 57,
-          "midDangerCount": 28,
+          "highDangerCount": 79,
+          "midDangerCount": 29,
           "locationId": 371700,
           "currentConfirmedCountStr": "11"
         },
@@ -10148,6 +10093,11 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "曹县古营集镇后王楼村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "曹县韩集镇井王村",
           "dangerLevel": 1
         },
@@ -10158,7 +10108,22 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "曹县韩集镇周庙村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "曹县韩集镇郑庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县楼庄镇安乐村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县楼庄镇后代庄村",
           "dangerLevel": 1
         },
         {
@@ -10179,6 +10144,11 @@
         {
           "cityName": "菏泽",
           "areaName": "曹县楼庄镇南塔湾村宝宝乐幼儿园",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县楼庄镇孙庄村",
           "dangerLevel": 1
         },
         {
@@ -10208,7 +10178,22 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "曹县倪集镇石河村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "曹县普连集镇李楼寨村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县普连集镇钟口村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县磐石街道惠民小区",
           "dangerLevel": 1
         },
         {
@@ -10223,12 +10208,32 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "曹县磐石街道天润城小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县青菏街道新都帝景小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县青菏街道阳光城市小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "曹县王集镇李庄村",
           "dangerLevel": 1
         },
         {
           "cityName": "菏泽",
           "areaName": "曹县魏湾镇崔庞庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "曹县魏湾镇前汪楼村",
           "dangerLevel": 1
         },
         {
@@ -10243,7 +10248,17 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "单县名仕豪庭小区（北区）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "古营集镇古营集村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "开发区花城小区",
           "dangerLevel": 1
         },
         {
@@ -10313,12 +10328,27 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "牡丹区北城街道解放北街智源公馆",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "牡丹区北城街道解放北街智源公馆1号楼",
           "dangerLevel": 1
         },
         {
           "cityName": "菏泽",
+          "areaName": "牡丹区东城街道东翼公园印象小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "牡丹区东城街道东翼公园印象小区1号楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "牡丹区德林华府",
           "dangerLevel": 1
         },
         {
@@ -10333,12 +10363,27 @@
         },
         {
           "cityName": "菏泽",
+          "areaName": "牡丹区金御华府",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "牡丹区南城街道成阳小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
           "areaName": "牡丹区南城街道成阳小区3号楼",
           "dangerLevel": 1
         },
         {
           "cityName": "菏泽",
           "areaName": "牡丹区王浩屯镇水牛李村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "牡丹区西城街道奥斯卡春城",
           "dangerLevel": 1
         },
         {
@@ -10389,6 +10434,16 @@
         {
           "cityName": "菏泽",
           "areaName": "魏湾镇林庄村",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "西城街道翰林豪庭小区",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "西城街道景韵苑小区",
           "dangerLevel": 1
         },
         {
@@ -10459,6 +10514,11 @@
         {
           "cityName": "菏泽",
           "areaName": "开发区绿地新都会2号楼",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "菏泽",
+          "areaName": "开发区绿地新都会小区",
           "dangerLevel": 2
         },
         {
@@ -10559,8 +10619,8 @@
       "comment": "",
       "locationId": 410000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/958/3398299751673487456-135.json",
-      "highDangerCount": 20,
-      "midDangerCount": 14,
+      "highDangerCount": 21,
+      "midDangerCount": 15,
       "detectOrgCount": 197,
       "vaccinationOrgCount": 234,
       "cities": [
@@ -10607,8 +10667,8 @@
           "suspectedCount": 0,
           "curedCount": 39,
           "deadCount": 0,
-          "highDangerCount": 4,
-          "midDangerCount": 4,
+          "highDangerCount": 5,
+          "midDangerCount": 5,
           "locationId": 410200,
           "notShowCurrentConfirmedCount": true,
           "currentConfirmedCountStr": "-"
@@ -10882,6 +10942,11 @@
         },
         {
           "cityName": "开封",
+          "areaName": "顺河区宋门办事处东护城河以东、公园路以西、宋门关大北后街以北、开封市十中南墙以南区域",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "开封",
           "areaName": "许河乡张油坊村",
           "dangerLevel": 1
         },
@@ -10953,6 +11018,11 @@
         {
           "cityName": "开封",
           "areaName": "杞国新城三期小区",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "开封",
+          "areaName": "顺河区东郊新奥加气站汴京路站",
           "dangerLevel": 2
         },
         {
@@ -15207,7 +15277,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1659174779000,
+    "modifyTime": 1659178386000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -15440,14 +15510,14 @@
       "yesterdayConfirmedCountIncr": 1070436
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0730/260/7257331399566692653-135.json",
-    "highDangerCount": 610,
-    "midDangerCount": 710
+    "highDangerCount": 633,
+    "midDangerCount": 703
   },
   "getTimelineService1": [
     {
       "id": 203312,
       "pubDate": 1659142884000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "国家卫健委 | 昨日新增本土 49+271 例",
       "summary": "7月29日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例100例。其中境外输入病例51例（福建13例，上海12例，广东6例，北京5例，四川4例，陕西4例，辽宁2例，山东2例，山西1例，湖北1例，云南1例），含2例由无症状感染者转为确诊病例（均在福建）；本土病例49例（甘肃19例，广西15例，四川10例，山东2例，上海1例，河南1例，广东1例），含21例由无症状感染者转为确",
       "infoSource": "央视新闻app",
@@ -15460,7 +15530,7 @@
     {
       "id": 203317,
       "pubDate": 1659144034000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 19 例",
       "summary": "据甘肃省卫健委消息，7月29日0—24时甘肃省新冠肺炎疫情信息如下：\n7月29日0—24时，甘肃省新增确诊病例19例，其中兰州市16例（城关区15例，七里河区1例）、临夏州广河县3例。含由无症状感染者转确诊病例13例，其中兰州市10例（城关区9例，七里河区1例）、临夏州广河县3例。新增无症状感染者86例，其中临夏州52例（东乡县44例，广河县8例）、兰州市19例（城关区18例，七里河区1例）、甘南",
       "infoSource": "央视新闻app",
@@ -15473,7 +15543,7 @@
     {
       "id": 203307,
       "pubDate": 1659141119000,
-      "pubDateStr": "9小时前",
+      "pubDateStr": "10小时前",
       "title": "广西 | 昨日新增本土确诊病例 15 例",
       "summary": "7月29日0-24时，广西新增本土确诊病例15例（均在北海市，其中海城区14例，银海区1例），含4例无症状感染者转确诊病例（均在北海市）；本土无症状感染者87例（北海市77例，其中海城区71例，银海区5例，合浦县1例；崇左市宁明县7例；防城港市3例，其中东兴市2例，防城区1例）。当日治愈出院本土确诊病例7例（均在北海市），解除隔离医学观察本土无症状感染者52例（北海市51例，贺州市1例）。截至7月",
       "infoSource": "央视新闻app",
@@ -15486,7 +15556,7 @@
     {
       "id": 203313,
       "pubDate": 1659143593000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "四川 | 昨日新增本土确诊病例 10 例",
       "summary": "7月29日0—24时，四川新增本土确诊病例10例（在成都，其中3例为既往通报的无症状感染者转确诊），新增本土无症状感染者12例（在成都），新增境外输入确诊病例4例（在成都），新增境外输入无症状感染者7例（在成都），新增治愈出院病例3例，无新增疑似病例，无新增死亡病例。\n（总台记者 郑轶）",
       "infoSource": "央视新闻app",
@@ -15499,7 +15569,7 @@
     {
       "id": 203294,
       "pubDate": 1659136046000,
-      "pubDateStr": "10小时前",
+      "pubDateStr": "11小时前",
       "title": "山东 | 昨日新增本土确诊病例 2 例",
       "summary": "2022年7月29日0时至24时，山东省报告新增本土确诊病例2例，均在菏泽，均系集中隔离点检出。新增本土无症状感染者56例，均在菏泽，其中55例系集中隔离点检出，1例系高风险区筛查发现。新增境外输入确诊病例2例，均在青岛，分别为德国输入和俄罗斯输入。新增境外输入无症状感染者6例，其中青岛4例，分别为德国输入2例和俄罗斯输入2例；济南2例，为俄罗斯输入。\n2022年7月29日0时至24时，山东省报告",
       "infoSource": "央视新闻app",
