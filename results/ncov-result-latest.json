@@ -65,7 +65,7 @@
       "currentConfirmedCount": 391,
       "confirmedCount": 542,
       "dangerCountIncr": 1,
-      "currentDangerCount": 418,
+      "currentDangerCount": 416,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json"
     },
@@ -113,7 +113,7 @@
       "currentConfirmedCount": 168,
       "confirmedCount": 2806,
       "dangerCountIncr": 1,
-      "currentDangerCount": 52,
+      "currentDangerCount": 49,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json"
     },
@@ -593,7 +593,7 @@
       "currentConfirmedCount": 3,
       "confirmedCount": 423,
       "dangerCountIncr": 1,
-      "currentDangerCount": 28,
+      "currentDangerCount": 14,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json"
     },
@@ -873,7 +873,7 @@
       "currentConfirmedCount": 393,
       "confirmedCount": 2151,
       "dangerCountIncr": 1,
-      "currentDangerCount": 426,
+      "currentDangerCount": 424,
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
       "cities": [
@@ -886,7 +886,7 @@
           "currentConfirmedCount": 391,
           "confirmedCount": 542,
           "dangerCountIncr": 1,
-          "currentDangerCount": 418,
+          "currentDangerCount": 416,
           "currentConfirmedCountStr": "391"
         },
         {
@@ -1305,7 +1305,7 @@
       "currentConfirmedCount": 283,
       "confirmedCount": 8099,
       "dangerCountIncr": 1,
-      "currentDangerCount": 56,
+      "currentDangerCount": 53,
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
       "cities": [
@@ -1318,7 +1318,7 @@
           "currentConfirmedCount": 168,
           "confirmedCount": 2806,
           "dangerCountIncr": 1,
-          "currentDangerCount": 52,
+          "currentDangerCount": 49,
           "currentConfirmedCountStr": "168"
         },
         {
@@ -1625,7 +1625,7 @@
       "currentConfirmedCount": 29,
       "confirmedCount": 1504,
       "dangerCountIncr": 1,
-      "currentDangerCount": 91,
+      "currentDangerCount": 63,
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "cities": [
@@ -1650,7 +1650,7 @@
           "currentConfirmedCount": 3,
           "confirmedCount": 423,
           "dangerCountIncr": 1,
-          "currentDangerCount": 28,
+          "currentDangerCount": 14,
           "currentConfirmedCountStr": "3"
         }
       ]
@@ -2247,8 +2247,8 @@
       "comment": "",
       "locationId": 450000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/536/3398299758115523880-135.json",
-      "highDangerCount": 232,
-      "midDangerCount": 194,
+      "highDangerCount": 231,
+      "midDangerCount": 193,
       "detectOrgCount": 270,
       "vaccinationOrgCount": 15,
       "cities": [
@@ -2259,8 +2259,8 @@
           "suspectedCount": 0,
           "curedCount": 150,
           "deadCount": 1,
-          "highDangerCount": 225,
-          "midDangerCount": 193,
+          "highDangerCount": 224,
+          "midDangerCount": 192,
           "locationId": 450500,
           "currentConfirmedCountStr": "391"
         },
@@ -3536,11 +3536,6 @@
         },
         {
           "cityName": "北海",
-          "areaName": "银海区银滩镇新村社区沙湾回建小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "北海",
           "areaName": "银海区银滩镇咸田村委沙渔湾村",
           "dangerLevel": 1
         },
@@ -4482,11 +4477,6 @@
         {
           "cityName": "北海",
           "areaName": "银海区银滩镇海兴社区茗桂园小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "北海",
-          "areaName": "银海区银滩镇海兴社区圣美阳光家园小区",
           "dangerLevel": 2
         },
         {
@@ -6846,8 +6836,8 @@
       "comment": "广东卫健委未明确部分治愈病例的地市归属，因此各地市的现存确诊存在一定偏差。",
       "locationId": 440000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/281/3398299758115524068-135.json",
-      "highDangerCount": 20,
-      "midDangerCount": 36,
+      "highDangerCount": 19,
+      "midDangerCount": 34,
       "detectOrgCount": 120,
       "vaccinationOrgCount": 42,
       "cities": [
@@ -6858,8 +6848,8 @@
           "suspectedCount": 3,
           "curedCount": 2635,
           "deadCount": 3,
-          "highDangerCount": 19,
-          "midDangerCount": 33,
+          "highDangerCount": 18,
+          "midDangerCount": 31,
           "locationId": 440300,
           "currentConfirmedCountStr": "168"
         },
@@ -7184,11 +7174,6 @@
         },
         {
           "cityName": "深圳",
-          "areaName": "南园街道南园社区统建商住楼丁栋（不含裙楼部分）",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "深圳",
           "areaName": "南园街道沙埔头村东第57号-58号、第61号-64号",
           "dangerLevel": 1
         },
@@ -7235,11 +7220,6 @@
         {
           "cityName": "深圳",
           "areaName": "坂田社区吉华路532号、536号、538号、540号、542号楼栋，上围一巷8号、9号楼栋",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "福保街道帝涛豪园第1栋、第2栋",
           "dangerLevel": 2
         },
         {
@@ -7330,11 +7310,6 @@
         {
           "cityName": "深圳",
           "areaName": "南山区粤海街道帝景园二期A、B单元",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "深圳",
-          "areaName": "南园街道南园社区统建商住楼甲栋、乙栋、丙栋及全体裙楼",
           "dangerLevel": 2
         },
         {
@@ -9540,7 +9515,7 @@
       "locationId": 340000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/734/3398299753820971301-135.json",
       "highDangerCount": 20,
-      "midDangerCount": 71,
+      "midDangerCount": 43,
       "detectOrgCount": 412,
       "vaccinationOrgCount": 161,
       "cities": [
@@ -9564,7 +9539,7 @@
           "curedCount": 420,
           "deadCount": 0,
           "highDangerCount": 10,
-          "midDangerCount": 18,
+          "midDangerCount": 4,
           "locationId": 341300,
           "currentConfirmedCountStr": "3"
         },
@@ -9600,7 +9575,7 @@
           "curedCount": 108,
           "deadCount": 0,
           "highDangerCount": 7,
-          "midDangerCount": 27,
+          "midDangerCount": 13,
           "locationId": 341600,
           "currentConfirmedCountStr": "0"
         },
@@ -9851,141 +9826,6 @@
           "dangerLevel": 1
         },
         {
-          "cityName": "亳州",
-          "areaName": "宝璋医院对面一品香包子铺",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "城北镇陈营村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "城北镇街南头老粮站面粉加工店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "城北镇街上李萍粮油店",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "城关镇春店社区二队皇家置业小区商住楼南楼3单元",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "城关镇金龙商贸港D区10栋1层、2层",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "花沟社区第二居民组",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "纪大寨村吴园庄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "纪王场乡三和社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "陆桃园村陆桃园庄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "利辛县城北镇陆楼村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "马寨行政村谢楼自然村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "潘寨社区孙前自然村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "桥西村李寨庄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "孙楼社区同福楼",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "盛新村盛老楼庄",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "孙小桥行政村李楼自然村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "团结社区阜阳商厦",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县城关街道孙楼社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县城关街道团结社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县城关街道新安社区阳光医院",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县公吉寺镇马寨行政村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县花沟镇花沟社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县花沟镇孙小桥行政村",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县星园街道福宁社区好邻居炒鸡店（雪枫路与龙山路交口向北50米路西）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "涡阳县星园街道潘寨社区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "亳州",
-          "areaName": "玉光村王土楼庄",
-          "dangerLevel": 2
-        },
-        {
           "cityName": "蚌埠",
           "areaName": "安瑞科小区",
           "dangerLevel": 2
@@ -10116,48 +9956,68 @@
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "道东街道翠园社区碧御豪庭小区及附属门面",
+          "cityName": "亳州",
+          "areaName": "宝璋医院对面一品香包子铺",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "道东街道翠园社区河畔雅苑小区及附属门面",
+          "cityName": "亳州",
+          "areaName": "城北镇陈营村",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "东关街道东昌路以东、胜利路以南、京沪铁路以西、汴河路以北合围区域（铁路社区除外）",
+          "cityName": "亳州",
+          "areaName": "城北镇街南头老粮站面粉加工店",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "淮海中路以东、环城北路以南、环城东路以西、胜利东路以北合围区域（区域内高风险区除外）",
+          "cityName": "亳州",
+          "areaName": "城北镇街上李萍粮油店",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "京沪铁路以东、汴河东路以北、沱河路以西以南合围区域（上述高风险区及中煤矿建总医院除外）",
+          "cityName": "亳州",
+          "areaName": "城关镇春店社区二队皇家置业小区商住楼南楼3单元",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "人民路、周庄路、三八沟巷、胜利西路合围区域（区域内高风险区除外）",
+          "cityName": "亳州",
+          "areaName": "城关镇金龙商贸港D区10栋1层、2层",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "人民中路、银河二路、银河一路、西昌北路、沱河路合围区域。（以上区域内高风险区和市中医院除外）",
+          "cityName": "亳州",
+          "areaName": "纪大寨村吴园庄",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "宿怀北路、汴河中路、淮河中路、沱河路合围区域",
+          "cityName": "亳州",
+          "areaName": "纪王场乡三和社区",
           "dangerLevel": 2
         },
         {
-          "cityName": "宿州",
-          "areaName": "宿怀北路、胜利东路、环城河北至沱河路合围区域",
+          "cityName": "亳州",
+          "areaName": "陆桃园村陆桃园庄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "亳州",
+          "areaName": "利辛县城北镇陆楼村",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "亳州",
+          "areaName": "桥西村李寨庄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "亳州",
+          "areaName": "盛新村盛老楼庄",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "亳州",
+          "areaName": "玉光村王土楼庄",
           "dangerLevel": 2
         },
         {
@@ -10167,32 +10027,7 @@
         },
         {
           "cityName": "宿州",
-          "areaName": "埇桥区道东街道翠园社区碧御豪庭小区及附属门面",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "埇桥区道东街道翠园社区河畔雅苑小区及附属门面",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
           "areaName": "埇桥区东关街道观李社区宿怀路线务小区",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "埇桥区淮海路以东、沱河路以南、京沪铁路以西、淮河路以北合围区域（区域内高风险区及市立医院除外）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "埇桥区京沪铁路以东、淮河路以北、沱河路以南合围区域（区域内高风险区及中煤矿建总医院除外）",
-          "dangerLevel": 2
-        },
-        {
-          "cityName": "宿州",
-          "areaName": "埇桥区人民中路、银河二路、银河一路、西昌北路、沱河路合围区域（区域内高风险区和市中医院除外）",
           "dangerLevel": 2
         },
         {
@@ -15498,7 +15333,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1659151873000,
+    "modifyTime": 1659163317000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -15731,14 +15566,14 @@
       "yesterdayConfirmedCountIncr": 1064215
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0730/260/7257331399566692653-135.json",
-    "highDangerCount": 656,
-    "midDangerCount": 714
+    "highDangerCount": 654,
+    "midDangerCount": 684
   },
   "getTimelineService1": [
     {
       "id": 203312,
       "pubDate": 1659142884000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "国家卫健委 | 昨日新增本土 49+271 例",
       "summary": "7月29日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例100例。其中境外输入病例51例（福建13例，上海12例，广东6例，北京5例，四川4例，陕西4例，辽宁2例，山东2例，山西1例，湖北1例，云南1例），含2例由无症状感染者转为确诊病例（均在福建）；本土病例49例（甘肃19例，广西15例，四川10例，山东2例，上海1例，河南1例，广东1例），含21例由无症状感染者转为确",
       "infoSource": "央视新闻app",
@@ -15751,7 +15586,7 @@
     {
       "id": 203317,
       "pubDate": 1659144034000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "甘肃 | 昨日新增本土确诊病例 19 例",
       "summary": "据甘肃省卫健委消息，7月29日0—24时甘肃省新冠肺炎疫情信息如下：\n7月29日0—24时，甘肃省新增确诊病例19例，其中兰州市16例（城关区15例，七里河区1例）、临夏州广河县3例。含由无症状感染者转确诊病例13例，其中兰州市10例（城关区9例，七里河区1例）、临夏州广河县3例。新增无症状感染者86例，其中临夏州52例（东乡县44例，广河县8例）、兰州市19例（城关区18例，七里河区1例）、甘南",
       "infoSource": "央视新闻app",
@@ -15764,7 +15599,7 @@
     {
       "id": 203307,
       "pubDate": 1659141119000,
-      "pubDateStr": "5小时前",
+      "pubDateStr": "6小时前",
       "title": "广西 | 昨日新增本土确诊病例 15 例",
       "summary": "7月29日0-24时，广西新增本土确诊病例15例（均在北海市，其中海城区14例，银海区1例），含4例无症状感染者转确诊病例（均在北海市）；本土无症状感染者87例（北海市77例，其中海城区71例，银海区5例，合浦县1例；崇左市宁明县7例；防城港市3例，其中东兴市2例，防城区1例）。当日治愈出院本土确诊病例7例（均在北海市），解除隔离医学观察本土无症状感染者52例（北海市51例，贺州市1例）。截至7月",
       "infoSource": "央视新闻app",
@@ -15777,7 +15612,7 @@
     {
       "id": 203313,
       "pubDate": 1659143593000,
-      "pubDateStr": "4小时前",
+      "pubDateStr": "5小时前",
       "title": "四川 | 昨日新增本土确诊病例 10 例",
       "summary": "7月29日0—24时，四川新增本土确诊病例10例（在成都，其中3例为既往通报的无症状感染者转确诊），新增本土无症状感染者12例（在成都），新增境外输入确诊病例4例（在成都），新增境外输入无症状感染者7例（在成都），新增治愈出院病例3例，无新增疑似病例，无新增死亡病例。\n（总台记者 郑轶）",
       "infoSource": "央视新闻app",
@@ -15790,7 +15625,7 @@
     {
       "id": 203294,
       "pubDate": 1659136046000,
-      "pubDateStr": "6小时前",
+      "pubDateStr": "7小时前",
       "title": "山东 | 昨日新增本土确诊病例 2 例",
       "summary": "2022年7月29日0时至24时，山东省报告新增本土确诊病例2例，均在菏泽，均系集中隔离点检出。新增本土无症状感染者56例，均在菏泽，其中55例系集中隔离点检出，1例系高风险区筛查发现。新增境外输入确诊病例2例，均在青岛，分别为德国输入和俄罗斯输入。新增境外输入无症状感染者6例，其中青岛4例，分别为德国输入2例和俄罗斯输入2例；济南2例，为俄罗斯输入。\n2022年7月29日0时至24时，山东省报告",
       "infoSource": "央视新闻app",
