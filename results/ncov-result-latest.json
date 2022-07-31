@@ -77,7 +77,7 @@
       "currentConfirmedCount": 225,
       "confirmedCount": 1962,
       "dangerCountIncr": 1,
-      "currentDangerCount": 141,
+      "currentDangerCount": 142,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json"
     },
@@ -89,7 +89,7 @@
       "currentConfirmedCount": 316,
       "confirmedCount": 849,
       "dangerCountIncr": 1,
-      "currentDangerCount": 249,
+      "currentDangerCount": 248,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json"
     },
@@ -837,7 +837,7 @@
       "currentConfirmedCount": 358,
       "confirmedCount": 1298,
       "dangerCountIncr": 1,
-      "currentDangerCount": 386,
+      "currentDangerCount": 385,
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
       "cities": [
@@ -862,7 +862,7 @@
           "currentConfirmedCount": 316,
           "confirmedCount": 849,
           "dangerCountIncr": 1,
-          "currentDangerCount": 249,
+          "currentDangerCount": 248,
           "currentConfirmedCountStr": "316"
         },
         {
@@ -947,7 +947,7 @@
       "currentConfirmedCount": 255,
       "confirmedCount": 2663,
       "dangerCountIncr": 1,
-      "currentDangerCount": 145,
+      "currentDangerCount": 146,
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
       "cities": [
@@ -960,7 +960,7 @@
           "currentConfirmedCount": 225,
           "confirmedCount": 1962,
           "dangerCountIncr": 1,
-          "currentDangerCount": 141,
+          "currentDangerCount": 142,
           "currentConfirmedCountStr": "225"
         },
         {
@@ -2227,11 +2227,11 @@
     {
       "provinceName": "台湾",
       "provinceShortName": "台湾",
-      "currentConfirmedCount": 4544487,
-      "confirmedCount": 4567122,
+      "currentConfirmedCount": 4565516,
+      "confirmedCount": 4588185,
       "suspectedCount": 485,
       "curedCount": 13742,
-      "deadCount": 8893,
+      "deadCount": 8927,
       "comment": "",
       "locationId": 710000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/045/3398299749526003760-135.json",
@@ -4791,7 +4791,7 @@
       "comment": "",
       "locationId": 620000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/559/3398299755968040166-135.json",
-      "highDangerCount": 211,
+      "highDangerCount": 210,
       "midDangerCount": 175,
       "detectOrgCount": 236,
       "vaccinationOrgCount": 1,
@@ -4803,7 +4803,7 @@
           "suspectedCount": 0,
           "curedCount": 531,
           "deadCount": 2,
-          "highDangerCount": 113,
+          "highDangerCount": 112,
           "midDangerCount": 136,
           "locationId": 620100,
           "currentConfirmedCountStr": "316"
@@ -5005,11 +5005,6 @@
         {
           "cityName": "兰州",
           "areaName": "安定门外60号小区",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "兰州",
-          "areaName": "白土巷102号",
           "dangerLevel": 1
         },
         {
@@ -7439,8 +7434,8 @@
       "comment": "",
       "locationId": 510000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/926/3398299755968455035-135.json",
-      "highDangerCount": 62,
-      "midDangerCount": 83,
+      "highDangerCount": 61,
+      "midDangerCount": 85,
       "detectOrgCount": 413,
       "vaccinationOrgCount": 131,
       "cities": [
@@ -7451,8 +7446,8 @@
           "suspectedCount": 0,
           "curedCount": 1734,
           "deadCount": 3,
-          "highDangerCount": 61,
-          "midDangerCount": 80,
+          "highDangerCount": 60,
+          "midDangerCount": 82,
           "locationId": 510100,
           "currentConfirmedCountStr": "225"
         },
@@ -7727,17 +7722,17 @@
         },
         {
           "cityName": "成都",
-          "areaName": "成华区二仙桥街道机车厂宿舍71栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
           "areaName": "成华区二仙桥街道民兴苑1栋及底商(人民塘东二路39号）",
           "dangerLevel": 1
         },
         {
           "cityName": "成都",
           "areaName": "成华区二仙桥街道晴和苑5栋（建设北路三段496号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区二仙桥街道泰博理想城二期1栋、5栋（含底商）",
           "dangerLevel": 1
         },
         {
@@ -7778,6 +7773,11 @@
         {
           "cityName": "成都",
           "areaName": "成华区府青路街道明苑（含底商）（双建路300号）",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区府青路街道浅水半岛C区（含底商）",
           "dangerLevel": 1
         },
         {
@@ -7842,11 +7842,6 @@
         },
         {
           "cityName": "成都",
-          "areaName": "成华区龙潭街道丛树家园1栋",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
           "areaName": "成华区龙潭街道东方丽苑2栋（含底商）（成宏路1号)",
           "dangerLevel": 1
         },
@@ -7873,11 +7868,6 @@
         {
           "cityName": "成都",
           "areaName": "成华区跳蹬河街道崔家店北一路6号",
-          "dangerLevel": 1
-        },
-        {
-          "cityName": "成都",
-          "areaName": "成华区跳蹬河街道龙湖三千城1期3栋",
           "dangerLevel": 1
         },
         {
@@ -8032,12 +8022,22 @@
         },
         {
           "cityName": "成都",
+          "areaName": "成华区二仙桥街道机车厂宿舍71栋",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
           "areaName": "成华区二仙桥街道民兴苑2-8栋（含底商）（人民塘东二路39号）",
           "dangerLevel": 2
         },
         {
           "cityName": "成都",
           "areaName": "成华区二仙桥街道晴和苑1-4、6-8栋（建设北路三段496号）",
+          "dangerLevel": 2
+        },
+        {
+          "cityName": "成都",
+          "areaName": "成华区二仙桥街道泰博理想城二期2-4栋（含底商）",
           "dangerLevel": 2
         },
         {
@@ -8102,7 +8102,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "成华区龙潭街道丛树家园2-9栋（含底商）",
+          "areaName": "成华区龙潭街道丛树家园1栋",
           "dangerLevel": 2
         },
         {
@@ -8137,7 +8137,7 @@
         },
         {
           "cityName": "成都",
-          "areaName": "成华区跳蹬河街道龙湖三千城1期1-2栋、4-5栋",
+          "areaName": "成华区跳蹬河街道龙湖三千城1期3栋",
           "dangerLevel": 2
         },
         {
@@ -14255,7 +14255,7 @@
       "comment": "",
       "locationId": 150000,
       "statisticsData": "https://file1.dxycdn.com/2020/0223/783/3398299758115938727-135.json",
-      "highDangerCount": 0,
+      "highDangerCount": 2,
       "midDangerCount": 0,
       "detectOrgCount": 248,
       "vaccinationOrgCount": 9,
@@ -14303,7 +14303,7 @@
           "suspectedCount": 0,
           "curedCount": 305,
           "deadCount": 0,
-          "highDangerCount": 0,
+          "highDangerCount": 2,
           "midDangerCount": 0,
           "locationId": 152500,
           "currentConfirmedCountStr": "0"
@@ -14417,7 +14417,18 @@
           "currentConfirmedCountStr": "0"
         }
       ],
-      "dangerAreas": []
+      "dangerAreas": [
+        {
+          "cityName": "锡林郭勒盟",
+          "areaName": "网通家属楼",
+          "dangerLevel": 1
+        },
+        {
+          "cityName": "锡林郭勒盟",
+          "areaName": "学府馨苑小区",
+          "dangerLevel": 1
+        }
+      ]
     },
     {
       "provinceName": "河北省",
@@ -15210,7 +15221,7 @@
   "getStatisticsService": {
     "id": 1,
     "createTime": 1579537899000,
-    "modifyTime": 1659258174000,
+    "modifyTime": 1659259943000,
     "infectSource": "该字段已替换为说明2",
     "passWay": "该字段已替换为说明3",
     "imgUrl": "https://img1.dxycdn.com/2020/0201/450/3394153392393266839-135.png",
@@ -15226,17 +15237,17 @@
     "summary": "",
     "deleted": false,
     "countRemark": "",
-    "currentConfirmedCount": 4824432,
-    "confirmedCount": 5152593,
+    "currentConfirmedCount": 4845461,
+    "confirmedCount": 5173656,
     "suspectedCount": 20675,
     "curedCount": 304534,
-    "deadCount": 23627,
+    "deadCount": 23661,
     "seriousCount": 7128,
     "suspectedIncr": 42,
-    "currentConfirmedIncr": 21928,
-    "confirmedIncr": 22318,
+    "currentConfirmedIncr": 42957,
+    "confirmedIncr": 43381,
     "curedIncr": 326,
-    "deadIncr": 64,
+    "deadIncr": 98,
     "seriousIncr": -8,
     "yesterdayConfirmedCountIncr": 22318,
     "yesterdaySuspectedCountIncr": 42,
@@ -15420,37 +15431,37 @@
       }
     ],
     "foreignStatistics": {
-      "currentConfirmedCount": 193272452,
+      "currentConfirmedCount": 193269652,
       "confirmedCount": 571412167,
       "suspectedCount": 4,
-      "curedCount": 371745030,
+      "curedCount": 371747830,
       "deadCount": 6394685,
       "suspectedIncr": 0,
-      "currentConfirmedIncr": 857372,
+      "currentConfirmedIncr": 854572,
       "confirmedIncr": 1148439,
-      "curedIncr": 289040,
+      "curedIncr": 291840,
       "deadIncr": 2027
     },
     "globalStatistics": {
-      "currentConfirmedCount": 198096884,
-      "confirmedCount": 576564760,
-      "curedCount": 372049564,
-      "deadCount": 6418312,
-      "currentConfirmedIncr": 879300,
-      "confirmedIncr": 1170757,
-      "curedIncr": 289366,
-      "deadIncr": 2091,
+      "currentConfirmedCount": 198115113,
+      "confirmedCount": 576585823,
+      "curedCount": 372052364,
+      "deadCount": 6418346,
+      "currentConfirmedIncr": 897529,
+      "confirmedIncr": 1191820,
+      "curedIncr": 292166,
+      "deadIncr": 2125,
       "yesterdayConfirmedCountIncr": 1170757
     },
     "globalOtherTrendChartData": "https://file1.dxycdn.com/2022/0731/756/4109063186022513653-135.json",
     "highDangerCount": 570,
-    "midDangerCount": 741
+    "midDangerCount": 743
   },
   "getTimelineService1": [
     {
       "id": 203402,
       "pubDate": 1659229346000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "国家卫健委 | 昨日新增本土 74+360 例",
       "summary": "7月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例116例。其中境外输入病例42例（上海9例，广东9例，福建7例，四川6例，北京4例，陕西3例，天津1例，辽宁1例，黑龙江1例，湖南1例），含10例由无症状感染者转为确诊病例（福建3例，四川2例，陕西2例，天津1例，湖南1例，广东1例）；本土病例74例（广西32例，甘肃31例，四川5例，上海3例，福建1例，河南1例，广",
       "infoSource": "央视新闻app",
@@ -15463,7 +15474,7 @@
     {
       "id": 203393,
       "pubDate": 1659227445000,
-      "pubDateStr": "8小时前",
+      "pubDateStr": "9小时前",
       "title": "广西 | 昨日新增本土确诊病例 32 例",
       "summary": "7月30日0-24时，广西新增本土确诊病例32例（北海市30例，其中海城区27例、银海区3例；百色靖西市1例；崇左市宁明县1例），含19例无症状感染者转确诊病例（北海市18例，崇左市1例）；本土无症状感染者143例（北海市76例，其中海城区75例，银海区1例；崇左市64例，其中宁明县41例，大新县23例；南宁市武鸣区1例；防城港东兴市1例；百色靖西市1例）。当日治愈出院本土确诊病例21例（均在北海",
       "infoSource": "央视新闻app",
@@ -15476,7 +15487,7 @@
     {
       "id": 203399,
       "pubDate": 1659229048000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "四川 | 昨日新增本土确诊病例 5 例",
       "summary": "7月30日0—24时，四川新增本土确诊病例5例（在成都，其中2例为既往通报的无症状感染者转确诊），新增本土无症状感染者5例（在成都），新增境外输入确诊病例6例（在成都，其中2例为既往通报的无症状感染者转确诊），新增境外输入无症状感染者9例（在成都），新增治愈出院病例6例，无新增疑似病例，无新增死亡病例 。\n（总台记者 郑轶）",
       "infoSource": "央视新闻app",
@@ -15502,7 +15513,7 @@
     {
       "id": 203410,
       "pubDate": 1659231060000,
-      "pubDateStr": "7小时前",
+      "pubDateStr": "8小时前",
       "title": "福建 | 昨日新增本土确诊病例 1 例",
       "summary": "据福建省卫生健康委员会消息，7月30日0～24时，福建省报告新增境外输入确诊病例7例（福州市3例，为无症状感染者转确诊；厦门市4例）。\n当日报告新增境外输入无症状感染者2例（福州市2例）。\n截至7月30日24时，福建省累计报告境外输入确诊病例1614例，目前住院118例，无死亡病例；现有境外输入无症状感染者尚在隔离医学观察12例。\n7月30日0～24时，福建省报告新增本土确诊病例1例（厦门市1例）",
       "infoSource": "央视新闻app",
